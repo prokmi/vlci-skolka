@@ -1297,6 +1297,167 @@ Nemáme konkrétní podklad pro změnu rotace.
 Cooldown intervaly k samostatnému posouzení: 0.
 
 
+## Ula’tek: srdce a přechody mezi platformami
+
+Delší mezeru mezi cooldowny neposuzuj bez průběhu fightu. Načasování na Venomous Heart může dávat smysl; samotný překryv nedokazuje záměr ani správný odklad. Circling Prey označuje přechodovou mechaniku, nikoli přesnou dobu, kdy každý hráč nemohl útočit.
+
+### Kill 5
+
+- Venomous Heart: 02:15.504–02:35.500 (konec buffu doložený).
+- Venomous Heart: 04:44.487–05:04.486 (konec buffu doložený).
+- Venomous Heart: 09:33.679–09:52.113 (oříznuto smrtí cíle nebo koncem killu; odstranění buffu nedoložené).
+
+**Vejr-Drak'thul-EU**
+- Poslední použití před oknem (nepotvrzuje aktivní buff): Putrefy 02:11.204.
+- Srdce 02:15.504: Putrefy 02:34.909. Poškození srdce: vlastní 2,670,394, petové 2,259,492. Nejde o přínos samotného cooldownu.
+- Poslední použití před oknem (nepotvrzuje aktivní buff): Putrefy 04:35.048.
+- Srdce 04:44.487: Putrefy 04:54.643. Poškození srdce: vlastní 2,868,937, petové 3,434,296. Nejde o přínos samotného cooldownu.
+- Poslední použití před oknem (nepotvrzuje aktivní buff): Putrefy 09:09.853.
+- Srdce 09:33.679: žádné použití ze sledovaného seznamu. Poškození srdce: vlastní 16,860, petové 43,088. Nejde o přínos samotného cooldownu.
+- Putrefy 02:34.909–03:27.205: v mezeře je doložený kontext srdce nebo přechodové mechaniky. Sám neurčuje, zda bylo správné čekat.
+
+**Theila-Drak'thul-EU**
+- Poslední použití před oknem (nepotvrzuje aktivní buff): Takedown 00:02.942.
+- Srdce 02:15.504: Takedown 02:16.286. Poškození srdce: vlastní 9,687,268, petové 2,829,579. Nejde o přínos samotného cooldownu.
+- Poslední použití před oknem (nepotvrzuje aktivní buff): Takedown 02:16.286.
+- Srdce 04:44.487: Takedown 04:48.254. Poškození srdce: vlastní 4,687,771, petové 1,010,282. Nejde o přínos samotného cooldownu.
+- Poslední použití před oknem (nepotvrzuje aktivní buff): Takedown 08:12.737.
+- Srdce 09:33.679: Takedown 09:43.060. Poškození srdce: vlastní 8,179,668, petové 1,919,270. Nejde o přínos samotného cooldownu.
+- Takedown 00:02.942–02:16.286: v mezeře je doložený kontext srdce nebo přechodové mechaniky. Sám neurčuje, zda bylo správné čekat.
+
+**Micaello-Drak'thul-EU**
+- Poslední použití před oknem (nepotvrzuje aktivní buff): Bestial Wrath 02:03.298.
+- Srdce 02:15.504: Bestial Wrath 02:35.323. Poškození srdce: vlastní 2,093,489, petové 3,174,278. Nejde o přínos samotného cooldownu.
+- Poslední použití před oknem (nepotvrzuje aktivní buff): Bestial Wrath 04:18.251.
+- Srdce 04:44.487: Bestial Wrath 04:48.812. Poškození srdce: vlastní 3,251,787, petové 3,015,527. Nejde o přínos samotného cooldownu.
+- Poslední použití před oknem (nepotvrzuje aktivní buff): Bestial Wrath 09:22.199.
+- Srdce 09:33.679: žádné použití ze sledovaného seznamu. Poškození srdce: vlastní 62,046, petové 328,715. Nejde o přínos samotného cooldownu.
+
+**Rhínö-Drak'thul-EU**
+- Poslední použití před oknem (nepotvrzuje aktivní buff): nezaznamenané.
+- Srdce 02:15.504: žádné použití ze sledovaného seznamu. Poškození srdce: vlastní 10,647,378, petové 924,007. Nejde o přínos samotného cooldownu.
+- Poslední použití před oknem (nepotvrzuje aktivní buff): nezaznamenané.
+- Srdce 04:44.487: žádné použití ze sledovaného seznamu. Poškození srdce: vlastní 10,598,086, petové 606,721. Nejde o přínos samotného cooldownu.
+- Poslední použití před oknem (nepotvrzuje aktivní buff): nezaznamenané.
+- Srdce 09:33.679: žádné použití ze sledovaného seznamu. Poškození srdce: vlastní 0, petové 0. Nejde o přínos samotného cooldownu.
+
+**Kirill-Drak'thul-EU**
+- Poslední použití před oknem (nepotvrzuje aktivní buff): Soul Immolation 02:14.346.
+- Srdce 02:15.504: žádné použití ze sledovaného seznamu. Poškození srdce: vlastní 8,359,469, petové 0. Nejde o přínos samotného cooldownu.
+- Poslední použití před oknem (nepotvrzuje aktivní buff): Soul Immolation 04:39.420.
+- Srdce 04:44.487: žádné použití ze sledovaného seznamu. Poškození srdce: vlastní 9,160,398, petové 0. Nejde o přínos samotného cooldownu.
+- Poslední použití před oknem (nepotvrzuje aktivní buff): Soul Immolation 08:07.401.
+- Srdce 09:33.679: Soul Immolation 09:43.512. Poškození srdce: vlastní 8,599,330, petové 0. Nejde o přínos samotného cooldownu.
+- Soul Immolation 02:14.346–03:39.244: v mezeře je doložený kontext srdce nebo přechodové mechaniky. Sám neurčuje, zda bylo správné čekat.
+- Soul Immolation 08:07.401–09:43.512: v mezeře je doložený kontext srdce nebo přechodové mechaniky. Sám neurčuje, zda bylo správné čekat.
+
+**Kubéc-Drak'thul-EU**
+- Poslední použití před oknem (nepotvrzuje aktivní buff): nezaznamenané.
+- Srdce 02:15.504: žádné použití ze sledovaného seznamu. Poškození srdce: vlastní 10,800,575, petové 0. Nejde o přínos samotného cooldownu.
+- Poslední použití před oknem (nepotvrzuje aktivní buff): nezaznamenané.
+- Srdce 04:44.487: žádné použití ze sledovaného seznamu. Poškození srdce: vlastní 7,645,384, petové 0. Nejde o přínos samotného cooldownu.
+- Poslední použití před oknem (nepotvrzuje aktivní buff): nezaznamenané.
+- Srdce 09:33.679: žádné použití ze sledovaného seznamu. Poškození srdce: vlastní 0, petové 0. Nejde o přínos samotného cooldownu.
+
+**Odmin-Drak'thul-EU**
+- Poslední použití před oknem (nepotvrzuje aktivní buff): Essence Break 01:42.930.
+- Srdce 02:15.504: Essence Break 02:24.507. Poškození srdce: vlastní 11,969,826, petové 0. Nejde o přínos samotného cooldownu.
+- Poslední použití před oknem (nepotvrzuje aktivní buff): Essence Break 03:55.109.
+- Srdce 04:44.487: Essence Break 04:50.150. Poškození srdce: vlastní 10,925,977, petové 0. Nejde o přínos samotného cooldownu.
+- Poslední použití před oknem (nepotvrzuje aktivní buff): Essence Break 08:50.909.
+- Srdce 09:33.679: Essence Break 09:36.160. Poškození srdce: vlastní 9,275,689, petové 0. Nejde o přínos samotného cooldownu.
+
+**Galneryus-Drak'thul-EU**
+- Poslední použití před oknem (nepotvrzuje aktivní buff): Wake of Ashes 01:44.277, Execution Sentence 01:09.565, Divine Toll 01:16.547.
+- Srdce 02:15.504: Execution Sentence 02:16.606, Wake of Ashes 02:18.190, Divine Toll 02:21.193. Poškození srdce: vlastní 21,768,487, petové 0. Nejde o přínos samotného cooldownu.
+- Poslední použití před oknem (nepotvrzuje aktivní buff): Wake of Ashes 04:18.891, Execution Sentence 03:44.254, Divine Toll 03:50.542.
+- Srdce 04:44.487: Execution Sentence 04:45.734, Wake of Ashes 04:49.827, Divine Toll 04:52.093. Poškození srdce: vlastní 15,173,201, petové 0. Nejde o přínos samotného cooldownu.
+- Poslední použití před oknem (nepotvrzuje aktivní buff): Wake of Ashes 08:49.415, Execution Sentence 08:15.741, Divine Toll 08:21.884.
+- Srdce 09:33.679: Execution Sentence 09:38.096, Wake of Ashes 09:40.665, Divine Toll 09:46.835. Poškození srdce: vlastní 12,043,807, petové 0. Nejde o přínos samotného cooldownu.
+- Execution Sentence 02:16.606–03:44.254: v mezeře je doložený kontext srdce nebo přechodové mechaniky. Sám neurčuje, zda bylo správné čekat.
+- Execution Sentence 04:45.734–06:05.322: v mezeře je doložený kontext srdce nebo přechodové mechaniky. Sám neurčuje, zda bylo správné čekat.
+- Execution Sentence 08:15.741–09:38.096: v mezeře je doložený kontext srdce nebo přechodové mechaniky. Sám neurčuje, zda bylo správné čekat.
+- Divine Toll 02:21.193–03:50.542: v mezeře je doložený kontext srdce nebo přechodové mechaniky. Sám neurčuje, zda bylo správné čekat.
+- Divine Toll 04:52.093–06:11.355: v mezeře je doložený kontext srdce nebo přechodové mechaniky. Sám neurčuje, zda bylo správné čekat.
+- Divine Toll 08:21.884–09:46.835: v mezeře je doložený kontext srdce nebo přechodové mechaniky. Sám neurčuje, zda bylo správné čekat.
+- Wake of Ashes 08:49.415–09:40.665: v mezeře je doložený kontext srdce nebo přechodové mechaniky. Sám neurčuje, zda bylo správné čekat.
+
+**Íácekpwn-Drak'thul-EU**
+- Poslední použití před oknem (nepotvrzuje aktivní buff): Halo 01:12.760.
+- Srdce 02:15.504: Halo 02:18.162. Poškození srdce: vlastní 12,679,910, petové 475,085. Nejde o přínos samotného cooldownu.
+- Poslední použití před oknem (nepotvrzuje aktivní buff): Halo 03:55.181.
+- Srdce 04:44.487: Halo 04:56.864. Poškození srdce: vlastní 7,300,398, petové 234,416. Nejde o přínos samotného cooldownu.
+- Poslední použití před oknem (nepotvrzuje aktivní buff): Halo 07:11.379.
+- Srdce 09:33.679: žádné použití ze sledovaného seznamu. Poškození srdce: vlastní 0, petové 0. Nejde o přínos samotného cooldownu.
+- Halo 02:18.162–03:55.181: v mezeře je doložený kontext srdce nebo přechodové mechaniky. Sám neurčuje, zda bylo správné čekat.
+
+**Omniblue-Drak'thul-EU**
+- Poslední použití před oknem (nepotvrzuje aktivní buff): Power Infusion 00:06.089.
+- Srdce 02:15.504: Power Infusion 02:20.062. Poškození srdce: vlastní 9,175,284, petové 556,907. Nejde o přínos samotného cooldownu.
+- Poslední použití před oknem (nepotvrzuje aktivní buff): Power Infusion 02:20.062.
+- Srdce 04:44.487: Power Infusion 04:50.024. Poškození srdce: vlastní 7,769,591, petové 319,221. Nejde o přínos samotného cooldownu.
+- Poslední použití před oknem (nepotvrzuje aktivní buff): Power Infusion 07:23.097.
+- Srdce 09:33.679: žádné použití ze sledovaného seznamu. Poškození srdce: vlastní 0, petové 0. Nejde o přínos samotného cooldownu.
+- Power Infusion 02:20.062–04:50.024: v mezeře je doložený kontext srdce nebo přechodové mechaniky. Sám neurčuje, zda bylo správné čekat.
+- Power Infusion 04:50.024–07:23.097: v mezeře je doložený kontext srdce nebo přechodové mechaniky. Sám neurčuje, zda bylo správné čekat.
+
+**Fobina-Drak'thul-EU**
+- Poslední použití před oknem (nepotvrzuje aktivní buff): nezaznamenané.
+- Srdce 02:15.504: žádné použití ze sledovaného seznamu. Poškození srdce: vlastní 1,323,137, petové 0. Nejde o přínos samotného cooldownu.
+- Poslední použití před oknem (nepotvrzuje aktivní buff): nezaznamenané.
+- Srdce 04:44.487: žádné použití ze sledovaného seznamu. Poškození srdce: vlastní 1,484,314, petové 287,199. Nejde o přínos samotného cooldownu.
+- Poslední použití před oknem (nepotvrzuje aktivní buff): nezaznamenané.
+- Srdce 09:33.679: žádné použití ze sledovaného seznamu. Poškození srdce: vlastní 371,509, petové 216,801. Nejde o přínos samotného cooldownu.
+
+**Nahollou-Drak'thul-EU**
+- Poslední použití před oknem (nepotvrzuje aktivní buff): Summon Demonic Tyrant 01:12.562, Grimoire: Imp Lord 00:04.536.
+- Srdce 02:15.504: Summon Demonic Tyrant 02:22.447, Grimoire: Imp Lord 02:27.196. Poškození srdce: vlastní 1,569,687, petové 3,247,573. Nejde o přínos samotného cooldownu.
+- Poslední použití před oknem (nepotvrzuje aktivní buff): Summon Demonic Tyrant 02:22.447, Grimoire: Imp Lord 02:27.196.
+- Srdce 04:44.487: Summon Demonic Tyrant 04:47.169, Grimoire: Imp Lord 04:49.131. Poškození srdce: vlastní 1,347,552, petové 6,964,816. Nejde o přínos samotného cooldownu.
+- Poslední použití před oknem (nepotvrzuje aktivní buff): Summon Demonic Tyrant 08:26.687, Grimoire: Imp Lord 08:59.584.
+- Srdce 09:33.679: žádné použití ze sledovaného seznamu. Poškození srdce: vlastní 0, petové 151,040. Nejde o přínos samotného cooldownu.
+- Summon Demonic Tyrant 02:22.447–04:47.169: v mezeře je doložený kontext srdce nebo přechodové mechaniky. Sám neurčuje, zda bylo správné čekat.
+- Summon Demonic Tyrant 04:47.169–06:16.635: v mezeře je doložený kontext srdce nebo přechodové mechaniky. Sám neurčuje, zda bylo správné čekat.
+- Grimoire 00:04.536–02:27.196: v mezeře je doložený kontext srdce nebo přechodové mechaniky. Sám neurčuje, zda bylo správné čekat.
+- Grimoire 02:27.196–04:49.131: v mezeře je doložený kontext srdce nebo přechodové mechaniky. Sám neurčuje, zda bylo správné čekat.
+
+**Johnyhoudini-BurningBlade-EU**
+- Poslední použití před oknem (nepotvrzuje aktivní buff): Touch of the Magi 01:08.927.
+- Srdce 02:15.504: Touch of the Magi 02:17.274. Poškození srdce: vlastní 15,581,415, petové 684,436. Nejde o přínos samotného cooldownu.
+- Poslední použití před oknem (nepotvrzuje aktivní buff): Touch of the Magi 03:06.192.
+- Srdce 04:44.487: Touch of the Magi 04:45.766. Poškození srdce: vlastní 18,949,139, petové 285,350. Nejde o přínos samotného cooldownu.
+- Poslední použití před oknem (nepotvrzuje aktivní buff): Touch of the Magi 09:09.771.
+- Srdce 09:33.679: žádné použití ze sledovaného seznamu. Poškození srdce: vlastní 5,736,037, petové 498,915. Nejde o přínos samotného cooldownu.
+- Touch of the Magi 01:08.927–02:17.274: v mezeře je doložený kontext srdce nebo přechodové mechaniky. Sám neurčuje, zda bylo správné čekat.
+- Touch of the Magi 03:06.192–04:45.766: v mezeře je doložený kontext srdce nebo přechodové mechaniky. Sám neurčuje, zda bylo správné čekat.
+- Touch of the Magi 04:45.766–06:25.539: v mezeře je doložený kontext srdce nebo přechodové mechaniky. Sám neurčuje, zda bylo správné čekat.
+- Touch of the Magi 08:12.055–09:09.771: v mezeře je doložený kontext srdce nebo přechodové mechaniky. Sám neurčuje, zda bylo správné čekat.
+
+**Slejhy-Drak'thul-EU**
+- Poslední použití před oknem (nepotvrzuje aktivní buff): Deathmark 00:08.301, Kingsbane 01:11.559.
+- Srdce 02:15.504: Deathmark 02:16.418, Kingsbane 02:17.541. Poškození srdce: vlastní 15,496,969, petové 0. Nejde o přínos samotného cooldownu.
+- Poslední použití před oknem (nepotvrzuje aktivní buff): Deathmark 02:16.418, Kingsbane 02:17.541.
+- Srdce 04:44.487: Deathmark 04:52.177, Kingsbane 04:53.146. Poškození srdce: vlastní 8,388,257, petové 0. Nejde o přínos samotného cooldownu.
+- Poslední použití před oknem (nepotvrzuje aktivní buff): Deathmark 09:24.354, Kingsbane 09:25.360.
+- Srdce 09:33.679: žádné použití ze sledovaného seznamu. Poškození srdce: vlastní 4,033,888, petové 0. Nejde o přínos samotného cooldownu.
+- Deathmark 02:16.418–04:52.177: v mezeře je doložený kontext srdce nebo přechodové mechaniky. Sám neurčuje, zda bylo správné čekat.
+- Deathmark 04:52.177–07:19.761: v mezeře je doložený kontext srdce nebo přechodové mechaniky. Sám neurčuje, zda bylo správné čekat.
+- Kingsbane 02:17.541–04:53.146: v mezeře je doložený kontext srdce nebo přechodové mechaniky. Sám neurčuje, zda bylo správné čekat.
+- Kingsbane 04:53.146–07:20.732: v mezeře je doložený kontext srdce nebo přechodové mechaniky. Sám neurčuje, zda bylo správné čekat.
+
+**Corneilia-Sylvanas-EU**
+- Poslední použití před oknem (nepotvrzuje aktivní buff): Touch of the Magi 00:51.750.
+- Srdce 02:15.504: Touch of the Magi 02:17.741. Poškození srdce: vlastní 9,306,385, petové 647,262. Nejde o přínos samotného cooldownu.
+- Poslední použití před oknem (nepotvrzuje aktivní buff): Touch of the Magi 03:03.096.
+- Srdce 04:44.487: Touch of the Magi 04:48.175. Poškození srdce: vlastní 9,960,905, petové 777,108. Nejde o přínos samotného cooldownu.
+- Poslední použití před oknem (nepotvrzuje aktivní buff): Touch of the Magi 08:16.411.
+- Srdce 09:33.679: Touch of the Magi 09:37.337. Poškození srdce: vlastní 4,548,492, petové 0. Nejde o přínos samotného cooldownu.
+- Touch of the Magi 00:51.750–02:17.741: v mezeře je doložený kontext srdce nebo přechodové mechaniky. Sám neurčuje, zda bylo správné čekat.
+- Touch of the Magi 03:03.096–04:48.175: v mezeře je doložený kontext srdce nebo přechodové mechaniky. Sám neurčuje, zda bylo správné čekat.
+- Touch of the Magi 04:48.175–06:25.235: v mezeře je doložený kontext srdce nebo přechodové mechaniky. Sám neurčuje, zda bylo správné čekat.
+- Touch of the Magi 07:16.811–08:16.411: v mezeře je doložený kontext srdce nebo přechodové mechaniky. Sám neurčuje, zda bylo správné čekat.
+- Touch of the Magi 08:16.411–09:37.337: v mezeře je doložený kontext srdce nebo přechodové mechaniky. Sám neurčuje, zda bylo správné čekat.
+
 ## DPS potiony — doplňkový přehled
 Na farmě volitelné; doporučení má nízkou prioritu. Nezaznamenané použití není důkaz nepoužití. Pre-pull casty jsou v okně 30 s; poslední starší cast je zachovaný v JSON. Jiné potiony vyžadují posouzení.
 

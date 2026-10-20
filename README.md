@@ -13,3 +13,5 @@ Počet příkladů není počet potvrzených chyb. Report nehodnotí úplně ka�
 [Textová verze](report.md). Analýza se zaměřuje na DPS killy, healing nehodnotí.
 
 Tento repozitář obsahuje hotový statický report; raw combat logy a pracovní databáze nejsou součástí.
+
+U Ula’teka najdeš pozorovaná okna Venomous Heart, poslední použití cooldownů před oknem a použití uvnitř. Konkrétní delší mezery mají kontext srdce a přechodových mechanik. Překryv neznamená automaticky správné držení ani zapomenutý cooldown; přesnou dobu osobního běhu a optimální burst plán report zatím neurčuje.
