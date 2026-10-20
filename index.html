@@ -834,7 +834,7 @@ document.addEventListener('click',event=>{
   if(event.target.closest('.skip')){event.preventDefault();$('content').focus();return}
   const button=event.target.closest('button');if(!button)return;
   if(button.hasAttribute('data-player'))navigate({player:button.dataset.player,tab:'coaching'});
-  else if(button.dataset.focusSection){navigate({tab:'fights',boss:button.dataset.focusBoss});$(button.dataset.focusSection)?.scrollIntoView?.({block:'start'});}
+  else if(button.dataset.focusSection){if($('evidence-dialog').open)$('evidence-dialog').close();modalEntry=null;navigate({tab:'fights',boss:button.dataset.focusBoss});$(button.dataset.focusSection)?.scrollIntoView?.({block:'start'});}
   else if(button.dataset.tab)navigate({tab:button.dataset.tab});
   else if(button.hasAttribute('data-overview-boss'))navigate({tab:'fights',boss:button.dataset.overviewBoss});
   else if(button.hasAttribute('data-boss'))navigate({boss:button.dataset.boss});
