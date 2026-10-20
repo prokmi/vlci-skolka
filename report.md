@@ -1458,6 +1458,820 @@ Delší mezeru mezi cooldowny neposuzuj bez průběhu fightu. Načasování na V
 - Touch of the Magi 07:16.811–08:16.411: v mezeře je doložený kontext srdce nebo přechodové mechaniky. Sám neurčuje, zda bylo správné čekat.
 - Touch of the Magi 08:16.411–09:37.337: v mezeře je doložený kontext srdce nebo přechodové mechaniky. Sám neurčuje, zda bylo správné čekat.
 
+## Průběh všech analyzovaných fightů
+
+Časy jsou pozorování z killů. Zásahy dokazují útok v uvedeném okamžiku, nikoli nepřetržitý dosah, správnou volbu cíle nebo DPS ztrátu. Překryv mechaniky s mezerou mezi cooldowny sám neobjasňuje hráčův důvod.
+
+### Nek'zali the Soulcoiler · kill 1
+
+Při Tether of Awakening má Nek'zali imunitu. Přepni na relevantní addy; samotná imunita bosse není důvod přestat útočit na všechno. Osobní Essence Rend a Latent Cultist porovnej s konkrétní situací, jejich celý debuff nepočítáme jako nemožnost castovat.
+
+[Popis mechaniky](https://www.wowhead.com/spell=1289696/tether-of-awakening)
+
+- Změna průběhu: Ritual of Awakening · Nek'zali the Soulcoiler · 01:57.389–03:13.350.
+- Imunita cíle: Tether of Awakening · Nek'zali the Soulcoiler · 01:57.389–03:13.350.
+- Změna průběhu: Uncoiling · Nek'zali the Soulcoiler · 03:13.355–03:18.368.
+
+**Vejr-Drak'thul-EU**
+- Posouzených původních příkladů: 0; mezer mezi cooldowny: 0. Žádný překryv sám nezvyšuje jistotu výtky.
+- Essence Rend 00:54.491–00:59.483: záznamů dokončených vlastních schopností včetně automatických 4. Nejde o počet ručních stisků; celý efekt není automaticky doba bez možnosti útočit.
+- Essence Rend 01:00.002–01:09.742: záznamů dokončených vlastních schopností včetně automatických 2. Nejde o počet ručních stisků; celý efekt není automaticky doba bez možnosti útočit.
+- Essence Rend 04:08.630–04:13.627: záznamů dokončených vlastních schopností včetně automatických 6. Nejde o počet ručních stisků; celý efekt není automaticky doba bez možnosti útočit.
+- Essence Rend 04:14.127–04:23.872: záznamů dokončených vlastních schopností včetně automatických 4. Nejde o počet ručních stisků; celý efekt není automaticky doba bez možnosti útočit.
+
+**Theila-Drak'thul-EU**
+- Posouzených původních příkladů: 22; mezer mezi cooldowny: 0. Žádný překryv sám nezvyšuje jistotu výtky.
+- Essence Rend 00:54.491–00:59.483: záznamů dokončených vlastních schopností včetně automatických 3. Nejde o počet ručních stisků; celý efekt není automaticky doba bez možnosti útočit.
+- Essence Rend 01:00.002–01:09.776: záznamů dokončených vlastních schopností včetně automatických 0. Nejde o počet ručních stisků; celý efekt není automaticky doba bez možnosti útočit.
+- Latent Cultist 02:02.224–02:03.511: záznamů dokončených vlastních schopností včetně automatických 1. Nejde o počet ručních stisků; celý efekt není automaticky doba bez možnosti útočit.
+- Essence Rend 04:08.630–04:13.627: záznamů dokončených vlastních schopností včetně automatických 3. Nejde o počet ručních stisků; celý efekt není automaticky doba bez možnosti útočit.
+- Essence Rend 04:14.127–04:20.754: záznamů dokončených vlastních schopností včetně automatických 0. Nejde o počet ručních stisků; celý efekt není automaticky doba bez možnosti útočit.
+
+**Hrbaty-Drak'thul-EU**
+- Posouzených původních příkladů: 3; mezer mezi cooldowny: 0. Žádný překryv sám nezvyšuje jistotu výtky.
+- Essence Rend 00:14.468–00:19.484: záznamů dokončených vlastních schopností včetně automatických 6. Nejde o počet ručních stisků; celý efekt není automaticky doba bez možnosti útočit.
+- Essence Rend 00:19.987–00:31.854: záznamů dokončených vlastních schopností včetně automatických 9. Nejde o počet ručních stisků; celý efekt není automaticky doba bez možnosti útočit.
+- Slithering Flame 02:12.412–02:20.416: záznamů dokončených vlastních schopností včetně automatických 5. Nejde o počet ručních stisků; celý efekt není automaticky doba bez možnosti útočit.
+- Slithering Flame 02:53.543–03:01.557: záznamů dokončených vlastních schopností včetně automatických 5. Nejde o počet ručních stisků; celý efekt není automaticky doba bez možnosti útočit.
+- Latent Cultist 04:29.993–04:30.873: záznamů dokončených vlastních schopností včetně automatických 1. Nejde o počet ručních stisků; celý efekt není automaticky doba bez možnosti útočit.
+
+**Micaello-Drak'thul-EU**
+- Posouzených původních příkladů: 0; mezer mezi cooldowny: 0. Žádný překryv sám nezvyšuje jistotu výtky.
+- Essence Rend 00:14.468–00:19.484: záznamů dokončených vlastních schopností včetně automatických 4. Nejde o počet ručních stisků; celý efekt není automaticky doba bez možnosti útočit.
+- Essence Rend 00:19.986–00:26.863: záznamů dokončených vlastních schopností včetně automatických 6. Nejde o počet ručních stisků; celý efekt není automaticky doba bez možnosti útočit.
+- Slithering Flame 02:12.742–02:20.748: záznamů dokončených vlastních schopností včetně automatických 3. Nejde o počet ručních stisků; celý efekt není automaticky doba bez možnosti útočit.
+- Slithering Flame 02:53.368–03:01.372: záznamů dokončených vlastních schopností včetně automatických 6. Nejde o počet ručních stisků; celý efekt není automaticky doba bez možnosti útočit.
+- Latent Cultist 03:00.489–03:01.507: záznamů dokončených vlastních schopností včetně automatických 1. Nejde o počet ručních stisků; celý efekt není automaticky doba bez možnosti útočit.
+- Latent Cultist 03:01.534–03:01.643: záznamů dokončených vlastních schopností včetně automatických 0. Nejde o počet ručních stisků; celý efekt není automaticky doba bez možnosti útočit.
+
+**Rhínö-Drak'thul-EU**
+- Posouzených původních příkladů: 2; mezer mezi cooldowny: 0. Žádný překryv sám nezvyšuje jistotu výtky.
+- Slithering Flame 02:12.134–02:20.151: záznamů dokončených vlastních schopností včetně automatických 7. Nejde o počet ručních stisků; celý efekt není automaticky doba bez možnosti útočit.
+- Slithering Flame 02:53.736–03:01.729: záznamů dokončených vlastních schopností včetně automatických 7. Nejde o počet ručních stisků; celý efekt není automaticky doba bez možnosti útočit.
+
+**Luminos-BurningBlade-EU**
+- Posouzených původních příkladů: 2; mezer mezi cooldowny: 0. Žádný překryv sám nezvyšuje jistotu výtky.
+- Slithering Flame 02:13.320–02:21.320: záznamů dokončených vlastních schopností včetně automatických 2. Nejde o počet ručních stisků; celý efekt není automaticky doba bez možnosti útočit.
+- Latent Cultist 02:19.109–02:23.103: záznamů dokončených vlastních schopností včetně automatických 0. Nejde o počet ručních stisků; celý efekt není automaticky doba bez možnosti útočit.
+- Slithering Flame 02:52.967–03:00.980: záznamů dokončených vlastních schopností včetně automatických 7. Nejde o počet ručních stisků; celý efekt není automaticky doba bez možnosti útočit.
+- Latent Cultist 03:02.334–03:02.827: záznamů dokončených vlastních schopností včetně automatických 0. Nejde o počet ručních stisků; celý efekt není automaticky doba bez možnosti útočit.
+- Latent Cultist 03:43.238–03:44.350: záznamů dokončených vlastních schopností včetně automatických 1. Nejde o počet ručních stisků; celý efekt není automaticky doba bez možnosti útočit.
+- Essence Rend 04:08.630–04:13.627: záznamů dokončených vlastních schopností včetně automatických 5. Nejde o počet ručních stisků; celý efekt není automaticky doba bez možnosti útočit.
+- Essence Rend 04:14.128–04:18.984: záznamů dokončených vlastních schopností včetně automatických 2. Nejde o počet ručních stisků; celý efekt není automaticky doba bez možnosti útočit.
+
+**Kubéc-Drak'thul-EU**
+- Posouzených původních příkladů: 9; mezer mezi cooldowny: 0. Žádný překryv sám nezvyšuje jistotu výtky.
+- Latent Cultist 01:53.738–01:54.137: záznamů dokončených vlastních schopností včetně automatických 0. Nejde o počet ručních stisků; celý efekt není automaticky doba bez možnosti útočit.
+- Latent Cultist 02:00.079–02:00.265: záznamů dokončených vlastních schopností včetně automatických 0. Nejde o počet ručních stisků; celý efekt není automaticky doba bez možnosti útočit.
+- Latent Cultist 02:03.460–02:03.705: záznamů dokončených vlastních schopností včetně automatických 0. Nejde o počet ručních stisků; celý efekt není automaticky doba bez možnosti útočit.
+- Latent Cultist 02:33.291–02:35.779: záznamů dokončených vlastních schopností včetně automatických 1. Nejde o počet ručních stisků; celý efekt není automaticky doba bez možnosti útočit.
+- Latent Cultist 03:43.150–03:43.334: záznamů dokončených vlastních schopností včetně automatických 0. Nejde o počet ručních stisků; celý efekt není automaticky doba bez možnosti útočit.
+
+**Galneryus-Drak'thul-EU**
+- Posouzených původních příkladů: 6; mezer mezi cooldowny: 0. Žádný překryv sám nezvyšuje jistotu výtky.
+- Essence Rend 01:25.513–01:30.514: záznamů dokončených vlastních schopností včetně automatických 8. Nejde o počet ručních stisků; celý efekt není automaticky doba bez možnosti útočit.
+- Essence Rend 01:31.014–01:36.540: záznamů dokončených vlastních schopností včetně automatických 5. Nejde o počet ručních stisků; celý efekt není automaticky doba bez možnosti útočit.
+- Latent Cultist 02:00.484–02:00.698: záznamů dokončených vlastních schopností včetně automatických 1. Nejde o počet ručních stisků; celý efekt není automaticky doba bez možnosti útočit.
+- Latent Cultist 02:02.412–02:03.808: záznamů dokončených vlastních schopností včetně automatických 2. Nejde o počet ručních stisků; celý efekt není automaticky doba bez možnosti útočit.
+- Latent Cultist 02:30.531–02:30.862: záznamů dokončených vlastních schopností včetně automatických 0. Nejde o počet ručních stisků; celý efekt není automaticky doba bez možnosti útočit.
+- Latent Cultist 02:33.850–02:34.962: záznamů dokončených vlastních schopností včetně automatických 1. Nejde o počet ručních stisků; celý efekt není automaticky doba bez možnosti útočit.
+- Latent Cultist 02:39.898–02:39.996: záznamů dokončených vlastních schopností včetně automatických 0. Nejde o počet ručních stisků; celý efekt není automaticky doba bez možnosti útočit.
+- Latent Cultist 02:40.017–02:40.379: záznamů dokončených vlastních schopností včetně automatických 0. Nejde o počet ručních stisků; celý efekt není automaticky doba bez možnosti útočit.
+- Latent Cultist 02:40.510–02:40.584: záznamů dokončených vlastních schopností včetně automatických 0. Nejde o počet ručních stisků; celý efekt není automaticky doba bez možnosti útočit.
+- Latent Cultist 02:40.603–02:40.961: záznamů dokončených vlastních schopností včetně automatických 0. Nejde o počet ručních stisků; celý efekt není automaticky doba bez možnosti útočit.
+- Latent Cultist 02:43.496–02:43.587: záznamů dokončených vlastních schopností včetně automatických 0. Nejde o počet ručních stisků; celý efekt není automaticky doba bez možnosti útočit.
+
+**Omniblue-Drak'thul-EU**
+- Posouzených původních příkladů: 1; mezer mezi cooldowny: 1. Žádný překryv sám nezvyšuje jistotu výtky.
+- Slithering Flame 02:11.927–02:19.934: záznamů dokončených vlastních schopností včetně automatických 10. Nejde o počet ručních stisků; celý efekt není automaticky doba bez možnosti útočit.
+- Latent Cultist 04:29.543–04:29.972: záznamů dokončených vlastních schopností včetně automatických 1. Nejde o počet ručních stisků; celý efekt není automaticky doba bez možnosti útočit.
+- Power Infusion 00:05.518–02:37.128: Ritual of Awakening, Tether of Awakening, Slithering Flame. Nejde o potvrzený důvod odkladu ani zapomenuté použití.
+
+**Fobina-Drak'thul-EU**
+- Posouzených původních příkladů: 0; mezer mezi cooldowny: 0. Žádný překryv sám nezvyšuje jistotu výtky.
+- Essence Rend 00:14.468–00:19.484: záznamů dokončených vlastních schopností včetně automatických 4. Nejde o počet ručních stisků; celý efekt není automaticky doba bez možnosti útočit.
+- Essence Rend 00:19.986–00:25.533: záznamů dokončených vlastních schopností včetně automatických 3. Nejde o počet ručních stisků; celý efekt není automaticky doba bez možnosti útočit.
+- Latent Cultist 01:25.008–01:25.891: záznamů dokončených vlastních schopností včetně automatických 0. Nejde o počet ručních stisků; celý efekt není automaticky doba bez možnosti útočit.
+- Slithering Flame 02:13.117–02:21.111: záznamů dokončených vlastních schopností včetně automatických 0. Nejde o počet ručních stisků; celý efekt není automaticky doba bez možnosti útočit.
+- Latent Cultist 02:16.048–02:21.190: záznamů dokončených vlastních schopností včetně automatických 0. Nejde o počet ručních stisků; celý efekt není automaticky doba bez možnosti útočit.
+- Slithering Flame 02:52.863–03:00.864: záznamů dokončených vlastních schopností včetně automatických 3. Nejde o počet ručních stisků; celý efekt není automaticky doba bez možnosti útočit.
+
+**Johnyhoudini-BurningBlade-EU**
+- Posouzených původních příkladů: 0; mezer mezi cooldowny: 0. Žádný překryv sám nezvyšuje jistotu výtky.
+- Essence Rend 00:14.468–00:19.484: záznamů dokončených vlastních schopností včetně automatických 6. Nejde o počet ručních stisků; celý efekt není automaticky doba bez možnosti útočit.
+- Essence Rend 00:19.986–00:31.231: záznamů dokončených vlastních schopností včetně automatických 13. Nejde o počet ručních stisků; celý efekt není automaticky doba bez možnosti útočit.
+- Essence Rend 01:25.513–01:30.514: záznamů dokončených vlastních schopností včetně automatických 4. Nejde o počet ručních stisků; celý efekt není automaticky doba bez možnosti útočit.
+- Essence Rend 01:31.014–01:46.013: záznamů dokončených vlastních schopností včetně automatických 13. Nejde o počet ručních stisků; celý efekt není automaticky doba bez možnosti útočit.
+- Slithering Flame 02:12.916–02:20.937: záznamů dokončených vlastních schopností včetně automatických 5. Nejde o počet ručních stisků; celý efekt není automaticky doba bez možnosti útočit.
+- Slithering Flame 02:53.084–03:01.100: záznamů dokončených vlastních schopností včetně automatických 7. Nejde o počet ručních stisků; celý efekt není automaticky doba bez možnosti útočit.
+- Latent Cultist 03:05.013–03:06.401: záznamů dokončených vlastních schopností včetně automatických 2. Nejde o počet ručních stisků; celý efekt není automaticky doba bez možnosti útočit.
+
+**Slejhy-Drak'thul-EU**
+- Posouzených původních příkladů: 7; mezer mezi cooldowny: 2. Žádný překryv sám nezvyšuje jistotu výtky.
+- Essence Rend 01:25.513–01:30.515: záznamů dokončených vlastních schopností včetně automatických 0. Nejde o počet ručních stisků; celý efekt není automaticky doba bez možnosti útočit.
+- Essence Rend 01:31.014–01:31.382: záznamů dokončených vlastních schopností včetně automatických 0. Nejde o počet ručních stisků; celý efekt není automaticky doba bez možnosti útočit.
+- Latent Cultist 02:02.299–02:03.103: záznamů dokončených vlastních schopností včetně automatických 2. Nejde o počet ručních stisků; celý efekt není automaticky doba bez možnosti útočit.
+- Latent Cultist 02:31.429–02:31.558: záznamů dokončených vlastních schopností včetně automatických 0. Nejde o počet ručních stisků; celý efekt není automaticky doba bez možnosti útočit.
+- Deathmark 00:09.100–03:22.958: Essence Rend, Ritual of Awakening, Tether of Awakening, Latent Cultist, Uncoiling. Nejde o potvrzený důvod odkladu ani zapomenuté použití.
+- Kingsbane 00:08.081–03:21.960: Essence Rend, Ritual of Awakening, Tether of Awakening, Latent Cultist, Uncoiling. Nejde o potvrzený důvod odkladu ani zapomenuté použití.
+
+**Corneilia-Sylvanas-EU**
+- Posouzených původních příkladů: 1; mezer mezi cooldowny: 1. Žádný překryv sám nezvyšuje jistotu výtky.
+- Essence Rend 01:25.513–01:30.515: záznamů dokončených vlastních schopností včetně automatických 3. Nejde o počet ručních stisků; celý efekt není automaticky doba bez možnosti útočit.
+- Essence Rend 01:31.014–01:42.279: záznamů dokončených vlastních schopností včetně automatických 1. Nejde o počet ručních stisků; celý efekt není automaticky doba bez možnosti útočit.
+- Latent Cultist 01:37.711–01:38.408: záznamů dokončených vlastních schopností včetně automatických 0. Nejde o počet ručních stisků; celý efekt není automaticky doba bez možnosti útočit.
+- Slithering Flame 02:12.274–02:20.283: záznamů dokončených vlastních schopností včetně automatických 3. Nejde o počet ručních stisků; celý efekt není automaticky doba bez možnosti útočit.
+- Slithering Flame 02:53.920–03:01.927: záznamů dokončených vlastních schopností včetně automatických 4. Nejde o počet ručních stisků; celý efekt není automaticky doba bez možnosti útočit.
+- Essence Rend 04:08.630–04:13.627: záznamů dokončených vlastních schopností včetně automatických 2. Nejde o počet ručních stisků; celý efekt není automaticky doba bez možnosti útočit.
+- Latent Cultist 04:11.784–04:12.663: záznamů dokončených vlastních schopností včetně automatických 0. Nejde o počet ručních stisků; celý efekt není automaticky doba bez možnosti útočit.
+- Essence Rend 04:14.128–04:17.978: záznamů dokončených vlastních schopností včetně automatických 1. Nejde o počet ručních stisků; celý efekt není automaticky doba bez možnosti útočit.
+- Latent Cultist 04:24.142–04:25.449: záznamů dokončených vlastních schopností včetně automatických 1. Nejde o počet ručních stisků; celý efekt není automaticky doba bez možnosti útočit.
+- Touch of the Magi 00:51.476–01:50.059: Essence Rend, Latent Cultist. Nejde o potvrzený důvod odkladu ani zapomenuté použití.
+### The Coiled Altar · kill 4
+
+Odděluj Zul'jan, Malacrass a Soulbinding. Při Ghastly Regeneration je Zul'jan zranitelnější, zatímco Deathguard omezuje poškození do Malacrasse. Veil of Twilight je štít k prolomení. Krátké označení Guillotine je jiné než dlouhá zranitelnost po zásahu; tu nevydáváme za dobu plnění mechaniky.
+
+[Popis mechaniky](https://www.wowhead.com/guide/midnight/raids/venomous-abyss-coiled-altar-boss-strategy-abilities)
+
+- Štít cíle: Veil of Twilight · Hex Lord Malacrass · 03:06.258–03:16.049.
+- Snížené poškození do cíle: Deathguard · Hex Lord Malacrass · 03:21.637–03:59.197.
+- Změna průběhu: Soulbinding · Hex Lord Malacrass · 03:24.178–03:59.197.
+- Změna průběhu: Soulbinding · Hex Lord Malacrass · 03:24.179–03:59.197.
+- Změna průběhu: Soulbinding · Zul'jan · 03:24.322–03:59.196.
+- Změna průběhu: Ghastly Regeneration · Zul'jan · 03:24.322–03:59.196.
+- Změna průběhu: Ghastly Regeneration · Zul'jan · 03:24.322–03:47.329.
+- Změna průběhu: Soulbound · Zul'jan · 03:59.196–07:18.120.
+- Změna průběhu: Soulbound · Hex Lord Malacrass · 03:59.197–07:18.121.
+- Štít cíle: Veil of Twilight · Hex Lord Malacrass · 04:41.365–04:50.633.
+- Štít cíle: Veil of Twilight · Hex Lord Malacrass · 06:21.344–06:27.982.
+
+**Vejr-Drak'thul-EU**
+- Posouzených původních příkladů: 0; mezer mezi cooldowny: 0. Žádný překryv sám nezvyšuje jistotu výtky.
+- Guillotine 00:42.994–00:47.988: záznamů dokončených vlastních schopností včetně automatických 6. Nejde o počet ručních stisků; celý efekt není automaticky doba bez možnosti útočit.
+- Unnerving Fixation 02:10.459–02:34.222: záznamů dokončených vlastních schopností včetně automatických 13. Nejde o počet ručních stisků; celý efekt není automaticky doba bez možnosti útočit.
+- Gloombomb 07:01.311–07:06.318: záznamů dokončených vlastních schopností včetně automatických 1. Nejde o počet ručních stisků; celý efekt není automaticky doba bez možnosti útočit.
+- Gravebound 07:06.319–07:06.848: záznamů dokončených vlastních schopností včetně automatických 0. Nejde o počet ručních stisků; celý efekt není automaticky doba bez možnosti útočit.
+
+**Theila-Drak'thul-EU**
+- Posouzených původních příkladů: 16; mezer mezi cooldowny: 0. Žádný překryv sám nezvyšuje jistotu výtky.
+- Unnerving Fixation 02:08.826–02:34.222: záznamů dokončených vlastních schopností včetně automatických 15. Nejde o počet ručních stisků; celý efekt není automaticky doba bez možnosti útočit.
+- Dreadmarch 02:40.813–02:42.514: záznamů dokončených vlastních schopností včetně automatických 0. Nejde o počet ručních stisků; celý efekt není automaticky doba bez možnosti útočit.
+- Dreadmarch 05:05.822–05:07.672: záznamů dokončených vlastních schopností včetně automatických 0. Nejde o počet ručních stisků; celý efekt není automaticky doba bez možnosti útočit.
+- Unnerving Fixation 06:52.856–07:18.186: záznamů dokončených vlastních schopností včetně automatických 18. Nejde o počet ručních stisků; celý efekt není automaticky doba bez možnosti útočit.
+
+**Micaello-Drak'thul-EU**
+- Posouzených původních příkladů: 0; mezer mezi cooldowny: 0. Žádný překryv sám nezvyšuje jistotu výtky.
+- Volatile Venom 00:05.933–00:10.943: záznamů dokončených vlastních schopností včetně automatických 4. Nejde o počet ručních stisků; celý efekt není automaticky doba bez možnosti útočit.
+- Volatile Venom 00:28.623–00:33.622: záznamů dokončených vlastních schopností včetně automatických 4. Nejde o počet ručních stisků; celý efekt není automaticky doba bez možnosti útočit.
+- Volatile Venom 00:54.796–00:59.814: záznamů dokončených vlastních schopností včetně automatických 4. Nejde o počet ručních stisků; celý efekt není automaticky doba bez možnosti útočit.
+- Volatile Venom 01:04.236–01:09.251: záznamů dokončených vlastních schopností včetně automatických 4. Nejde o počet ručních stisků; celý efekt není automaticky doba bez možnosti útočit.
+- Gloombomb 02:20.243–02:25.229: záznamů dokončených vlastních schopností včetně automatických 5. Nejde o počet ručních stisků; celý efekt není automaticky doba bez možnosti útočit.
+- Gravebound 02:25.248–02:31.863: záznamů dokončených vlastních schopností včetně automatických 0. Nejde o počet ručních stisků; celý efekt není automaticky doba bez možnosti útočit.
+- Grim Guillotine 04:19.505–04:24.505: záznamů dokončených vlastních schopností včetně automatických 2. Nejde o počet ručních stisků; celý efekt není automaticky doba bez možnosti útočit.
+- Dreadmarch 06:46.929–06:48.614: záznamů dokončených vlastních schopností včetně automatických 0. Nejde o počet ručních stisků; celý efekt není automaticky doba bez možnosti útočit.
+- Unnerving Fixation 06:54.051–07:03.553: záznamů dokončených vlastních schopností včetně automatických 7. Nejde o počet ručních stisků; celý efekt není automaticky doba bez možnosti útočit.
+- Dreadmarch 07:03.552–07:15.967: záznamů dokončených vlastních schopností včetně automatických 0. Nejde o počet ručních stisků; celý efekt není automaticky doba bez možnosti útočit.
+
+**Rhínö-Drak'thul-EU**
+- Posouzených původních příkladů: 6; mezer mezi cooldowny: 0. Žádný překryv sám nezvyšuje jistotu výtky.
+- Dreadmarch 02:04.271–02:05.657: záznamů dokončených vlastních schopností včetně automatických 0. Nejde o počet ručních stisků; celý efekt není automaticky doba bez možnosti útočit.
+- Unnerving Fixation 02:08.826–02:34.222: záznamů dokončených vlastních schopností včetně automatických 25. Nejde o počet ručních stisků; celý efekt není automaticky doba bez možnosti útočit.
+- Gloombomb 04:30.709–04:35.711: záznamů dokončených vlastních schopností včetně automatických 5. Nejde o počet ručních stisků; celý efekt není automaticky doba bez možnosti útočit.
+- Gravebound 04:35.712–04:39.516: záznamů dokončených vlastních schopností včetně automatických 3. Nejde o počet ručních stisků; celý efekt není automaticky doba bez možnosti útočit.
+- Volatile Venom 04:57.983–05:03.004: záznamů dokončených vlastních schopností včetně automatických 5. Nejde o počet ručních stisků; celý efekt není automaticky doba bez možnosti útočit.
+- Volatile Venom 05:04.050–05:09.096: záznamů dokončených vlastních schopností včetně automatických 3. Nejde o počet ručních stisků; celý efekt není automaticky doba bez možnosti útočit.
+
+**Kirill-Drak'thul-EU**
+- Posouzených původních příkladů: 1; mezer mezi cooldowny: 1. Žádný překryv sám nezvyšuje jistotu výtky.
+- Volatile Venom 01:06.276–01:11.284: záznamů dokončených vlastních schopností včetně automatických 15. Nejde o počet ručních stisků; celý efekt není automaticky doba bez možnosti útočit.
+- Dreadmarch 02:04.271–02:07.984: záznamů dokončených vlastních schopností včetně automatických 0. Nejde o počet ručních stisků; celý efekt není automaticky doba bez možnosti útočit.
+- Unnerving Fixation 02:12.078–02:34.222: záznamů dokončených vlastních schopností včetně automatických 59. Nejde o počet ručních stisků; celý efekt není automaticky doba bez možnosti útočit.
+- Dreadmarch 05:05.822–05:07.935: záznamů dokončených vlastních schopností včetně automatických 0. Nejde o počet ručních stisků; celý efekt není automaticky doba bez možnosti útočit.
+- Gloombomb 05:21.280–05:26.296: záznamů dokončených vlastních schopností včetně automatických 9. Nejde o počet ručních stisků; celý efekt není automaticky doba bez možnosti útočit.
+- Gravebound 05:26.296–05:31.299: záznamů dokončených vlastních schopností včetně automatických 2. Nejde o počet ručních stisků; celý efekt není automaticky doba bez možnosti útočit.
+- Volatile Venom 05:46.593–05:51.586: záznamů dokončených vlastních schopností včetně automatických 12. Nejde o počet ručních stisků; celý efekt není automaticky doba bez možnosti útočit.
+- Unnerving Fixation 06:52.856–07:18.186: záznamů dokončených vlastních schopností včetně automatických 54. Nejde o počet ručních stisků; celý efekt není automaticky doba bez možnosti útočit.
+- Soul Immolation 03:05.923–04:17.154: Veil of Twilight, Deathguard, Soulbinding, Ghastly Regeneration, Soulbound. Nejde o potvrzený důvod odkladu ani zapomenuté použití.
+
+**Kubéc-Drak'thul-EU**
+- Posouzených původních příkladů: 12; mezer mezi cooldowny: 0. Žádný překryv sám nezvyšuje jistotu výtky.
+- Volatile Venom 00:52.104–00:57.109: záznamů dokončených vlastních schopností včetně automatických 2. Nejde o počet ručních stisků; celý efekt není automaticky doba bez možnosti útočit.
+- Gloombomb 02:20.243–02:25.248: záznamů dokončených vlastních schopností včetně automatických 1. Nejde o počet ručních stisků; celý efekt není automaticky doba bez možnosti útočit.
+- Gravebound 02:25.249–02:30.234: záznamů dokončených vlastních schopností včetně automatických 3. Nejde o počet ručních stisků; celý efekt není automaticky doba bez možnosti útočit.
+- Dreadmarch 02:40.813–02:42.475: záznamů dokončených vlastních schopností včetně automatických 0. Nejde o počet ručních stisků; celý efekt není automaticky doba bez možnosti útočit.
+- Dreadmarch 05:05.821–05:08.232: záznamů dokončených vlastních schopností včetně automatických 0. Nejde o počet ručních stisků; celý efekt není automaticky doba bez možnosti útočit.
+- Gloombomb 05:54.637–05:59.661: záznamů dokončených vlastních schopností včetně automatických 1. Nejde o počet ručních stisků; celý efekt není automaticky doba bez možnosti útočit.
+- Gravebound 05:59.662–06:05.712: záznamů dokončených vlastních schopností včetně automatických 1. Nejde o počet ručních stisků; celý efekt není automaticky doba bez možnosti útočit.
+- Volatile Venom 06:27.314–06:32.308: záznamů dokončených vlastních schopností včetně automatických 2. Nejde o počet ručních stisků; celý efekt není automaticky doba bez možnosti útočit.
+- Unnerving Fixation 06:52.856–07:14.672: záznamů dokončených vlastních schopností včetně automatických 14. Nejde o počet ručních stisků; celý efekt není automaticky doba bez možnosti útočit.
+
+**Odmin-Drak'thul-EU**
+- Posouzených původních příkladů: 2; mezer mezi cooldowny: 0. Žádný překryv sám nezvyšuje jistotu výtky.
+- Dreadmarch 02:40.813–02:42.826: záznamů dokončených vlastních schopností včetně automatických 0. Nejde o počet ručních stisků; celý efekt není automaticky doba bez možnosti útočit.
+- Unnerving Fixation 02:47.332–03:05.232: záznamů dokončených vlastních schopností včetně automatických 16. Nejde o počet ručních stisků; celý efekt není automaticky doba bez možnosti útočit.
+- Gravebound 04:35.713–04:51.732: záznamů dokončených vlastních schopností včetně automatických 15. Nejde o počet ručních stisků; celý efekt není automaticky doba bez možnosti útočit.
+- Unnerving Fixation 05:12.398–05:45.327: záznamů dokončených vlastních schopností včetně automatických 33. Nejde o počet ručních stisků; celý efekt není automaticky doba bez možnosti útočit.
+- Dreadmarch 06:46.929–06:49.228: záznamů dokončených vlastních schopností včetně automatických 0. Nejde o počet ručních stisků; celý efekt není automaticky doba bez možnosti útočit.
+- Volatile Venom 06:52.167–06:57.171: záznamů dokončených vlastních schopností včetně automatických 2. Nejde o počet ručních stisků; celý efekt není automaticky doba bez možnosti útočit.
+
+**Galneryus-Drak'thul-EU**
+- Posouzených původních příkladů: 1; mezer mezi cooldowny: 0. Žádný překryv sám nezvyšuje jistotu výtky.
+- Unnerving Fixation 02:10.460–02:34.222: záznamů dokončených vlastních schopností včetně automatických 46. Nejde o počet ručních stisků; celý efekt není automaticky doba bez možnosti útočit.
+- Volatile Venom 04:23.084–04:28.093: záznamů dokončených vlastních schopností včetně automatických 5. Nejde o počet ručních stisků; celý efekt není automaticky doba bez možnosti útočit.
+- Gloombomb 04:30.709–04:35.712: záznamů dokončených vlastních schopností včetně automatických 10. Nejde o počet ručních stisků; celý efekt není automaticky doba bez možnosti útočit.
+- Gravebound 04:35.713–04:39.112: záznamů dokončených vlastních schopností včetně automatických 1. Nejde o počet ručních stisků; celý efekt není automaticky doba bez možnosti útočit.
+- Dreadmarch 06:46.930–06:48.614: záznamů dokončených vlastních schopností včetně automatických 0. Nejde o počet ručních stisků; celý efekt není automaticky doba bez možnosti útočit.
+- Unnerving Fixation 06:52.856–07:18.186: záznamů dokončených vlastních schopností včetně automatických 50. Nejde o počet ručních stisků; celý efekt není automaticky doba bez možnosti útočit.
+
+**Íácekpwn-Drak'thul-EU**
+- Posouzených původních příkladů: 1; mezer mezi cooldowny: 1. Žádný překryv sám nezvyšuje jistotu výtky.
+- Unnerving Fixation 02:46.107–03:05.232: záznamů dokončených vlastních schopností včetně automatických 24. Nejde o počet ručních stisků; celý efekt není automaticky doba bez možnosti útočit.
+- Unnerving Fixation 06:52.467–07:18.186: záznamů dokončených vlastních schopností včetně automatických 35. Nejde o počet ručních stisků; celý efekt není automaticky doba bez možnosti útočit.
+- Halo 02:07.389–03:30.807: Unnerving Fixation, Veil of Twilight, Deathguard, Soulbinding, Ghastly Regeneration. Nejde o potvrzený důvod odkladu ani zapomenuté použití.
+
+**Omniblue-Drak'thul-EU**
+- Posouzených původních příkladů: 0; mezer mezi cooldowny: 0. Žádný překryv sám nezvyšuje jistotu výtky.
+- Dreadmarch 02:04.272–02:05.560: záznamů dokončených vlastních schopností včetně automatických 1. Nejde o počet ručních stisků; celý efekt není automaticky doba bez možnosti útočit.
+- Unnerving Fixation 02:09.646–02:34.222: záznamů dokončených vlastních schopností včetně automatických 29. Nejde o počet ručních stisků; celý efekt není automaticky doba bez možnosti útočit.
+- Gloombomb 02:58.232–03:03.236: záznamů dokončených vlastních schopností včetně automatických 3. Nejde o počet ručních stisků; celý efekt není automaticky doba bez možnosti útočit.
+- Gravebound 03:03.237–03:07.996: záznamů dokončených vlastních schopností včetně automatických 9. Nejde o počet ručních stisků; celý efekt není automaticky doba bez možnosti útočit.
+- Dreadmarch 05:05.821–05:07.865: záznamů dokončených vlastních schopností včetně automatických 1. Nejde o počet ručních stisků; celý efekt není automaticky doba bez možnosti útočit.
+- Gloombomb 07:01.311–07:06.319: záznamů dokončených vlastních schopností včetně automatických 6. Nejde o počet ručních stisků; celý efekt není automaticky doba bez možnosti útočit.
+- Gravebound 07:06.319–07:10.854: záznamů dokončených vlastních schopností včetně automatických 3. Nejde o počet ručních stisků; celý efekt není automaticky doba bez možnosti útočit.
+
+**Fobina-Drak'thul-EU**
+- Posouzených původních příkladů: 0; mezer mezi cooldowny: 0. Žádný překryv sám nezvyšuje jistotu výtky.
+- Unnerving Fixation 02:46.107–03:05.232: záznamů dokončených vlastních schopností včetně automatických 8. Nejde o počet ručních stisků; celý efekt není automaticky doba bez možnosti útočit.
+- Unnerving Fixation 05:12.398–05:45.327: záznamů dokončených vlastních schopností včetně automatických 22. Nejde o počet ručních stisků; celý efekt není automaticky doba bez možnosti útočit.
+
+**Nahollou-Drak'thul-EU**
+- Posouzených původních příkladů: 19; mezer mezi cooldowny: 1. Žádný překryv sám nezvyšuje jistotu výtky.
+- Gloombomb 02:58.232–03:03.236: záznamů dokončených vlastních schopností včetně automatických 3. Nejde o počet ručních stisků; celý efekt není automaticky doba bez možnosti útočit.
+- Gravebound 03:03.237–03:08.825: záznamů dokončených vlastních schopností včetně automatických 2. Nejde o počet ručních stisků; celý efekt není automaticky doba bez možnosti útočit.
+- Unnerving Fixation 05:11.970–05:45.327: záznamů dokončených vlastních schopností včetně automatických 25. Nejde o počet ručních stisků; celý efekt není automaticky doba bez možnosti útočit.
+- Gloombomb 05:54.637–05:59.661: záznamů dokončených vlastních schopností včetně automatických 5. Nejde o počet ručních stisků; celý efekt není automaticky doba bez možnosti útočit.
+- Gravebound 05:59.662–06:05.334: záznamů dokončených vlastních schopností včetně automatických 1. Nejde o počet ručních stisků; celý efekt není automaticky doba bez možnosti útočit.
+- Summon Demonic Tyrant 02:11.229–03:28.971: Gloombomb, Gravebound, Veil of Twilight, Deathguard, Soulbinding, Ghastly Regeneration. Nejde o potvrzený důvod odkladu ani zapomenuté použití.
+
+**Johnyhoudini-BurningBlade-EU**
+- Posouzených původních příkladů: 2; mezer mezi cooldowny: 2. Žádný překryv sám nezvyšuje jistotu výtky.
+- Volatile Venom 00:07.301–00:12.303: záznamů dokončených vlastních schopností včetně automatických 4. Nejde o počet ručních stisků; celý efekt není automaticky doba bez možnosti útočit.
+- Volatile Venom 00:51.259–00:56.261: záznamů dokončených vlastních schopností včetně automatických 3. Nejde o počet ručních stisků; celý efekt není automaticky doba bez možnosti útočit.
+- Volatile Venom 01:01.200–01:06.203: záznamů dokončených vlastních schopností včetně automatických 3. Nejde o počet ručních stisků; celý efekt není automaticky doba bez možnosti útočit.
+- Volatile Venom 01:35.596–01:40.603: záznamů dokončených vlastních schopností včetně automatických 5. Nejde o počet ručních stisků; celý efekt není automaticky doba bez možnosti útočit.
+- Dreadmarch 02:40.814–02:42.666: záznamů dokončených vlastních schopností včetně automatických 0. Nejde o počet ručních stisků; celý efekt není automaticky doba bez možnosti útočit.
+- Gloombomb 02:58.232–03:03.237: záznamů dokončených vlastních schopností včetně automatických 3. Nejde o počet ručních stisků; celý efekt není automaticky doba bez možnosti útočit.
+- Gravebound 03:03.237–03:09.645: záznamů dokončených vlastních schopností včetně automatických 4. Nejde o počet ručních stisků; celý efekt není automaticky doba bez možnosti útočit.
+- Volatile Venom 04:08.711–04:13.716: záznamů dokončených vlastních schopností včetně automatických 4. Nejde o počet ručních stisků; celý efekt není automaticky doba bez možnosti útočit.
+- Volatile Venom 04:55.621–05:00.612: záznamů dokončených vlastních schopností včetně automatických 5. Nejde o počet ručních stisků; celý efekt není automaticky doba bez možnosti útočit.
+- Volatile Venom 05:07.605–05:12.598: záznamů dokončených vlastních schopností včetně automatických 3. Nejde o počet ručních stisků; celý efekt není automaticky doba bez možnosti útočit.
+- Unnerving Fixation 05:11.164–05:45.328: záznamů dokončených vlastních schopností včetně automatických 24. Nejde o počet ručních stisků; celý efekt není automaticky doba bez možnosti útočit.
+- Volatile Venom 05:53.289–05:58.302: záznamů dokončených vlastních schopností včetně automatických 3. Nejde o počet ručních stisků; celý efekt není automaticky doba bez možnosti útočit.
+- Volatile Venom 06:18.162–06:19.749: záznamů dokončených vlastních schopností včetně automatických 2. Nejde o počet ručních stisků; celý efekt není automaticky doba bez možnosti útočit.
+- Volatile Venom 06:19.749–06:24.769: záznamů dokončených vlastních schopností včetně automatických 3. Nejde o počet ručních stisků; celý efekt není automaticky doba bez možnosti útočit.
+- Volatile Venom 06:35.037–06:40.050: záznamů dokončených vlastních schopností včetně automatických 3. Nejde o počet ručních stisků; celý efekt není automaticky doba bez možnosti útočit.
+- Unnerving Fixation 07:15.078–07:18.186: záznamů dokončených vlastních schopností včetně automatických 2. Nejde o počet ručních stisků; celý efekt není automaticky doba bez možnosti útočit.
+- Touch of the Magi 00:06.468–01:06.358: Volatile Venom. Nejde o potvrzený důvod odkladu ani zapomenuté použití.
+- Touch of the Magi 04:30.953–05:27.181: Soulbound, Veil of Twilight, Volatile Venom, Unnerving Fixation. Nejde o potvrzený důvod odkladu ani zapomenuté použití.
+
+**Slejhy-Drak'thul-EU**
+- Posouzených původních příkladů: 5; mezer mezi cooldowny: 3. Žádný překryv sám nezvyšuje jistotu výtky.
+- Volatile Venom 00:11.853–00:16.868: záznamů dokončených vlastních schopností včetně automatických 12. Nejde o počet ručních stisků; celý efekt není automaticky doba bez možnosti útočit.
+- Dreadmarch 02:04.272–02:05.560: záznamů dokončených vlastních schopností včetně automatických 0. Nejde o počet ručních stisků; celý efekt není automaticky doba bez možnosti útočit.
+- Unnerving Fixation 02:46.107–03:05.232: záznamů dokončených vlastních schopností včetně automatických 19. Nejde o počet ručních stisků; celý efekt není automaticky doba bez možnosti útočit.
+- Volatile Venom 04:09.160–04:14.173: záznamů dokončených vlastních schopností včetně automatických 3. Nejde o počet ručních stisků; celý efekt není automaticky doba bez možnosti útočit.
+- Volatile Venom 04:26.404–04:31.421: záznamů dokončených vlastních schopností včetně automatických 0. Nejde o počet ručních stisků; celý efekt není automaticky doba bez možnosti útočit.
+- Unnerving Fixation 05:11.164–05:45.327: záznamů dokončených vlastních schopností včetně automatických 37. Nejde o počet ručních stisků; celý efekt není automaticky doba bez možnosti útočit.
+- Unnerving Fixation 06:52.467–07:12.936: záznamů dokončených vlastních schopností včetně automatických 20. Nejde o počet ručních stisků; celý efekt není automaticky doba bez možnosti útočit.
+- Dreadmarch 07:12.936–07:14.872: záznamů dokončených vlastních schopností včetně automatických 0. Nejde o počet ručních stisků; celý efekt není automaticky doba bez možnosti útočit.
+- Deathmark 00:11.433–03:29.560: Volatile Venom, Dreadmarch, Unnerving Fixation, Veil of Twilight, Deathguard, Soulbinding, Ghastly Regeneration. Nejde o potvrzený důvod odkladu ani zapomenuté použití.
+- Deathmark 03:29.560–05:46.721: Deathguard, Soulbinding, Ghastly Regeneration, Soulbound, Volatile Venom, Veil of Twilight, Unnerving Fixation. Nejde o potvrzený důvod odkladu ani zapomenuté použití.
+- Kingsbane 01:13.208–02:28.881: Dreadmarch. Nejde o potvrzený důvod odkladu ani zapomenuté použití.
+
+**Corneilia-Sylvanas-EU**
+- Posouzených původních příkladů: 3; mezer mezi cooldowny: 2. Žádný překryv sám nezvyšuje jistotu výtky.
+- Volatile Venom 00:06.182–00:11.179: záznamů dokončených vlastních schopností včetně automatických 2. Nejde o počet ručních stisků; celý efekt není automaticky doba bez možnosti útočit.
+- Gloombomb 02:20.243–02:25.229: záznamů dokončených vlastních schopností včetně automatických 2. Nejde o počet ručních stisků; celý efekt není automaticky doba bez možnosti útočit.
+- Gravebound 02:25.248–02:30.264: záznamů dokončených vlastních schopností včetně automatických 2. Nejde o počet ručních stisků; celý efekt není automaticky doba bez možnosti útočit.
+- Unnerving Fixation 02:47.332–03:05.232: záznamů dokončených vlastních schopností včetně automatických 8. Nejde o počet ručních stisků; celý efekt není automaticky doba bez možnosti útočit.
+- Gloombomb 04:30.709–04:35.711: záznamů dokončených vlastních schopností včetně automatických 3. Nejde o počet ručních stisků; celý efekt není automaticky doba bez možnosti útočit.
+- Gravebound 04:35.713–04:40.739: záznamů dokončených vlastních schopností včetně automatických 3. Nejde o počet ručních stisků; celý efekt není automaticky doba bez možnosti útočit.
+- Unnerving Fixation 05:11.569–05:45.327: záznamů dokončených vlastních schopností včetně automatických 21. Nejde o počet ručních stisků; celý efekt není automaticky doba bez možnosti útočit.
+- Gloombomb 07:01.311–07:06.319: záznamů dokončených vlastních schopností včetně automatických 0. Nejde o počet ručních stisků; celý efekt není automaticky doba bez možnosti útočit.
+- Gravebound 07:06.319–07:10.421: záznamů dokončených vlastních schopností včetně automatických 1. Nejde o počet ručních stisků; celý efekt není automaticky doba bez možnosti útočit.
+- Unnerving Fixation 07:14.671–07:18.186: záznamů dokončených vlastních schopností včetně automatických 2. Nejde o počet ručních stisků; celý efekt není automaticky doba bez možnosti útočit.
+- Touch of the Magi 00:49.394–02:02.258: žádná sledovaná fáze nebo osobní mechanika. Nejde o potvrzený důvod odkladu ani zapomenuté použití.
+- Touch of the Magi 03:38.412–04:45.566: Deathguard, Soulbinding, Ghastly Regeneration, Soulbound, Gloombomb, Gravebound, Veil of Twilight. Nejde o potvrzený důvod odkladu ani zapomenuté použití.
+### Ula'tek · kill 5
+
+Porovnej burst s Venomous Heart a se svým přenášením Malignant Shell / Doomscale Shell nebo Grasping Fangs. Na bočních částech fightu jsou zaznamenané útoky na Wardens a další addy. Circling Prey označuje mechaniku platformy, nikoli přesnou délku tvého běhu.
+
+[Popis mechaniky](https://www.wowhead.com/ptr/guide/midnight/raids/venomous-abyss-ulatek-boss-strategy-abilities)
+
+- Změna průběhu: Caustic Waves · Ula'tek · 00:47.981–00:59.991.
+- Změna průběhu: Caustic Waves · Ula'tek · 01:40.001–01:52.006.
+- Změna průběhu: Rage of the Shackled · Ula'tek · 02:15.501–02:35.498.
+- Okno pro burst: Venomous Heart · Venomous Heart · 02:15.504–02:35.500.
+- Okno pro burst: Defect: Weakened · Weakened Doomscale · 03:49.239–04:34.375.
+- Okno pro burst: Defect: Weakened · Weakened Doomscale · 04:05.434–04:40.097.
+- Změna průběhu: Rage of the Shackled · Ula'tek · 04:44.483–05:04.481.
+- Okno pro burst: Venomous Heart · Venomous Heart · 04:44.487–05:04.486.
+- Změna průběhu: Rage of the Shackled · Ula'tek · 09:33.675–09:52.107.
+- Okno pro burst: Venomous Heart · Venomous Heart · 09:33.679–09:52.113. Odstranění nezaznamenané, konec oříznutý.
+
+**Vejr-Drak'thul-EU**
+- Posouzených původních příkladů: 1; mezer mezi cooldowny: 1. Žádný překryv sám nezvyšuje jistotu výtky.
+- Malignant Shell 00:01.394–00:30.538: záznamů dokončených vlastních schopností včetně automatických 23. Nejde o počet ručních stisků; celý efekt není automaticky doba bez možnosti útočit.
+- Malignant Shell 05:21.564–05:29.415: záznamů dokončených vlastních schopností včetně automatických 1. Nejde o počet ručních stisků; celý efekt není automaticky doba bez možnosti útočit.
+- Putrefy 02:34.909–03:27.205: Rage of the Shackled, Venomous Heart. Nejde o potvrzený důvod odkladu ani zapomenuté použití.
+
+**Theila-Drak'thul-EU**
+- Posouzených původních příkladů: 34; mezer mezi cooldowny: 1. Žádný překryv sám nezvyšuje jistotu výtky.
+- Malignant Shell 00:01.139–00:27.276: záznamů dokončených vlastních schopností včetně automatických 22. Nejde o počet ručních stisků; celý efekt není automaticky doba bez možnosti útočit.
+- Malignant Shell 03:38.046–03:45.821: záznamů dokončených vlastních schopností včetně automatických 3. Nejde o počet ručních stisků; celý efekt není automaticky doba bez možnosti útočit.
+- Malignant Shell 05:19.598–05:26.588: záznamů dokončených vlastních schopností včetně automatických 0. Nejde o počet ručních stisků; celý efekt není automaticky doba bez možnosti útočit.
+- Serpent's Bite 06:32.665–06:42.680: záznamů dokončených vlastních schopností včetně automatických 6. Nejde o počet ručních stisků; celý efekt není automaticky doba bez možnosti útočit.
+- Takedown 00:02.942–02:16.286: Malignant Shell, Caustic Waves, Rage of the Shackled, Venomous Heart. Nejde o potvrzený důvod odkladu ani zapomenuté použití.
+
+**Micaello-Drak'thul-EU**
+- Posouzených původních příkladů: 0; mezer mezi cooldowny: 0. Žádný překryv sám nezvyšuje jistotu výtky.
+- Grasping Fangs 03:14.084–03:21.346: záznamů dokončených vlastních schopností včetně automatických 5. Nejde o počet ručních stisků; celý efekt není automaticky doba bez možnosti útočit.
+- Malignant Shell 03:35.968–03:47.645: záznamů dokončených vlastních schopností včetně automatických 7. Nejde o počet ručních stisků; celý efekt není automaticky doba bez možnosti útočit.
+- Serpent's Bite 08:20.689–08:30.679: záznamů dokončených vlastních schopností včetně automatických 9. Nejde o počet ručních stisků; celý efekt není automaticky doba bez možnosti útočit.
+
+**Rhínö-Drak'thul-EU**
+- Posouzených původních příkladů: 2; mezer mezi cooldowny: 0. Žádný překryv sám nezvyšuje jistotu výtky.
+- Malignant Shell 01:24.997–02:02.417: záznamů dokončených vlastních schopností včetně automatických 28. Nejde o počet ručních stisků; celý efekt není automaticky doba bez možnosti útočit.
+- Malignant Shell 03:32.532–03:45.632: záznamů dokončených vlastních schopností včetně automatických 5. Nejde o počet ručních stisků; celý efekt není automaticky doba bez možnosti útočit.
+- Serpent's Bite 09:20.672–09:28.661: záznamů dokončených vlastních schopností včetně automatických 8. Nejde o počet ručních stisků; celý efekt není automaticky doba bez možnosti útočit.
+
+**Kirill-Drak'thul-EU**
+- Posouzených původních příkladů: 2; mezer mezi cooldowny: 2. Žádný překryv sám nezvyšuje jistotu výtky.
+- Malignant Shell 01:25.890–02:02.417: záznamů dokončených vlastních schopností včetně automatických 91. Nejde o počet ručních stisků; celý efekt není automaticky doba bez možnosti útočit.
+- Malignant Shell 03:33.834–03:47.012: záznamů dokončených vlastních schopností včetně automatických 34. Nejde o počet ručních stisků; celý efekt není automaticky doba bez možnosti útočit.
+- Soul Immolation 02:14.346–03:39.244: Rage of the Shackled, Venomous Heart, Malignant Shell. Nejde o potvrzený důvod odkladu ani zapomenuté použití.
+- Soul Immolation 08:07.401–09:43.512: Rage of the Shackled, Venomous Heart. Nejde o potvrzený důvod odkladu ani zapomenuté použití.
+
+**Kubéc-Drak'thul-EU**
+- Posouzených původních příkladů: 10; mezer mezi cooldowny: 0. Žádný překryv sám nezvyšuje jistotu výtky.
+- Grasping Fangs 03:11.279–03:17.034: záznamů dokončených vlastních schopností včetně automatických 5. Nejde o počet ručních stisků; celý efekt není automaticky doba bez možnosti útočit.
+- Malignant Shell 03:38.845–03:44.099: záznamů dokončených vlastních schopností včetně automatických 2. Nejde o počet ručních stisků; celý efekt není automaticky doba bez možnosti útočit.
+- Malignant Shell 05:20.782–05:29.416: záznamů dokončených vlastních schopností včetně automatických 1. Nejde o počet ručních stisků; celý efekt není automaticky doba bez možnosti útočit.
+
+**Odmin-Drak'thul-EU**
+- Posouzených původních příkladů: 11; mezer mezi cooldowny: 0. Žádný překryv sám nezvyšuje jistotu výtky.
+- Malignant Shell 01:28.388–02:05.255: záznamů dokončených vlastních schopností včetně automatických 36. Nejde o počet ručních stisků; celý efekt není automaticky doba bez možnosti útočit.
+- Malignant Shell 03:35.765–03:47.498: záznamů dokončených vlastních schopností včetně automatických 6. Nejde o počet ručních stisků; celý efekt není automaticky doba bez možnosti útočit.
+- Malignant Shell 05:20.633–05:29.416: záznamů dokončených vlastních schopností včetně automatických 2. Nejde o počet ručních stisků; celý efekt není automaticky doba bez možnosti útočit.
+- Serpent's Bite 09:20.672–09:29.664: záznamů dokončených vlastních schopností včetně automatických 11. Nejde o počet ručních stisků; celý efekt není automaticky doba bez možnosti útočit.
+
+**Galneryus-Drak'thul-EU**
+- Posouzených původních příkladů: 13; mezer mezi cooldowny: 8. Žádný překryv sám nezvyšuje jistotu výtky.
+- Malignant Shell 03:30.024–03:40.708: záznamů dokončených vlastních schopností včetně automatických 5. Nejde o počet ručních stisků; celý efekt není automaticky doba bez možnosti útočit.
+- Execution Sentence 02:16.606–03:44.254: Rage of the Shackled, Venomous Heart, Malignant Shell. Nejde o potvrzený důvod odkladu ani zapomenuté použití.
+- Execution Sentence 04:45.734–06:05.322: Rage of the Shackled, Venomous Heart. Nejde o potvrzený důvod odkladu ani zapomenuté použití.
+- Execution Sentence 08:15.741–09:38.096: Rage of the Shackled, Venomous Heart. Nejde o potvrzený důvod odkladu ani zapomenuté použití.
+- Divine Toll 02:21.193–03:50.542: Rage of the Shackled, Venomous Heart, Malignant Shell, Defect: Weakened. Nejde o potvrzený důvod odkladu ani zapomenuté použití.
+- Divine Toll 04:52.093–06:11.355: Rage of the Shackled, Venomous Heart. Nejde o potvrzený důvod odkladu ani zapomenuté použití.
+- Divine Toll 08:21.884–09:46.835: Rage of the Shackled, Venomous Heart. Nejde o potvrzený důvod odkladu ani zapomenuté použití.
+- Wake of Ashes 02:57.149–03:46.424: Malignant Shell. Nejde o potvrzený důvod odkladu ani zapomenuté použití.
+- Wake of Ashes 08:49.415–09:40.665: Rage of the Shackled, Venomous Heart. Nejde o potvrzený důvod odkladu ani zapomenuté použití.
+
+**Íácekpwn-Drak'thul-EU**
+- Posouzených původních příkladů: 2; mezer mezi cooldowny: 1. Žádný překryv sám nezvyšuje jistotu výtky.
+- Malignant Shell 01:22.028–02:05.255: záznamů dokončených vlastních schopností včetně automatických 51. Nejde o počet ručních stisků; celý efekt není automaticky doba bez možnosti útočit.
+- Serpent's Bite 06:32.665–06:38.665: záznamů dokončených vlastních schopností včetně automatických 11. Nejde o počet ručních stisků; celý efekt není automaticky doba bez možnosti útočit.
+- Halo 02:18.162–03:55.181: Rage of the Shackled, Venomous Heart, Defect: Weakened. Nejde o potvrzený důvod odkladu ani zapomenuté použití.
+
+**Omniblue-Drak'thul-EU**
+- Posouzených původních příkladů: 3; mezer mezi cooldowny: 2. Žádný překryv sám nezvyšuje jistotu výtky.
+- Grasping Fangs 03:14.084–03:28.852: záznamů dokončených vlastních schopností včetně automatických 15. Nejde o počet ručních stisků; celý efekt není automaticky doba bez možnosti útočit.
+- Power Infusion 02:20.062–04:50.024: Rage of the Shackled, Venomous Heart, Grasping Fangs, Defect: Weakened. Nejde o potvrzený důvod odkladu ani zapomenuté použití.
+- Power Infusion 04:50.024–07:23.097: Rage of the Shackled, Venomous Heart. Nejde o potvrzený důvod odkladu ani zapomenuté použití.
+
+**Fobina-Drak'thul-EU**
+- Posouzených původních příkladů: 0; mezer mezi cooldowny: 0. Žádný překryv sám nezvyšuje jistotu výtky.
+- Doomscale Shell 03:40.466–03:48.233: záznamů dokončených vlastních schopností včetně automatických 2. Nejde o počet ručních stisků; celý efekt není automaticky doba bez možnosti útočit.
+- Malignant Shell 05:21.136–05:29.415: záznamů dokončených vlastních schopností včetně automatických 1. Nejde o počet ručních stisků; celý efekt není automaticky doba bez možnosti útočit.
+
+**Nahollou-Drak'thul-EU**
+- Posouzených původních příkladů: 33; mezer mezi cooldowny: 4. Žádný překryv sám nezvyšuje jistotu výtky.
+- Malignant Shell 01:27.230–02:05.255: záznamů dokončených vlastních schopností včetně automatických 20. Nejde o počet ručních stisků; celý efekt není automaticky doba bez možnosti útočit.
+- Grasping Fangs 03:11.279–03:18.772: záznamů dokončených vlastních schopností včetně automatických 5. Nejde o počet ručních stisků; celý efekt není automaticky doba bez možnosti útočit.
+- Malignant Shell 03:31.042–03:37.876: záznamů dokončených vlastních schopností včetně automatických 1. Nejde o počet ručních stisků; celý efekt není automaticky doba bez možnosti útočit.
+- Summon Demonic Tyrant 02:22.447–04:47.169: Rage of the Shackled, Venomous Heart, Grasping Fangs, Malignant Shell, Defect: Weakened. Nejde o potvrzený důvod odkladu ani zapomenuté použití.
+- Summon Demonic Tyrant 04:47.169–06:16.635: Rage of the Shackled, Venomous Heart. Nejde o potvrzený důvod odkladu ani zapomenuté použití.
+- Grimoire 00:04.536–02:27.196: Caustic Waves, Malignant Shell, Rage of the Shackled, Venomous Heart. Nejde o potvrzený důvod odkladu ani zapomenuté použití.
+- Grimoire 02:27.196–04:49.131: Rage of the Shackled, Venomous Heart, Grasping Fangs, Malignant Shell, Defect: Weakened. Nejde o potvrzený důvod odkladu ani zapomenuté použití.
+
+**Johnyhoudini-BurningBlade-EU**
+- Posouzených původních příkladů: 4; mezer mezi cooldowny: 4. Žádný překryv sám nezvyšuje jistotu výtky.
+- Malignant Shell 00:02.635–00:30.538: záznamů dokončených vlastních schopností včetně automatických 23. Nejde o počet ručních stisků; celý efekt není automaticky doba bez možnosti útočit.
+- Malignant Shell 01:23.802–02:05.255: záznamů dokončených vlastních schopností včetně automatických 31. Nejde o počet ručních stisků; celý efekt není automaticky doba bez možnosti útočit.
+- Malignant Shell 03:28.952–03:34.904: záznamů dokončených vlastních schopností včetně automatických 3. Nejde o počet ručních stisků; celý efekt není automaticky doba bez možnosti útočit.
+- Doomscale Shell 03:59.889–04:04.411: záznamů dokončených vlastních schopností včetně automatických 2. Nejde o počet ručních stisků; celý efekt není automaticky doba bez možnosti útočit.
+- Malignant Shell 05:18.837–05:26.588: záznamů dokončených vlastních schopností včetně automatických 1. Nejde o počet ručních stisků; celý efekt není automaticky doba bez možnosti útočit.
+- Malignant Shell 05:29.194–05:33.864: záznamů dokončených vlastních schopností včetně automatických 4. Nejde o počet ručních stisků; celý efekt není automaticky doba bez možnosti útočit.
+- Malignant Shell 05:37.275–05:41.967: záznamů dokončených vlastních schopností včetně automatických 1. Nejde o počet ručních stisků; celý efekt není automaticky doba bez možnosti útočit.
+- Serpent's Bite 07:43.665–07:51.680: záznamů dokončených vlastních schopností včetně automatických 4. Nejde o počet ručních stisků; celý efekt není automaticky doba bez možnosti útočit.
+- Touch of the Magi 01:08.927–02:17.274: Malignant Shell, Caustic Waves, Rage of the Shackled, Venomous Heart. Nejde o potvrzený důvod odkladu ani zapomenuté použití.
+- Touch of the Magi 03:06.192–04:45.766: Malignant Shell, Defect: Weakened, Doomscale Shell, Rage of the Shackled, Venomous Heart. Nejde o potvrzený důvod odkladu ani zapomenuté použití.
+- Touch of the Magi 04:45.766–06:25.539: Rage of the Shackled, Venomous Heart, Malignant Shell. Nejde o potvrzený důvod odkladu ani zapomenuté použití.
+- Touch of the Magi 08:12.055–09:09.771: žádná sledovaná fáze nebo osobní mechanika. Nejde o potvrzený důvod odkladu ani zapomenuté použití.
+
+**Slejhy-Drak'thul-EU**
+- Posouzených původních příkladů: 12; mezer mezi cooldowny: 4. Žádný překryv sám nezvyšuje jistotu výtky.
+- Malignant Shell 03:36.148–03:44.218: záznamů dokončených vlastních schopností včetně automatických 1. Nejde o počet ručních stisků; celý efekt není automaticky doba bez možnosti útočit.
+- Malignant Shell 05:20.705–05:29.416: záznamů dokončených vlastních schopností včetně automatických 3. Nejde o počet ručních stisků; celý efekt není automaticky doba bez možnosti útočit.
+- Malignant Shell 05:30.530–05:37.094: záznamů dokončených vlastních schopností včetně automatických 2. Nejde o počet ručních stisků; celý efekt není automaticky doba bez možnosti útočit.
+- Malignant Shell 05:41.221–05:44.387: záznamů dokončených vlastních schopností včetně automatických 1. Nejde o počet ručních stisků; celý efekt není automaticky doba bez možnosti útočit.
+- Serpent's Bite 07:43.665–07:51.680: záznamů dokončených vlastních schopností včetně automatických 10. Nejde o počet ručních stisků; celý efekt není automaticky doba bez možnosti útočit.
+- Serpent's Bite 08:20.689–08:27.683: záznamů dokončených vlastních schopností včetně automatických 10. Nejde o počet ručních stisků; celý efekt není automaticky doba bez možnosti útočit.
+- Deathmark 02:16.418–04:52.177: Rage of the Shackled, Venomous Heart, Malignant Shell, Defect: Weakened. Nejde o potvrzený důvod odkladu ani zapomenuté použití.
+- Deathmark 04:52.177–07:19.761: Rage of the Shackled, Venomous Heart, Malignant Shell. Nejde o potvrzený důvod odkladu ani zapomenuté použití.
+- Kingsbane 02:17.541–04:53.146: Rage of the Shackled, Venomous Heart, Malignant Shell, Defect: Weakened. Nejde o potvrzený důvod odkladu ani zapomenuté použití.
+- Kingsbane 04:53.146–07:20.732: Rage of the Shackled, Venomous Heart, Malignant Shell. Nejde o potvrzený důvod odkladu ani zapomenuté použití.
+
+**Corneilia-Sylvanas-EU**
+- Posouzených původních příkladů: 5; mezer mezi cooldowny: 5. Žádný překryv sám nezvyšuje jistotu výtky.
+- Malignant Shell 01:23.988–02:05.255: záznamů dokončených vlastních schopností včetně automatických 24. Nejde o počet ručních stisků; celý efekt není automaticky doba bez možnosti útočit.
+- Grasping Fangs 03:11.279–03:17.529: záznamů dokončených vlastních schopností včetně automatických 2. Nejde o počet ručních stisků; celý efekt není automaticky doba bez možnosti útočit.
+- Malignant Shell 05:20.450–05:29.415: záznamů dokončených vlastních schopností včetně automatických 2. Nejde o počet ručních stisků; celý efekt není automaticky doba bez možnosti útočit.
+- Touch of the Magi 00:51.750–02:17.741: Caustic Waves, Malignant Shell, Rage of the Shackled, Venomous Heart. Nejde o potvrzený důvod odkladu ani zapomenuté použití.
+- Touch of the Magi 03:03.096–04:48.175: Grasping Fangs, Defect: Weakened, Rage of the Shackled, Venomous Heart. Nejde o potvrzený důvod odkladu ani zapomenuté použití.
+- Touch of the Magi 04:48.175–06:25.235: Rage of the Shackled, Venomous Heart, Malignant Shell. Nejde o potvrzený důvod odkladu ani zapomenuté použití.
+- Touch of the Magi 07:16.811–08:16.411: žádná sledovaná fáze nebo osobní mechanika. Nejde o potvrzený důvod odkladu ani zapomenuté použití.
+- Touch of the Magi 08:16.411–09:37.337: Rage of the Shackled, Venomous Heart. Nejde o potvrzený důvod odkladu ani zapomenuté použití.
+### Kith'ix · kill 9
+
+Burst porovnej s addy a vlastní Luminous Grace. U Unspeakable Horrors, Abyssal Grasp nebo Null Gate zohledni svoji mechaniku. Útok peta nebo DoT během mechaniky nedokazuje, že jsi mohl stát a castovat. Podrobné Kith'ix rady zůstávají níže samostatně.
+
+[Popis mechaniky](https://www.wowhead.com/npc=267861/kithix/normal-encounter-journal)
+
+- Změna průběhu: Voidswarm · Kith'ix · 00:05.000–00:11.014.
+- Změna průběhu: Voidswarm · Kith'ix · 01:53.985–01:59.998.
+
+**Vejr-Drak'thul-EU**
+- Posouzených původních příkladů: 2; mezer mezi cooldowny: 1. Žádný překryv sám nezvyšuje jistotu výtky.
+- Abyssal Grasp 01:02.009–01:07.335: záznamů dokončených vlastních schopností včetně automatických 5. Nejde o počet ručních stisků; celý efekt není automaticky doba bez možnosti útočit.
+- Unspeakable Horrors 02:58.973–03:04.968: záznamů dokončených vlastních schopností včetně automatických 2. Nejde o počet ručních stisků; celý efekt není automaticky doba bez možnosti útočit.
+- Overwhelming Fear 03:04.968–03:08.887: záznamů dokončených vlastních schopností včetně automatických 0. Nejde o počet ručních stisků; celý efekt není automaticky doba bez možnosti útočit.
+- Abyssal Grasp 03:17.976–03:23.941: záznamů dokončených vlastních schopností včetně automatických 4. Nejde o počet ručních stisků; celý efekt není automaticky doba bez možnosti útočit.
+- Luminous Grace 03:47.698–04:28.411: záznamů dokončených vlastních schopností včetně automatických 31. Nejde o počet ručních stisků; celý efekt není automaticky doba bez možnosti útočit.
+- Null Gate 04:11.700–04:16.716: záznamů dokončených vlastních schopností včetně automatických 4. Nejde o počet ručních stisků; celý efekt není automaticky doba bez možnosti útočit.
+- Putrefy 02:36.427–03:20.478: Unspeakable Horrors, Overwhelming Fear, Abyssal Grasp. Nejde o potvrzený důvod odkladu ani zapomenuté použití.
+
+**Theila-Drak'thul-EU**
+- Posouzených původních příkladů: 16; mezer mezi cooldowny: 0. Žádný překryv sám nezvyšuje jistotu výtky.
+- Abyssal Grasp 01:02.009–01:06.848: záznamů dokončených vlastních schopností včetně automatických 4. Nejde o počet ručních stisků; celý efekt není automaticky doba bez možnosti útočit.
+- Unspeakable Horrors 02:26.007–02:32.007: záznamů dokončených vlastních schopností včetně automatických 3. Nejde o počet ručních stisků; celý efekt není automaticky doba bez možnosti útočit.
+- Overwhelming Fear 02:32.008–02:35.425: záznamů dokončených vlastních schopností včetně automatických 0. Nejde o počet ručních stisků; celý efekt není automaticky doba bez možnosti útočit.
+- Abyssal Grasp 02:50.990–02:54.403: záznamů dokončených vlastních schopností včetně automatických 3. Nejde o počet ručních stisků; celý efekt není automaticky doba bez možnosti útočit.
+- Luminous Grace 03:47.697–04:28.411: záznamů dokončených vlastních schopností včetně automatických 28. Nejde o počet ručních stisků; celý efekt není automaticky doba bez možnosti útočit.
+
+**Micaello-Drak'thul-EU**
+- Posouzených původních příkladů: 0; mezer mezi cooldowny: 0. Žádný překryv sám nezvyšuje jistotu výtky.
+- Unspeakable Horrors 01:10.004–01:16.010: záznamů dokončených vlastních schopností včetně automatických 2. Nejde o počet ručních stisků; celý efekt není automaticky doba bez možnosti útočit.
+- Overwhelming Fear 01:16.012–01:17.809: záznamů dokončených vlastních schopností včetně automatických 0. Nejde o počet ručních stisků; celý efekt není automaticky doba bez možnosti útočit.
+- Abyssal Grasp 03:17.976–03:24.516: záznamů dokončených vlastních schopností včetně automatických 4. Nejde o počet ručních stisků; celý efekt není automaticky doba bez možnosti útočit.
+- Luminous Grace 03:47.698–04:28.411: záznamů dokončených vlastních schopností včetně automatických 32. Nejde o počet ručních stisků; celý efekt není automaticky doba bez možnosti útočit.
+- Null Gate 04:11.700–04:16.717: záznamů dokončených vlastních schopností včetně automatických 5. Nejde o počet ručních stisků; celý efekt není automaticky doba bez možnosti útočit.
+
+**Rhínö-Drak'thul-EU**
+- Posouzených původních příkladů: 0; mezer mezi cooldowny: 0. Žádný překryv sám nezvyšuje jistotu výtky.
+- Abyssal Grasp 01:28.995–01:32.968: záznamů dokončených vlastních schopností včetně automatických 4. Nejde o počet ručních stisků; celý efekt není automaticky doba bez možnosti útočit.
+- Luminous Grace 03:47.698–04:28.411: záznamů dokončených vlastních schopností včetně automatických 35. Nejde o počet ručních stisků; celý efekt není automaticky doba bez možnosti útočit.
+
+**Kirill-Drak'thul-EU**
+- Posouzených původních příkladů: 0; mezer mezi cooldowny: 0. Žádný překryv sám nezvyšuje jistotu výtky.
+- Abyssal Grasp 01:28.995–01:32.315: záznamů dokončených vlastních schopností včetně automatických 5. Nejde o počet ručních stisků; celý efekt není automaticky doba bez možnosti útočit.
+- Luminous Grace 03:47.698–04:28.411: záznamů dokončených vlastních schopností včetně automatických 91. Nejde o počet ručních stisků; celý efekt není automaticky doba bez možnosti útočit.
+- Null Gate 04:01.721–04:06.718: záznamů dokončených vlastních schopností včetně automatických 12. Nejde o počet ručních stisků; celý efekt není automaticky doba bez možnosti útočit.
+
+**Kubéc-Drak'thul-EU**
+- Posouzených původních příkladů: 5; mezer mezi cooldowny: 0. Žádný překryv sám nezvyšuje jistotu výtky.
+- Unspeakable Horrors 00:37.012–00:43.007: záznamů dokončených vlastních schopností včetně automatických 5. Nejde o počet ručních stisků; celý efekt není automaticky doba bez možnosti útočit.
+- Overwhelming Fear 00:43.007–00:44.272: záznamů dokončených vlastních schopností včetně automatických 0. Nejde o počet ručních stisků; celý efekt není automaticky doba bez možnosti útočit.
+- Luminous Grace 03:47.697–04:28.411: záznamů dokončených vlastních schopností včetně automatických 34. Nejde o počet ručních stisků; celý efekt není automaticky doba bez možnosti útočit.
+- Null Gate 04:01.721–04:06.718: záznamů dokončených vlastních schopností včetně automatických 1. Nejde o počet ručních stisků; celý efekt není automaticky doba bez možnosti útočit.
+
+**Odmin-Drak'thul-EU**
+- Posouzených původních příkladů: 3; mezer mezi cooldowny: 1. Žádný překryv sám nezvyšuje jistotu výtky.
+- Abyssal Grasp 01:28.995–01:33.271: záznamů dokončených vlastních schopností včetně automatických 6. Nejde o počet ručních stisků; celý efekt není automaticky doba bez možnosti útočit.
+- Abyssal Grasp 02:50.990–02:53.779: záznamů dokončených vlastních schopností včetně automatických 3. Nejde o počet ručních stisků; celý efekt není automaticky doba bez možnosti útočit.
+- Luminous Grace 03:47.698–04:28.411: záznamů dokončených vlastních schopností včetně automatických 40. Nejde o počet ručních stisků; celý efekt není automaticky doba bez možnosti útočit.
+- Null Gate 04:21.735–04:26.741: záznamů dokončených vlastních schopností včetně automatických 6. Nejde o počet ručních stisků; celý efekt není automaticky doba bez možnosti útočit.
+- Essence Break 00:41.968–01:35.334: Abyssal Grasp. Nejde o potvrzený důvod odkladu ani zapomenuté použití.
+
+**Galneryus-Drak'thul-EU**
+- Posouzených původních příkladů: 2; mezer mezi cooldowny: 0. Žádný překryv sám nezvyšuje jistotu výtky.
+- Abyssal Grasp 02:50.990–02:54.268: záznamů dokončených vlastních schopností včetně automatických 6. Nejde o počet ručních stisků; celý efekt není automaticky doba bez možnosti útočit.
+- Luminous Grace 03:47.698–04:28.411: záznamů dokončených vlastních schopností včetně automatických 69. Nejde o počet ručních stisků; celý efekt není automaticky doba bez možnosti útočit.
+- Null Gate 03:51.698–03:56.697: záznamů dokončených vlastních schopností včetně automatických 8. Nejde o počet ručních stisků; celý efekt není automaticky doba bez možnosti útočit.
+
+**Omniblue-Drak'thul-EU**
+- Posouzených původních příkladů: 1; mezer mezi cooldowny: 0. Žádný překryv sám nezvyšuje jistotu výtky.
+- Unspeakable Horrors 00:37.012–00:43.007: záznamů dokončených vlastních schopností včetně automatických 5. Nejde o počet ručních stisků; celý efekt není automaticky doba bez možnosti útočit.
+- Overwhelming Fear 00:43.007–00:44.709: záznamů dokončených vlastních schopností včetně automatických 0. Nejde o počet ručních stisků; celý efekt není automaticky doba bez možnosti útočit.
+- Abyssal Grasp 01:02.009–01:03.712: záznamů dokončených vlastních schopností včetně automatických 6. Nejde o počet ručních stisků; celý efekt není automaticky doba bez možnosti útočit.
+- Abyssal Grasp 03:17.976–03:25.977: záznamů dokončených vlastních schopností včetně automatických 10. Nejde o počet ručních stisků; celý efekt není automaticky doba bez možnosti útočit.
+- Luminous Grace 03:47.698–04:28.411: záznamů dokončených vlastních schopností včetně automatických 58. Nejde o počet ručních stisků; celý efekt není automaticky doba bez možnosti útočit.
+
+**Fobina-Drak'thul-EU**
+- Posouzených původních příkladů: 0; mezer mezi cooldowny: 0. Žádný překryv sám nezvyšuje jistotu výtky.
+- Abyssal Grasp 01:28.995–01:32.673: záznamů dokončených vlastních schopností včetně automatických 2. Nejde o počet ručních stisků; celý efekt není automaticky doba bez možnosti útočit.
+- Abyssal Grasp 02:50.990–02:53.305: záznamů dokončených vlastních schopností včetně automatických 2. Nejde o počet ručních stisků; celý efekt není automaticky doba bez možnosti útočit.
+- Luminous Grace 03:47.698–04:28.411: záznamů dokončených vlastních schopností včetně automatických 18. Nejde o počet ručních stisků; celý efekt není automaticky doba bez možnosti útočit.
+- Null Gate 04:21.734–04:26.742: záznamů dokončených vlastních schopností včetně automatických 0. Nejde o počet ručních stisků; celý efekt není automaticky doba bez možnosti útočit.
+
+**Nahollou-Drak'thul-EU**
+- Posouzených původních příkladů: 18; mezer mezi cooldowny: 1. Žádný překryv sám nezvyšuje jistotu výtky.
+- Abyssal Grasp 03:17.976–03:20.831: záznamů dokončených vlastních schopností včetně automatických 0. Nejde o počet ručních stisků; celý efekt není automaticky doba bez možnosti útočit.
+- Luminous Grace 03:47.698–04:22.454: záznamů dokončených vlastních schopností včetně automatických 19. Nejde o počet ručních stisků; celý efekt není automaticky doba bez možnosti útočit.
+- Grimoire 00:05.931–02:36.728: Voidswarm. Nejde o potvrzený důvod odkladu ani zapomenuté použití.
+
+**Iacek-Drak'thul-EU**
+- Posouzených původních příkladů: 0; mezer mezi cooldowny: 0. Žádný překryv sám nezvyšuje jistotu výtky.
+- Abyssal Grasp 01:28.995–01:35.176: záznamů dokončených vlastních schopností včetně automatických 4. Nejde o počet ručních stisků; celý efekt není automaticky doba bez možnosti útočit.
+- Unspeakable Horrors 02:26.007–02:32.007: záznamů dokončených vlastních schopností včetně automatických 2. Nejde o počet ručních stisků; celý efekt není automaticky doba bez možnosti útočit.
+- Overwhelming Fear 02:32.008–02:34.629: záznamů dokončených vlastních schopností včetně automatických 0. Nejde o počet ručních stisků; celý efekt není automaticky doba bez možnosti útočit.
+- Abyssal Grasp 02:50.990–02:53.305: záznamů dokončených vlastních schopností včetně automatických 2. Nejde o počet ručních stisků; celý efekt není automaticky doba bez možnosti útočit.
+- Luminous Grace 03:47.697–04:28.411: záznamů dokončených vlastních schopností včetně automatických 29. Nejde o počet ručních stisků; celý efekt není automaticky doba bez možnosti útočit.
+
+**Johnyhoudini-BurningBlade-EU**
+- Posouzených původních příkladů: 1; mezer mezi cooldowny: 0. Žádný překryv sám nezvyšuje jistotu výtky.
+- Luminous Grace 03:47.698–04:28.411: záznamů dokončených vlastních schopností včetně automatických 31. Nejde o počet ručních stisků; celý efekt není automaticky doba bez možnosti útočit.
+- Null Gate 03:51.698–03:56.698: záznamů dokončených vlastních schopností včetně automatických 4. Nejde o počet ručních stisků; celý efekt není automaticky doba bez možnosti útočit.
+
+**Slejhy-Drak'thul-EU**
+- Posouzených původních příkladů: 6; mezer mezi cooldowny: 2. Žádný překryv sám nezvyšuje jistotu výtky.
+- Unspeakable Horrors 01:10.004–01:16.010: záznamů dokončených vlastních schopností včetně automatických 3. Nejde o počet ručních stisků; celý efekt není automaticky doba bez možnosti útočit.
+- Abyssal Grasp 01:28.995–01:32.733: záznamů dokončených vlastních schopností včetně automatických 7. Nejde o počet ručních stisků; celý efekt není automaticky doba bez možnosti útočit.
+- Luminous Grace 03:47.698–04:28.411: záznamů dokončených vlastních schopností včetně automatických 61. Nejde o počet ručních stisků; celý efekt není automaticky doba bez možnosti útočit.
+- Deathmark 00:11.659–02:42.710: Unspeakable Horrors, Abyssal Grasp, Voidswarm. Nejde o potvrzený důvod odkladu ani zapomenuté použití.
+- Kingsbane 01:09.918–02:41.692: Unspeakable Horrors, Abyssal Grasp, Voidswarm. Nejde o potvrzený důvod odkladu ani zapomenuté použití.
+
+**Corneilia-Sylvanas-EU**
+- Posouzených původních příkladů: 1; mezer mezi cooldowny: 0. Žádný překryv sám nezvyšuje jistotu výtky.
+- Abyssal Grasp 01:02.009–01:05.334: záznamů dokončených vlastních schopností včetně automatických 1. Nejde o počet ručních stisků; celý efekt není automaticky doba bez možnosti útočit.
+- Unspeakable Horrors 02:58.973–03:04.968: záznamů dokončených vlastních schopností včetně automatických 2. Nejde o počet ručních stisků; celý efekt není automaticky doba bez možnosti útočit.
+- Overwhelming Fear 03:04.968–03:06.844: záznamů dokončených vlastních schopností včetně automatických 0. Nejde o počet ručních stisků; celý efekt není automaticky doba bez možnosti útočit.
+- Abyssal Grasp 03:17.976–03:22.846: záznamů dokončených vlastních schopností včetně automatických 1. Nejde o počet ručních stisků; celý efekt není automaticky doba bez možnosti útočit.
+- Luminous Grace 03:47.698–04:28.411: záznamů dokončených vlastních schopností včetně automatických 27. Nejde o počet ručních stisků; celý efekt není automaticky doba bez možnosti útočit.
+### Entombed Sentinels · kill 11
+
+Dva bossové neznamenají dva cíle ve tvém dosahu. Během Vitriolic Stasis mají Sentinels výrazně snížené přijaté poškození; Ula'tek's Dominance je další omezení konkrétního cíle. Mark of Acid / Blood sám nepotvrzuje odbíhání. Pozorované zásahy do Venom Coagulation ukazujeme odděleně.
+
+[Popis mechaniky](https://www.wowhead.com/npc=258558/blood-of-ulatek/normal-encounter-journal)
+
+- Snížené poškození do cíle: Vitriolic Stasis · Breath of Ula'tek · 00:46.206–00:59.213.
+- Snížené poškození do cíle: Vitriolic Stasis · Blood of Ula'tek · 00:46.207–00:59.217.
+- Snížené poškození do cíle: Vitriolic Stasis · Breath of Ula'tek · 02:30.222–02:43.201.
+- Snížené poškození do cíle: Vitriolic Stasis · Blood of Ula'tek · 02:30.223–02:43.197.
+- Snížené poškození do cíle: Ula'tek's Dominance · Breath of Ula'tek · 02:48.215–02:51.222.
+- Snížené poškození do cíle: Ula'tek's Dominance · Blood of Ula'tek · 02:48.215–02:51.222.
+- Snížené poškození do cíle: Vitriolic Stasis · Breath of Ula'tek · 04:14.212–04:27.202.
+- Snížené poškození do cíle: Vitriolic Stasis · Blood of Ula'tek · 04:14.213–04:27.206.
+
+**Vejr-Drak'thul-EU**
+- Posouzených původních příkladů: 0; mezer mezi cooldowny: 0. Žádný překryv sám nezvyšuje jistotu výtky.
+- Helical Toxins 00:46.256–00:59.052: záznamů dokončených vlastních schopností včetně automatických 0. Nejde o počet ručních stisků; celý efekt není automaticky doba bez možnosti útočit.
+- Helical Toxins 02:30.410–02:34.695: záznamů dokončených vlastních schopností včetně automatických 0. Nejde o počet ručních stisků; celý efekt není automaticky doba bez možnosti útočit.
+- Helical Toxins 04:14.237–04:16.372: záznamů dokončených vlastních schopností včetně automatických 0. Nejde o počet ručních stisků; celý efekt není automaticky doba bez možnosti útočit.
+
+**Theila-Drak'thul-EU**
+- Posouzených původních příkladů: 16; mezer mezi cooldowny: 0. Žádný překryv sám nezvyšuje jistotu výtky.
+- Helical Toxins 02:30.266–02:42.473: záznamů dokončených vlastních schopností včetně automatických 3. Nejde o počet ručních stisků; celý efekt není automaticky doba bez možnosti útočit.
+- Helical Toxins 04:14.389–04:18.149: záznamů dokončených vlastních schopností včetně automatických 2. Nejde o počet ručních stisků; celý efekt není automaticky doba bez možnosti útočit.
+
+**Hrbaty-Drak'thul-EU**
+- Posouzených původních příkladů: 0; mezer mezi cooldowny: 0. Žádný překryv sám nezvyšuje jistotu výtky.
+- Helical Toxins 00:46.208–00:48.803: záznamů dokončených vlastních schopností včetně automatických 1. Nejde o počet ručních stisků; celý efekt není automaticky doba bez možnosti útočit.
+- Helical Toxins 02:30.377–02:41.516: záznamů dokončených vlastních schopností včetně automatických 2. Nejde o počet ručních stisků; celý efekt není automaticky doba bez možnosti útočit.
+- Helical Toxins 04:14.239–04:22.210: záznamů dokončených vlastních schopností včetně automatických 3. Nejde o počet ručních stisků; celý efekt není automaticky doba bez možnosti útočit.
+
+**Micaello-Drak'thul-EU**
+- Posouzených původních příkladů: 0; mezer mezi cooldowny: 0. Žádný překryv sám nezvyšuje jistotu výtky.
+- Helical Toxins 00:46.372–00:55.334: záznamů dokončených vlastních schopností včetně automatických 5. Nejde o počet ručních stisků; celý efekt není automaticky doba bez možnosti útočit.
+- Helical Toxins 02:30.378–02:32.947: záznamů dokončených vlastních schopností včetně automatických 1. Nejde o počet ručních stisků; celý efekt není automaticky doba bez možnosti útočit.
+- Unstable Miasma 03:01.806–03:09.826: záznamů dokončených vlastních schopností včetně automatických 6. Nejde o počet ručních stisků; celý efekt není automaticky doba bez možnosti útočit.
+
+**Rhínö-Drak'thul-EU**
+- Posouzených původních příkladů: 4; mezer mezi cooldowny: 0. Žádný překryv sám nezvyšuje jistotu výtky.
+- Helical Toxins 00:46.400–00:52.395: záznamů dokončených vlastních schopností včetně automatických 3. Nejde o počet ručních stisků; celý efekt není automaticky doba bez možnosti útočit.
+- Unstable Miasma 01:59.414–02:07.418: záznamů dokončených vlastních schopností včetně automatických 7. Nejde o počet ručních stisků; celý efekt není automaticky doba bez možnosti útočit.
+- Helical Toxins 02:30.224–02:42.473: záznamů dokončených vlastních schopností včetně automatických 9. Nejde o počet ručních stisků; celý efekt není automaticky doba bez možnosti útočit.
+- Helical Toxins 04:14.304–04:22.210: záznamů dokončených vlastních schopností včetně automatických 5. Nejde o počet ručních stisků; celý efekt není automaticky doba bez možnosti útočit.
+
+**Kirill-Drak'thul-EU**
+- Posouzených původních příkladů: 0; mezer mezi cooldowny: 0. Žádný překryv sám nezvyšuje jistotu výtky.
+- Helical Toxins 00:46.396–00:52.395: záznamů dokončených vlastních schopností včetně automatických 10. Nejde o počet ručních stisků; celý efekt není automaticky doba bez možnosti útočit.
+- Helical Toxins 02:30.298–02:58.290: záznamů dokončených vlastních schopností včetně automatických 46. Nejde o počet ručních stisků; celý efekt není automaticky doba bez možnosti útočit.
+- Helical Toxins 04:14.359–04:20.890: záznamů dokončených vlastních schopností včetně automatických 12. Nejde o počet ručních stisků; celý efekt není automaticky doba bez možnosti útočit.
+
+**Kubéc-Drak'thul-EU**
+- Posouzených původních příkladů: 18; mezer mezi cooldowny: 0. Žádný překryv sám nezvyšuje jistotu výtky.
+- Helical Toxins 00:46.401–00:49.214: záznamů dokončených vlastních schopností včetně automatických 0. Nejde o počet ručních stisků; celý efekt není automaticky doba bez možnosti útočit.
+- Helical Toxins 02:30.299–02:34.068: záznamů dokončených vlastních schopností včetně automatických 0. Nejde o počet ručních stisků; celý efekt není automaticky doba bez možnosti útočit.
+- Helical Toxins 04:14.272–04:17.586: záznamů dokončených vlastních schopností včetně automatických 0. Nejde o počet ručních stisků; celý efekt není automaticky doba bez možnosti útočit.
+
+**Odmin-Drak'thul-EU**
+- Posouzených původních příkladů: 3; mezer mezi cooldowny: 0. Žádný překryv sám nezvyšuje jistotu výtky.
+- Unstable Miasma 00:18.225–00:26.225: záznamů dokončených vlastních schopností včetně automatických 10. Nejde o počet ručních stisků; celý efekt není automaticky doba bez možnosti útočit.
+- Helical Toxins 00:46.345–00:49.215: záznamů dokončených vlastních schopností včetně automatických 0. Nejde o počet ručních stisků; celý efekt není automaticky doba bez možnosti útočit.
+- Helical Toxins 02:30.336–02:39.317: záznamů dokončených vlastních schopností včetně automatických 0. Nejde o počet ručních stisků; celý efekt není automaticky doba bez možnosti útočit.
+- Helical Toxins 04:14.303–04:20.890: záznamů dokončených vlastních schopností včetně automatických 1. Nejde o počet ručních stisků; celý efekt není automaticky doba bez možnosti útočit.
+
+**Galneryus-Drak'thul-EU**
+- Posouzených původních příkladů: 5; mezer mezi cooldowny: 3. Žádný překryv sám nezvyšuje jistotu výtky.
+- Helical Toxins 00:46.344–00:53.492: záznamů dokončených vlastních schopností včetně automatických 0. Nejde o počet ručních stisků; celý efekt není automaticky doba bez možnosti útočit.
+- Helical Toxins 02:30.378–02:41.516: záznamů dokončených vlastních schopností včetně automatických 3. Nejde o počet ručních stisků; celý efekt není automaticky doba bez možnosti útočit.
+- Helical Toxins 04:14.360–04:18.150: záznamů dokončených vlastních schopností včetně automatických 1. Nejde o počet ručních stisků; celý efekt není automaticky doba bez možnosti útočit.
+- Execution Sentence 03:07.796–04:28.307: Vitriolic Stasis, Helical Toxins. Nejde o potvrzený důvod odkladu ani zapomenuté použití.
+- Divine Toll 03:13.814–04:32.952: Vitriolic Stasis, Helical Toxins. Nejde o potvrzený důvod odkladu ani zapomenuté použití.
+- Wake of Ashes 03:48.406–04:30.212: Vitriolic Stasis, Helical Toxins. Nejde o potvrzený důvod odkladu ani zapomenuté použití.
+
+**Íácekpwn-Drak'thul-EU**
+- Posouzených původních příkladů: 0; mezer mezi cooldowny: 0. Žádný překryv sám nezvyšuje jistotu výtky.
+- Helical Toxins 00:46.317–00:56.192: záznamů dokončených vlastních schopností včetně automatických 2. Nejde o počet ručních stisků; celý efekt není automaticky doba bez možnosti útočit.
+- Helical Toxins 02:30.410–02:32.947: záznamů dokončených vlastních schopností včetně automatických 2. Nejde o počet ručních stisků; celý efekt není automaticky doba bez možnosti útočit.
+- Helical Toxins 04:14.241–04:16.085: záznamů dokončených vlastních schopností včetně automatických 1. Nejde o počet ručních stisků; celý efekt není automaticky doba bez možnosti útočit.
+
+**Omniblue-Drak'thul-EU**
+- Posouzených původních příkladů: 3; mezer mezi cooldowny: 1. Žádný překryv sám nezvyšuje jistotu výtky.
+- Helical Toxins 00:46.317–00:50.635: záznamů dokončených vlastních schopností včetně automatických 3. Nejde o počet ručních stisků; celý efekt není automaticky doba bez možnosti útočit.
+- Helical Toxins 02:30.265–02:58.287: záznamů dokončených vlastních schopností včetně automatických 27. Nejde o počet ručních stisků; celý efekt není automaticky doba bez možnosti útočit.
+- Helical Toxins 04:14.273–04:24.805: záznamů dokončených vlastních schopností včetně automatických 4. Nejde o počet ručních stisků; celý efekt není automaticky doba bez možnosti útočit.
+- Power Infusion 00:06.227–02:59.807: Vitriolic Stasis, Helical Toxins, Ula'tek's Dominance. Nejde o potvrzený důvod odkladu ani zapomenuté použití.
+
+**Fobina-Drak'thul-EU**
+- Posouzených původních příkladů: 0; mezer mezi cooldowny: 0. Žádný překryv sám nezvyšuje jistotu výtky.
+- Helical Toxins 00:46.283–00:59.052: záznamů dokončených vlastních schopností včetně automatických 5. Nejde o počet ručních stisků; celý efekt není automaticky doba bez možnosti útočit.
+- Helical Toxins 04:14.305–04:16.085: záznamů dokončených vlastních schopností včetně automatických 1. Nejde o počet ručních stisků; celý efekt není automaticky doba bez možnosti útočit.
+
+**Nahollou-Drak'thul-EU**
+- Posouzených původních příkladů: 24; mezer mezi cooldowny: 2. Žádný překryv sám nezvyšuje jistotu výtky.
+- Helical Toxins 00:46.342–00:50.266: záznamů dokončených vlastních schopností včetně automatických 1. Nejde o počet ručních stisků; celý efekt není automaticky doba bez možnosti útočit.
+- Helical Toxins 02:30.378–02:34.695: záznamů dokončených vlastních schopností včetně automatických 2. Nejde o počet ručních stisků; celý efekt není automaticky doba bez možnosti útočit.
+- Helical Toxins 04:14.388–04:25.169: záznamů dokončených vlastních schopností včetně automatických 5. Nejde o počet ručních stisků; celý efekt není automaticky doba bez možnosti útočit.
+- Summon Demonic Tyrant 03:16.415–04:30.878: Vitriolic Stasis, Helical Toxins. Nejde o potvrzený důvod odkladu ani zapomenuté použití.
+- Grimoire 02:13.043–04:33.264: Vitriolic Stasis, Helical Toxins, Ula'tek's Dominance. Nejde o potvrzený důvod odkladu ani zapomenuté použití.
+
+**Johnyhoudini-BurningBlade-EU**
+- Posouzených původních příkladů: 1; mezer mezi cooldowny: 1. Žádný překryv sám nezvyšuje jistotu výtky.
+- Helical Toxins 00:46.255–00:56.192: záznamů dokončených vlastních schopností včetně automatických 6. Nejde o počet ručních stisků; celý efekt není automaticky doba bez možnosti útočit.
+- Helical Toxins 02:30.297–02:39.733: záznamů dokončených vlastních schopností včetně automatických 6. Nejde o počet ručních stisků; celý efekt není automaticky doba bez možnosti útočit.
+- Helical Toxins 04:14.361–04:25.169: záznamů dokončených vlastních schopností včetně automatických 6. Nejde o počet ručních stisků; celý efekt není automaticky doba bez možnosti útočit.
+- Touch of the Magi 03:30.358–04:27.342: Vitriolic Stasis, Helical Toxins. Nejde o potvrzený důvod odkladu ani zapomenuté použití.
+
+**Slejhy-Drak'thul-EU**
+- Posouzených původních příkladů: 7; mezer mezi cooldowny: 2. Žádný překryv sám nezvyšuje jistotu výtky.
+- Helical Toxins 00:46.231–00:49.997: záznamů dokončených vlastních schopností včetně automatických 0. Nejde o počet ručních stisků; celý efekt není automaticky doba bez možnosti útočit.
+- Helical Toxins 02:30.299–02:34.068: záznamů dokončených vlastních schopností včetně automatických 0. Nejde o počet ručních stisků; celý efekt není automaticky doba bez možnosti útočit.
+- Unstable Miasma 03:43.934–03:51.939: záznamů dokončených vlastních schopností včetně automatických 16. Nejde o počet ručních stisků; celý efekt není automaticky doba bez možnosti útočit.
+- Helical Toxins 04:14.239–04:17.586: záznamů dokončených vlastních schopností včetně automatických 0. Nejde o počet ručních stisků; celý efekt není automaticky doba bez možnosti útočit.
+- Deathmark 02:12.054–04:32.771: Vitriolic Stasis, Helical Toxins, Ula'tek's Dominance, Unstable Miasma. Nejde o potvrzený důvod odkladu ani zapomenuté použití.
+- Kingsbane 03:13.566–04:31.523: Unstable Miasma, Vitriolic Stasis, Helical Toxins. Nejde o potvrzený důvod odkladu ani zapomenuté použití.
+
+**Corneilia-Sylvanas-EU**
+- Posouzených původních příkladů: 1; mezer mezi cooldowny: 1. Žádný překryv sám nezvyšuje jistotu výtky.
+- Helical Toxins 00:46.257–00:49.997: záznamů dokončených vlastních schopností včetně automatických 0. Nejde o počet ručních stisků; celý efekt není automaticky doba bez možnosti útočit.
+- Helical Toxins 02:30.268–02:35.068: záznamů dokončených vlastních schopností včetně automatických 0. Nejde o počet ručních stisků; celý efekt není automaticky doba bez možnosti útočit.
+- Helical Toxins 04:14.359–04:24.805: záznamů dokončených vlastních schopností včetně automatických 0. Nejde o počet ručních stisků; celý efekt není automaticky doba bez možnosti útočit.
+- Touch of the Magi 00:03.058–01:05.802: Vitriolic Stasis, Helical Toxins. Nejde o potvrzený důvod odkladu ani zapomenuté použití.
+### Vashnik the Malignant · kill 12
+
+Imbibe přivolává living venoms a mění infuze; porovnej s ním přepnutí na Burning Venom / Shrouded Venom. Samotný cast Imbibe neznamená, že jsi musel běžet. Caustic Surge ani Exploding Infection automaticky nepočítáme jako čas bez možnosti útočit.
+
+[Popis mechaniky](https://www.wowhead.com/spell=1284663/imbibe)
+
+- Štít cíle: Miasmic Coating · Shrouded Venom · 00:24.042–00:29.148.
+- Štít cíle: Miasmic Coating · Shrouded Venom · 00:24.042–00:28.555.
+- Štít cíle: Miasmic Coating · Shrouded Venom · 00:24.043–00:27.601.
+- Štít cíle: Miasmic Coating · Shrouded Venom · 00:24.043–00:29.058.
+- Štít cíle: Miasmic Coating · Shrouded Venom · 00:24.043–00:26.741.
+- Změna průběhu: Shadow Infusion · Vashnik · 00:24.246–03:57.797.
+- Změna průběhu: Flame Infusion · Vashnik · 00:24.246–03:57.796.
+- Štít cíle: Miasmic Coating · Shrouded Venom · 01:48.089–01:52.467.
+- Štít cíle: Miasmic Coating · Shrouded Venom · 01:48.089–01:52.981.
+- Štít cíle: Miasmic Coating · Shrouded Venom · 01:48.089–01:52.906.
+- Štít cíle: Miasmic Coating · Shrouded Venom · 01:48.089–01:54.587.
+- Štít cíle: Miasmic Coating · Shrouded Venom · 01:48.089–01:52.543.
+- Štít cíle: Miasmic Coating · Shrouded Venom · 03:12.116–03:24.338.
+- Štít cíle: Miasmic Coating · Shrouded Venom · 03:12.117–03:20.078.
+- Štít cíle: Miasmic Coating · Shrouded Venom · 03:12.117–03:23.271.
+- Štít cíle: Miasmic Coating · Shrouded Venom · 03:12.117–03:21.375.
+- Štít cíle: Miasmic Coating · Shrouded Venom · 03:12.117–03:21.412.
+
+**Vejr-Drak'thul-EU**
+- Posouzených původních příkladů: 0; mezer mezi cooldowny: 0. Žádný překryv sám nezvyšuje jistotu výtky.
+- Plague Froth 00:54.081–01:02.084: záznamů dokončených vlastních schopností včetně automatických 5. Nejde o počet ručních stisků; celý efekt není automaticky doba bez možnosti útočit.
+- Plague Froth 00:54.081–00:54.082: záznamů dokončených vlastních schopností včetně automatických 0. Nejde o počet ručních stisků; celý efekt není automaticky doba bez možnosti útočit.
+- Plague Froth 02:18.090–02:26.101: záznamů dokončených vlastních schopností včetně automatických 6. Nejde o počet ručních stisků; celý efekt není automaticky doba bez možnosti útočit.
+- Plague Froth 02:18.090–02:18.091: záznamů dokončených vlastních schopností včetně automatických 0. Nejde o počet ručních stisků; celý efekt není automaticky doba bez možnosti útočit.
+
+**Theila-Drak'thul-EU**
+- Posouzených původních příkladů: 13; mezer mezi cooldowny: 0. Žádný překryv sám nezvyšuje jistotu výtky.
+
+**Hrbaty-Drak'thul-EU**
+- Posouzených původních příkladů: 1; mezer mezi cooldowny: 0. Žádný překryv sám nezvyšuje jistotu výtky.
+- Plague Froth 00:54.080–01:02.083: záznamů dokončených vlastních schopností včetně automatických 6. Nejde o počet ručních stisků; celý efekt není automaticky doba bez možnosti útočit.
+- Plague Froth 00:54.081–00:54.081: záznamů dokončených vlastních schopností včetně automatických 0. Nejde o počet ručních stisků; celý efekt není automaticky doba bez možnosti útočit.
+
+**Micaello-Drak'thul-EU**
+- Posouzených původních příkladů: 0; mezer mezi cooldowny: 0. Žádný překryv sám nezvyšuje jistotu výtky.
+- Plague Froth 01:27.059–01:35.060: záznamů dokončených vlastních schopností včetně automatických 7. Nejde o počet ručních stisků; celý efekt není automaticky doba bez možnosti útočit.
+- Plague Froth 01:27.059–01:27.059: záznamů dokončených vlastních schopností včetně automatických 0. Nejde o počet ručních stisků; celý efekt není automaticky doba bez možnosti útočit.
+- Plague Froth 02:18.090–02:26.102: záznamů dokončených vlastních schopností včetně automatických 5. Nejde o počet ručních stisků; celý efekt není automaticky doba bez možnosti útočit.
+- Plague Froth 02:18.090–02:18.090: záznamů dokončených vlastních schopností včetně automatických 0. Nejde o počet ručních stisků; celý efekt není automaticky doba bez možnosti útočit.
+- Plague Froth 03:42.129–03:50.111: záznamů dokončených vlastních schopností včetně automatických 7. Nejde o počet ručních stisků; celý efekt není automaticky doba bez možnosti útočit.
+- Plague Froth 03:42.129–03:42.130: záznamů dokončených vlastních schopností včetně automatických 0. Nejde o počet ručních stisků; celý efekt není automaticky doba bez možnosti útočit.
+
+**Rhínö-Drak'thul-EU**
+- Posouzených původních příkladů: 7; mezer mezi cooldowny: 0. Žádný překryv sám nezvyšuje jistotu výtky.
+- Plague Froth 00:54.082–01:02.082: záznamů dokončených vlastních schopností včetně automatických 5. Nejde o počet ručních stisků; celý efekt není automaticky doba bez možnosti útočit.
+- Plague Froth 00:54.082–00:54.082: záznamů dokončených vlastních schopností včetně automatických 0. Nejde o počet ručních stisků; celý efekt není automaticky doba bez možnosti útočit.
+- Plague Froth 02:51.056–02:59.078: záznamů dokončených vlastních schopností včetně automatických 7. Nejde o počet ručních stisků; celý efekt není automaticky doba bez možnosti útočit.
+- Plague Froth 02:51.056–02:51.056: záznamů dokončených vlastních schopností včetně automatických 0. Nejde o počet ručních stisků; celý efekt není automaticky doba bez možnosti útočit.
+- Plague Froth 03:42.130–03:50.112: záznamů dokončených vlastních schopností včetně automatických 5. Nejde o počet ručních stisků; celý efekt není automaticky doba bez možnosti útočit.
+- Plague Froth 03:42.130–03:42.130: záznamů dokončených vlastních schopností včetně automatických 0. Nejde o počet ručních stisků; celý efekt není automaticky doba bez možnosti útočit.
+
+**Kirill-Drak'thul-EU**
+- Posouzených původních příkladů: 0; mezer mezi cooldowny: 0. Žádný překryv sám nezvyšuje jistotu výtky.
+- Plague Froth 00:54.081–01:02.083: záznamů dokončených vlastních schopností včetně automatických 24. Nejde o počet ručních stisků; celý efekt není automaticky doba bez možnosti útočit.
+- Plague Froth 00:54.081–00:54.081: záznamů dokončených vlastních schopností včetně automatických 0. Nejde o počet ručních stisků; celý efekt není automaticky doba bez možnosti útočit.
+- Plague Froth 02:18.090–02:26.100: záznamů dokončených vlastních schopností včetně automatických 28. Nejde o počet ručních stisků; celý efekt není automaticky doba bez možnosti útočit.
+- Plague Froth 02:18.090–02:18.090: záznamů dokončených vlastních schopností včetně automatických 0. Nejde o počet ručních stisků; celý efekt není automaticky doba bez možnosti útočit.
+- Plague Froth 02:51.055–02:59.076: záznamů dokončených vlastních schopností včetně automatických 24. Nejde o počet ručních stisků; celý efekt není automaticky doba bez možnosti útočit.
+- Plague Froth 02:51.056–02:51.056: záznamů dokončených vlastních schopností včetně automatických 0. Nejde o počet ručních stisků; celý efekt není automaticky doba bez možnosti útočit.
+- Plague Froth 03:42.130–03:50.112: záznamů dokončených vlastních schopností včetně automatických 20. Nejde o počet ručních stisků; celý efekt není automaticky doba bez možnosti útočit.
+- Plague Froth 03:42.130–03:42.130: záznamů dokončených vlastních schopností včetně automatických 0. Nejde o počet ručních stisků; celý efekt není automaticky doba bez možnosti útočit.
+
+**Kubéc-Drak'thul-EU**
+- Posouzených původních příkladů: 2; mezer mezi cooldowny: 0. Žádný překryv sám nezvyšuje jistotu výtky.
+
+**Odmin-Drak'thul-EU**
+- Posouzených původních příkladů: 1; mezer mezi cooldowny: 1. Žádný překryv sám nezvyšuje jistotu výtky.
+- Plague Froth 01:27.059–01:35.058: záznamů dokončených vlastních schopností včetně automatických 5. Nejde o počet ručních stisků; celý efekt není automaticky doba bez možnosti útočit.
+- Plague Froth 01:27.059–01:27.059: záznamů dokončených vlastních schopností včetně automatických 0. Nejde o počet ručních stisků; celý efekt není automaticky doba bez možnosti útočit.
+- Plague Froth 02:18.091–02:26.103: záznamů dokončených vlastních schopností včetně automatických 6. Nejde o počet ručních stisků; celý efekt není automaticky doba bez možnosti útočit.
+- Plague Froth 02:18.091–02:20.085: záznamů dokončených vlastních schopností včetně automatických 3. Nejde o počet ručních stisků; celý efekt není automaticky doba bez možnosti útočit.
+- Essence Break 00:44.007–01:52.227: Shadow Infusion, Flame Infusion, Plague Froth, Miasmic Coating. Nejde o potvrzený důvod odkladu ani zapomenuté použití.
+
+**Galneryus-Drak'thul-EU**
+- Posouzených původních příkladů: 0; mezer mezi cooldowny: 0. Žádný překryv sám nezvyšuje jistotu výtky.
+- Plague Froth 00:13.054–00:21.062: záznamů dokončených vlastních schopností včetně automatických 21. Nejde o počet ručních stisků; celý efekt není automaticky doba bez možnosti útočit.
+- Plague Froth 00:13.054–00:13.055: záznamů dokončených vlastních schopností včetně automatických 0. Nejde o počet ručních stisků; celý efekt není automaticky doba bez možnosti útočit.
+- Plague Froth 00:54.082–01:02.082: záznamů dokončených vlastních schopností včetně automatických 12. Nejde o počet ručních stisků; celý efekt není automaticky doba bez možnosti útočit.
+- Plague Froth 00:54.082–00:56.076: záznamů dokončených vlastních schopností včetně automatických 2. Nejde o počet ručních stisků; celý efekt není automaticky doba bez možnosti útočit.
+- Plague Froth 01:27.059–01:35.059: záznamů dokončených vlastních schopností včetně automatických 12. Nejde o počet ručních stisků; celý efekt není automaticky doba bez možnosti útočit.
+- Plague Froth 01:27.059–01:29.041: záznamů dokončených vlastních schopností včetně automatických 3. Nejde o počet ručních stisků; celý efekt není automaticky doba bez možnosti útočit.
+- Plague Froth 03:42.129–03:50.110: záznamů dokončených vlastních schopností včetně automatických 16. Nejde o počet ručních stisků; celý efekt není automaticky doba bez možnosti útočit.
+- Plague Froth 03:42.130–03:42.130: záznamů dokončených vlastních schopností včetně automatických 0. Nejde o počet ručních stisků; celý efekt není automaticky doba bez možnosti útočit.
+
+**Íácekpwn-Drak'thul-EU**
+- Posouzených původních příkladů: 0; mezer mezi cooldowny: 0. Žádný překryv sám nezvyšuje jistotu výtky.
+- Plague Froth 01:27.059–01:35.058: záznamů dokončených vlastních schopností včetně automatických 12. Nejde o počet ručních stisků; celý efekt není automaticky doba bez možnosti útočit.
+- Plague Froth 01:27.059–01:27.059: záznamů dokončených vlastních schopností včetně automatických 0. Nejde o počet ručních stisků; celý efekt není automaticky doba bez možnosti útočit.
+
+**Omniblue-Drak'thul-EU**
+- Posouzených původních příkladů: 1; mezer mezi cooldowny: 0. Žádný překryv sám nezvyšuje jistotu výtky.
+- Plague Froth 00:13.055–00:21.063: záznamů dokončených vlastních schopností včetně automatických 20. Nejde o počet ručních stisků; celý efekt není automaticky doba bez možnosti útočit.
+- Plague Froth 00:13.055–00:15.049: záznamů dokončených vlastních schopností včetně automatických 7. Nejde o počet ručních stisků; celý efekt není automaticky doba bez možnosti útočit.
+- Plague Froth 02:51.055–02:59.077: záznamů dokončených vlastních schopností včetně automatických 9. Nejde o počet ručních stisků; celý efekt není automaticky doba bez možnosti útočit.
+- Plague Froth 02:51.055–02:51.056: záznamů dokončených vlastních schopností včetně automatických 0. Nejde o počet ručních stisků; celý efekt není automaticky doba bez možnosti útočit.
+
+**Fobina-Drak'thul-EU**
+- Posouzených původních příkladů: 0; mezer mezi cooldowny: 0. Žádný překryv sám nezvyšuje jistotu výtky.
+- Plague Froth 00:13.055–00:21.060: záznamů dokončených vlastních schopností včetně automatických 7. Nejde o počet ručních stisků; celý efekt není automaticky doba bez možnosti útočit.
+- Plague Froth 00:13.055–00:13.055: záznamů dokončených vlastních schopností včetně automatických 0. Nejde o počet ručních stisků; celý efekt není automaticky doba bez možnosti útočit.
+- Plague Froth 01:27.059–01:35.059: záznamů dokončených vlastních schopností včetně automatických 7. Nejde o počet ručních stisků; celý efekt není automaticky doba bez možnosti útočit.
+- Plague Froth 01:27.059–01:27.059: záznamů dokončených vlastních schopností včetně automatických 0. Nejde o počet ručních stisků; celý efekt není automaticky doba bez možnosti útočit.
+- Plague Froth 02:51.056–02:59.076: záznamů dokončených vlastních schopností včetně automatických 4. Nejde o počet ručních stisků; celý efekt není automaticky doba bez možnosti útočit.
+- Plague Froth 02:51.056–02:51.056: záznamů dokončených vlastních schopností včetně automatických 0. Nejde o počet ručních stisků; celý efekt není automaticky doba bez možnosti útočit.
+
+**Nahollou-Drak'thul-EU**
+- Posouzených původních příkladů: 17; mezer mezi cooldowny: 0. Žádný překryv sám nezvyšuje jistotu výtky.
+- Plague Froth 02:18.090–02:26.099: záznamů dokončených vlastních schopností včetně automatických 2. Nejde o počet ručních stisků; celý efekt není automaticky doba bez možnosti útočit.
+- Plague Froth 02:18.090–02:18.090: záznamů dokončených vlastních schopností včetně automatických 0. Nejde o počet ručních stisků; celý efekt není automaticky doba bez možnosti útočit.
+
+**Johnyhoudini-BurningBlade-EU**
+- Posouzených původních příkladů: 0; mezer mezi cooldowny: 0. Žádný překryv sám nezvyšuje jistotu výtky.
+- Plague Froth 00:13.055–00:21.061: záznamů dokončených vlastních schopností včetně automatických 7. Nejde o počet ručních stisků; celý efekt není automaticky doba bez možnosti útočit.
+- Plague Froth 00:13.055–00:13.055: záznamů dokončených vlastních schopností včetně automatických 0. Nejde o počet ručních stisků; celý efekt není automaticky doba bez možnosti útočit.
+
+**Slejhy-Drak'thul-EU**
+- Posouzených původních příkladů: 0; mezer mezi cooldowny: 0. Žádný překryv sám nezvyšuje jistotu výtky.
+- Plague Froth 00:13.055–00:21.062: záznamů dokončených vlastních schopností včetně automatických 16. Nejde o počet ručních stisků; celý efekt není automaticky doba bez možnosti útočit.
+- Plague Froth 00:13.055–00:13.055: záznamů dokončených vlastních schopností včetně automatických 0. Nejde o počet ručních stisků; celý efekt není automaticky doba bez možnosti útočit.
+- Plague Froth 02:51.056–02:59.077: záznamů dokončených vlastních schopností včetně automatických 10. Nejde o počet ručních stisků; celý efekt není automaticky doba bez možnosti útočit.
+- Plague Froth 02:51.056–02:51.056: záznamů dokončených vlastních schopností včetně automatických 0. Nejde o počet ručních stisků; celý efekt není automaticky doba bez možnosti útočit.
+
+**Corneilia-Sylvanas-EU**
+- Posouzených původních příkladů: 0; mezer mezi cooldowny: 0. Žádný překryv sám nezvyšuje jistotu výtky.
+- Plague Froth 03:42.130–03:50.111: záznamů dokončených vlastních schopností včetně automatických 4. Nejde o počet ručních stisků; celý efekt není automaticky doba bez možnosti útočit.
+- Plague Froth 03:42.130–03:44.117: záznamů dokončených vlastních schopností včetně automatických 1. Nejde o počet ručních stisků; celý efekt není automaticky doba bez možnosti útočit.
+
 ## DPS potiony — doplňkový přehled
 Na farmě volitelné; doporučení má nízkou prioritu. Nezaznamenané použití není důkaz nepoužití. Pre-pull casty jsou v okně 30 s; poslední starší cast je zachovaný v JSON. Jiné potiony vyžadují posouzení.
 
