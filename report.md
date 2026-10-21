@@ -3225,6 +3225,852 @@ Devourer nemá pevný čas první formy. Počet soulů a Fury zde z času samotn
 [Guide](https://www.method.gg/guides/devourer-demon-hunter/playstyle-and-rotation) · [Připnutá verze SimulationCraft](https://github.com/simulationcraft/simc/tree/76f8118cf3f7f41dad20708e8328e1f4ab2deebc)
 
 
+## Plynulost hraní a celkový výkon
+
+Měříme úseky alespoň 4 s bez nové sledované hlavní schopnosti po oddělení zaznamenaných castů, channelů a úseků po smrti. Čísla nejsou přesný nevyužitý čas ani vypočtená ztráta DPS. Nejasné konce castů/channelů se mezi tyto mezery nepočítají.
+
+### Hrbaty-Drak'thul-EU — Nek'zali the Soulcoiler
+
+Delších mezer: 1; celkem 5.8 s, z toho 0.0 s ve společných mezerách většiny DPS. Záznamů použití hlavních schopností: 198. To nejsou počty nezávislých stisků tlačítek.
+
+WCL percentil 35; v item-level skupině 56; damage aktivita 99.3 %. Damage aktivita není vlastní castění. [WCL](https://www.warcraftlogs.com/reports/kTKBw7crFD4nydVY?fight=2&source=33&type=damage-done)
+
+- 171.284–177.094 s: Lava Burst → Earthquake; jiné vlastní schopnosti: Ghost Wolf. Samotná mezera neprokazuje možnost útočit ani připravenou schopnost.
+
+### Fobina-Drak'thul-EU — Nek'zali the Soulcoiler
+
+Delších mezer: 2; celkem 17.1 s, z toho 0.0 s ve společných mezerách většiny DPS. Záznamů použití hlavních schopností: 176. To nejsou počty nezávislých stisků tlačítek.
+
+WCL percentil 32; v item-level skupině 29; damage aktivita 99.8 %. Damage aktivita není vlastní castění. [WCL](https://www.warcraftlogs.com/reports/kTKBw7crFD4nydVY?fight=2&source=3&type=damage-done)
+
+- 131.400–143.582 s: Prescience → Prescience; jiné vlastní schopnosti: Verdant Embrace. Samotná mezera neprokazuje možnost útočit ani připravenou schopnost.
+- 81.135–86.070 s: Prescience → Prescience; jiné vlastní schopnosti: Hover. Samotná mezera neprokazuje možnost útočit ani připravenou schopnost.
+
+### Slejhy-Drak'thul-EU — Nek'zali the Soulcoiler
+
+Delších mezer: 3; celkem 19.1 s, z toho 0.0 s ve společných mezerách většiny DPS. Záznamů použití hlavních schopností: 213. To nejsou počty nezávislých stisků tlačítek.
+
+WCL percentil 39; v item-level skupině 15; damage aktivita 99.6 %. Damage aktivita není vlastní castění. [WCL](https://www.warcraftlogs.com/reports/kTKBw7crFD4nydVY?fight=2&source=6&type=damage-done)
+
+- 84.456–93.408 s: Mutilate → Mutilate; jiné vlastní schopnosti: Cloak of Shadows, Mutilate, Shadowstep. Samotná mezera neprokazuje možnost útočit ani připravenou schopnost.
+- 145.425–151.407 s: Mutilate → Mutilate; jiné vlastní schopnosti: Mutilate, Sprint. Samotná mezera neprokazuje možnost útočit ani připravenou schopnost.
+- 192.614–196.773 s: Mutilate → Rupture; jiné vlastní schopnosti: žádné zaznamenané. Samotná mezera neprokazuje možnost útočit ani připravenou schopnost.
+Čekání na zdroje může být správná součást rotace; tento součet jej neprohlašuje za chybu.
+
+### Rhínö-Drak'thul-EU — Nek'zali the Soulcoiler
+
+Delších mezer: 1; celkem 4.6 s, z toho 0.0 s ve společných mezerách většiny DPS. Záznamů použití hlavních schopností: 250. To nejsou počty nezávislých stisků tlačítek.
+
+WCL percentil 84; v item-level skupině 81; damage aktivita 99.9 %. Damage aktivita není vlastní castění. [WCL](https://www.warcraftlogs.com/reports/kTKBw7crFD4nydVY?fight=2&source=27&type=damage-done)
+
+- 110.253–114.849 s: Starfall → Sunfire; jiné vlastní schopnosti: Dash, Moonkin Form. Samotná mezera neprokazuje možnost útočit ani připravenou schopnost.
+
+### Luminos-BurningBlade-EU — Nek'zali the Soulcoiler
+
+Delších mezer: 4; celkem 40.2 s, z toho 0.0 s ve společných mezerách většiny DPS. Záznamů použití hlavních schopností: 157. To nejsou počty nezávislých stisků tlačítek.
+
+WCL percentil 15; v item-level skupině 16; damage aktivita 99.4 %. Damage aktivita není vlastní castění. [WCL](https://www.warcraftlogs.com/reports/kTKBw7crFD4nydVY?fight=2&source=13&type=damage-done)
+
+- 124.344–145.262 s: Void Volley → Tentacle Slam; jiné vlastní schopnosti: Angelic Feather, Dispersion, Shadowy Apparition. Samotná mezera neprokazuje možnost útočit ani připravenou schopnost.
+- 81.487–88.455 s: Shadow Word: Madness → Mind Blast; jiné vlastní schopnosti: Shadowy Apparition. Samotná mezera neprokazuje možnost útočit ani připravenou schopnost.
+- 191.896–198.484 s: Shadow Word: Death → Tentacle Slam; jiné vlastní schopnosti: žádné zaznamenané. Samotná mezera neprokazuje možnost útočit ani připravenou schopnost.
+
+### Omniblue-Drak'thul-EU — Nek'zali the Soulcoiler
+
+Delších mezer: 0; celkem 0.0 s, z toho 0.0 s ve společných mezerách většiny DPS. Záznamů použití hlavních schopností: 226. To nejsou počty nezávislých stisků tlačítek.
+
+WCL percentil 40; v item-level skupině 21; damage aktivita 99.8 %. Damage aktivita není vlastní castění. [WCL](https://www.warcraftlogs.com/reports/kTKBw7crFD4nydVY?fight=2&source=15&type=damage-done)
+
+
+### Micaello-Drak'thul-EU — Nek'zali the Soulcoiler
+
+Delších mezer: 1; celkem 5.4 s, z toho 0.0 s ve společných mezerách většiny DPS. Záznamů použití hlavních schopností: 207. To nejsou počty nezávislých stisků tlačítek.
+
+WCL percentil 44; v item-level skupině 50; damage aktivita 99.6 %. Damage aktivita není vlastní castění. [WCL](https://www.warcraftlogs.com/reports/kTKBw7crFD4nydVY?fight=2&source=18&type=damage-done)
+
+- 134.010–139.437 s: Kill Command → Kill Command; jiné vlastní schopnosti: Aspect of the Cheetah. Samotná mezera neprokazuje možnost útočit ani připravenou schopnost.
+Čekání na zdroje může být správná součást rotace; tento součet jej neprohlašuje za chybu.
+
+### Theila-Drak'thul-EU — Nek'zali the Soulcoiler
+
+Delších mezer: 4; celkem 30.5 s, z toho 0.0 s ve společných mezerách většiny DPS. Záznamů použití hlavních schopností: 191. To nejsou počty nezávislých stisků tlačítek.
+
+WCL percentil 35; v item-level skupině 7; damage aktivita 99.3 %. Damage aktivita není vlastní castění. [WCL](https://www.warcraftlogs.com/reports/kTKBw7crFD4nydVY?fight=2&source=2&type=damage-done)
+
+- 60.097–71.861 s: Boomstick → Kill Command; jiné vlastní schopnosti: žádné zaznamenané. Samotná mezera neprokazuje možnost útočit ani připravenou schopnost.
+- 253.548–262.275 s: Raptor Swipe → Wildfire Bomb; jiné vlastní schopnosti: žádné zaznamenané. Samotná mezera neprokazuje možnost útočit ani připravenou schopnost.
+- 109.409–114.445 s: Wildfire Bomb → Raptor Strike; jiné vlastní schopnosti: Harpoon, Voracious Heart of Ula'tek. Samotná mezera neprokazuje možnost útočit ani připravenou schopnost.
+Čekání na zdroje může být správná součást rotace; tento součet jej neprohlašuje za chybu.
+
+### Corneilia-Sylvanas-EU — Nek'zali the Soulcoiler
+
+Delších mezer: 1; celkem 13.1 s, z toho 0.0 s ve společných mezerách většiny DPS. Záznamů použití hlavních schopností: 163. To nejsou počty nezávislých stisků tlačítek.
+
+WCL percentil 13; v item-level skupině 37; damage aktivita 98.8 %. Damage aktivita není vlastní castění. [WCL](https://www.warcraftlogs.com/reports/kTKBw7crFD4nydVY?fight=2&source=9&type=damage-done)
+
+- 90.929–104.054 s: Arcane Barrage → Arcane Missiles; jiné vlastní schopnosti: Prismatic Barrier. Samotná mezera neprokazuje možnost útočit ani připravenou schopnost.
+
+### Vejr-Drak'thul-EU — Nek'zali the Soulcoiler
+
+Delších mezer: 4; celkem 37.1 s, z toho 0.0 s ve společných mezerách většiny DPS. Záznamů použití hlavních schopností: 197. To nejsou počty nezávislých stisků tlačítek.
+
+WCL percentil 22; v item-level skupině 38; damage aktivita 98.7 %. Damage aktivita není vlastní castění. [WCL](https://www.warcraftlogs.com/reports/kTKBw7crFD4nydVY?fight=2&source=34&type=damage-done)
+
+- 60.514–75.667 s: Outbreak → Outbreak; jiné vlastní schopnosti: Anti-Magic Shell, Death Charge. Samotná mezera neprokazuje možnost útočit ani připravenou schopnost.
+- 256.139–266.628 s: Death Coil → Outbreak; jiné vlastní schopnosti: Anti-Magic Shell, Icebound Fortitude. Samotná mezera neprokazuje možnost útočit ani připravenou schopnost.
+- 192.007–198.683 s: Scourge Strike → Outbreak; jiné vlastní schopnosti: žádné zaznamenané. Samotná mezera neprokazuje možnost útočit ani připravenou schopnost.
+
+### Johnyhoudini-BurningBlade-EU — Nek'zali the Soulcoiler
+
+Delších mezer: 0; celkem 0.0 s, z toho 0.0 s ve společných mezerách většiny DPS. Záznamů použití hlavních schopností: 219. To nejsou počty nezávislých stisků tlačítek.
+
+WCL percentil 39; v item-level skupině 52; damage aktivita 99.7 %. Damage aktivita není vlastní castění. [WCL](https://www.warcraftlogs.com/reports/kTKBw7crFD4nydVY?fight=2&source=23&type=damage-done)
+
+
+### Kubéc-Drak'thul-EU — Nek'zali the Soulcoiler
+
+Delších mezer: 2; celkem 13.5 s, z toho 0.0 s ve společných mezerách většiny DPS. Záznamů použití hlavních schopností: 189. To nejsou počty nezávislých stisků tlačítek.
+
+WCL percentil 33; v item-level skupině 51; damage aktivita 99.6 %. Damage aktivita není vlastní castění. [WCL](https://www.warcraftlogs.com/reports/kTKBw7crFD4nydVY?fight=2&source=21&type=damage-done)
+
+- 115.601–123.161 s: Fists of Fury → Tiger Palm; jiné vlastní schopnosti: žádné zaznamenané. Samotná mezera neprokazuje možnost útočit ani připravenou schopnost.
+- 158.115–164.081 s: Rising Sun Kick → Tiger Palm; jiné vlastní schopnosti: žádné zaznamenané. Samotná mezera neprokazuje možnost útočit ani připravenou schopnost.
+Čekání na zdroje může být správná součást rotace; tento součet jej neprohlašuje za chybu.
+
+### Galneryus-Drak'thul-EU — Nek'zali the Soulcoiler
+
+Delších mezer: 0; celkem 0.0 s, z toho 0.0 s ve společných mezerách většiny DPS. Záznamů použití hlavních schopností: 290. To nejsou počty nezávislých stisků tlačítek.
+
+WCL percentil 87; v item-level skupině 63; damage aktivita 99.8 %. Damage aktivita není vlastní castění. [WCL](https://www.warcraftlogs.com/reports/kTKBw7crFD4nydVY?fight=2&source=8&type=damage-done)
+
+
+### Kirill-Drak'thul-EU — The Coiled Altar
+
+Delších mezer: 3; celkem 20.4 s, z toho 0.0 s ve společných mezerách většiny DPS. Záznamů použití hlavních schopností: 327. To nejsou počty nezávislých stisků tlačítek.
+
+WCL percentil 55; v item-level skupině 38; damage aktivita 96.7 %. Damage aktivita není vlastní castění. [WCL](https://www.warcraftlogs.com/reports/kTKBw7crFD4nydVY?fight=11&source=112&type=damage-done)
+
+- 324.266–332.119 s: Soul Immolation → Consume; jiné vlastní schopnosti: Soul Fragment. Samotná mezera neprokazuje možnost útočit ani připravenou schopnost.
+- 109.573–116.842 s: Soul Immolation → Consume; jiné vlastní schopnosti: Soul Fragment. Samotná mezera neprokazuje možnost útočit ani připravenou schopnost.
+- 432.934–438.186 s: Consume → konec killu; jiné vlastní schopnosti: Blur, Soul Fragment. Samotná mezera neprokazuje možnost útočit ani připravenou schopnost.
+
+### Nahollou-Drak'thul-EU — The Coiled Altar
+
+Delších mezer: 7; celkem 50.1 s, z toho 0.0 s ve společných mezerách většiny DPS. Záznamů použití hlavních schopností: 281. To nejsou počty nezávislých stisků tlačítek.
+
+WCL percentil 52; v item-level skupině 43; damage aktivita 99.7 %. Damage aktivita není vlastní castění. [WCL](https://www.warcraftlogs.com/reports/kTKBw7crFD4nydVY?fight=11&source=87&type=damage-done)
+
+- 356.239–367.321 s: Demonbolt → Shadow Bolt; jiné vlastní schopnosti: Burning Rush, Dark Pact, Unending Resolve. Samotná mezera neprokazuje možnost útočit ani připravenou schopnost.
+- 107.788–117.733 s: Demonbolt → Call Dreadstalkers; jiné vlastní schopnosti: žádné zaznamenané. Samotná mezera neprokazuje možnost útočit ani připravenou schopnost.
+- 186.619–194.512 s: Demonbolt → Shadow Bolt; jiné vlastní schopnosti: žádné zaznamenané. Samotná mezera neprokazuje možnost útočit ani připravenou schopnost.
+
+### Íácekpwn-Drak'thul-EU — The Coiled Altar
+
+Delších mezer: 1; celkem 4.1 s, z toho 0.0 s ve společných mezerách většiny DPS. Záznamů použití hlavních schopností: 353. To nejsou počty nezávislých stisků tlačítek.
+
+WCL percentil 71; v item-level skupině 67; damage aktivita 99.8 %. Damage aktivita není vlastní castění. [WCL](https://www.warcraftlogs.com/reports/kTKBw7crFD4nydVY?fight=11&source=84&type=damage-done)
+
+- 202.150–206.204 s: Mind Flay → Tentacle Slam; jiné vlastní schopnosti: žádné zaznamenané. Samotná mezera neprokazuje možnost útočit ani připravenou schopnost.
+
+### Odmin-Drak'thul-EU — The Coiled Altar
+
+Delších mezer: 3; celkem 18.9 s, z toho 0.0 s ve společných mezerách většiny DPS. Záznamů použití hlavních schopností: 355. To nejsou počty nezávislých stisků tlačítek.
+
+WCL percentil 46; v item-level skupině 52; damage aktivita 97.5 %. Damage aktivita není vlastní castění. [WCL](https://www.warcraftlogs.com/reports/kTKBw7crFD4nydVY?fight=11&source=79&type=damage-done)
+
+- 109.097–118.712 s: Blade Dance → Felblade; jiné vlastní schopnosti: Darkness. Samotná mezera neprokazuje možnost útočit ani připravenou schopnost.
+- 405.974–410.941 s: Chaos Strike → Felblade; jiné vlastní schopnosti: Fel Rush, Felblade. Samotná mezera neprokazuje možnost útočit ani připravenou schopnost.
+- 433.820–438.186 s: Vengeful Retreat → konec killu; jiné vlastní schopnosti: Fel Rush. Samotná mezera neprokazuje možnost útočit ani připravenou schopnost.
+- Záznam smrti 291.761 s; další vlastní akce 300.261 s. Přesný čas přijetí oživení z toho neznáme.
+
+### Fobina-Drak'thul-EU — The Coiled Altar
+
+Delších mezer: 5; celkem 32.5 s, z toho 0.0 s ve společných mezerách většiny DPS. Záznamů použití hlavních schopností: 261. To nejsou počty nezávislých stisků tlačítek.
+
+WCL percentil 24; v item-level skupině 25; damage aktivita 97.6 %. Damage aktivita není vlastní castění. [WCL](https://www.warcraftlogs.com/reports/kTKBw7crFD4nydVY?fight=11&source=3&type=damage-done)
+
+- 259.689–270.415 s: Prescience → Ebon Might; jiné vlastní schopnosti: žádné zaznamenané. Samotná mezera neprokazuje možnost útočit ani připravenou schopnost.
+- 353.535–361.092 s: Eruption → Ebon Might; jiné vlastní schopnosti: Obsidian Scales, Zephyr. Samotná mezera neprokazuje možnost útočit ani připravenou schopnost.
+- 140.382–145.548 s: Upheaval → Eruption; jiné vlastní schopnosti: Quell. Samotná mezera neprokazuje možnost útočit ani připravenou schopnost.
+
+### Rhínö-Drak'thul-EU — The Coiled Altar
+
+Delších mezer: 0; celkem 0.0 s, z toho 0.0 s ve společných mezerách většiny DPS. Záznamů použití hlavních schopností: 357. To nejsou počty nezávislých stisků tlačítek.
+
+WCL percentil 80; v item-level skupině 79; damage aktivita 100.0 %. Damage aktivita není vlastní castění. [WCL](https://www.warcraftlogs.com/reports/kTKBw7crFD4nydVY?fight=11&source=27&type=damage-done)
+
+
+### Slejhy-Drak'thul-EU — The Coiled Altar
+
+Delších mezer: 6; celkem 48.4 s, z toho 0.0 s ve společných mezerách většiny DPS. Záznamů použití hlavních schopností: 335. To nejsou počty nezávislých stisků tlačítek.
+
+WCL percentil 68; v item-level skupině 51; damage aktivita 97.2 %. Damage aktivita není vlastní castění. [WCL](https://www.warcraftlogs.com/reports/kTKBw7crFD4nydVY?fight=11&source=6&type=damage-done)
+
+- 257.136–272.134 s: Fan of Knives → Garrote; jiné vlastní schopnosti: Cloak of Shadows, Feint, Sprint. Samotná mezera neprokazuje možnost útočit ani připravenou schopnost.
+- 108.130–119.131 s: Mutilate → Rupture; jiné vlastní schopnosti: žádné zaznamenané. Samotná mezera neprokazuje možnost útočit ani připravenou schopnost.
+- 373.817–383.261 s: Fan of Knives → Envenom; jiné vlastní schopnosti: žádné zaznamenané. Samotná mezera neprokazuje možnost útočit ani připravenou schopnost.
+Čekání na zdroje může být správná součást rotace; tento součet jej neprohlašuje za chybu.
+
+### Omniblue-Drak'thul-EU — The Coiled Altar
+
+Delších mezer: 3; celkem 14.0 s, z toho 0.0 s ve společných mezerách většiny DPS. Záznamů použití hlavních schopností: 308. To nejsou počty nezávislých stisků tlačítek.
+
+WCL percentil 49; v item-level skupině 37; damage aktivita 99.8 %. Damage aktivita není vlastní castění. [WCL](https://www.warcraftlogs.com/reports/kTKBw7crFD4nydVY?fight=11&source=15&type=damage-done)
+
+- 426.037–431.172 s: Void Volley → Mind Blast; jiné vlastní schopnosti: Power Word: Shield, Shadowy Apparition. Samotná mezera neprokazuje možnost útočit ani připravenou schopnost.
+- 201.619–206.321 s: Mind Blast → Tentacle Slam; jiné vlastní schopnosti: Power Word: Shield, Shadowy Apparition. Samotná mezera neprokazuje možnost útočit ani připravenou schopnost.
+- 134.113–138.263 s: Shadow Word: Madness → Mind Blast; jiné vlastní schopnosti: Angelic Feather, Shadowy Apparition. Samotná mezera neprokazuje možnost útočit ani připravenou schopnost.
+
+### Theila-Drak'thul-EU — The Coiled Altar
+
+Delších mezer: 2; celkem 16.5 s, z toho 0.0 s ve společných mezerách většiny DPS. Záznamů použití hlavních schopností: 296. To nejsou počty nezávislých stisků tlačítek.
+
+WCL percentil 56; v item-level skupině 20; damage aktivita 97.0 %. Damage aktivita není vlastní castění. [WCL](https://www.warcraftlogs.com/reports/kTKBw7crFD4nydVY?fight=11&source=2&type=damage-done)
+
+- 107.005–119.348 s: Raptor Strike → Kill Command; jiné vlastní schopnosti: Hunter's Mark. Samotná mezera neprokazuje možnost útočit ani připravenou schopnost.
+- 201.340–205.504 s: Wildfire Bomb → Kill Command; jiné vlastní schopnosti: žádné zaznamenané. Samotná mezera neprokazuje možnost útočit ani připravenou schopnost.
+Čekání na zdroje může být správná součást rotace; tento součet jej neprohlašuje za chybu.
+
+### Micaello-Drak'thul-EU — The Coiled Altar
+
+Delších mezer: 5; celkem 49.8 s, z toho 0.0 s ve společných mezerách většiny DPS. Záznamů použití hlavních schopností: 293. To nejsou počty nezávislých stisků tlačítek.
+
+WCL percentil 52; v item-level skupině 59; damage aktivita 95.1 %. Damage aktivita není vlastní castění. [WCL](https://www.warcraftlogs.com/reports/kTKBw7crFD4nydVY?fight=11&source=18&type=damage-done)
+
+- 107.789–124.569 s: Cobra Shot → Kill Command; jiné vlastní schopnosti: žádné zaznamenané. Samotná mezera neprokazuje možnost útočit ani připravenou schopnost.
+- 422.821–435.967 s: Cobra Shot → konec killu; jiné vlastní schopnosti: žádné zaznamenané. Samotná mezera neprokazuje možnost útočit ani připravenou schopnost.
+- 143.258–153.044 s: Kill Command → Kill Command; jiné vlastní schopnosti: žádné zaznamenané. Samotná mezera neprokazuje možnost útočit ani připravenou schopnost.
+Čekání na zdroje může být správná součást rotace; tento součet jej neprohlašuje za chybu.
+- Záznam smrti 435.967 s; do konce killu bez doloženého návratu k vlastním akcím. Přesný čas přijetí oživení z toho neznáme.
+
+### Corneilia-Sylvanas-EU — The Coiled Altar
+
+Delších mezer: 1; celkem 4.0 s, z toho 0.0 s ve společných mezerách většiny DPS. Záznamů použití hlavních schopností: 251. To nejsou počty nezávislých stisků tlačítek.
+
+WCL percentil 20; v item-level skupině 43; damage aktivita 97.0 %. Damage aktivita není vlastní castění. [WCL](https://www.warcraftlogs.com/reports/kTKBw7crFD4nydVY?fight=11&source=9&type=damage-done)
+
+- 141.415–145.427 s: Arcane Barrage → Arcane Missiles; jiné vlastní schopnosti: žádné zaznamenané. Samotná mezera neprokazuje možnost útočit ani připravenou schopnost.
+
+### Vejr-Drak'thul-EU — The Coiled Altar
+
+Delších mezer: 3; celkem 18.7 s, z toho 0.0 s ve společných mezerách většiny DPS. Záznamů použití hlavních schopností: 298. To nejsou počty nezávislých stisků tlačítek.
+
+WCL percentil 35; v item-level skupině 49; damage aktivita 97.1 %. Damage aktivita není vlastní castění. [WCL](https://www.warcraftlogs.com/reports/kTKBw7crFD4nydVY?fight=11&source=34&type=damage-done)
+
+- 107.735–117.126 s: Festering Strike → Outbreak; jiné vlastní schopnosti: žádné zaznamenané. Samotná mezera neprokazuje možnost útočit ani připravenou schopnost.
+- 421.962–426.850 s: Festering Strike → konec killu; jiné vlastní schopnosti: žádné zaznamenané. Samotná mezera neprokazuje možnost útočit ani připravenou schopnost.
+- 131.044–135.469 s: Scourge Strike → Scourge Strike; jiné vlastní schopnosti: žádné zaznamenané. Samotná mezera neprokazuje možnost útočit ani připravenou schopnost.
+- Záznam smrti 426.850 s; do konce killu bez doloženého návratu k vlastním akcím. Přesný čas přijetí oživení z toho neznáme.
+
+### Kubéc-Drak'thul-EU — The Coiled Altar
+
+Delších mezer: 4; celkem 36.7 s, z toho 0.0 s ve společných mezerách většiny DPS. Záznamů použití hlavních schopností: 266. To nejsou počty nezávislých stisků tlačítek.
+
+WCL percentil 27; v item-level skupině 39; damage aktivita 93.3 %. Damage aktivita není vlastní castění. [WCL](https://www.warcraftlogs.com/reports/kTKBw7crFD4nydVY?fight=11&source=21&type=damage-done)
+
+- 354.156–367.901 s: Fists of Fury → Tiger Palm; jiné vlastní schopnosti: Concentrated Silvermoon Health Potion, Roll. Samotná mezera neprokazuje možnost útočit ani připravenou schopnost.
+- 141.705–153.492 s: Fists of Fury → Tiger Palm; jiné vlastní schopnosti: Fortifying Brew, Healthstone, Roll, Tiger's Lust. Samotná mezera neprokazuje možnost útočit ani připravenou schopnost.
+- 305.686–312.599 s: Whirling Dragon Punch → Spinning Crane Kick; jiné vlastní schopnosti: Tiger's Lust. Samotná mezera neprokazuje možnost útočit ani připravenou schopnost.
+Čekání na zdroje může být správná součást rotace; tento součet jej neprohlašuje za chybu.
+- Záznam smrti 434.697 s; do konce killu bez doloženého návratu k vlastním akcím. Přesný čas přijetí oživení z toho neznáme.
+
+### Johnyhoudini-BurningBlade-EU — The Coiled Altar
+
+Delších mezer: 1; celkem 4.4 s, z toho 0.0 s ve společných mezerách většiny DPS. Záznamů použití hlavních schopností: 290. To nejsou počty nezávislých stisků tlačítek.
+
+WCL percentil 62; v item-level skupině 78; damage aktivita 97.3 %. Damage aktivita není vlastní castění. [WCL](https://www.warcraftlogs.com/reports/kTKBw7crFD4nydVY?fight=11&source=23&type=damage-done)
+
+- 49.110–53.523 s: Arcane Orb → Arcane Missiles; jiné vlastní schopnosti: Prismatic Barrier, Shimmer. Samotná mezera neprokazuje možnost útočit ani připravenou schopnost.
+
+### Galneryus-Drak'thul-EU — The Coiled Altar
+
+Delších mezer: 3; celkem 17.9 s, z toho 0.0 s ve společných mezerách většiny DPS. Záznamů použití hlavních schopností: 413. To nejsou počty nezávislých stisků tlačítek.
+
+WCL percentil 91; v item-level skupině 68; damage aktivita 99.9 %. Damage aktivita není vlastní castění. [WCL](https://www.warcraftlogs.com/reports/kTKBw7crFD4nydVY?fight=11&source=8&type=damage-done)
+
+- 108.502–116.772 s: Divine Storm → Judgment; jiné vlastní schopnosti: Divine Protection. Samotná mezera neprokazuje možnost útočit ani připravenou schopnost.
+- 261.547–267.146 s: Hammer of Wrath → Final Verdict; jiné vlastní schopnosti: Blessing of Sacrifice, Divine Protection, Divine Shield, Divine Steed. Samotná mezera neprokazuje možnost útočit ani připravenou schopnost.
+- 275.346–279.369 s: Final Verdict → Judgment; jiné vlastní schopnosti: Divine Steed. Samotná mezera neprokazuje možnost útočit ani připravenou schopnost.
+
+### Kirill-Drak'thul-EU — Ula'tek
+
+Delších mezer: 7; celkem 60.4 s, z toho 45.7 s ve společných mezerách většiny DPS. Záznamů použití hlavních schopností: 406. To nejsou počty nezávislých stisků tlačítek.
+
+WCL percentil 71; v item-level skupině 60; damage aktivita 87.2 %. Damage aktivita není vlastní castění. [WCL](https://www.warcraftlogs.com/reports/kTKBw7crFD4nydVY?fight=12&source=112&type=damage-done)
+
+- 479.191–485.693 s: Devour → Soul Immolation; jiné vlastní schopnosti: Blur, Glide, Soul Fragment. Samotná mezera neprokazuje možnost útočit ani připravenou schopnost.
+- 539.678–545.051 s: Consume → Consume; jiné vlastní schopnosti: Blur, Glide, Soul Fragment. Samotná mezera neprokazuje možnost útočit ani připravenou schopnost.
+- 62.825–68.790 s: Void Ray → Consume; jiné vlastní schopnosti: Glide. Samotná mezera neprokazuje možnost útočit ani připravenou schopnost.
+
+### Nahollou-Drak'thul-EU — Ula'tek
+
+Delších mezer: 13; celkem 126.4 s, z toho 39.6 s ve společných mezerách většiny DPS. Záznamů použití hlavních schopností: 207. To nejsou počty nezávislých stisků tlačítek.
+
+WCL percentil 9; v item-level skupině 6; damage aktivita 68.7 %. Damage aktivita není vlastní castění. [WCL](https://www.warcraftlogs.com/reports/kTKBw7crFD4nydVY?fight=12&source=87&type=damage-done)
+
+- 209.758–236.390 s: Implosion → Call Dreadstalkers; jiné vlastní schopnosti: Burning Rush. Samotná mezera neprokazuje možnost útočit ani připravenou schopnost.
+- 250.388–258.796 s: Demonbolt → Hand of Gul'dan; jiné vlastní schopnosti: žádné zaznamenané. Samotná mezera neprokazuje možnost útočit ani připravenou schopnost.
+- 494.913–502.868 s: Shadow Bolt → Shadow Bolt; jiné vlastní schopnosti: Dark Pact. Samotná mezera neprokazuje možnost útočit ani připravenou schopnost.
+- Záznam smrti 420.908 s; další vlastní akce 492.327 s. Přesný čas přijetí oživení z toho neznáme.
+- Záznam smrti 574.252 s; do konce killu bez doloženého návratu k vlastním akcím. Přesný čas přijetí oživení z toho neznáme.
+
+### Íácekpwn-Drak'thul-EU — Ula'tek
+
+Delších mezer: 7; celkem 65.8 s, z toho 47.3 s ve společných mezerách většiny DPS. Záznamů použití hlavních schopností: 338. To nejsou počty nezávislých stisků tlačítek.
+
+WCL percentil 28; v item-level skupině 18; damage aktivita 71.6 %. Damage aktivita není vlastní castění. [WCL](https://www.warcraftlogs.com/reports/kTKBw7crFD4nydVY?fight=12&source=84&type=damage-done)
+
+- 257.982–264.637 s: Mind Blast → Tentacle Slam; jiné vlastní schopnosti: Angelic Feather, Power Word: Shield, Shadowy Apparition. Samotná mezera neprokazuje možnost útočit ani připravenou schopnost.
+- 155.507–176.438 s: Mind Flay → Shadow Word: Pain; jiné vlastní schopnosti: Angelic Feather, Power Word: Shield. Samotná mezera neprokazuje možnost útočit ani připravenou schopnost.
+- 339.243–343.639 s: Shadow Word: Pain → Tentacle Slam; jiné vlastní schopnosti: Angelic Feather. Samotná mezera neprokazuje možnost útočit ani připravenou schopnost.
+- Záznam smrti 482.411 s; do konce killu bez doloženého návratu k vlastním akcím. Přesný čas přijetí oživení z toho neznáme.
+
+### Odmin-Drak'thul-EU — Ula'tek
+
+Delších mezer: 12; celkem 103.5 s, z toho 46.2 s ve společných mezerách většiny DPS. Záznamů použití hlavních schopností: 420. To nejsou počty nezávislých stisků tlačítek.
+
+WCL percentil 46; v item-level skupině 56; damage aktivita 84.5 %. Damage aktivita není vlastní castění. [WCL](https://www.warcraftlogs.com/reports/kTKBw7crFD4nydVY?fight=12&source=79&type=damage-done)
+
+- 155.662–182.049 s: Consuming Fire → Felblade; jiné vlastní schopnosti: Fel Rush, Felblade, Glide. Samotná mezera neprokazuje možnost útočit ani připravenou schopnost.
+- 254.827–263.770 s: Vengeful Retreat → Eye Beam; jiné vlastní schopnosti: Fel Rush, Glide. Samotná mezera neprokazuje možnost útočit ani připravenou schopnost.
+- 340.373–347.153 s: Blade Dance → Chaos Strike; jiné vlastní schopnosti: Fel Rush, Immolation Aura. Samotná mezera neprokazuje možnost útočit ani připravenou schopnost.
+
+### Fobina-Drak'thul-EU — Ula'tek
+
+Delších mezer: 12; celkem 102.1 s, z toho 36.2 s ve společných mezerách většiny DPS. Záznamů použití hlavních schopností: 298. To nejsou počty nezávislých stisků tlačítek.
+
+WCL percentil 21; v item-level skupině 27; damage aktivita 88.4 %. Damage aktivita není vlastní castění. [WCL](https://www.warcraftlogs.com/reports/kTKBw7crFD4nydVY?fight=12&source=3&type=damage-done)
+
+- 247.294–256.792 s: Prescience → Prescience; jiné vlastní schopnosti: Glide, Hover. Samotná mezera neprokazuje možnost útočit ani připravenou schopnost.
+- 214.202–223.565 s: Prescience → Prescience; jiné vlastní schopnosti: Cauterizing Flame, Expunge, Hover. Samotná mezera neprokazuje možnost útočit ani připravenou schopnost.
+- 334.815–343.141 s: Prescience → Prescience; jiné vlastní schopnosti: Cauterizing Flame, Expunge, Hover, Obsidian Scales, Time Spiral. Samotná mezera neprokazuje možnost útočit ani připravenou schopnost.
+
+### Rhínö-Drak'thul-EU — Ula'tek
+
+Delších mezer: 9; celkem 80.9 s, z toho 49.5 s ve společných mezerách většiny DPS. Záznamů použití hlavních schopností: 407. To nejsou počty nezávislých stisků tlačítek.
+
+WCL percentil 60; v item-level skupině 54; damage aktivita 87.3 %. Damage aktivita není vlastní castění. [WCL](https://www.warcraftlogs.com/reports/kTKBw7crFD4nydVY?fight=12&source=27&type=damage-done)
+
+- 207.084–215.102 s: Starsurge → Sunfire; jiné vlastní schopnosti: žádné zaznamenané. Samotná mezera neprokazuje možnost útočit ani připravenou schopnost.
+- 216.233–222.978 s: Moonfire → Sunfire; jiné vlastní schopnosti: žádné zaznamenané. Samotná mezera neprokazuje možnost útočit ani připravenou schopnost.
+- 483.979–489.170 s: Starfall → Sunfire; jiné vlastní schopnosti: Wild Charge. Samotná mezera neprokazuje možnost útočit ani připravenou schopnost.
+- Záznam smrti 423.283 s; další vlastní akce 443.215 s. Přesný čas přijetí oživení z toho neznáme.
+- Záznam smrti 574.755 s; do konce killu bez doloženého návratu k vlastním akcím. Přesný čas přijetí oživení z toho neznáme.
+
+### Slejhy-Drak'thul-EU — Ula'tek
+
+Delších mezer: 13; celkem 127.7 s, z toho 48.4 s ve společných mezerách většiny DPS. Záznamů použití hlavních schopností: 411. To nejsou počty nezávislých stisků tlačítek.
+
+WCL percentil 61; v item-level skupině 44; damage aktivita 85.3 %. Damage aktivita není vlastní castění. [WCL](https://www.warcraftlogs.com/reports/kTKBw7crFD4nydVY?fight=12&source=6&type=damage-done)
+
+- 213.858–234.049 s: Crimson Tempest → Garrote; jiné vlastní schopnosti: Sprint. Samotná mezera neprokazuje možnost útočit ani připravenou schopnost.
+- 308.182–336.767 s: Envenom → Crimson Tempest; jiné vlastní schopnosti: Cloak of Shadows, Feint, Sprint. Samotná mezera neprokazuje možnost útočit ani připravenou schopnost.
+- 478.251–488.099 s: Fan of Knives → Mutilate; jiné vlastní schopnosti: Crimson Vial, Feint, Healthstone. Samotná mezera neprokazuje možnost útočit ani připravenou schopnost.
+Čekání na zdroje může být správná součást rotace; tento součet jej neprohlašuje za chybu.
+
+### Omniblue-Drak'thul-EU — Ula'tek
+
+Delších mezer: 10; celkem 88.3 s, z toho 50.7 s ve společných mezerách většiny DPS. Záznamů použití hlavních schopností: 279. To nejsou počty nezávislých stisků tlačítek.
+
+WCL percentil 19; v item-level skupině 9; damage aktivita 71.9 %. Damage aktivita není vlastní castění. [WCL](https://www.warcraftlogs.com/reports/kTKBw7crFD4nydVY?fight=12&source=15&type=damage-done)
+
+- 428.145–436.160 s: Void Volley → Tentacle Slam; jiné vlastní schopnosti: Shadowy Apparition. Samotná mezera neprokazuje možnost útočit ani připravenou schopnost.
+- 203.370–209.885 s: Mind Blast → Tentacle Slam; jiné vlastní schopnosti: Power Word: Shield, Shadowy Apparition. Samotná mezera neprokazuje možnost útočit ani připravenou schopnost.
+- 217.089–222.662 s: Shadow Word: Death → Vampiric Touch; jiné vlastní schopnosti: Power Word: Shield. Samotná mezera neprokazuje možnost útočit ani připravenou schopnost.
+- Záznam smrti 483.733 s; do konce killu bez doloženého návratu k vlastním akcím. Přesný čas přijetí oživení z toho neznáme.
+
+### Theila-Drak'thul-EU — Ula'tek
+
+Delších mezer: 10; celkem 93.6 s, z toho 48.3 s ve společných mezerách většiny DPS. Záznamů použití hlavních schopností: 341. To nejsou počty nezávislých stisků tlačítek.
+
+WCL percentil 54; v item-level skupině 24; damage aktivita 87.1 %. Damage aktivita není vlastní castění. [WCL](https://www.warcraftlogs.com/reports/kTKBw7crFD4nydVY?fight=12&source=2&type=damage-done)
+
+- 240.409–247.920 s: Raptor Swipe → Kill Command; jiné vlastní schopnosti: Disengage. Samotná mezera neprokazuje možnost útočit ani připravenou schopnost.
+- 218.722–225.866 s: Kill Command → Boomstick; jiné vlastní schopnosti: Aspect of the Cheetah, Harpoon. Samotná mezera neprokazuje možnost útočit ani připravenou schopnost.
+- 422.878–429.476 s: Kill Command → Raptor Swipe; jiné vlastní schopnosti: Aspect of the Turtle, Disengage. Samotná mezera neprokazuje možnost útočit ani připravenou schopnost.
+Čekání na zdroje může být správná součást rotace; tento součet jej neprohlašuje za chybu.
+- Záznam smrti 214.580 s; další vlastní akce 215.033 s. Přesný čas přijetí oživení z toho neznáme.
+- Záznam smrti 463.882 s; další vlastní akce 464.803 s. Přesný čas přijetí oživení z toho neznáme.
+- Záznam smrti 521.070 s; další vlastní akce 523.653 s. Přesný čas přijetí oživení z toho neznáme.
+
+### Micaello-Drak'thul-EU — Ula'tek
+
+Delších mezer: 5; celkem 59.7 s, z toho 50.6 s ve společných mezerách většiny DPS. Záznamů použití hlavních schopností: 378. To nejsou počty nezávislých stisků tlačítek.
+
+WCL percentil 51; v item-level skupině 56; damage aktivita 87.5 %. Damage aktivita není vlastní castění. [WCL](https://www.warcraftlogs.com/reports/kTKBw7crFD4nydVY?fight=12&source=18&type=damage-done)
+
+- 484.346–490.107 s: Barbed Shot → Kill Command; jiné vlastní schopnosti: Disengage, Exhilaration, Healthstone. Samotná mezera neprokazuje možnost útočit ani připravenou schopnost.
+- 155.323–173.809 s: Bestial Wrath → Cobra Shot; jiné vlastní schopnosti: Aspect of the Cheetah, Disengage. Samotná mezera neprokazuje možnost útočit ani připravenou schopnost.
+- 308.210–327.817 s: Cobra Shot → Kill Command; jiné vlastní schopnosti: žádné zaznamenané. Samotná mezera neprokazuje možnost útočit ani připravenou schopnost.
+Čekání na zdroje může být správná součást rotace; tento součet jej neprohlašuje za chybu.
+- Záznam smrti 577.726 s; do konce killu bez doloženého návratu k vlastním akcím. Přesný čas přijetí oživení z toho neznáme.
+
+### Corneilia-Sylvanas-EU — Ula'tek
+
+Delších mezer: 5; celkem 56.0 s, z toho 43.0 s ve společných mezerách většiny DPS. Záznamů použití hlavních schopností: 301. To nejsou počty nezávislých stisků tlačítek.
+
+WCL percentil 18; v item-level skupině 39; damage aktivita 83.7 %. Damage aktivita není vlastní castění. [WCL](https://www.warcraftlogs.com/reports/kTKBw7crFD4nydVY?fight=12&source=9&type=damage-done)
+
+- 339.795–344.889 s: Arcane Blast → Arcane Orb; jiné vlastní schopnosti: Prismatic Barrier, Shimmer. Samotná mezera neprokazuje možnost útočit ani připravenou schopnost.
+- 458.514–463.269 s: Arcane Barrage → Arcane Missiles; jiné vlastní schopnosti: žádné zaznamenané. Samotná mezera neprokazuje možnost útočit ani připravenou schopnost.
+- 352.307–365.324 s: Arcane Barrage → Arcane Blast; jiné vlastní schopnosti: žádné zaznamenané. Samotná mezera neprokazuje možnost útočit ani připravenou schopnost.
+
+### Vejr-Drak'thul-EU — Ula'tek
+
+Delších mezer: 8; celkem 82.3 s, z toho 48.5 s ve společných mezerách většiny DPS. Záznamů použití hlavních schopností: 345. To nejsou počty nezávislých stisků tlačítek.
+
+WCL percentil 34; v item-level skupině 35; damage aktivita 85.5 %. Damage aktivita není vlastní castění. [WCL](https://www.warcraftlogs.com/reports/kTKBw7crFD4nydVY?fight=12&source=34&type=damage-done)
+
+- 477.018–487.895 s: Putrefy → Outbreak; jiné vlastní schopnosti: Anti-Magic Shell, Death Charge. Samotná mezera neprokazuje možnost útočit ani připravenou schopnost.
+- 255.520–262.152 s: Festering Scythe → Outbreak; jiné vlastní schopnosti: žádné zaznamenané. Samotná mezera neprokazuje možnost útočit ani připravenou schopnost.
+- 245.537–250.021 s: Death Coil → Scourge Strike; jiné vlastní schopnosti: žádné zaznamenané. Samotná mezera neprokazuje možnost útočit ani připravenou schopnost.
+- Záznam smrti 574.756 s; do konce killu bez doloženého návratu k vlastním akcím. Přesný čas přijetí oživení z toho neznáme.
+
+### Kubéc-Drak'thul-EU — Ula'tek
+
+Delších mezer: 1; celkem 4.8 s, z toho 0.0 s ve společných mezerách většiny DPS. Záznamů použití hlavních schopností: 284. To nejsou počty nezávislých stisků tlačítek.
+
+WCL percentil 21; v item-level skupině 25; damage aktivita 67.9 %. Damage aktivita není vlastní castění. [WCL](https://www.warcraftlogs.com/reports/kTKBw7crFD4nydVY?fight=12&source=21&type=damage-done)
+
+- 476.985–481.804 s: Whirling Dragon Punch → konec killu; jiné vlastní schopnosti: Roll. Samotná mezera neprokazuje možnost útočit ani připravenou schopnost.
+Čekání na zdroje může být správná součást rotace; tento součet jej neprohlašuje za chybu.
+- Záznam smrti 481.804 s; do konce killu bez doloženého návratu k vlastním akcím. Přesný čas přijetí oživení z toho neznáme.
+
+### Johnyhoudini-BurningBlade-EU — Ula'tek
+
+Delších mezer: 2; celkem 28.7 s, z toho 26.8 s ve společných mezerách většiny DPS. Záznamů použití hlavních schopností: 340. To nejsou počty nezávislých stisků tlačítek.
+
+WCL percentil 62; v item-level skupině 77; damage aktivita 80.3 %. Damage aktivita není vlastní castění. [WCL](https://www.warcraftlogs.com/reports/kTKBw7crFD4nydVY?fight=12&source=23&type=damage-done)
+
+- 351.355–363.798 s: Arcane Barrage → Arcane Missiles; jiné vlastní schopnosti: Arcane Explosion, Shimmer. Samotná mezera neprokazuje možnost útočit ani připravenou schopnost.
+- 155.446–171.734 s: Arcane Barrage → Prismatic Bolt; jiné vlastní schopnosti: Arcane Intellect, Prismatic Barrier, Shimmer. Samotná mezera neprokazuje možnost útočit ani připravenou schopnost.
+
+### Galneryus-Drak'thul-EU — Ula'tek
+
+Delších mezer: 7; celkem 74.2 s, z toho 49.6 s ve společných mezerách většiny DPS. Záznamů použití hlavních schopností: 490. To nejsou počty nezávislých stisků tlačítek.
+
+WCL percentil 99; v item-level skupině 96; damage aktivita 87.9 %. Damage aktivita není vlastní castění. [WCL](https://www.warcraftlogs.com/reports/kTKBw7crFD4nydVY?fight=12&source=8&type=damage-done)
+
+- 478.313–487.361 s: Hammer of Wrath → Final Verdict; jiné vlastní schopnosti: Divine Shield, Divine Steed. Samotná mezera neprokazuje možnost útočit ani připravenou schopnost.
+- 213.122–221.891 s: Final Verdict → Blade of Justice; jiné vlastní schopnosti: Crusading Strikes, Divine Protection. Samotná mezera neprokazuje možnost útočit ani připravenou schopnost.
+- 119.627–124.153 s: Final Verdict → Blade of Justice; jiné vlastní schopnosti: žádné zaznamenané. Samotná mezera neprokazuje možnost útočit ani připravenou schopnost.
+
+### Kirill-Drak'thul-EU — Kith'ix
+
+Delších mezer: 2; celkem 10.2 s, z toho 0.0 s ve společných mezerách většiny DPS. Záznamů použití hlavních schopností: 165. To nejsou počty nezávislých stisků tlačítek.
+
+WCL percentil 71; v item-level skupině 64; damage aktivita 99.2 %. Damage aktivita není vlastní castění. [WCL](https://www.warcraftlogs.com/reports/kTKBw7crFD4nydVY?fight=23&source=112&type=damage-done)
+
+- 139.519–145.079 s: Collapsing Star → Consume; jiné vlastní schopnosti: Soul Fragment. Samotná mezera neprokazuje možnost útočit ani připravenou schopnost.
+- 245.648–250.259 s: Soul Immolation → Consume; jiné vlastní schopnosti: Soul Fragment. Samotná mezera neprokazuje možnost útočit ani připravenou schopnost.
+
+### Nahollou-Drak'thul-EU — Kith'ix
+
+Delších mezer: 4; celkem 30.9 s, z toho 8.1 s ve společných mezerách většiny DPS. Záznamů použití hlavních schopností: 155. To nejsou počty nezávislých stisků tlačítek.
+
+WCL percentil 20; v item-level skupině 16; damage aktivita 96.9 %. Damage aktivita není vlastní castění. [WCL](https://www.warcraftlogs.com/reports/kTKBw7crFD4nydVY?fight=23&source=87&type=damage-done)
+
+- 229.436–237.270 s: Call Dreadstalkers → Demonbolt; jiné vlastní schopnosti: Light's Potential. Samotná mezera neprokazuje možnost útočit ani připravenou schopnost.
+- 143.548–150.265 s: Demonbolt → Ruination; jiné vlastní schopnosti: Burning Rush, Dark Pact. Samotná mezera neprokazuje možnost útočit ani připravenou schopnost.
+- 30.953–37.149 s: Implosion → Shadow Bolt; jiné vlastní schopnosti: Burning Rush. Samotná mezera neprokazuje možnost útočit ani připravenou schopnost.
+- Záznam smrti 262.454 s; do konce killu bez doloženého návratu k vlastním akcím. Přesný čas přijetí oživení z toho neznáme.
+
+### Odmin-Drak'thul-EU — Kith'ix
+
+Delších mezer: 2; celkem 16.2 s, z toho 8.1 s ve společných mezerách většiny DPS. Záznamů použití hlavních schopností: 218. To nejsou počty nezávislých stisků tlačítek.
+
+WCL percentil 47; v item-level skupině 37; damage aktivita 99.7 %. Damage aktivita není vlastní castění. [WCL](https://www.warcraftlogs.com/reports/kTKBw7crFD4nydVY?fight=23&source=79&type=damage-done)
+
+- 264.218–268.411 s: Felblade → konec killu; jiné vlastní schopnosti: Fel Rush. Samotná mezera neprokazuje možnost útočit ani připravenou schopnost.
+- 220.202–232.162 s: Chaos Strike → Eye Beam; jiné vlastní schopnosti: Immolation Aura. Samotná mezera neprokazuje možnost útočit ani připravenou schopnost.
+
+### Fobina-Drak'thul-EU — Kith'ix
+
+Delších mezer: 1; celkem 5.4 s, z toho 0.0 s ve společných mezerách většiny DPS. Záznamů použití hlavních schopností: 148. To nejsou počty nezávislých stisků tlačítek.
+
+WCL percentil 24; v item-level skupině 30; damage aktivita 99.7 %. Damage aktivita není vlastní castění. [WCL](https://www.warcraftlogs.com/reports/kTKBw7crFD4nydVY?fight=23&source=3&type=damage-done)
+
+- 89.316–94.697 s: Chrono Flames → Chrono Flames; jiné vlastní schopnosti: Obsidian Scales. Samotná mezera neprokazuje možnost útočit ani připravenou schopnost.
+
+### Rhínö-Drak'thul-EU — Kith'ix
+
+Delších mezer: 1; celkem 8.7 s, z toho 8.1 s ve společných mezerách většiny DPS. Záznamů použití hlavních schopností: 234. To nejsou počty nezávislých stisků tlačítek.
+
+WCL percentil 90; v item-level skupině 93; damage aktivita 99.8 %. Damage aktivita není vlastní castění. [WCL](https://www.warcraftlogs.com/reports/kTKBw7crFD4nydVY?fight=23&source=27&type=damage-done)
+
+- 220.036–228.693 s: Starsurge → Sunfire; jiné vlastní schopnosti: žádné zaznamenané. Samotná mezera neprokazuje možnost útočit ani připravenou schopnost.
+
+### Slejhy-Drak'thul-EU — Kith'ix
+
+Delších mezer: 9; celkem 58.5 s, z toho 8.1 s ve společných mezerách většiny DPS. Záznamů použití hlavních schopností: 194. To nejsou počty nezávislých stisků tlačítek.
+
+WCL percentil 56; v item-level skupině 43; damage aktivita 99.9 %. Damage aktivita není vlastní castění. [WCL](https://www.warcraftlogs.com/reports/kTKBw7crFD4nydVY?fight=23&source=6&type=damage-done)
+
+- 71.101–79.135 s: Envenom → Mutilate; jiné vlastní schopnosti: Cloak of Shadows, Sprint. Samotná mezera neprokazuje možnost útočit ani připravenou schopnost.
+- 150.744–158.464 s: Crimson Tempest → Mutilate; jiné vlastní schopnosti: žádné zaznamenané. Samotná mezera neprokazuje možnost útočit ani připravenou schopnost.
+- 140.231–147.540 s: Crimson Tempest → Garrote; jiné vlastní schopnosti: Feint, Sprint. Samotná mezera neprokazuje možnost útočit ani připravenou schopnost.
+Čekání na zdroje může být správná součást rotace; tento součet jej neprohlašuje za chybu.
+
+### Iacek-Drak'thul-EU — Kith'ix
+
+Delších mezer: 1; celkem 7.4 s, z toho 7.4 s ve společných mezerách většiny DPS. Záznamů použití hlavních schopností: 174. To nejsou počty nezávislých stisků tlačítek.
+
+WCL percentil 29; v item-level skupině 45; damage aktivita 99.7 %. Damage aktivita není vlastní castění. [WCL](https://www.warcraftlogs.com/reports/kTKBw7crFD4nydVY?fight=23&source=158&type=damage-done)
+
+- 220.431–227.865 s: Arcane Barrage → Arcane Missiles; jiné vlastní schopnosti: žádné zaznamenané. Samotná mezera neprokazuje možnost útočit ani připravenou schopnost.
+
+### Omniblue-Drak'thul-EU — Kith'ix
+
+Delších mezer: 3; celkem 19.7 s, z toho 7.6 s ve společných mezerách většiny DPS. Záznamů použití hlavních schopností: 180. To nejsou počty nezávislých stisků tlačítek.
+
+WCL percentil 51; v item-level skupině 46; damage aktivita 99.3 %. Damage aktivita není vlastní castění. [WCL](https://www.warcraftlogs.com/reports/kTKBw7crFD4nydVY?fight=23&source=15&type=damage-done)
+
+- 205.579–212.162 s: Void Torrent → Void Blast; jiné vlastní schopnosti: Dispersion, Shadowy Apparition. Samotná mezera neprokazuje možnost útočit ani připravenou schopnost.
+- 139.238–144.179 s: Void Blast → Mind Flay; jiné vlastní schopnosti: Power Word: Shield, Shadowy Apparition. Samotná mezera neprokazuje možnost útočit ani připravenou schopnost.
+- 220.735–228.912 s: Mind Flay → Tentacle Slam; jiné vlastní schopnosti: Fade, Shadowy Apparition. Samotná mezera neprokazuje možnost útočit ani připravenou schopnost.
+
+### Theila-Drak'thul-EU — Kith'ix
+
+Delších mezer: 4; celkem 29.3 s, z toho 8.1 s ve společných mezerách většiny DPS. Záznamů použití hlavních schopností: 170. To nejsou počty nezávislých stisků tlačítek.
+
+WCL percentil 54; v item-level skupině 27; damage aktivita 99.7 %. Damage aktivita není vlastní castění. [WCL](https://www.warcraftlogs.com/reports/kTKBw7crFD4nydVY?fight=23&source=2&type=damage-done)
+
+- 28.640–36.193 s: Kill Command → Wildfire Bomb; jiné vlastní schopnosti: Aspect of the Cheetah, Disengage. Samotná mezera neprokazuje možnost útočit ani připravenou schopnost.
+- 140.155–147.398 s: Raptor Swipe → Raptor Strike; jiné vlastní schopnosti: Disengage, Harpoon. Samotná mezera neprokazuje možnost útočit ani připravenou schopnost.
+- 150.070–156.168 s: Raptor Swipe → Kill Command; jiné vlastní schopnosti: žádné zaznamenané. Samotná mezera neprokazuje možnost útočit ani připravenou schopnost.
+Čekání na zdroje může být správná součást rotace; tento součet jej neprohlašuje za chybu.
+
+### Micaello-Drak'thul-EU — Kith'ix
+
+Delších mezer: 4; celkem 22.8 s, z toho 7.6 s ve společných mezerách většiny DPS. Záznamů použití hlavních schopností: 183. To nejsou počty nezávislých stisků tlačítek.
+
+WCL percentil 50; v item-level skupině 63; damage aktivita 99.6 %. Damage aktivita není vlastní castění. [WCL](https://www.warcraftlogs.com/reports/kTKBw7crFD4nydVY?fight=23&source=18&type=damage-done)
+
+- 138.754–144.633 s: Barbed Shot → Kill Command; jiné vlastní schopnosti: Disengage. Samotná mezera neprokazuje možnost útočit ani připravenou schopnost.
+- 33.611–38.806 s: Bestial Wrath → Cobra Shot; jiné vlastní schopnosti: žádné zaznamenané. Samotná mezera neprokazuje možnost útočit ani připravenou schopnost.
+- 69.786–73.890 s: Kill Command → Kill Command; jiné vlastní schopnosti: žádné zaznamenané. Samotná mezera neprokazuje možnost útočit ani připravenou schopnost.
+Čekání na zdroje může být správná součást rotace; tento součet jej neprohlašuje za chybu.
+
+### Corneilia-Sylvanas-EU — Kith'ix
+
+Delších mezer: 4; celkem 23.8 s, z toho 8.1 s ve společných mezerách většiny DPS. Záznamů použití hlavních schopností: 157. To nejsou počty nezávislých stisků tlačítek.
+
+WCL percentil 16; v item-level skupině 44; damage aktivita 99.5 %. Damage aktivita není vlastní castění. [WCL](https://www.warcraftlogs.com/reports/kTKBw7crFD4nydVY?fight=23&source=9&type=damage-done)
+
+- 31.509–37.171 s: Arcane Barrage → Arcane Barrage; jiné vlastní schopnosti: žádné zaznamenané. Samotná mezera neprokazuje možnost útočit ani připravenou schopnost.
+- 118.603–123.980 s: Arcane Barrage → Arcane Missiles; jiné vlastní schopnosti: Shimmer. Samotná mezera neprokazuje možnost útočit ani připravenou schopnost.
+- 139.917–144.504 s: Arcane Barrage → Prismatic Bolt; jiné vlastní schopnosti: žádné zaznamenané. Samotná mezera neprokazuje možnost útočit ani připravenou schopnost.
+
+### Vejr-Drak'thul-EU — Kith'ix
+
+Delších mezer: 5; celkem 35.9 s, z toho 8.1 s ve společných mezerách většiny DPS. Záznamů použití hlavních schopností: 163. To nejsou počty nezávislých stisků tlačítek.
+
+WCL percentil 18; v item-level skupině 20; damage aktivita 99.0 %. Damage aktivita není vlastní castění. [WCL](https://www.warcraftlogs.com/reports/kTKBw7crFD4nydVY?fight=23&source=34&type=damage-done)
+
+- 181.791–190.422 s: Scourge Strike → Army of the Dead; jiné vlastní schopnosti: žádné zaznamenané. Samotná mezera neprokazuje možnost útočit ani připravenou schopnost.
+- 139.490–147.352 s: Soul Reaper → Outbreak; jiné vlastní schopnosti: Death Charge. Samotná mezera neprokazuje možnost útočit ani připravenou schopnost.
+- 55.292–59.934 s: Death Coil → Soul Reaper; jiné vlastní schopnosti: žádné zaznamenané. Samotná mezera neprokazuje možnost útočit ani připravenou schopnost.
+
+### Johnyhoudini-BurningBlade-EU — Kith'ix
+
+Delších mezer: 0; celkem 0.0 s, z toho 0.0 s ve společných mezerách většiny DPS. Záznamů použití hlavních schopností: 188. To nejsou počty nezávislých stisků tlačítek.
+
+WCL percentil 59; v item-level skupině 80; damage aktivita 99.6 %. Damage aktivita není vlastní castění. [WCL](https://www.warcraftlogs.com/reports/kTKBw7crFD4nydVY?fight=23&source=23&type=damage-done)
+
+
+### Kubéc-Drak'thul-EU — Kith'ix
+
+Delších mezer: 3; celkem 21.8 s, z toho 8.1 s ve společných mezerách většiny DPS. Záznamů použití hlavních schopností: 163. To nejsou počty nezávislých stisků tlačítek.
+
+WCL percentil 24; v item-level skupině 43; damage aktivita 99.4 %. Damage aktivita není vlastní castění. [WCL](https://www.warcraftlogs.com/reports/kTKBw7crFD4nydVY?fight=23&source=21&type=damage-done)
+
+- 28.173–34.948 s: Touch of Death → Spinning Crane Kick; jiné vlastní schopnosti: Flying Serpent Kick. Samotná mezera neprokazuje možnost útočit ani připravenou schopnost.
+- 243.577–250.036 s: Fists of Fury → Tiger Palm; jiné vlastní schopnosti: Fortifying Brew. Samotná mezera neprokazuje možnost útočit ani připravenou schopnost.
+- 220.164–228.717 s: Rushing Wind Kick → Tiger Palm; jiné vlastní schopnosti: žádné zaznamenané. Samotná mezera neprokazuje možnost útočit ani připravenou schopnost.
+Čekání na zdroje může být správná součást rotace; tento součet jej neprohlašuje za chybu.
+
+### Galneryus-Drak'thul-EU — Kith'ix
+
+Delších mezer: 2; celkem 13.6 s, z toho 8.0 s ve společných mezerách většiny DPS. Záznamů použití hlavních schopností: 240. To nejsou počty nezávislých stisků tlačítek.
+
+WCL percentil 93; v item-level skupině 82; damage aktivita 99.8 %. Damage aktivita není vlastní castění. [WCL](https://www.warcraftlogs.com/reports/kTKBw7crFD4nydVY?fight=23&source=8&type=damage-done)
+
+- 140.539–145.627 s: Divine Storm → Blade of Justice; jiné vlastní schopnosti: Divine Shield, Divine Steed. Samotná mezera neprokazuje možnost útočit ani připravenou schopnost.
+- 219.730–228.199 s: Final Verdict → Final Verdict; jiné vlastní schopnosti: Crusading Strikes. Samotná mezera neprokazuje možnost útočit ani připravenou schopnost.
+
+### Kirill-Drak'thul-EU — Entombed Sentinels
+
+Delších mezer: 2; celkem 16.3 s, z toho 0.0 s ve společných mezerách většiny DPS. Záznamů použití hlavních schopností: 187. To nejsou počty nezávislých stisků tlačítek.
+
+WCL percentil 58; v item-level skupině 34; damage aktivita 99.7 %. Damage aktivita není vlastní castění. [WCL](https://www.warcraftlogs.com/reports/kTKBw7crFD4nydVY?fight=30&source=112&type=damage-done)
+
+- 167.032–177.535 s: Vengeful Retreat → Soul Immolation; jiné vlastní schopnosti: Blur, Darkness, Soul Fragment. Samotná mezera neprokazuje možnost útočit ani připravenou schopnost.
+- 177.535–183.283 s: Soul Immolation → Consume; jiné vlastní schopnosti: Soul Fragment. Samotná mezera neprokazuje možnost útočit ani připravenou schopnost.
+
+### Nahollou-Drak'thul-EU — Entombed Sentinels
+
+Delších mezer: 1; celkem 4.3 s, z toho 0.0 s ve společných mezerách většiny DPS. Záznamů použití hlavních schopností: 189. To nejsou počty nezávislých stisků tlačítek.
+
+WCL percentil 49; v item-level skupině 27; damage aktivita 99.7 %. Damage aktivita není vlastní castění. [WCL](https://www.warcraftlogs.com/reports/kTKBw7crFD4nydVY?fight=30&source=87&type=damage-done)
+
+- 47.576–51.922 s: Implosion → Shadow Bolt; jiné vlastní schopnosti: žádné zaznamenané. Samotná mezera neprokazuje možnost útočit ani připravenou schopnost.
+
+### Íácekpwn-Drak'thul-EU — Entombed Sentinels
+
+Delších mezer: 2; celkem 9.6 s, z toho 0.0 s ve společných mezerách většiny DPS. Záznamů použití hlavních schopností: 236. To nejsou počty nezávislých stisků tlačítek.
+
+WCL percentil 86; v item-level skupině 82; damage aktivita 99.9 %. Damage aktivita není vlastní castění. [WCL](https://www.warcraftlogs.com/reports/kTKBw7crFD4nydVY?fight=30&source=84&type=damage-done)
+
+- 262.982–267.841 s: Halo → Tentacle Slam; jiné vlastní schopnosti: Angelic Feather. Samotná mezera neprokazuje možnost útočit ani připravenou schopnost.
+- 159.494–164.265 s: Tentacle Slam → Shadow Word: Madness; jiné vlastní schopnosti: Shadowy Apparition. Samotná mezera neprokazuje možnost útočit ani připravenou schopnost.
+
+### Hrbaty-Drak'thul-EU — Entombed Sentinels
+
+Delších mezer: 1; celkem 13.4 s, z toho 0.0 s ve společných mezerách většiny DPS. Záznamů použití hlavních schopností: 191. To nejsou počty nezávislých stisků tlačítek.
+
+WCL percentil 62; v item-level skupině 85; damage aktivita 99.2 %. Damage aktivita není vlastní castění. [WCL](https://www.warcraftlogs.com/reports/kTKBw7crFD4nydVY?fight=30&source=33&type=damage-done)
+
+- 150.823–164.176 s: Lava Burst → Flame Shock; jiné vlastní schopnosti: Ghost Wolf. Samotná mezera neprokazuje možnost útočit ani připravenou schopnost.
+
+### Odmin-Drak'thul-EU — Entombed Sentinels
+
+Delších mezer: 4; celkem 32.5 s, z toho 0.0 s ve společných mezerách většiny DPS. Záznamů použití hlavních schopností: 234. To nejsou počty nezávislých stisků tlačítek.
+
+WCL percentil 59; v item-level skupině 39; damage aktivita 98.7 %. Damage aktivita není vlastní castění. [WCL](https://www.warcraftlogs.com/reports/kTKBw7crFD4nydVY?fight=30&source=79&type=damage-done)
+
+- 149.273–160.641 s: Vengeful Retreat → Felblade; jiné vlastní schopnosti: žádné zaznamenané. Samotná mezera neprokazuje možnost útočit ani připravenou schopnost.
+- 254.777–262.460 s: Immolation Aura → Blade Dance; jiné vlastní schopnosti: žádné zaznamenané. Samotná mezera neprokazuje možnost útočit ani připravenou schopnost.
+- 45.041–52.192 s: Blade Dance → Chaos Strike; jiné vlastní schopnosti: žádné zaznamenané. Samotná mezera neprokazuje možnost útočit ani připravenou schopnost.
+
+### Fobina-Drak'thul-EU — Entombed Sentinels
+
+Delších mezer: 1; celkem 5.5 s, z toho 0.0 s ve společných mezerách většiny DPS. Záznamů použití hlavních schopností: 181. To nejsou počty nezávislých stisků tlačítek.
+
+WCL percentil 62; v item-level skupině 64; damage aktivita 99.4 %. Damage aktivita není vlastní castění. [WCL](https://www.warcraftlogs.com/reports/kTKBw7crFD4nydVY?fight=30&source=3&type=damage-done)
+
+- 54.345–59.800 s: Prescience → Eruption; jiné vlastní schopnosti: žádné zaznamenané. Samotná mezera neprokazuje možnost útočit ani připravenou schopnost.
+
+### Rhínö-Drak'thul-EU — Entombed Sentinels
+
+Delších mezer: 2; celkem 8.9 s, z toho 0.0 s ve společných mezerách většiny DPS. Záznamů použití hlavních schopností: 241. To nejsou počty nezávislých stisků tlačítek.
+
+WCL percentil 93; v item-level skupině 93; damage aktivita 99.9 %. Damage aktivita není vlastní castění. [WCL](https://www.warcraftlogs.com/reports/kTKBw7crFD4nydVY?fight=30&source=27&type=damage-done)
+
+- 48.643–53.384 s: Sunfire → Starfall; jiné vlastní schopnosti: žádné zaznamenané. Samotná mezera neprokazuje možnost útočit ani připravenou schopnost.
+- 265.886–269.999 s: Sunfire → Lunar Eclipse; jiné vlastní schopnosti: Barkskin. Samotná mezera neprokazuje možnost útočit ani připravenou schopnost.
+
+### Slejhy-Drak'thul-EU — Entombed Sentinels
+
+Delších mezer: 5; celkem 41.2 s, z toho 0.0 s ve společných mezerách většiny DPS. Záznamů použití hlavních schopností: 222. To nejsou počty nezávislých stisků tlačítek.
+
+WCL percentil 80; v item-level skupině 62; damage aktivita 99.9 %. Damage aktivita není vlastní castění. [WCL](https://www.warcraftlogs.com/reports/kTKBw7crFD4nydVY?fight=30&source=6&type=damage-done)
+
+- 253.258–266.916 s: Envenom → Garrote; jiné vlastní schopnosti: žádné zaznamenané. Samotná mezera neprokazuje možnost útočit ani připravenou schopnost.
+- 44.649–55.187 s: Envenom → Mutilate; jiné vlastní schopnosti: Fatebound Coin (Tails), Sprint, Tricks of the Trade. Samotná mezera neprokazuje možnost útočit ani připravenou schopnost.
+- 149.373–156.461 s: Mutilate → Mutilate; jiné vlastní schopnosti: Mutilate. Samotná mezera neprokazuje možnost útočit ani připravenou schopnost.
+Čekání na zdroje může být správná součást rotace; tento součet jej neprohlašuje za chybu.
+
+### Omniblue-Drak'thul-EU — Entombed Sentinels
+
+Delších mezer: 6; celkem 43.3 s, z toho 0.0 s ve společných mezerách většiny DPS. Záznamů použití hlavních schopností: 198. To nejsou počty nezávislých stisků tlačítek.
+
+WCL percentil 58; v item-level skupině 16; damage aktivita 99.6 %. Damage aktivita není vlastní castění. [WCL](https://www.warcraftlogs.com/reports/kTKBw7crFD4nydVY?fight=30&source=15&type=damage-done)
+
+- 255.193–265.842 s: Mind Flay → Mind Blast; jiné vlastní schopnosti: Power Word: Shield, Shadowy Apparition. Samotná mezera neprokazuje možnost útočit ani připravenou schopnost.
+- 149.609–159.566 s: Mind Blast → Tentacle Slam; jiné vlastní schopnosti: Power Word: Shield, Shadowy Apparition. Samotná mezera neprokazuje možnost útočit ani připravenou schopnost.
+- 189.634–196.937 s: Void Volley → Mind Blast; jiné vlastní schopnosti: Dispersion, Shadowy Apparition. Samotná mezera neprokazuje možnost útočit ani připravenou schopnost.
+
+### Theila-Drak'thul-EU — Entombed Sentinels
+
+Delších mezer: 1; celkem 7.3 s, z toho 0.0 s ve společných mezerách většiny DPS. Záznamů použití hlavních schopností: 203. To nejsou počty nezávislých stisků tlačítek.
+
+WCL percentil 72; v item-level skupině 26; damage aktivita 99.3 %. Damage aktivita není vlastní castění. [WCL](https://www.warcraftlogs.com/reports/kTKBw7crFD4nydVY?fight=30&source=2&type=damage-done)
+
+- 155.625–162.974 s: Kill Command → Wildfire Bomb; jiné vlastní schopnosti: žádné zaznamenané. Samotná mezera neprokazuje možnost útočit ani připravenou schopnost.
+Čekání na zdroje může být správná součást rotace; tento součet jej neprohlašuje za chybu.
+
+### Micaello-Drak'thul-EU — Entombed Sentinels
+
+Delších mezer: 0; celkem 0.0 s, z toho 0.0 s ve společných mezerách většiny DPS. Záznamů použití hlavních schopností: 218. To nejsou počty nezávislých stisků tlačítek.
+
+WCL percentil 38; v item-level skupině 40; damage aktivita 99.6 %. Damage aktivita není vlastní castění. [WCL](https://www.warcraftlogs.com/reports/kTKBw7crFD4nydVY?fight=30&source=18&type=damage-done)
+
+Čekání na zdroje může být správná součást rotace; tento součet jej neprohlašuje za chybu.
+
+### Corneilia-Sylvanas-EU — Entombed Sentinels
+
+Delších mezer: 2; celkem 17.3 s, z toho 0.0 s ve společných mezerách většiny DPS. Záznamů použití hlavních schopností: 169. To nejsou počty nezávislých stisků tlačítek.
+
+WCL percentil 47; v item-level skupině 85; damage aktivita 91.8 %. Damage aktivita není vlastní castění. [WCL](https://www.warcraftlogs.com/reports/kTKBw7crFD4nydVY?fight=30&source=9&type=damage-done)
+
+- 149.227–161.588 s: Arcane Barrage → Prismatic Bolt; jiné vlastní schopnosti: žádné zaznamenané. Samotná mezera neprokazuje možnost útočit ani připravenou schopnost.
+- 79.326–84.307 s: Arcane Barrage → Prismatic Bolt; jiné vlastní schopnosti: Ice Cold, Prismatic Barrier. Samotná mezera neprokazuje možnost útočit ani připravenou schopnost.
+
+### Vejr-Drak'thul-EU — Entombed Sentinels
+
+Delších mezer: 5; celkem 45.9 s, z toho 0.0 s ve společných mezerách většiny DPS. Záznamů použití hlavních schopností: 186. To nejsou počty nezávislých stisků tlačítek.
+
+WCL percentil 39; v item-level skupině 44; damage aktivita 98.9 %. Damage aktivita není vlastní castění. [WCL](https://www.warcraftlogs.com/reports/kTKBw7crFD4nydVY?fight=30&source=34&type=damage-done)
+
+- 46.011–60.456 s: Scourge Strike → Outbreak; jiné vlastní schopnosti: žádné zaznamenané. Samotná mezera neprokazuje možnost útočit ani připravenou schopnost.
+- 156.912–167.501 s: Outbreak → Outbreak; jiné vlastní schopnosti: žádné zaznamenané. Samotná mezera neprokazuje možnost útočit ani připravenou schopnost.
+- 253.285–262.611 s: Death Coil → Outbreak; jiné vlastní schopnosti: žádné zaznamenané. Samotná mezera neprokazuje možnost útočit ani připravenou schopnost.
+
+### Kubéc-Drak'thul-EU — Entombed Sentinels
+
+Delších mezer: 2; celkem 10.2 s, z toho 0.0 s ve společných mezerách většiny DPS. Záznamů použití hlavních schopností: 184. To nejsou počty nezávislých stisků tlačítek.
+
+WCL percentil 28; v item-level skupině 32; damage aktivita 99.4 %. Damage aktivita není vlastní castění. [WCL](https://www.warcraftlogs.com/reports/kTKBw7crFD4nydVY?fight=30&source=21&type=damage-done)
+
+- 162.871–168.965 s: Tiger Palm → Tiger Palm; jiné vlastní schopnosti: žádné zaznamenané. Samotná mezera neprokazuje možnost útočit ani připravenou schopnost.
+- 111.411–115.560 s: Rising Sun Kick → Tiger Palm; jiné vlastní schopnosti: Concentrated Silvermoon Health Potion, Healthstone, Tiger's Lust. Samotná mezera neprokazuje možnost útočit ani připravenou schopnost.
+Čekání na zdroje může být správná součást rotace; tento součet jej neprohlašuje za chybu.
+
+### Johnyhoudini-BurningBlade-EU — Entombed Sentinels
+
+Delších mezer: 1; celkem 4.7 s, z toho 0.0 s ve společných mezerách většiny DPS. Záznamů použití hlavních schopností: 212. To nejsou počty nezávislých stisků tlačítek.
+
+WCL percentil 61; v item-level skupině 76; damage aktivita 99.7 %. Damage aktivita není vlastní castění. [WCL](https://www.warcraftlogs.com/reports/kTKBw7crFD4nydVY?fight=30&source=23&type=damage-done)
+
+- 261.182–265.908 s: Arcane Barrage → Arcane Blast; jiné vlastní schopnosti: žádné zaznamenané. Samotná mezera neprokazuje možnost útočit ani připravenou schopnost.
+
+### Galneryus-Drak'thul-EU — Entombed Sentinels
+
+Delších mezer: 4; celkem 26.4 s, z toho 0.0 s ve společných mezerách většiny DPS. Záznamů použití hlavních schopností: 261. To nejsou počty nezávislých stisků tlačítek.
+
+WCL percentil 99; v item-level skupině 96; damage aktivita 99.8 %. Damage aktivita není vlastní castění. [WCL](https://www.warcraftlogs.com/reports/kTKBw7crFD4nydVY?fight=30&source=8&type=damage-done)
+
+- 43.380–54.345 s: Final Verdict → Judgment; jiné vlastní schopnosti: Crusading Strikes. Samotná mezera neprokazuje možnost útočit ani připravenou schopnost.
+- 155.626–162.064 s: Final Verdict → Judgment; jiné vlastní schopnosti: Divine Steed. Samotná mezera neprokazuje možnost útočit ani připravenou schopnost.
+- 253.896–258.771 s: Judgment → Judgment; jiné vlastní schopnosti: Divine Steed. Samotná mezera neprokazuje možnost útočit ani připravenou schopnost.
+
+### Kirill-Drak'thul-EU — Vashnik the Malignant
+
+Delších mezer: 0; celkem 0.0 s, z toho 0.0 s ve společných mezerách většiny DPS. Záznamů použití hlavních schopností: 170. To nejsou počty nezávislých stisků tlačítek.
+
+WCL percentil 81; v item-level skupině 71; damage aktivita 99.5 %. Damage aktivita není vlastní castění. [WCL](https://www.warcraftlogs.com/reports/kTKBw7crFD4nydVY?fight=35&source=112&type=damage-done)
+
+
+### Nahollou-Drak'thul-EU — Vashnik the Malignant
+
+Delších mezer: 1; celkem 4.6 s, z toho 0.0 s ve společných mezerách většiny DPS. Záznamů použití hlavních schopností: 170. To nejsou počty nezávislých stisků tlačítek.
+
+WCL percentil 56; v item-level skupině 38; damage aktivita 99.5 %. Damage aktivita není vlastní castění. [WCL](https://www.warcraftlogs.com/reports/kTKBw7crFD4nydVY?fight=35&source=87&type=damage-done)
+
+- 140.193–144.824 s: Implosion → Shadow Bolt; jiné vlastní schopnosti: žádné zaznamenané. Samotná mezera neprokazuje možnost útočit ani připravenou schopnost.
+
+### Íácekpwn-Drak'thul-EU — Vashnik the Malignant
+
+Delších mezer: 0; celkem 0.0 s, z toho 0.0 s ve společných mezerách většiny DPS. Záznamů použití hlavních schopností: 199. To nejsou počty nezávislých stisků tlačítek.
+
+WCL percentil 90; v item-level skupině 87; damage aktivita 99.9 %. Damage aktivita není vlastní castění. [WCL](https://www.warcraftlogs.com/reports/kTKBw7crFD4nydVY?fight=35&source=84&type=damage-done)
+
+
+### Hrbaty-Drak'thul-EU — Vashnik the Malignant
+
+Delších mezer: 4; celkem 23.5 s, z toho 0.0 s ve společných mezerách většiny DPS. Záznamů použití hlavních schopností: 152. To nejsou počty nezávislých stisků tlačítek.
+
+WCL percentil 26; v item-level skupině 40; damage aktivita 99.4 %. Damage aktivita není vlastní castění. [WCL](https://www.warcraftlogs.com/reports/kTKBw7crFD4nydVY?fight=35&source=33&type=damage-done)
+
+- 135.920–143.891 s: Stormkeeper → Flame Shock; jiné vlastní schopnosti: žádné zaznamenané. Samotná mezera neprokazuje možnost útočit ani připravenou schopnost.
+- 230.207–235.896 s: Flame Shock → Lava Burst; jiné vlastní schopnosti: žádné zaznamenané. Samotná mezera neprokazuje možnost útočit ani připravenou schopnost.
+- 219.016–224.028 s: Elemental Blast → Lava Burst; jiné vlastní schopnosti: žádné zaznamenané. Samotná mezera neprokazuje možnost útočit ani připravenou schopnost.
+
+### Odmin-Drak'thul-EU — Vashnik the Malignant
+
+Delších mezer: 1; celkem 5.3 s, z toho 0.0 s ve společných mezerách většiny DPS. Záznamů použití hlavních schopností: 214. To nejsou počty nezávislých stisků tlačítek.
+
+WCL percentil 58; v item-level skupině 39; damage aktivita 99.3 %. Damage aktivita není vlastní castění. [WCL](https://www.warcraftlogs.com/reports/kTKBw7crFD4nydVY?fight=35&source=79&type=damage-done)
+
+- 141.811–147.065 s: Chaos Strike → Vengeful Retreat; jiné vlastní schopnosti: žádné zaznamenané. Samotná mezera neprokazuje možnost útočit ani připravenou schopnost.
+
+### Fobina-Drak'thul-EU — Vashnik the Malignant
+
+Delších mezer: 0; celkem 0.0 s, z toho 0.0 s ve společných mezerách většiny DPS. Záznamů použití hlavních schopností: 172. To nejsou počty nezávislých stisků tlačítek.
+
+WCL percentil 59; v item-level skupině 59; damage aktivita 100.0 %. Damage aktivita není vlastní castění. [WCL](https://www.warcraftlogs.com/reports/kTKBw7crFD4nydVY?fight=35&source=3&type=damage-done)
+
+
+### Rhínö-Drak'thul-EU — Vashnik the Malignant
+
+Delších mezer: 0; celkem 0.0 s, z toho 0.0 s ve společných mezerách většiny DPS. Záznamů použití hlavních schopností: 204. To nejsou počty nezávislých stisků tlačítek.
+
+WCL percentil 83; v item-level skupině 77; damage aktivita 99.9 %. Damage aktivita není vlastní castění. [WCL](https://www.warcraftlogs.com/reports/kTKBw7crFD4nydVY?fight=35&source=27&type=damage-done)
+
+
+### Slejhy-Drak'thul-EU — Vashnik the Malignant
+
+Delších mezer: 1; celkem 5.1 s, z toho 0.0 s ve společných mezerách většiny DPS. Záznamů použití hlavních schopností: 204. To nejsou počty nezávislých stisků tlačítek.
+
+WCL percentil 79; v item-level skupině 61; damage aktivita 99.5 %. Damage aktivita není vlastní castění. [WCL](https://www.warcraftlogs.com/reports/kTKBw7crFD4nydVY?fight=35&source=6&type=damage-done)
+
+- 103.170–108.236 s: Rupture → Mutilate; jiné vlastní schopnosti: žádné zaznamenané. Samotná mezera neprokazuje možnost útočit ani připravenou schopnost.
+Čekání na zdroje může být správná součást rotace; tento součet jej neprohlašuje za chybu.
+
+### Omniblue-Drak'thul-EU — Vashnik the Malignant
+
+Delších mezer: 1; celkem 4.1 s, z toho 0.0 s ve společných mezerách většiny DPS. Záznamů použití hlavních schopností: 180. To nejsou počty nezávislých stisků tlačítek.
+
+WCL percentil 36; v item-level skupině 5; damage aktivita 99.5 %. Damage aktivita není vlastní castění. [WCL](https://www.warcraftlogs.com/reports/kTKBw7crFD4nydVY?fight=35&source=15&type=damage-done)
+
+- 224.230–228.306 s: Mind Blast → Mind Flay; jiné vlastní schopnosti: Shadowy Apparition. Samotná mezera neprokazuje možnost útočit ani připravenou schopnost.
+
+### Theila-Drak'thul-EU — Vashnik the Malignant
+
+Delších mezer: 0; celkem 0.0 s, z toho 0.0 s ve společných mezerách většiny DPS. Záznamů použití hlavních schopností: 171. To nejsou počty nezávislých stisků tlačítek.
+
+WCL percentil 75; v item-level skupině 34; damage aktivita 99.3 %. Damage aktivita není vlastní castění. [WCL](https://www.warcraftlogs.com/reports/kTKBw7crFD4nydVY?fight=35&source=2&type=damage-done)
+
+Čekání na zdroje může být správná součást rotace; tento součet jej neprohlašuje za chybu.
+
+### Micaello-Drak'thul-EU — Vashnik the Malignant
+
+Delších mezer: 0; celkem 0.0 s, z toho 0.0 s ve společných mezerách většiny DPS. Záznamů použití hlavních schopností: 183. To nejsou počty nezávislých stisků tlačítek.
+
+WCL percentil 55; v item-level skupině 64; damage aktivita 99.5 %. Damage aktivita není vlastní castění. [WCL](https://www.warcraftlogs.com/reports/kTKBw7crFD4nydVY?fight=35&source=18&type=damage-done)
+
+Čekání na zdroje může být správná součást rotace; tento součet jej neprohlašuje za chybu.
+
+### Corneilia-Sylvanas-EU — Vashnik the Malignant
+
+Delších mezer: 0; celkem 0.0 s, z toho 0.0 s ve společných mezerách většiny DPS. Záznamů použití hlavních schopností: 164. To nejsou počty nezávislých stisků tlačítek.
+
+WCL percentil 65; v item-level skupině 93; damage aktivita 99.7 %. Damage aktivita není vlastní castění. [WCL](https://www.warcraftlogs.com/reports/kTKBw7crFD4nydVY?fight=35&source=9&type=damage-done)
+
+
+### Vejr-Drak'thul-EU — Vashnik the Malignant
+
+Delších mezer: 4; celkem 28.1 s, z toho 0.0 s ve společných mezerách většiny DPS. Záznamů použití hlavních schopností: 159. To nejsou počty nezávislých stisků tlačítek.
+
+WCL percentil 47; v item-level skupině 57; damage aktivita 99.1 %. Damage aktivita není vlastní castění. [WCL](https://www.warcraftlogs.com/reports/kTKBw7crFD4nydVY?fight=35&source=34&type=damage-done)
+
+- 30.892–39.158 s: Necrotic Coil → Outbreak; jiné vlastní schopnosti: Death Grip. Samotná mezera neprokazuje možnost útočit ani připravenou schopnost.
+- 117.339–125.486 s: Necrotic Coil → Outbreak; jiné vlastní schopnosti: Death Grip. Samotná mezera neprokazuje možnost útočit ani připravenou schopnost.
+- 204.444–211.077 s: Necrotic Coil → Outbreak; jiné vlastní schopnosti: Death Charge, Death Grip. Samotná mezera neprokazuje možnost útočit ani připravenou schopnost.
+
+### Kubéc-Drak'thul-EU — Vashnik the Malignant
+
+Delších mezer: 0; celkem 0.0 s, z toho 0.0 s ve společných mezerách většiny DPS. Záznamů použití hlavních schopností: 167. To nejsou počty nezávislých stisků tlačítek.
+
+WCL percentil 24; v item-level skupině 28; damage aktivita 99.7 %. Damage aktivita není vlastní castění. [WCL](https://www.warcraftlogs.com/reports/kTKBw7crFD4nydVY?fight=35&source=21&type=damage-done)
+
+Čekání na zdroje může být správná součást rotace; tento součet jej neprohlašuje za chybu.
+
+### Johnyhoudini-BurningBlade-EU — Vashnik the Malignant
+
+Delších mezer: 0; celkem 0.0 s, z toho 0.0 s ve společných mezerách většiny DPS. Záznamů použití hlavních schopností: 175. To nejsou počty nezávislých stisků tlačítek.
+
+WCL percentil 75; v item-level skupině 88; damage aktivita 99.5 %. Damage aktivita není vlastní castění. [WCL](https://www.warcraftlogs.com/reports/kTKBw7crFD4nydVY?fight=35&source=23&type=damage-done)
+
+
+### Galneryus-Drak'thul-EU — Vashnik the Malignant
+
+Delších mezer: 0; celkem 0.0 s, z toho 0.0 s ve společných mezerách většiny DPS. Záznamů použití hlavních schopností: 236. To nejsou počty nezávislých stisků tlačítek.
+
+WCL percentil 91; v item-level skupině 73; damage aktivita 99.7 %. Damage aktivita není vlastní castění. [WCL](https://www.warcraftlogs.com/reports/kTKBw7crFD4nydVY?fight=35&source=8&type=damage-done)
+
+
+
 ## DPS potiony — doplňkový přehled
 Na farmě volitelné; doporučení má nízkou prioritu. Nezaznamenané použití není důkaz nepoužití. Pre-pull casty jsou v okně 30 s; poslední starší cast je zachovaný v JSON. Jiné potiony vyžadují posouzení.
 
