@@ -58,9 +58,9 @@ Co ukázal log: U 24 sledovaných použití Mutilate se část Combo Points neve
 Na co dát pozor: Plné Combo Points samy neznamenají, že jsi měl okamžitě použít Envenom. Rozhoduje i zbytek rotace.
    Příklad: Nek'zali the Soulcoiler · 01:22.076 · kill pokus 1.
 
-2. **Naplánuj si další použití burstu**
-Co zkusit příště: Před pullem si ujasni, kdy chceš používat tyto schopnosti společně a kdy je držíš kvůli bossovi, addům nebo domluvě raidu. U uvedených časů si ověř, zda delší čekání mělo tento důvod.
-Proč: Společný plán se hlídá lépe než několik oddělených odpočtů.
+2. **Dlouhé mezery mezi cooldowny**
+Co zkusit příště: Hlídej si další použití uvedených cooldownů. Pokud je nedržíš kvůli mechanice, addům nebo domluvenému burstu, připrav jejich opětovné použití, jakmile to tvoje rotace a cíl dovolí. U vyznačených dlouhých mezer si ověř, proč další použití přišlo později.
+Proč: Při opakovaných dlouhých mezerách může během fightu ubýt příležitostí využít silné schopnosti. Proto si další použití průběžně hlídej.
 Co ukázal log: Sledované schopnosti: Deathmark + Kingsbane. Vybrali jsme delší mezery mezi jejich použitími; přesné časy otevřeš níže.
 Na co dát pozor: Delší mezera neznamená automaticky zapomenutý cooldown. Report neví jistě, kdy byla schopnost znovu dostupná ani zda šlo v tu chvíli útočit.
    Příklad: Nek'zali the Soulcoiler · 00:08.081 · kill pokus 1.
@@ -138,9 +138,9 @@ Co ukázal log: U 5 sledovaných použití Mind Blast se část Insanity nevešl
 Na co dát pozor: Z přebytku samotného nepoznáme, zda jsi mohl použít Shadow Word: Madness dřív.
    Příklad: Ula'tek · 05:05.560 · kill pokus 5.
 
-2. **Naplánuj si další použití burstu**
-Co zkusit příště: Před pullem si ujasni, kdy chceš používat tyto schopnosti společně a kdy je držíš kvůli bossovi, addům nebo domluvě raidu. U uvedených časů si ověř, zda delší čekání mělo tento důvod.
-Proč: Společný plán se hlídá lépe než několik oddělených odpočtů.
+2. **Dlouhé mezery mezi cooldowny**
+Co zkusit příště: Hlídej si další použití uvedených cooldownů. Pokud je nedržíš kvůli mechanice, addům nebo domluvenému burstu, připrav jejich opětovné použití, jakmile to tvoje rotace a cíl dovolí. U vyznačených dlouhých mezer si ověř, proč další použití přišlo později.
+Proč: Při opakovaných dlouhých mezerách může během fightu ubýt příležitostí využít silné schopnosti. Proto si další použití průběžně hlídej.
 Co ukázal log: Sledované schopnosti: Power Infusion. Vybrali jsme delší mezery mezi jejich použitími; přesné časy otevřeš níže.
 Na co dát pozor: Delší mezera neznamená automaticky zapomenutý cooldown. Report neví jistě, kdy byla schopnost znovu dostupná ani zda šlo v tu chvíli útočit.
    Příklad: Nek'zali the Soulcoiler · 00:05.518 · kill pokus 1.
@@ -173,9 +173,9 @@ Co ukázal log: U 102 sledovaných použití Kill Command se část Focus neveš
 Na co dát pozor: Přebytek Focusu proto není automatický důvod Kill Command vynechat; záleží i na cíli, pohybu a přípravě burstu.
    Příklad: Nek'zali the Soulcoiler · 00:03.768 · kill pokus 1.
 
-2. **Naplánuj si další použití burstu**
-Co zkusit příště: Před pullem si ujasni, kdy chceš používat tyto schopnosti společně a kdy je držíš kvůli bossovi, addům nebo domluvě raidu. U uvedených časů si ověř, zda delší čekání mělo tento důvod.
-Proč: Společný plán se hlídá lépe než několik oddělených odpočtů.
+2. **Dlouhé mezery mezi cooldowny**
+Co zkusit příště: Hlídej si další použití uvedených cooldownů. Pokud je nedržíš kvůli mechanice, addům nebo domluvenému burstu, připrav jejich opětovné použití, jakmile to tvoje rotace a cíl dovolí. U vyznačených dlouhých mezer si ověř, proč další použití přišlo později.
+Proč: Při opakovaných dlouhých mezerách může během fightu ubýt příležitostí využít silné schopnosti. Proto si další použití průběžně hlídej.
 Co ukázal log: Sledované schopnosti: Takedown. Vybrali jsme delší mezery mezi jejich použitími; přesné časy otevřeš níže.
 Na co dát pozor: Delší mezera neznamená automaticky zapomenutý cooldown. Report neví jistě, kdy byla schopnost znovu dostupná ani zda šlo v tu chvíli útočit.
    Příklad: Ula'tek · 00:02.942 · kill pokus 5.
@@ -216,9 +216,9 @@ Co ukázal log: V těchto příkladech začal Arcane Blast během Arcane Soul; s
 Na co dát pozor: U uvedených Arcane Blast nevíme, zda v daném okamžiku šla bezpečně použít lepší schopnost. Bez Clearcasting neplatí uvedené pravidlo pro Arcane Missiles.
    Příklad: The Coiled Altar · 03:55.726 · kill pokus 4.
 
-2. **Naplánuj si další použití burstu**
-Co zkusit příště: Před pullem si ujasni, kdy chceš používat tyto schopnosti společně a kdy je držíš kvůli bossovi, addům nebo domluvě raidu. U uvedených časů si ověř, zda delší čekání mělo tento důvod.
-Proč: Společný plán se hlídá lépe než několik oddělených odpočtů.
+2. **Dlouhé mezery mezi cooldowny**
+Co zkusit příště: Hlídej si další použití uvedených cooldownů. Pokud je nedržíš kvůli mechanice, addům nebo domluvenému burstu, připrav jejich opětovné použití, jakmile to tvoje rotace a cíl dovolí. U vyznačených dlouhých mezer si ověř, proč další použití přišlo později.
+Proč: Při opakovaných dlouhých mezerách může během fightu ubýt příležitostí využít silné schopnosti. Proto si další použití průběžně hlídej.
 Co ukázal log: Sledované schopnosti: Touch of the Magi. Vybrali jsme delší mezery mezi jejich použitími; přesné časy otevřeš níže.
 Na co dát pozor: Delší mezera neznamená automaticky zapomenutý cooldown. Report neví jistě, kdy byla schopnost znovu dostupná ani zda šlo v tu chvíli útočit.
    Příklad: The Coiled Altar · 00:49.394 · kill pokus 4.
@@ -295,9 +295,9 @@ Co ukázal log: V těchto příkladech začal Arcane Blast během Arcane Soul; s
 Na co dát pozor: U uvedených Arcane Blast nevíme, zda v daném okamžiku šla bezpečně použít lepší schopnost. Bez Clearcasting neplatí uvedené pravidlo pro Arcane Missiles.
    Příklad: Kith'ix · 00:21.537 · kill pokus 9.
 
-2. **Naplánuj si další použití burstu**
-Co zkusit příště: Před pullem si ujasni, kdy chceš používat tyto schopnosti společně a kdy je držíš kvůli bossovi, addům nebo domluvě raidu. U uvedených časů si ověř, zda delší čekání mělo tento důvod.
-Proč: Společný plán se hlídá lépe než několik oddělených odpočtů.
+2. **Dlouhé mezery mezi cooldowny**
+Co zkusit příště: Hlídej si další použití uvedených cooldownů. Pokud je nedržíš kvůli mechanice, addům nebo domluvenému burstu, připrav jejich opětovné použití, jakmile to tvoje rotace a cíl dovolí. U vyznačených dlouhých mezer si ověř, proč další použití přišlo později.
+Proč: Při opakovaných dlouhých mezerách může během fightu ubýt příležitostí využít silné schopnosti. Proto si další použití průběžně hlídej.
 Co ukázal log: Sledované schopnosti: Touch of the Magi. Vybrali jsme delší mezery mezi jejich použitími; přesné časy otevřeš níže.
 Na co dát pozor: Delší mezera neznamená automaticky zapomenutý cooldown. Report neví jistě, kdy byla schopnost znovu dostupná ani zda šlo v tu chvíli útočit.
    Příklad: Ula'tek · 01:08.927 · kill pokus 5.
@@ -369,9 +369,9 @@ Co ukázal log: U 16 sledovaných použití Blade of Justice se část Holy Powe
 Na co dát pozor: S talentem Walk Into Light během Avenging Wrath se tato výjimka pro Blade of Justice neuplatňuje. Z logu přesto nevíme, zda šel v každém uvedeném okamžiku použít vhodný útok za Holy Power.
    Příklad: Nek'zali the Soulcoiler · 01:21.072 · kill pokus 1.
 
-2. **Naplánuj si další použití burstu**
-Co zkusit příště: Před pullem si ujasni, kdy chceš používat tyto schopnosti společně a kdy je držíš kvůli bossovi, addům nebo domluvě raidu. U uvedených časů si ověř, zda delší čekání mělo tento důvod.
-Proč: Společný plán se hlídá lépe než několik oddělených odpočtů.
+2. **Dlouhé mezery mezi cooldowny**
+Co zkusit příště: Hlídej si další použití uvedených cooldownů. Pokud je nedržíš kvůli mechanice, addům nebo domluvenému burstu, připrav jejich opětovné použití, jakmile to tvoje rotace a cíl dovolí. U vyznačených dlouhých mezer si ověř, proč další použití přišlo později.
+Proč: Při opakovaných dlouhých mezerách může během fightu ubýt příležitostí využít silné schopnosti. Proto si další použití průběžně hlídej.
 Co ukázal log: Sledované schopnosti: Divine Toll + Execution Sentence. Vybrali jsme delší mezery mezi jejich použitími; přesné časy otevřeš níže.
 Na co dát pozor: Delší mezera neznamená automaticky zapomenutý cooldown. Report neví jistě, kdy byla schopnost znovu dostupná ani zda šlo v tu chvíli útočit.
    Příklad: Ula'tek · 02:16.606 · kill pokus 5.
@@ -433,9 +433,9 @@ Co ukázal log: U 60 sledovaných použití Demonbolt, Shadow Bolt, Infernal Bol
 Na co dát pozor: Plné Soul Shards při dokončení kouzla ještě neříkají, kolik jsi měl při jeho zahájení. Samy proto nedokazují špatně použitý Demonbolt.
    Příklad: The Coiled Altar · 01:17.046 · kill pokus 4.
 
-3. **Naplánuj si další použití burstu**
-Co zkusit příště: Před pullem si ujasni, kdy chceš používat tyto schopnosti společně a kdy je držíš kvůli bossovi, addům nebo domluvě raidu. U uvedených časů si ověř, zda delší čekání mělo tento důvod.
-Proč: Společný plán se hlídá lépe než několik oddělených odpočtů.
+3. **Dlouhé mezery mezi cooldowny**
+Co zkusit příště: Hlídej si další použití uvedených cooldownů. Pokud je nedržíš kvůli mechanice, addům nebo domluvenému burstu, připrav jejich opětovné použití, jakmile to tvoje rotace a cíl dovolí. U vyznačených dlouhých mezer si ověř, proč další použití přišlo později.
+Proč: Při opakovaných dlouhých mezerách může během fightu ubýt příležitostí využít silné schopnosti. Proto si další použití průběžně hlídej.
 Co ukázal log: Sledované schopnosti: Summon Demonic Tyrant. Vybrali jsme delší mezery mezi jejich použitími; přesné časy otevřeš níže.
 Na co dát pozor: Delší mezera neznamená automaticky zapomenutý cooldown. Report neví jistě, kdy byla schopnost znovu dostupná ani zda šlo v tu chvíli útočit.
    Příklad: Ula'tek · 04:47.169 · kill pokus 5.
@@ -491,9 +491,9 @@ Co ukázal log: U 1 sledovaných proců Mind Flay: Insanity log zachytil jejich 
 Na co dát pozor: Jeho skončení samo nedokazuje promarněné použití. Uvedené časy porovnej s tím, co se ve fightu dělo.
    Příklad: Ula'tek · 05:41.877 · kill pokus 5.
 
-2. **Naplánuj si další použití burstu**
-Co zkusit příště: Před pullem si ujasni, kdy chceš používat tyto schopnosti společně a kdy je držíš kvůli bossovi, addům nebo domluvě raidu. U uvedených časů si ověř, zda delší čekání mělo tento důvod.
-Proč: Společný plán se hlídá lépe než několik oddělených odpočtů.
+2. **Dlouhé mezery mezi cooldowny**
+Co zkusit příště: Hlídej si další použití uvedených cooldownů. Pokud je nedržíš kvůli mechanice, addům nebo domluvenému burstu, připrav jejich opětovné použití, jakmile to tvoje rotace a cíl dovolí. U vyznačených dlouhých mezer si ověř, proč další použití přišlo později.
+Proč: Při opakovaných dlouhých mezerách může během fightu ubýt příležitostí využít silné schopnosti. Proto si další použití průběžně hlídej.
 Co ukázal log: Sledované schopnosti: Halo. Vybrali jsme delší mezery mezi jejich použitími; přesné časy otevřeš níže.
 Na co dát pozor: Delší mezera neznamená automaticky zapomenutý cooldown. Report neví jistě, kdy byla schopnost znovu dostupná ani zda šlo v tu chvíli útočit.
    Příklad: The Coiled Altar · 02:07.389 · kill pokus 4.
@@ -517,9 +517,9 @@ Co ukázal log: U 17 sledovaných použití Felblade se část Fury nevešla do 
 Na co dát pozor: Samotný přebytek proto není pokyn Felblade vynechat nebo ho vždy nahradit Chaos Strike či Annihilation.
    Příklad: The Coiled Altar · 04:10.180 · kill pokus 4.
 
-2. **Naplánuj si další použití burstu**
-Co zkusit příště: Před pullem si ujasni, kdy chceš používat tyto schopnosti společně a kdy je držíš kvůli bossovi, addům nebo domluvě raidu. U uvedených časů si ověř, zda delší čekání mělo tento důvod.
-Proč: Společný plán se hlídá lépe než několik oddělených odpočtů.
+2. **Dlouhé mezery mezi cooldowny**
+Co zkusit příště: Hlídej si další použití uvedených cooldownů. Pokud je nedržíš kvůli mechanice, addům nebo domluvenému burstu, připrav jejich opětovné použití, jakmile to tvoje rotace a cíl dovolí. U vyznačených dlouhých mezer si ověř, proč další použití přišlo později.
+Proč: Při opakovaných dlouhých mezerách může během fightu ubýt příležitostí využít silné schopnosti. Proto si další použití průběžně hlídej.
 Co ukázal log: Sledované schopnosti: Essence Break. Vybrali jsme delší mezery mezi jejich použitími; přesné časy otevřeš níže.
 Na co dát pozor: Delší mezera neznamená automaticky zapomenutý cooldown. Report neví jistě, kdy byla schopnost znovu dostupná ani zda šlo v tu chvíli útočit.
    Příklad: Vashnik the Malignant · 00:44.007 · kill pokus 12.
