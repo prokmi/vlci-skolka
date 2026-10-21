@@ -2272,6 +2272,959 @@ Imbibe přivolává living venoms a mění infuze; porovnej s ním přepnutí na
 - Plague Froth 03:42.130–03:50.111: záznamů dokončených vlastních schopností včetně automatických 4. Nejde o počet ručních stisků; celý efekt není automaticky doba bez možnosti útočit.
 - Plague Froth 03:42.130–03:44.117: záznamů dokončených vlastních schopností včetně automatických 1. Nejde o počet ručních stisků; celý efekt není automaticky doba bez možnosti útočit.
 
+## Začátek souboje a první burst
+
+Časy od pullu; záporný čas je příprava před ním. Porovnání neprokazuje připravené cooldowny ani správnost celé rotace.
+
+### Nahollou-Drak'thul-EU — The Coiled Altar
+
+Před prvním Tyrantem si připrav démony. Pokud jsou připravení Dreadstalkers a Grimoire: Imp Lord, přivolej je před ním; u Diabolist si připrav také 5 Soul Shards. Pak využij burst na své silné útoky.
+
+Guide a doporučené priority se v pořadí některých přípravných summonů liší. Důležitá je příprava před Tyrantem. Tato kontrola nepotvrzuje počet Soul Shards při začátku jeho castu. Záznam pozdějšího démona sám neprokazuje, že byl jeho cooldown připravený dříve; starší pet může existovat už před sledovaným úsekem.
+
+- Připrav Dreadstalkers před Tyrantem, pokud jsou připravení. **Stejné pořadí jako v doporučeném začátku**: Call Dreadstalkers +2.006 s; Summon Demonic Tyrant +4.431 s. Reign of Tyranny při vyvolání Tyranta prodlužuje právě přítomné Dreadstalkers. Psi přivolaní až potom se tohoto prodloužení při vyvolání neúčastní.
+- Pokud máš Grimoire: Imp Lord připravený, přivolej ho před prvním Tyrantem. **Jiné pořadí — zkontroluj přípravu burstu**: Grimoire: Imp Lord +4.798 s; Summon Demonic Tyrant +4.431 s. Doporučený opener pro Diabolist řadí Imp Lord před Tyranta. Další kouzla pak navazují na připravený burst; konkrétní přínos změny pořadí z logu nepočítáme.
+
+[Guide](https://www.method.gg/guides/demonology-warlock/playstyle-and-rotation) · [Připnutá verze SimulationCraft](https://github.com/simulationcraft/simc/tree/76f8118cf3f7f41dad20708e8328e1f4ab2deebc)
+
+### Nahollou-Drak'thul-EU — Ula'tek
+
+Před prvním Tyrantem si připrav démony. Pokud jsou připravení Dreadstalkers a Grimoire: Imp Lord, přivolej je před ním; u Diabolist si připrav také 5 Soul Shards. Pak využij burst na své silné útoky.
+
+Guide a doporučené priority se v pořadí některých přípravných summonů liší. Důležitá je příprava před Tyrantem. Tato kontrola nepotvrzuje počet Soul Shards při začátku jeho castu. Záznam pozdějšího démona sám neprokazuje, že byl jeho cooldown připravený dříve; starší pet může existovat už před sledovaným úsekem.
+
+- Připrav Dreadstalkers před Tyrantem, pokud jsou připravení. **Stejné pořadí jako v doporučeném začátku**: Call Dreadstalkers +1.229 s; Summon Demonic Tyrant +3.675 s. Reign of Tyranny při vyvolání Tyranta prodlužuje právě přítomné Dreadstalkers. Psi přivolaní až potom se tohoto prodloužení při vyvolání neúčastní.
+- Pokud máš Grimoire: Imp Lord připravený, přivolej ho před prvním Tyrantem. **Jiné pořadí — zkontroluj přípravu burstu**: Grimoire: Imp Lord +4.536 s; Summon Demonic Tyrant +3.675 s. Doporučený opener pro Diabolist řadí Imp Lord před Tyranta. Další kouzla pak navazují na připravený burst; konkrétní přínos změny pořadí z logu nepočítáme.
+
+[Guide](https://www.method.gg/guides/demonology-warlock/playstyle-and-rotation) · [Připnutá verze SimulationCraft](https://github.com/simulationcraft/simc/tree/76f8118cf3f7f41dad20708e8328e1f4ab2deebc)
+
+### Nahollou-Drak'thul-EU — Kith'ix
+
+Před prvním Tyrantem si připrav démony. Pokud jsou připravení Dreadstalkers a Grimoire: Imp Lord, přivolej je před ním; u Diabolist si připrav také 5 Soul Shards. Pak využij burst na své silné útoky.
+
+Guide a doporučené priority se v pořadí některých přípravných summonů liší. Důležitá je příprava před Tyrantem. Tato kontrola nepotvrzuje počet Soul Shards při začátku jeho castu. Záznam pozdějšího démona sám neprokazuje, že byl jeho cooldown připravený dříve; starší pet může existovat už před sledovaným úsekem.
+
+- Připrav Dreadstalkers před Tyrantem, pokud jsou připravení. **Jiné pořadí — zkontroluj přípravu burstu**: Call Dreadstalkers +3.958 s; Summon Demonic Tyrant +3.713 s. Reign of Tyranny při vyvolání Tyranta prodlužuje právě přítomné Dreadstalkers. Psi přivolaní až potom se tohoto prodloužení při vyvolání neúčastní.
+- Pokud máš Grimoire: Imp Lord připravený, přivolej ho před prvním Tyrantem. **Jiné pořadí — zkontroluj přípravu burstu**: Grimoire: Imp Lord +5.931 s; Summon Demonic Tyrant +3.713 s. Doporučený opener pro Diabolist řadí Imp Lord před Tyranta. Další kouzla pak navazují na připravený burst; konkrétní přínos změny pořadí z logu nepočítáme.
+
+[Guide](https://www.method.gg/guides/demonology-warlock/playstyle-and-rotation) · [Připnutá verze SimulationCraft](https://github.com/simulationcraft/simc/tree/76f8118cf3f7f41dad20708e8328e1f4ab2deebc)
+
+### Nahollou-Drak'thul-EU — Entombed Sentinels
+
+Před prvním Tyrantem si připrav démony. Pokud jsou připravení Dreadstalkers a Grimoire: Imp Lord, přivolej je před ním; u Diabolist si připrav také 5 Soul Shards. Pak využij burst na své silné útoky.
+
+Guide a doporučené priority se v pořadí některých přípravných summonů liší. Důležitá je příprava před Tyrantem. Tato kontrola nepotvrzuje počet Soul Shards při začátku jeho castu. Záznam pozdějšího démona sám neprokazuje, že byl jeho cooldown připravený dříve; starší pet může existovat už před sledovaným úsekem.
+
+- Připrav Dreadstalkers před Tyrantem, pokud jsou připravení. **Jiné pořadí — zkontroluj přípravu burstu**: Call Dreadstalkers +7.155 s; Summon Demonic Tyrant +3.548 s. Reign of Tyranny při vyvolání Tyranta prodlužuje právě přítomné Dreadstalkers. Psi přivolaní až potom se tohoto prodloužení při vyvolání neúčastní.
+- Pokud máš Grimoire: Imp Lord připravený, přivolej ho před prvním Tyrantem. **Jiné pořadí — zkontroluj přípravu burstu**: Grimoire: Imp Lord +10.338 s; Summon Demonic Tyrant +3.548 s. Doporučený opener pro Diabolist řadí Imp Lord před Tyranta. Další kouzla pak navazují na připravený burst; konkrétní přínos změny pořadí z logu nepočítáme.
+
+[Guide](https://www.method.gg/guides/demonology-warlock/playstyle-and-rotation) · [Připnutá verze SimulationCraft](https://github.com/simulationcraft/simc/tree/76f8118cf3f7f41dad20708e8328e1f4ab2deebc)
+
+### Nahollou-Drak'thul-EU — Vashnik the Malignant
+
+Před prvním Tyrantem si připrav démony. Pokud jsou připravení Dreadstalkers a Grimoire: Imp Lord, přivolej je před ním; u Diabolist si připrav také 5 Soul Shards. Pak využij burst na své silné útoky.
+
+Guide a doporučené priority se v pořadí některých přípravných summonů liší. Důležitá je příprava před Tyrantem. Tato kontrola nepotvrzuje počet Soul Shards při začátku jeho castu. Záznam pozdějšího démona sám neprokazuje, že byl jeho cooldown připravený dříve; starší pet může existovat už před sledovaným úsekem.
+
+- Připrav Dreadstalkers před Tyrantem, pokud jsou připravení. **Stejné pořadí jako v doporučeném začátku**: Call Dreadstalkers +0.219 s; Summon Demonic Tyrant +2.348 s. Reign of Tyranny při vyvolání Tyranta prodlužuje právě přítomné Dreadstalkers. Psi přivolaní až potom se tohoto prodloužení při vyvolání neúčastní.
+- Pokud máš Grimoire: Imp Lord připravený, přivolej ho před prvním Tyrantem. **Jiné pořadí — zkontroluj přípravu burstu**: Grimoire: Imp Lord +3.120 s; Summon Demonic Tyrant +2.348 s. Doporučený opener pro Diabolist řadí Imp Lord před Tyranta. Další kouzla pak navazují na připravený burst; konkrétní přínos změny pořadí z logu nepočítáme.
+
+[Guide](https://www.method.gg/guides/demonology-warlock/playstyle-and-rotation) · [Připnutá verze SimulationCraft](https://github.com/simulationcraft/simc/tree/76f8118cf3f7f41dad20708e8328e1f4ab2deebc)
+
+### Corneilia-Sylvanas-EU — Nek'zali the Soulcoiler
+
+První Arcane Surge plánuj s navazujícím Touch of the Magi. Připrav si jeho začátek tak, aby burst nevyplnila zbytečná příprava mimo silné okno.
+
+Guide má mezi Surge a Touch také Missiles a Barrage; samotný kratší či delší odstup neříká, zda byly splněné všechny procy, charges a priority. Nepředepisujeme vždy stejný počet castů.
+
+- První Touch of the Magi připrav k Arcane Surge. **Stejné pořadí jako v doporučeném začátku**: Arcane Surge +2.808 s; Touch of the Magi +5.282 s. Guide obou hero variant začíná Surge a navazuje Touch. Kontrola porovnává jen první doložené casty.
+
+[Guide](https://www.method.gg/guides/arcane-mage/playstyle-and-rotation) · [Připnutá verze SimulationCraft](https://github.com/simulationcraft/simc/tree/76f8118cf3f7f41dad20708e8328e1f4ab2deebc)
+
+### Corneilia-Sylvanas-EU — The Coiled Altar
+
+První Arcane Surge plánuj s navazujícím Touch of the Magi. Připrav si jeho začátek tak, aby burst nevyplnila zbytečná příprava mimo silné okno.
+
+Guide má mezi Surge a Touch také Missiles a Barrage; samotný kratší či delší odstup neříká, zda byly splněné všechny procy, charges a priority. Nepředepisujeme vždy stejný počet castů.
+
+- První Touch of the Magi připrav k Arcane Surge. **Stejné pořadí jako v doporučeném začátku**: Arcane Surge +1.801 s; Touch of the Magi +4.277 s. Guide obou hero variant začíná Surge a navazuje Touch. Kontrola porovnává jen první doložené casty.
+
+[Guide](https://www.method.gg/guides/arcane-mage/playstyle-and-rotation) · [Připnutá verze SimulationCraft](https://github.com/simulationcraft/simc/tree/76f8118cf3f7f41dad20708e8328e1f4ab2deebc)
+
+### Corneilia-Sylvanas-EU — Ula'tek
+
+První Arcane Surge plánuj s navazujícím Touch of the Magi. Připrav si jeho začátek tak, aby burst nevyplnila zbytečná příprava mimo silné okno.
+
+Guide má mezi Surge a Touch také Missiles a Barrage; samotný kratší či delší odstup neříká, zda byly splněné všechny procy, charges a priority. Nepředepisujeme vždy stejný počet castů.
+
+- První Touch of the Magi připrav k Arcane Surge. **Stejné pořadí jako v doporučeném začátku**: Arcane Surge +2.087 s; Touch of the Magi +3.973 s. Guide obou hero variant začíná Surge a navazuje Touch. Kontrola porovnává jen první doložené casty.
+
+[Guide](https://www.method.gg/guides/arcane-mage/playstyle-and-rotation) · [Připnutá verze SimulationCraft](https://github.com/simulationcraft/simc/tree/76f8118cf3f7f41dad20708e8328e1f4ab2deebc)
+
+### Corneilia-Sylvanas-EU — Kith'ix
+
+První Arcane Surge plánuj s navazujícím Touch of the Magi. Připrav si jeho začátek tak, aby burst nevyplnila zbytečná příprava mimo silné okno.
+
+Guide má mezi Surge a Touch také Missiles a Barrage; samotný kratší či delší odstup neříká, zda byly splněné všechny procy, charges a priority. Nepředepisujeme vždy stejný počet castů.
+
+- První Touch of the Magi připrav k Arcane Surge. **Stejné pořadí jako v doporučeném začátku**: Arcane Surge +0.671 s; Touch of the Magi +2.378 s. Guide obou hero variant začíná Surge a navazuje Touch. Kontrola porovnává jen první doložené casty.
+
+[Guide](https://www.method.gg/guides/arcane-mage/playstyle-and-rotation) · [Připnutá verze SimulationCraft](https://github.com/simulationcraft/simc/tree/76f8118cf3f7f41dad20708e8328e1f4ab2deebc)
+
+### Corneilia-Sylvanas-EU — Entombed Sentinels
+
+První Arcane Surge plánuj s navazujícím Touch of the Magi. Připrav si jeho začátek tak, aby burst nevyplnila zbytečná příprava mimo silné okno.
+
+Guide má mezi Surge a Touch také Missiles a Barrage; samotný kratší či delší odstup neříká, zda byly splněné všechny procy, charges a priority. Nepředepisujeme vždy stejný počet castů.
+
+- První Touch of the Magi připrav k Arcane Surge. **Stejné pořadí jako v doporučeném začátku**: Arcane Surge +1.072 s; Touch of the Magi +3.058 s. Guide obou hero variant začíná Surge a navazuje Touch. Kontrola porovnává jen první doložené casty.
+
+[Guide](https://www.method.gg/guides/arcane-mage/playstyle-and-rotation) · [Připnutá verze SimulationCraft](https://github.com/simulationcraft/simc/tree/76f8118cf3f7f41dad20708e8328e1f4ab2deebc)
+
+### Corneilia-Sylvanas-EU — Vashnik the Malignant
+
+První Arcane Surge plánuj s navazujícím Touch of the Magi. Připrav si jeho začátek tak, aby burst nevyplnila zbytečná příprava mimo silné okno.
+
+Guide má mezi Surge a Touch také Missiles a Barrage; samotný kratší či delší odstup neříká, zda byly splněné všechny procy, charges a priority. Nepředepisujeme vždy stejný počet castů.
+
+- První Touch of the Magi připrav k Arcane Surge. **Stejné pořadí jako v doporučeném začátku**: Arcane Surge +0.220 s; Touch of the Magi +3.538 s. Guide obou hero variant začíná Surge a navazuje Touch. Kontrola porovnává jen první doložené casty.
+
+[Guide](https://www.method.gg/guides/arcane-mage/playstyle-and-rotation) · [Připnutá verze SimulationCraft](https://github.com/simulationcraft/simc/tree/76f8118cf3f7f41dad20708e8328e1f4ab2deebc)
+
+### Iacek-Drak'thul-EU — Kith'ix
+
+První Arcane Surge plánuj s navazujícím Touch of the Magi. Připrav si jeho začátek tak, aby burst nevyplnila zbytečná příprava mimo silné okno.
+
+Guide má mezi Surge a Touch také Missiles a Barrage; samotný kratší či delší odstup neříká, zda byly splněné všechny procy, charges a priority. Nepředepisujeme vždy stejný počet castů.
+
+- První Touch of the Magi připrav k Arcane Surge. **Stejné pořadí jako v doporučeném začátku**: Arcane Surge +10.093 s; Touch of the Magi +12.811 s. Guide obou hero variant začíná Surge a navazuje Touch. Kontrola porovnává jen první doložené casty.
+
+[Guide](https://www.method.gg/guides/arcane-mage/playstyle-and-rotation) · [Připnutá verze SimulationCraft](https://github.com/simulationcraft/simc/tree/76f8118cf3f7f41dad20708e8328e1f4ab2deebc)
+
+### Johnyhoudini-BurningBlade-EU — Nek'zali the Soulcoiler
+
+První Arcane Surge plánuj s navazujícím Touch of the Magi. Připrav si jeho začátek tak, aby burst nevyplnila zbytečná příprava mimo silné okno.
+
+Guide má mezi Surge a Touch také Missiles a Barrage; samotný kratší či delší odstup neříká, zda byly splněné všechny procy, charges a priority. Nepředepisujeme vždy stejný počet castů.
+
+- První Touch of the Magi připrav k Arcane Surge. **Stejné pořadí jako v doporučeném začátku**: Arcane Surge +3.298 s; Touch of the Magi +5.490 s. Guide obou hero variant začíná Surge a navazuje Touch. Kontrola porovnává jen první doložené casty.
+
+[Guide](https://www.method.gg/guides/arcane-mage/playstyle-and-rotation) · [Připnutá verze SimulationCraft](https://github.com/simulationcraft/simc/tree/76f8118cf3f7f41dad20708e8328e1f4ab2deebc)
+
+### Johnyhoudini-BurningBlade-EU — The Coiled Altar
+
+První Arcane Surge plánuj s navazujícím Touch of the Magi. Připrav si jeho začátek tak, aby burst nevyplnila zbytečná příprava mimo silné okno.
+
+Guide má mezi Surge a Touch také Missiles a Barrage; samotný kratší či delší odstup neříká, zda byly splněné všechny procy, charges a priority. Nepředepisujeme vždy stejný počet castů.
+
+- První Touch of the Magi připrav k Arcane Surge. **Stejné pořadí jako v doporučeném začátku**: Arcane Surge +4.134 s; Touch of the Magi +6.468 s. Guide obou hero variant začíná Surge a navazuje Touch. Kontrola porovnává jen první doložené casty.
+
+[Guide](https://www.method.gg/guides/arcane-mage/playstyle-and-rotation) · [Připnutá verze SimulationCraft](https://github.com/simulationcraft/simc/tree/76f8118cf3f7f41dad20708e8328e1f4ab2deebc)
+
+### Johnyhoudini-BurningBlade-EU — Ula'tek
+
+První Arcane Surge plánuj s navazujícím Touch of the Magi. Připrav si jeho začátek tak, aby burst nevyplnila zbytečná příprava mimo silné okno.
+
+Guide má mezi Surge a Touch také Missiles a Barrage; samotný kratší či delší odstup neříká, zda byly splněné všechny procy, charges a priority. Nepředepisujeme vždy stejný počet castů.
+
+- První Touch of the Magi připrav k Arcane Surge. **Stejné pořadí jako v doporučeném začátku**: Arcane Surge +2.376 s; Touch of the Magi +5.178 s. Guide obou hero variant začíná Surge a navazuje Touch. Kontrola porovnává jen první doložené casty.
+
+[Guide](https://www.method.gg/guides/arcane-mage/playstyle-and-rotation) · [Připnutá verze SimulationCraft](https://github.com/simulationcraft/simc/tree/76f8118cf3f7f41dad20708e8328e1f4ab2deebc)
+
+### Johnyhoudini-BurningBlade-EU — Kith'ix
+
+První Arcane Surge plánuj s navazujícím Touch of the Magi. Připrav si jeho začátek tak, aby burst nevyplnila zbytečná příprava mimo silné okno.
+
+Guide má mezi Surge a Touch také Missiles a Barrage; samotný kratší či delší odstup neříká, zda byly splněné všechny procy, charges a priority. Nepředepisujeme vždy stejný počet castů.
+
+- První Touch of the Magi připrav k Arcane Surge. **Stejné pořadí jako v doporučeném začátku**: Arcane Surge +3.546 s; Touch of the Magi +5.515 s. Guide obou hero variant začíná Surge a navazuje Touch. Kontrola porovnává jen první doložené casty.
+
+[Guide](https://www.method.gg/guides/arcane-mage/playstyle-and-rotation) · [Připnutá verze SimulationCraft](https://github.com/simulationcraft/simc/tree/76f8118cf3f7f41dad20708e8328e1f4ab2deebc)
+
+### Johnyhoudini-BurningBlade-EU — Entombed Sentinels
+
+První Arcane Surge plánuj s navazujícím Touch of the Magi. Připrav si jeho začátek tak, aby burst nevyplnila zbytečná příprava mimo silné okno.
+
+Guide má mezi Surge a Touch také Missiles a Barrage; samotný kratší či delší odstup neříká, zda byly splněné všechny procy, charges a priority. Nepředepisujeme vždy stejný počet castů.
+
+- První Touch of the Magi připrav k Arcane Surge. **Stejné pořadí jako v doporučeném začátku**: Arcane Surge +3.503 s; Touch of the Magi +5.428 s. Guide obou hero variant začíná Surge a navazuje Touch. Kontrola porovnává jen první doložené casty.
+
+[Guide](https://www.method.gg/guides/arcane-mage/playstyle-and-rotation) · [Připnutá verze SimulationCraft](https://github.com/simulationcraft/simc/tree/76f8118cf3f7f41dad20708e8328e1f4ab2deebc)
+
+### Johnyhoudini-BurningBlade-EU — Vashnik the Malignant
+
+První Arcane Surge plánuj s navazujícím Touch of the Magi. Připrav si jeho začátek tak, aby burst nevyplnila zbytečná příprava mimo silné okno.
+
+Guide má mezi Surge a Touch také Missiles a Barrage; samotný kratší či delší odstup neříká, zda byly splněné všechny procy, charges a priority. Nepředepisujeme vždy stejný počet castů.
+
+- První Touch of the Magi připrav k Arcane Surge. **Stejné pořadí jako v doporučeném začátku**: Arcane Surge +3.681 s; Touch of the Magi +5.645 s. Guide obou hero variant začíná Surge a navazuje Touch. Kontrola porovnává jen první doložené casty.
+
+[Guide](https://www.method.gg/guides/arcane-mage/playstyle-and-rotation) · [Připnutá verze SimulationCraft](https://github.com/simulationcraft/simc/tree/76f8118cf3f7f41dad20708e8328e1f4ab2deebc)
+
+### Galneryus-Drak'thul-EU — Nek'zali the Soulcoiler
+
+Pokud hraješ Execution Sentence, připrav do něj Wake of Ashes a navazující silné útoky za zdroje. U Templar sleduj Hammer of Light; u Herald nepřebírej Templar pořadí. Radiant Glory mění použití wings.
+
+Výjimky podle Holy Power, proců, Hammer of Light a Radiant Glory mají přednost před pevnou šablonou. Z času samotného nevyvozujeme připravený cooldown ani počet promarněných použití.
+
+- Při společném burstu použij Execution Sentence před Wake of Ashes. **Stejné pořadí jako v doporučeném začátku**: Execution Sentence +1.604 s; Wake of Ashes +2.392 s. Obě hero varianty v guide staví Execution Sentence před hlavní burst; pravidlo platí jen při tomto talentu.
+- U Templar využij Hammer of Light navazující na Wake of Ashes. **Stejné pořadí jako v doporučeném začátku**: Wake of Ashes +2.392 s; Hammer of Light +3.231 s. Sledujeme první dvojici v openeru, nikoli další Hammer of Light z proců.
+
+[Guide](https://www.method.gg/guides/retribution-paladin/playstyle-and-rotation) · [Připnutá verze SimulationCraft](https://github.com/simulationcraft/simc/tree/76f8118cf3f7f41dad20708e8328e1f4ab2deebc)
+
+### Galneryus-Drak'thul-EU — The Coiled Altar
+
+Pokud hraješ Execution Sentence, připrav do něj Wake of Ashes a navazující silné útoky za zdroje. U Templar sleduj Hammer of Light; u Herald nepřebírej Templar pořadí. Radiant Glory mění použití wings.
+
+Výjimky podle Holy Power, proců, Hammer of Light a Radiant Glory mají přednost před pevnou šablonou. Z času samotného nevyvozujeme připravený cooldown ani počet promarněných použití.
+
+- Při společném burstu použij Execution Sentence před Wake of Ashes. **Stejné pořadí jako v doporučeném začátku**: Execution Sentence +1.660 s; Wake of Ashes +3.395 s. Obě hero varianty v guide staví Execution Sentence před hlavní burst; pravidlo platí jen při tomto talentu.
+
+[Guide](https://www.method.gg/guides/retribution-paladin/playstyle-and-rotation) · [Připnutá verze SimulationCraft](https://github.com/simulationcraft/simc/tree/76f8118cf3f7f41dad20708e8328e1f4ab2deebc)
+
+### Galneryus-Drak'thul-EU — Ula'tek
+
+Pokud hraješ Execution Sentence, připrav do něj Wake of Ashes a navazující silné útoky za zdroje. U Templar sleduj Hammer of Light; u Herald nepřebírej Templar pořadí. Radiant Glory mění použití wings.
+
+Výjimky podle Holy Power, proců, Hammer of Light a Radiant Glory mají přednost před pevnou šablonou. Z času samotného nevyvozujeme připravený cooldown ani počet promarněných použití.
+
+- Při společném burstu použij Execution Sentence před Wake of Ashes. **Stejné pořadí jako v doporučeném začátku**: Execution Sentence +1.809 s; Wake of Ashes +3.728 s. Obě hero varianty v guide staví Execution Sentence před hlavní burst; pravidlo platí jen při tomto talentu.
+
+[Guide](https://www.method.gg/guides/retribution-paladin/playstyle-and-rotation) · [Připnutá verze SimulationCraft](https://github.com/simulationcraft/simc/tree/76f8118cf3f7f41dad20708e8328e1f4ab2deebc)
+
+### Galneryus-Drak'thul-EU — Kith'ix
+
+Pokud hraješ Execution Sentence, připrav do něj Wake of Ashes a navazující silné útoky za zdroje. U Templar sleduj Hammer of Light; u Herald nepřebírej Templar pořadí. Radiant Glory mění použití wings.
+
+Výjimky podle Holy Power, proců, Hammer of Light a Radiant Glory mají přednost před pevnou šablonou. Z času samotného nevyvozujeme připravený cooldown ani počet promarněných použití.
+
+- Při společném burstu použij Execution Sentence před Wake of Ashes. **Stejné pořadí jako v doporučeném začátku**: Execution Sentence +2.530 s; Wake of Ashes +3.408 s. Obě hero varianty v guide staví Execution Sentence před hlavní burst; pravidlo platí jen při tomto talentu.
+
+[Guide](https://www.method.gg/guides/retribution-paladin/playstyle-and-rotation) · [Připnutá verze SimulationCraft](https://github.com/simulationcraft/simc/tree/76f8118cf3f7f41dad20708e8328e1f4ab2deebc)
+
+### Galneryus-Drak'thul-EU — Entombed Sentinels
+
+Pokud hraješ Execution Sentence, připrav do něj Wake of Ashes a navazující silné útoky za zdroje. U Templar sleduj Hammer of Light; u Herald nepřebírej Templar pořadí. Radiant Glory mění použití wings.
+
+Výjimky podle Holy Power, proců, Hammer of Light a Radiant Glory mají přednost před pevnou šablonou. Z času samotného nevyvozujeme připravený cooldown ani počet promarněných použití.
+
+- Při společném burstu použij Execution Sentence před Wake of Ashes. **Stejné pořadí jako v doporučeném začátku**: Execution Sentence +1.793 s; Wake of Ashes +3.502 s. Obě hero varianty v guide staví Execution Sentence před hlavní burst; pravidlo platí jen při tomto talentu.
+
+[Guide](https://www.method.gg/guides/retribution-paladin/playstyle-and-rotation) · [Připnutá verze SimulationCraft](https://github.com/simulationcraft/simc/tree/76f8118cf3f7f41dad20708e8328e1f4ab2deebc)
+
+### Galneryus-Drak'thul-EU — Vashnik the Malignant
+
+Pokud hraješ Execution Sentence, připrav do něj Wake of Ashes a navazující silné útoky za zdroje. U Templar sleduj Hammer of Light; u Herald nepřebírej Templar pořadí. Radiant Glory mění použití wings.
+
+Výjimky podle Holy Power, proců, Hammer of Light a Radiant Glory mají přednost před pevnou šablonou. Z času samotného nevyvozujeme připravený cooldown ani počet promarněných použití.
+
+- Při společném burstu použij Execution Sentence před Wake of Ashes. **Stejné pořadí jako v doporučeném začátku**: Execution Sentence +2.783 s; Wake of Ashes +3.884 s. Obě hero varianty v guide staví Execution Sentence před hlavní burst; pravidlo platí jen při tomto talentu.
+- U Templar využij Hammer of Light navazující na Wake of Ashes. **Stejné pořadí jako v doporučeném začátku**: Wake of Ashes +3.884 s; Hammer of Light +4.788 s. Sledujeme první dvojici v openeru, nikoli další Hammer of Light z proců.
+
+[Guide](https://www.method.gg/guides/retribution-paladin/playstyle-and-rotation) · [Připnutá verze SimulationCraft](https://github.com/simulationcraft/simc/tree/76f8118cf3f7f41dad20708e8328e1f4ab2deebc)
+
+### Rhínö-Drak'thul-EU — Nek'zali the Soulcoiler
+
+U Elune’s Chosen připrav DoTy a Lunar Eclipse pro první silné okno s Fury of Elune a Incarnation. Dávej pozor na skutečný počet cílů a zásobu Astral Power.
+
+Priority Incarnation a Fury of Elune mají podmínky a guide opener se může lišit od běžné priority. Neoznačujeme opačné pořadí této dvojice automaticky za chybu.
+
+- Připrav Sunfire před prvním Incarnation, pokud cíl bude žít dost dlouho. **Stejné pořadí jako v doporučeném začátku**: Sunfire +0.014 s; Incarnation: Chosen of Elune +4.453 s. V guide openeru předchází DoTy hlavnímu oknu; kontrolujeme pouze stejný zaznamenaný cíl, pokud je u obou známý.
+
+[Guide](https://www.method.gg/guides/balance-druid/playstyle-and-rotation) · [Připnutá verze SimulationCraft](https://github.com/simulationcraft/simc/tree/76f8118cf3f7f41dad20708e8328e1f4ab2deebc)
+
+### Rhínö-Drak'thul-EU — The Coiled Altar
+
+U Elune’s Chosen připrav DoTy a Lunar Eclipse pro první silné okno s Fury of Elune a Incarnation. Dávej pozor na skutečný počet cílů a zásobu Astral Power.
+
+Priority Incarnation a Fury of Elune mají podmínky a guide opener se může lišit od běžné priority. Neoznačujeme opačné pořadí této dvojice automaticky za chybu.
+
+- Připrav Sunfire před prvním Incarnation, pokud cíl bude žít dost dlouho. **Stejné pořadí jako v doporučeném začátku**: Sunfire +0.100 s; Incarnation: Chosen of Elune +5.029 s. V guide openeru předchází DoTy hlavnímu oknu; kontrolujeme pouze stejný zaznamenaný cíl, pokud je u obou známý.
+
+[Guide](https://www.method.gg/guides/balance-druid/playstyle-and-rotation) · [Připnutá verze SimulationCraft](https://github.com/simulationcraft/simc/tree/76f8118cf3f7f41dad20708e8328e1f4ab2deebc)
+
+### Rhínö-Drak'thul-EU — Ula'tek
+
+U Elune’s Chosen připrav DoTy a Lunar Eclipse pro první silné okno s Fury of Elune a Incarnation. Dávej pozor na skutečný počet cílů a zásobu Astral Power.
+
+Priority Incarnation a Fury of Elune mají podmínky a guide opener se může lišit od běžné priority. Neoznačujeme opačné pořadí této dvojice automaticky za chybu.
+
+- Připrav Sunfire před prvním Incarnation, pokud cíl bude žít dost dlouho. **Stejné pořadí jako v doporučeném začátku**: Sunfire -0.054 s; Incarnation: Chosen of Elune +5.093 s. V guide openeru předchází DoTy hlavnímu oknu; kontrolujeme pouze stejný zaznamenaný cíl, pokud je u obou známý.
+
+[Guide](https://www.method.gg/guides/balance-druid/playstyle-and-rotation) · [Připnutá verze SimulationCraft](https://github.com/simulationcraft/simc/tree/76f8118cf3f7f41dad20708e8328e1f4ab2deebc)
+
+### Rhínö-Drak'thul-EU — Kith'ix
+
+U Elune’s Chosen připrav DoTy a Lunar Eclipse pro první silné okno s Fury of Elune a Incarnation. Dávej pozor na skutečný počet cílů a zásobu Astral Power.
+
+Priority Incarnation a Fury of Elune mají podmínky a guide opener se může lišit od běžné priority. Neoznačujeme opačné pořadí této dvojice automaticky za chybu.
+
+- Připrav Sunfire před prvním Incarnation, pokud cíl bude žít dost dlouho. **Stejné pořadí jako v doporučeném začátku**: Sunfire +0.184 s; Incarnation: Chosen of Elune +4.520 s. V guide openeru předchází DoTy hlavnímu oknu; kontrolujeme pouze stejný zaznamenaný cíl, pokud je u obou známý.
+
+[Guide](https://www.method.gg/guides/balance-druid/playstyle-and-rotation) · [Připnutá verze SimulationCraft](https://github.com/simulationcraft/simc/tree/76f8118cf3f7f41dad20708e8328e1f4ab2deebc)
+
+### Rhínö-Drak'thul-EU — Entombed Sentinels
+
+U Elune’s Chosen připrav DoTy a Lunar Eclipse pro první silné okno s Fury of Elune a Incarnation. Dávej pozor na skutečný počet cílů a zásobu Astral Power.
+
+Priority Incarnation a Fury of Elune mají podmínky a guide opener se může lišit od běžné priority. Neoznačujeme opačné pořadí této dvojice automaticky za chybu.
+
+- Připrav Sunfire před prvním Incarnation, pokud cíl bude žít dost dlouho. **Stejné pořadí jako v doporučeném začátku**: Sunfire +0.131 s; Incarnation: Chosen of Elune +4.761 s. V guide openeru předchází DoTy hlavnímu oknu; kontrolujeme pouze stejný zaznamenaný cíl, pokud je u obou známý.
+
+[Guide](https://www.method.gg/guides/balance-druid/playstyle-and-rotation) · [Připnutá verze SimulationCraft](https://github.com/simulationcraft/simc/tree/76f8118cf3f7f41dad20708e8328e1f4ab2deebc)
+
+### Rhínö-Drak'thul-EU — Vashnik the Malignant
+
+U Elune’s Chosen připrav DoTy a Lunar Eclipse pro první silné okno s Fury of Elune a Incarnation. Dávej pozor na skutečný počet cílů a zásobu Astral Power.
+
+Priority Incarnation a Fury of Elune mají podmínky a guide opener se může lišit od běžné priority. Neoznačujeme opačné pořadí této dvojice automaticky za chybu.
+
+- Připrav Sunfire před prvním Incarnation, pokud cíl bude žít dost dlouho. **Stejné pořadí jako v doporučeném začátku**: Sunfire +0.220 s; Incarnation: Chosen of Elune +4.492 s. V guide openeru předchází DoTy hlavnímu oknu; kontrolujeme pouze stejný zaznamenaný cíl, pokud je u obou známý.
+
+[Guide](https://www.method.gg/guides/balance-druid/playstyle-and-rotation) · [Připnutá verze SimulationCraft](https://github.com/simulationcraft/simc/tree/76f8118cf3f7f41dad20708e8328e1f4ab2deebc)
+
+### Vejr-Drak'thul-EU — Nek'zali the Soulcoiler
+
+Připrav první Army of the Dead a Dark Transformation jako společný burst. Před ním měj připravený cíl a zdroje pro navazující útoky.
+
+Neměníme odložené posouzení Putrefy. Runes, procy a talenty mění přípravu; přítomnost schopnosti před cooldownem není úplná kontrola zdrojů ani potvrzení celé rotace.
+
+- První Army of the Dead a Dark Transformation plánuj společně. **Stejné pořadí jako v doporučeném začátku**: Army of the Dead +3.747 s; Dark Transformation +3.938 s. Rider opener v guide má Army před Dark Transformation; samotné obrácené pořadí ještě nepotvrzuje ztrátu.
+
+[Guide](https://www.method.gg/guides/unholy-death-knight/playstyle-and-rotation) · [Připnutá verze SimulationCraft](https://github.com/simulationcraft/simc/tree/76f8118cf3f7f41dad20708e8328e1f4ab2deebc)
+
+### Vejr-Drak'thul-EU — The Coiled Altar
+
+Připrav první Army of the Dead a Dark Transformation jako společný burst. Před ním měj připravený cíl a zdroje pro navazující útoky.
+
+Neměníme odložené posouzení Putrefy. Runes, procy a talenty mění přípravu; přítomnost schopnosti před cooldownem není úplná kontrola zdrojů ani potvrzení celé rotace.
+
+- První Army of the Dead a Dark Transformation plánuj společně. **Stejné pořadí jako v doporučeném začátku**: Army of the Dead +2.059 s; Dark Transformation +2.351 s. Rider opener v guide má Army před Dark Transformation; samotné obrácené pořadí ještě nepotvrzuje ztrátu.
+
+[Guide](https://www.method.gg/guides/unholy-death-knight/playstyle-and-rotation) · [Připnutá verze SimulationCraft](https://github.com/simulationcraft/simc/tree/76f8118cf3f7f41dad20708e8328e1f4ab2deebc)
+
+### Vejr-Drak'thul-EU — Ula'tek
+
+Připrav první Army of the Dead a Dark Transformation jako společný burst. Před ním měj připravený cíl a zdroje pro navazující útoky.
+
+Neměníme odložené posouzení Putrefy. Runes, procy a talenty mění přípravu; přítomnost schopnosti před cooldownem není úplná kontrola zdrojů ani potvrzení celé rotace.
+
+- První Army of the Dead a Dark Transformation plánuj společně. **Stejné pořadí jako v doporučeném začátku**: Army of the Dead +6.327 s; Dark Transformation +6.474 s. Rider opener v guide má Army před Dark Transformation; samotné obrácené pořadí ještě nepotvrzuje ztrátu.
+
+[Guide](https://www.method.gg/guides/unholy-death-knight/playstyle-and-rotation) · [Připnutá verze SimulationCraft](https://github.com/simulationcraft/simc/tree/76f8118cf3f7f41dad20708e8328e1f4ab2deebc)
+
+### Vejr-Drak'thul-EU — Kith'ix
+
+Připrav první Army of the Dead a Dark Transformation jako společný burst. Před ním měj připravený cíl a zdroje pro navazující útoky.
+
+Neměníme odložené posouzení Putrefy. Runes, procy a talenty mění přípravu; přítomnost schopnosti před cooldownem není úplná kontrola zdrojů ani potvrzení celé rotace.
+
+- První Army of the Dead a Dark Transformation plánuj společně. **Stejné pořadí jako v doporučeném začátku**: Army of the Dead +3.310 s; Dark Transformation +3.585 s. Rider opener v guide má Army před Dark Transformation; samotné obrácené pořadí ještě nepotvrzuje ztrátu.
+
+[Guide](https://www.method.gg/guides/unholy-death-knight/playstyle-and-rotation) · [Připnutá verze SimulationCraft](https://github.com/simulationcraft/simc/tree/76f8118cf3f7f41dad20708e8328e1f4ab2deebc)
+
+### Vejr-Drak'thul-EU — Entombed Sentinels
+
+Připrav první Army of the Dead a Dark Transformation jako společný burst. Před ním měj připravený cíl a zdroje pro navazující útoky.
+
+Neměníme odložené posouzení Putrefy. Runes, procy a talenty mění přípravu; přítomnost schopnosti před cooldownem není úplná kontrola zdrojů ani potvrzení celé rotace.
+
+- První Army of the Dead a Dark Transformation plánuj společně. **Stejné pořadí jako v doporučeném začátku**: Army of the Dead +5.124 s; Dark Transformation +5.311 s. Rider opener v guide má Army před Dark Transformation; samotné obrácené pořadí ještě nepotvrzuje ztrátu.
+
+[Guide](https://www.method.gg/guides/unholy-death-knight/playstyle-and-rotation) · [Připnutá verze SimulationCraft](https://github.com/simulationcraft/simc/tree/76f8118cf3f7f41dad20708e8328e1f4ab2deebc)
+
+### Vejr-Drak'thul-EU — Vashnik the Malignant
+
+Připrav první Army of the Dead a Dark Transformation jako společný burst. Před ním měj připravený cíl a zdroje pro navazující útoky.
+
+Neměníme odložené posouzení Putrefy. Runes, procy a talenty mění přípravu; přítomnost schopnosti před cooldownem není úplná kontrola zdrojů ani potvrzení celé rotace.
+
+- První Army of the Dead a Dark Transformation plánuj společně. **Stejné pořadí jako v doporučeném začátku**: Army of the Dead +4.234 s; Dark Transformation +4.424 s. Rider opener v guide má Army před Dark Transformation; samotné obrácené pořadí ještě nepotvrzuje ztrátu.
+
+[Guide](https://www.method.gg/guides/unholy-death-knight/playstyle-and-rotation) · [Připnutá verze SimulationCraft](https://github.com/simulationcraft/simc/tree/76f8118cf3f7f41dad20708e8328e1f4ab2deebc)
+
+### Micaello-Drak'thul-EU — Nek'zali the Soulcoiler
+
+Připrav Barbed Shot do prvního Bestial Wrath a potom využij burst na Kill Command. Nenech začátek souboje pohltit přípravou peta; před pullem zkontroluj, že ho máš.
+
+Nepožadujeme vždy přesně dva Barbed Shot: doporučené priority počítají s nabíjením, talenty a počtem cílů. Z této kontroly nevyvozujeme ztracené charges ani úplnou prioritu Kill Command.
+
+- Před Bestial Wrath si připrav Barbed Shot podle dostupných charges. **Stejné pořadí jako v doporučeném začátku**: Barbed Shot +0.474 s; Bestial Wrath +2.904 s. Guide i jednocílové priority mají přípravný Barbed Shot před Bestial Wrath; přesný počet závisí na podmínkách.
+- Využij Bestial Wrath na Kill Command. **Vlastní buff před použitím doložený**: Kill Command +4.978 s Buff při prvním Kill Command je jen kontrola začátku burstu, ne zákaz Kill Command mimo Bestial Wrath.
+
+[Guide](https://www.method.gg/guides/beast-mastery-hunter/playstyle-and-rotation) · [Připnutá verze SimulationCraft](https://github.com/simulationcraft/simc/tree/76f8118cf3f7f41dad20708e8328e1f4ab2deebc)
+
+### Micaello-Drak'thul-EU — The Coiled Altar
+
+Připrav Barbed Shot do prvního Bestial Wrath a potom využij burst na Kill Command. Nenech začátek souboje pohltit přípravou peta; před pullem zkontroluj, že ho máš.
+
+Nepožadujeme vždy přesně dva Barbed Shot: doporučené priority počítají s nabíjením, talenty a počtem cílů. Z této kontroly nevyvozujeme ztracené charges ani úplnou prioritu Kill Command.
+
+- Před Bestial Wrath si připrav Barbed Shot podle dostupných charges. **Stejné pořadí jako v doporučeném začátku**: Barbed Shot +0.440 s; Bestial Wrath +1.837 s. Guide i jednocílové priority mají přípravný Barbed Shot před Bestial Wrath; přesný počet závisí na podmínkách.
+- Využij Bestial Wrath na Kill Command. **Vlastní buff před použitím doložený**: Kill Command +3.207 s Buff při prvním Kill Command je jen kontrola začátku burstu, ne zákaz Kill Command mimo Bestial Wrath.
+
+[Guide](https://www.method.gg/guides/beast-mastery-hunter/playstyle-and-rotation) · [Připnutá verze SimulationCraft](https://github.com/simulationcraft/simc/tree/76f8118cf3f7f41dad20708e8328e1f4ab2deebc)
+
+### Micaello-Drak'thul-EU — Ula'tek
+
+Připrav Barbed Shot do prvního Bestial Wrath a potom využij burst na Kill Command. Nenech začátek souboje pohltit přípravou peta; před pullem zkontroluj, že ho máš.
+
+Nepožadujeme vždy přesně dva Barbed Shot: doporučené priority počítají s nabíjením, talenty a počtem cílů. Z této kontroly nevyvozujeme ztracené charges ani úplnou prioritu Kill Command.
+
+- Před Bestial Wrath si připrav Barbed Shot podle dostupných charges. **Stejné pořadí jako v doporučeném začátku**: Barbed Shot +0.295 s; Bestial Wrath +1.673 s. Guide i jednocílové priority mají přípravný Barbed Shot před Bestial Wrath; přesný počet závisí na podmínkách.
+- Využij Bestial Wrath na Kill Command. **Vlastní buff před použitím doložený**: Kill Command +2.848 s Buff při prvním Kill Command je jen kontrola začátku burstu, ne zákaz Kill Command mimo Bestial Wrath.
+
+[Guide](https://www.method.gg/guides/beast-mastery-hunter/playstyle-and-rotation) · [Připnutá verze SimulationCraft](https://github.com/simulationcraft/simc/tree/76f8118cf3f7f41dad20708e8328e1f4ab2deebc)
+
+### Micaello-Drak'thul-EU — Kith'ix
+
+Připrav Barbed Shot do prvního Bestial Wrath a potom využij burst na Kill Command. Nenech začátek souboje pohltit přípravou peta; před pullem zkontroluj, že ho máš.
+
+Nepožadujeme vždy přesně dva Barbed Shot: doporučené priority počítají s nabíjením, talenty a počtem cílů. Z této kontroly nevyvozujeme ztracené charges ani úplnou prioritu Kill Command.
+
+- Před Bestial Wrath si připrav Barbed Shot podle dostupných charges. **Stejné pořadí jako v doporučeném začátku**: Barbed Shot +0.485 s; Bestial Wrath +1.866 s. Guide i jednocílové priority mají přípravný Barbed Shot před Bestial Wrath; přesný počet závisí na podmínkách.
+- Využij Bestial Wrath na Kill Command. **Vlastní buff před použitím doložený**: Kill Command +2.908 s Buff při prvním Kill Command je jen kontrola začátku burstu, ne zákaz Kill Command mimo Bestial Wrath.
+
+[Guide](https://www.method.gg/guides/beast-mastery-hunter/playstyle-and-rotation) · [Připnutá verze SimulationCraft](https://github.com/simulationcraft/simc/tree/76f8118cf3f7f41dad20708e8328e1f4ab2deebc)
+
+### Micaello-Drak'thul-EU — Entombed Sentinels
+
+Připrav Barbed Shot do prvního Bestial Wrath a potom využij burst na Kill Command. Nenech začátek souboje pohltit přípravou peta; před pullem zkontroluj, že ho máš.
+
+Nepožadujeme vždy přesně dva Barbed Shot: doporučené priority počítají s nabíjením, talenty a počtem cílů. Z této kontroly nevyvozujeme ztracené charges ani úplnou prioritu Kill Command.
+
+- Před Bestial Wrath si připrav Barbed Shot podle dostupných charges. **Stejné pořadí jako v doporučeném začátku**: Barbed Shot +1.929 s; Bestial Wrath +4.029 s. Guide i jednocílové priority mají přípravný Barbed Shot před Bestial Wrath; přesný počet závisí na podmínkách.
+- Využij Bestial Wrath na Kill Command. **Vlastní buff před použitím doložený**: Kill Command +5.059 s Buff při prvním Kill Command je jen kontrola začátku burstu, ne zákaz Kill Command mimo Bestial Wrath.
+
+[Guide](https://www.method.gg/guides/beast-mastery-hunter/playstyle-and-rotation) · [Připnutá verze SimulationCraft](https://github.com/simulationcraft/simc/tree/76f8118cf3f7f41dad20708e8328e1f4ab2deebc)
+
+### Micaello-Drak'thul-EU — Vashnik the Malignant
+
+Připrav Barbed Shot do prvního Bestial Wrath a potom využij burst na Kill Command. Nenech začátek souboje pohltit přípravou peta; před pullem zkontroluj, že ho máš.
+
+Nepožadujeme vždy přesně dva Barbed Shot: doporučené priority počítají s nabíjením, talenty a počtem cílů. Z této kontroly nevyvozujeme ztracené charges ani úplnou prioritu Kill Command.
+
+- Před Bestial Wrath si připrav Barbed Shot podle dostupných charges. **Stejné pořadí jako v doporučeném začátku**: Barbed Shot +1.633 s; Bestial Wrath +2.689 s. Guide i jednocílové priority mají přípravný Barbed Shot před Bestial Wrath; přesný počet závisí na podmínkách.
+- Využij Bestial Wrath na Kill Command. **Vlastní buff před použitím doložený**: Kill Command +4.787 s Buff při prvním Kill Command je jen kontrola začátku burstu, ne zákaz Kill Command mimo Bestial Wrath.
+
+[Guide](https://www.method.gg/guides/beast-mastery-hunter/playstyle-and-rotation) · [Připnutá verze SimulationCraft](https://github.com/simulationcraft/simc/tree/76f8118cf3f7f41dad20708e8328e1f4ab2deebc)
+
+### Theila-Drak'thul-EU — Nek'zali the Soulcoiler
+
+První Takedown připrav jako společný burst s Wildfire Bomb a Boomstick. Tip of the Spear před ním řeš podle Twin Fangs; není správně vždy přidávat Kill Command navíc.
+
+Tip of the Spear, Twin Fangs, počet cílů a dostupnost schopností mění priority. Samotný Boomstick před prvním zaznamenaným Takedown není potvrzená chyba.
+
+- Při připraveném Takedown plánuj Boomstick do společného burstu. **Stejné pořadí jako v doporučeném začátku**: Takedown +1.668 s; Boomstick +6.616 s. Doporučený začátek spojuje Takedown, bombu a Boomstick. Příprava se mění podle Tip of the Spear a Twin Fangs.
+- Sleduj, zda silné bomby využívají Takedown. **Vlastní buff před použitím doložený**: Wildfire Bomb +2.723 s Zde ověřujeme jen přítomnost Takedown při první bombě; bomba mimo něj může být správně.
+
+[Guide](https://www.method.gg/guides/survival-hunter/playstyle-and-rotation) · [Připnutá verze SimulationCraft](https://github.com/simulationcraft/simc/tree/76f8118cf3f7f41dad20708e8328e1f4ab2deebc)
+
+### Theila-Drak'thul-EU — The Coiled Altar
+
+První Takedown připrav jako společný burst s Wildfire Bomb a Boomstick. Tip of the Spear před ním řeš podle Twin Fangs; není správně vždy přidávat Kill Command navíc.
+
+Tip of the Spear, Twin Fangs, počet cílů a dostupnost schopností mění priority. Samotný Boomstick před prvním zaznamenaným Takedown není potvrzená chyba.
+
+- Při připraveném Takedown plánuj Boomstick do společného burstu. **Stejné pořadí jako v doporučeném začátku**: Takedown +2.465 s; Boomstick +6.532 s. Doporučený začátek spojuje Takedown, bombu a Boomstick. Příprava se mění podle Tip of the Spear a Twin Fangs.
+- Sleduj, zda silné bomby využívají Takedown. **Přítomnost vlastního buffu při použití není jistá**: Wildfire Bomb +1.112 s Zde ověřujeme jen přítomnost Takedown při první bombě; bomba mimo něj může být správně.
+
+[Guide](https://www.method.gg/guides/survival-hunter/playstyle-and-rotation) · [Připnutá verze SimulationCraft](https://github.com/simulationcraft/simc/tree/76f8118cf3f7f41dad20708e8328e1f4ab2deebc)
+
+### Theila-Drak'thul-EU — Ula'tek
+
+První Takedown připrav jako společný burst s Wildfire Bomb a Boomstick. Tip of the Spear před ním řeš podle Twin Fangs; není správně vždy přidávat Kill Command navíc.
+
+Tip of the Spear, Twin Fangs, počet cílů a dostupnost schopností mění priority. Samotný Boomstick před prvním zaznamenaným Takedown není potvrzená chyba.
+
+- Při připraveném Takedown plánuj Boomstick do společného burstu. **Stejné pořadí jako v doporučeném začátku**: Takedown +2.942 s; Boomstick +15.272 s. Doporučený začátek spojuje Takedown, bombu a Boomstick. Příprava se mění podle Tip of the Spear a Twin Fangs.
+- Sleduj, zda silné bomby využívají Takedown. **Přítomnost vlastního buffu při použití není jistá**: Wildfire Bomb +1.504 s Zde ověřujeme jen přítomnost Takedown při první bombě; bomba mimo něj může být správně.
+
+[Guide](https://www.method.gg/guides/survival-hunter/playstyle-and-rotation) · [Připnutá verze SimulationCraft](https://github.com/simulationcraft/simc/tree/76f8118cf3f7f41dad20708e8328e1f4ab2deebc)
+
+### Theila-Drak'thul-EU — Kith'ix
+
+První Takedown připrav jako společný burst s Wildfire Bomb a Boomstick. Tip of the Spear před ním řeš podle Twin Fangs; není správně vždy přidávat Kill Command navíc.
+
+Tip of the Spear, Twin Fangs, počet cílů a dostupnost schopností mění priority. Samotný Boomstick před prvním zaznamenaným Takedown není potvrzená chyba.
+
+- Při připraveném Takedown plánuj Boomstick do společného burstu. **Stejné pořadí jako v doporučeném začátku**: Takedown +0.744 s; Boomstick +11.166 s. Doporučený začátek spojuje Takedown, bombu a Boomstick. Příprava se mění podle Tip of the Spear a Twin Fangs.
+- Sleduj, zda silné bomby využívají Takedown. **Vlastní buff před použitím doložený**: Wildfire Bomb +2.080 s Zde ověřujeme jen přítomnost Takedown při první bombě; bomba mimo něj může být správně.
+
+[Guide](https://www.method.gg/guides/survival-hunter/playstyle-and-rotation) · [Připnutá verze SimulationCraft](https://github.com/simulationcraft/simc/tree/76f8118cf3f7f41dad20708e8328e1f4ab2deebc)
+
+### Theila-Drak'thul-EU — Entombed Sentinels
+
+První Takedown připrav jako společný burst s Wildfire Bomb a Boomstick. Tip of the Spear před ním řeš podle Twin Fangs; není správně vždy přidávat Kill Command navíc.
+
+Tip of the Spear, Twin Fangs, počet cílů a dostupnost schopností mění priority. Samotný Boomstick před prvním zaznamenaným Takedown není potvrzená chyba.
+
+- Při připraveném Takedown plánuj Boomstick do společného burstu. **Stejné pořadí jako v doporučeném začátku**: Takedown +2.033 s; Boomstick +5.090 s. Doporučený začátek spojuje Takedown, bombu a Boomstick. Příprava se mění podle Tip of the Spear a Twin Fangs.
+- Sleduj, zda silné bomby využívají Takedown. **Přítomnost vlastního buffu při použití není jistá**: Wildfire Bomb +0.681 s Zde ověřujeme jen přítomnost Takedown při první bombě; bomba mimo něj může být správně.
+
+[Guide](https://www.method.gg/guides/survival-hunter/playstyle-and-rotation) · [Připnutá verze SimulationCraft](https://github.com/simulationcraft/simc/tree/76f8118cf3f7f41dad20708e8328e1f4ab2deebc)
+
+### Theila-Drak'thul-EU — Vashnik the Malignant
+
+První Takedown připrav jako společný burst s Wildfire Bomb a Boomstick. Tip of the Spear před ním řeš podle Twin Fangs; není správně vždy přidávat Kill Command navíc.
+
+Tip of the Spear, Twin Fangs, počet cílů a dostupnost schopností mění priority. Samotný Boomstick před prvním zaznamenaným Takedown není potvrzená chyba.
+
+- Při připraveném Takedown plánuj Boomstick do společného burstu. **Jiné pořadí — zkontroluj přípravu burstu**: Takedown +18.919 s; Boomstick +7.149 s. Doporučený začátek spojuje Takedown, bombu a Boomstick. Příprava se mění podle Tip of the Spear a Twin Fangs.
+- Sleduj, zda silné bomby využívají Takedown. **Přítomnost vlastního buffu při použití není jistá**: Wildfire Bomb +0.479 s Zde ověřujeme jen přítomnost Takedown při první bombě; bomba mimo něj může být správně.
+
+[Guide](https://www.method.gg/guides/survival-hunter/playstyle-and-rotation) · [Připnutá verze SimulationCraft](https://github.com/simulationcraft/simc/tree/76f8118cf3f7f41dad20708e8328e1f4ab2deebc)
+
+### Luminos-BurningBlade-EU — Nek'zali the Soulcoiler
+
+Připrav DoTy a první Voidform jako začátek burstu. U Archon k tomu patří Halo; Voidweaver navazuje prací s riftem. Power Infusion posuzuj i podle domluveného spoluhráče.
+
+Twins of the Sun Priestess může dát vlastní kopii PI při podpoře spoluhráče. Samotné pořadí PI a vlastní Voidform proto není výtka. Nový set také mění opener.
+
+- U Voidweaver plánuj první Void Torrent do burstu s Voidform. **Stejné pořadí jako v doporučeném začátku**: Voidform +0.861 s; Void Torrent +7.444 s. První dvojice ukazuje načasování; neověřuje Insanity, charges ani celý rift.
+
+[Guide](https://www.method.gg/guides/shadow-priest/playstyle-and-rotation) · [Připnutá verze SimulationCraft](https://github.com/simulationcraft/simc/tree/76f8118cf3f7f41dad20708e8328e1f4ab2deebc)
+
+### Omniblue-Drak'thul-EU — Nek'zali the Soulcoiler
+
+Připrav DoTy a první Voidform jako začátek burstu. U Archon k tomu patří Halo; Voidweaver navazuje prací s riftem. Power Infusion posuzuj i podle domluveného spoluhráče.
+
+Twins of the Sun Priestess může dát vlastní kopii PI při podpoře spoluhráče. Samotné pořadí PI a vlastní Voidform proto není výtka. Nový set také mění opener.
+
+- U Voidweaver plánuj první Void Torrent do burstu s Voidform. **Stejné pořadí jako v doporučeném začátku**: Voidform +4.429 s; Void Torrent +7.097 s. První dvojice ukazuje načasování; neověřuje Insanity, charges ani celý rift.
+
+[Guide](https://www.method.gg/guides/shadow-priest/playstyle-and-rotation) · [Připnutá verze SimulationCraft](https://github.com/simulationcraft/simc/tree/76f8118cf3f7f41dad20708e8328e1f4ab2deebc)
+
+### Omniblue-Drak'thul-EU — The Coiled Altar
+
+Připrav DoTy a první Voidform jako začátek burstu. U Archon k tomu patří Halo; Voidweaver navazuje prací s riftem. Power Infusion posuzuj i podle domluveného spoluhráče.
+
+Twins of the Sun Priestess může dát vlastní kopii PI při podpoře spoluhráče. Samotné pořadí PI a vlastní Voidform proto není výtka. Nový set také mění opener.
+
+- U Voidweaver plánuj první Void Torrent do burstu s Voidform. **Stejné pořadí jako v doporučeném začátku**: Voidform +5.390 s; Void Torrent +7.893 s. První dvojice ukazuje načasování; neověřuje Insanity, charges ani celý rift.
+
+[Guide](https://www.method.gg/guides/shadow-priest/playstyle-and-rotation) · [Připnutá verze SimulationCraft](https://github.com/simulationcraft/simc/tree/76f8118cf3f7f41dad20708e8328e1f4ab2deebc)
+
+### Omniblue-Drak'thul-EU — Ula'tek
+
+Připrav DoTy a první Voidform jako začátek burstu. U Archon k tomu patří Halo; Voidweaver navazuje prací s riftem. Power Infusion posuzuj i podle domluveného spoluhráče.
+
+Twins of the Sun Priestess může dát vlastní kopii PI při podpoře spoluhráče. Samotné pořadí PI a vlastní Voidform proto není výtka. Nový set také mění opener.
+
+- U Voidweaver plánuj první Void Torrent do burstu s Voidform. **Stejné pořadí jako v doporučeném začátku**: Voidform +5.070 s; Void Torrent +7.669 s. První dvojice ukazuje načasování; neověřuje Insanity, charges ani celý rift.
+
+[Guide](https://www.method.gg/guides/shadow-priest/playstyle-and-rotation) · [Připnutá verze SimulationCraft](https://github.com/simulationcraft/simc/tree/76f8118cf3f7f41dad20708e8328e1f4ab2deebc)
+
+### Omniblue-Drak'thul-EU — Kith'ix
+
+Připrav DoTy a první Voidform jako začátek burstu. U Archon k tomu patří Halo; Voidweaver navazuje prací s riftem. Power Infusion posuzuj i podle domluveného spoluhráče.
+
+Twins of the Sun Priestess může dát vlastní kopii PI při podpoře spoluhráče. Samotné pořadí PI a vlastní Voidform proto není výtka. Nový set také mění opener.
+
+- U Voidweaver plánuj první Void Torrent do burstu s Voidform. **Stejné pořadí jako v doporučeném začátku**: Voidform +4.265 s; Void Torrent +7.010 s. První dvojice ukazuje načasování; neověřuje Insanity, charges ani celý rift.
+
+[Guide](https://www.method.gg/guides/shadow-priest/playstyle-and-rotation) · [Připnutá verze SimulationCraft](https://github.com/simulationcraft/simc/tree/76f8118cf3f7f41dad20708e8328e1f4ab2deebc)
+
+### Omniblue-Drak'thul-EU — Entombed Sentinels
+
+Připrav DoTy a první Voidform jako začátek burstu. U Archon k tomu patří Halo; Voidweaver navazuje prací s riftem. Power Infusion posuzuj i podle domluveného spoluhráče.
+
+Twins of the Sun Priestess může dát vlastní kopii PI při podpoře spoluhráče. Samotné pořadí PI a vlastní Voidform proto není výtka. Nový set také mění opener.
+
+- U Voidweaver plánuj první Void Torrent do burstu s Voidform. **Stejné pořadí jako v doporučeném začátku**: Voidform +5.060 s; Void Torrent +7.801 s. První dvojice ukazuje načasování; neověřuje Insanity, charges ani celý rift.
+
+[Guide](https://www.method.gg/guides/shadow-priest/playstyle-and-rotation) · [Připnutá verze SimulationCraft](https://github.com/simulationcraft/simc/tree/76f8118cf3f7f41dad20708e8328e1f4ab2deebc)
+
+### Omniblue-Drak'thul-EU — Vashnik the Malignant
+
+Připrav DoTy a první Voidform jako začátek burstu. U Archon k tomu patří Halo; Voidweaver navazuje prací s riftem. Power Infusion posuzuj i podle domluveného spoluhráče.
+
+Twins of the Sun Priestess může dát vlastní kopii PI při podpoře spoluhráče. Samotné pořadí PI a vlastní Voidform proto není výtka. Nový set také mění opener.
+
+- U Voidweaver plánuj první Void Torrent do burstu s Voidform. **Stejné pořadí jako v doporučeném začátku**: Voidform +4.914 s; Void Torrent +7.440 s. První dvojice ukazuje načasování; neověřuje Insanity, charges ani celý rift.
+
+[Guide](https://www.method.gg/guides/shadow-priest/playstyle-and-rotation) · [Připnutá verze SimulationCraft](https://github.com/simulationcraft/simc/tree/76f8118cf3f7f41dad20708e8328e1f4ab2deebc)
+
+### Íácekpwn-Drak'thul-EU — The Coiled Altar
+
+Připrav DoTy a první Voidform jako začátek burstu. U Archon k tomu patří Halo; Voidweaver navazuje prací s riftem. Power Infusion posuzuj i podle domluveného spoluhráče.
+
+Twins of the Sun Priestess může dát vlastní kopii PI při podpoře spoluhráče. Samotné pořadí PI a vlastní Voidform proto není výtka. Nový set také mění opener.
+
+- U Archon připrav Halo před prvním Voidform, pokud je dostupné. **Ve sledovaném úseku chybí část dvojice; nejde o výtku**: Voidform +6.734 s Guide Archon řadí Halo do přípravy; pravidlo se na Voidweaver nepoužije.
+
+[Guide](https://www.method.gg/guides/shadow-priest/playstyle-and-rotation) · [Připnutá verze SimulationCraft](https://github.com/simulationcraft/simc/tree/76f8118cf3f7f41dad20708e8328e1f4ab2deebc)
+
+### Íácekpwn-Drak'thul-EU — Ula'tek
+
+Připrav DoTy a první Voidform jako začátek burstu. U Archon k tomu patří Halo; Voidweaver navazuje prací s riftem. Power Infusion posuzuj i podle domluveného spoluhráče.
+
+Twins of the Sun Priestess může dát vlastní kopii PI při podpoře spoluhráče. Samotné pořadí PI a vlastní Voidform proto není výtka. Nový set také mění opener.
+
+- U Archon připrav Halo před prvním Voidform, pokud je dostupné. **Ve sledovaném úseku chybí část dvojice; nejde o výtku**: Voidform +5.836 s Guide Archon řadí Halo do přípravy; pravidlo se na Voidweaver nepoužije.
+
+[Guide](https://www.method.gg/guides/shadow-priest/playstyle-and-rotation) · [Připnutá verze SimulationCraft](https://github.com/simulationcraft/simc/tree/76f8118cf3f7f41dad20708e8328e1f4ab2deebc)
+
+### Íácekpwn-Drak'thul-EU — Entombed Sentinels
+
+Připrav DoTy a první Voidform jako začátek burstu. U Archon k tomu patří Halo; Voidweaver navazuje prací s riftem. Power Infusion posuzuj i podle domluveného spoluhráče.
+
+Twins of the Sun Priestess může dát vlastní kopii PI při podpoře spoluhráče. Samotné pořadí PI a vlastní Voidform proto není výtka. Nový set také mění opener.
+
+- U Archon připrav Halo před prvním Voidform, pokud je dostupné. **Ve sledovaném úseku chybí část dvojice; nejde o výtku**: Voidform +8.500 s Guide Archon řadí Halo do přípravy; pravidlo se na Voidweaver nepoužije.
+
+[Guide](https://www.method.gg/guides/shadow-priest/playstyle-and-rotation) · [Připnutá verze SimulationCraft](https://github.com/simulationcraft/simc/tree/76f8118cf3f7f41dad20708e8328e1f4ab2deebc)
+
+### Íácekpwn-Drak'thul-EU — Vashnik the Malignant
+
+Připrav DoTy a první Voidform jako začátek burstu. U Archon k tomu patří Halo; Voidweaver navazuje prací s riftem. Power Infusion posuzuj i podle domluveného spoluhráče.
+
+Twins of the Sun Priestess může dát vlastní kopii PI při podpoře spoluhráče. Samotné pořadí PI a vlastní Voidform proto není výtka. Nový set také mění opener.
+
+- U Archon připrav Halo před prvním Voidform, pokud je dostupné. **Ve sledovaném úseku chybí část dvojice; nejde o výtku**: Voidform +4.146 s Guide Archon řadí Halo do přípravy; pravidlo se na Voidweaver nepoužije.
+
+[Guide](https://www.method.gg/guides/shadow-priest/playstyle-and-rotation) · [Připnutá verze SimulationCraft](https://github.com/simulationcraft/simc/tree/76f8118cf3f7f41dad20708e8328e1f4ab2deebc)
+
+### Slejhy-Drak'thul-EU — Nek'zali the Soulcoiler
+
+Připrav Garrote, Rupture a Envenom pro první Deathmark a Kingsbane. Sleduj, aby hlavní burst nezačal dřív, než máš připravené důležité efekty na cíli.
+
+Vanish, Improved Garrote, combo pointy, životnost cíle a počet cílů mohou změnit pořadí. Obrácená dvojice Deathmark a Kingsbane sama nevyčísluje chybu ani její dopad.
+
+- Spoj první Deathmark a Kingsbane s připravenými DoTy a Envenom. **Jiné pořadí — zkontroluj přípravu burstu**: Deathmark +9.100 s; Kingsbane +8.081 s. Guide má Deathmark před Kingsbane. Ukazujeme odlišné pořadí, ale celý stav debuffů a dostupnost jsou pro verdikt nutné.
+- Připrav Rupture před prvním Deathmark na stejném cíli. **Stejné pořadí jako v doporučeném začátku**: Rupture +3.086 s; Deathmark +9.100 s. Oba cíle musí souhlasit; starší Rupture ani automatické efekty z chybějícího castu nepopíráme.
+
+[Guide](https://www.method.gg/guides/assassination-rogue/playstyle-and-rotation) · [Připnutá verze SimulationCraft](https://github.com/simulationcraft/simc/tree/76f8118cf3f7f41dad20708e8328e1f4ab2deebc)
+
+### Slejhy-Drak'thul-EU — The Coiled Altar
+
+Připrav Garrote, Rupture a Envenom pro první Deathmark a Kingsbane. Sleduj, aby hlavní burst nezačal dřív, než máš připravené důležité efekty na cíli.
+
+Vanish, Improved Garrote, combo pointy, životnost cíle a počet cílů mohou změnit pořadí. Obrácená dvojice Deathmark a Kingsbane sama nevyčísluje chybu ani její dopad.
+
+- Spoj první Deathmark a Kingsbane s připravenými DoTy a Envenom. **Jiné pořadí — zkontroluj přípravu burstu**: Deathmark +11.433 s; Kingsbane +10.451 s. Guide má Deathmark před Kingsbane. Ukazujeme odlišné pořadí, ale celý stav debuffů a dostupnost jsou pro verdikt nutné.
+- Připrav Rupture před prvním Deathmark na stejném cíli. **Stejné pořadí jako v doporučeném začátku**: Rupture +4.276 s; Deathmark +11.433 s. Oba cíle musí souhlasit; starší Rupture ani automatické efekty z chybějícího castu nepopíráme.
+
+[Guide](https://www.method.gg/guides/assassination-rogue/playstyle-and-rotation) · [Připnutá verze SimulationCraft](https://github.com/simulationcraft/simc/tree/76f8118cf3f7f41dad20708e8328e1f4ab2deebc)
+
+### Slejhy-Drak'thul-EU — Ula'tek
+
+Připrav Garrote, Rupture a Envenom pro první Deathmark a Kingsbane. Sleduj, aby hlavní burst nezačal dřív, než máš připravené důležité efekty na cíli.
+
+Vanish, Improved Garrote, combo pointy, životnost cíle a počet cílů mohou změnit pořadí. Obrácená dvojice Deathmark a Kingsbane sama nevyčísluje chybu ani její dopad.
+
+- Spoj první Deathmark a Kingsbane s připravenými DoTy a Envenom. **Jiné pořadí — zkontroluj přípravu burstu**: Deathmark +8.301 s; Kingsbane +7.308 s. Guide má Deathmark před Kingsbane. Ukazujeme odlišné pořadí, ale celý stav debuffů a dostupnost jsou pro verdikt nutné.
+- Připrav Rupture před prvním Deathmark na stejném cíli. **Stejné pořadí jako v doporučeném začátku**: Rupture +2.300 s; Deathmark +8.301 s. Oba cíle musí souhlasit; starší Rupture ani automatické efekty z chybějícího castu nepopíráme.
+
+[Guide](https://www.method.gg/guides/assassination-rogue/playstyle-and-rotation) · [Připnutá verze SimulationCraft](https://github.com/simulationcraft/simc/tree/76f8118cf3f7f41dad20708e8328e1f4ab2deebc)
+
+### Slejhy-Drak'thul-EU — Kith'ix
+
+Připrav Garrote, Rupture a Envenom pro první Deathmark a Kingsbane. Sleduj, aby hlavní burst nezačal dřív, než máš připravené důležité efekty na cíli.
+
+Vanish, Improved Garrote, combo pointy, životnost cíle a počet cílů mohou změnit pořadí. Obrácená dvojice Deathmark a Kingsbane sama nevyčísluje chybu ani její dopad.
+
+- Spoj první Deathmark a Kingsbane s připravenými DoTy a Envenom. **Jiné pořadí — zkontroluj přípravu burstu**: Deathmark +11.659 s; Kingsbane +8.636 s. Guide má Deathmark před Kingsbane. Ukazujeme odlišné pořadí, ale celý stav debuffů a dostupnost jsou pro verdikt nutné.
+- Připrav Rupture před prvním Deathmark na stejném cíli. **Stejné pořadí jako v doporučeném začátku**: Rupture +3.487 s; Deathmark +11.659 s. Oba cíle musí souhlasit; starší Rupture ani automatické efekty z chybějícího castu nepopíráme.
+
+[Guide](https://www.method.gg/guides/assassination-rogue/playstyle-and-rotation) · [Připnutá verze SimulationCraft](https://github.com/simulationcraft/simc/tree/76f8118cf3f7f41dad20708e8328e1f4ab2deebc)
+
+### Slejhy-Drak'thul-EU — Entombed Sentinels
+
+Připrav Garrote, Rupture a Envenom pro první Deathmark a Kingsbane. Sleduj, aby hlavní burst nezačal dřív, než máš připravené důležité efekty na cíli.
+
+Vanish, Improved Garrote, combo pointy, životnost cíle a počet cílů mohou změnit pořadí. Obrácená dvojice Deathmark a Kingsbane sama nevyčísluje chybu ani její dopad.
+
+- Spoj první Deathmark a Kingsbane s připravenými DoTy a Envenom. **Jiné pořadí — zkontroluj přípravu burstu**: Deathmark +7.991 s; Kingsbane +7.009 s. Guide má Deathmark před Kingsbane. Ukazujeme odlišné pořadí, ale celý stav debuffů a dostupnost jsou pro verdikt nutné.
+- Připrav Rupture před prvním Deathmark na stejném cíli. **Stejné pořadí jako v doporučeném začátku**: Rupture +3.000 s; Deathmark +7.991 s. Oba cíle musí souhlasit; starší Rupture ani automatické efekty z chybějícího castu nepopíráme.
+
+[Guide](https://www.method.gg/guides/assassination-rogue/playstyle-and-rotation) · [Připnutá verze SimulationCraft](https://github.com/simulationcraft/simc/tree/76f8118cf3f7f41dad20708e8328e1f4ab2deebc)
+
+### Slejhy-Drak'thul-EU — Vashnik the Malignant
+
+Připrav Garrote, Rupture a Envenom pro první Deathmark a Kingsbane. Sleduj, aby hlavní burst nezačal dřív, než máš připravené důležité efekty na cíli.
+
+Vanish, Improved Garrote, combo pointy, životnost cíle a počet cílů mohou změnit pořadí. Obrácená dvojice Deathmark a Kingsbane sama nevyčísluje chybu ani její dopad.
+
+- Spoj první Deathmark a Kingsbane s připravenými DoTy a Envenom. **Jiné pořadí — zkontroluj přípravu burstu**: Deathmark +8.662 s; Kingsbane +7.660 s. Guide má Deathmark před Kingsbane. Ukazujeme odlišné pořadí, ale celý stav debuffů a dostupnost jsou pro verdikt nutné.
+- Připrav Rupture před prvním Deathmark na stejném cíli. **Stejné pořadí jako v doporučeném začátku**: Rupture +2.463 s; Deathmark +8.662 s. Oba cíle musí souhlasit; starší Rupture ani automatické efekty z chybějícího castu nepopíráme.
+
+[Guide](https://www.method.gg/guides/assassination-rogue/playstyle-and-rotation) · [Připnutá verze SimulationCraft](https://github.com/simulationcraft/simc/tree/76f8118cf3f7f41dad20708e8328e1f4ab2deebc)
+
+### Hrbaty-Drak'thul-EU — Nek'zali the Soulcoiler
+
+Před prvním Ascendance si připrav Stormkeeper. Ancestral Swiftness následně využij na vhodný cast; další priority závisí na procích a počtu cílů.
+
+Stormkeeper může být použitý už před pullem. Nevyžadujeme ho znovu jen proto, že v post-pull seznamu není. Nedopočítáváme dostupnost z nominálního cooldownu.
+
+- Při společném burstu připrav Stormkeeper před Ascendance. **Stejné pořadí jako v doporučeném začátku**: Stormkeeper +0.492 s; Ascendance +4.349 s. Guide výslovně doporučuje synchronizaci Stormkeeper a Ascendance; doporučené priority mají podmínky a výjimky pro další použití.
+
+[Guide](https://www.method.gg/guides/elemental-shaman/playstyle-and-rotation) · [Připnutá verze SimulationCraft](https://github.com/simulationcraft/simc/tree/76f8118cf3f7f41dad20708e8328e1f4ab2deebc)
+
+### Hrbaty-Drak'thul-EU — Entombed Sentinels
+
+Před prvním Ascendance si připrav Stormkeeper. Ancestral Swiftness následně využij na vhodný cast; další priority závisí na procích a počtu cílů.
+
+Stormkeeper může být použitý už před pullem. Nevyžadujeme ho znovu jen proto, že v post-pull seznamu není. Nedopočítáváme dostupnost z nominálního cooldownu.
+
+- Při společném burstu připrav Stormkeeper před Ascendance. **Stejné pořadí jako v doporučeném začátku**: Stormkeeper +0.882 s; Ascendance +3.687 s. Guide výslovně doporučuje synchronizaci Stormkeeper a Ascendance; doporučené priority mají podmínky a výjimky pro další použití.
+
+[Guide](https://www.method.gg/guides/elemental-shaman/playstyle-and-rotation) · [Připnutá verze SimulationCraft](https://github.com/simulationcraft/simc/tree/76f8118cf3f7f41dad20708e8328e1f4ab2deebc)
+
+### Hrbaty-Drak'thul-EU — Vashnik the Malignant
+
+Před prvním Ascendance si připrav Stormkeeper. Ancestral Swiftness následně využij na vhodný cast; další priority závisí na procích a počtu cílů.
+
+Stormkeeper může být použitý už před pullem. Nevyžadujeme ho znovu jen proto, že v post-pull seznamu není. Nedopočítáváme dostupnost z nominálního cooldownu.
+
+- Při společném burstu připrav Stormkeeper před Ascendance. **Stejné pořadí jako v doporučeném začátku**: Stormkeeper -0.949 s; Ascendance +2.685 s. Guide výslovně doporučuje synchronizaci Stormkeeper a Ascendance; doporučené priority mají podmínky a výjimky pro další použití.
+
+[Guide](https://www.method.gg/guides/elemental-shaman/playstyle-and-rotation) · [Připnutá verze SimulationCraft](https://github.com/simulationcraft/simc/tree/76f8118cf3f7f41dad20708e8328e1f4ab2deebc)
+
+### Kubéc-Drak'thul-EU — Nek'zali the Soulcoiler
+
+U Shado-Pan si připrav Chi na první Zenith a navazující Fists of Fury. Pokud používáš statový potion, zapni ho před Zenith, aby z něj těžil už úvodní úder.
+
+Reset Fists of Fury, Chi, Bloodlust a počet cílů mění další pořadí. Nevyžadujeme jeden univerzální opener ani nesčítáme automatické efekty jako další stisky.
+
+- Připrav si Chi před prvním Zenith. **Stejné pořadí jako v doporučeném začátku**: Tiger Palm +0.956 s; Zenith +3.366 s. Tiger Palm je přípravný krok v Shado-Pan openeru; přesný potřebný počet závisí na skutečných zdrojích.
+- Když používáš statový potion v openeru, dej ho před Zenith. **Ve sledovaném úseku chybí část dvojice; nejde o výtku**: Zenith +3.366 s Guide doporučuje statové buffy před Zenith kvůli úvodnímu Zenith Stomp. Potion je na farmě rada s nižší prioritou.
+- Připrav Fists of Fury do Zenith. **Vlastní buff před použitím doložený**: Fists of Fury +3.626 s Kontrola ověřuje začátek channelu při pozorovaném Zenith, nikoli jeho dokončení.
+
+[Guide](https://www.method.gg/guides/windwalker-monk/playstyle-and-rotation) · [Připnutá verze SimulationCraft](https://github.com/simulationcraft/simc/tree/76f8118cf3f7f41dad20708e8328e1f4ab2deebc)
+
+### Kubéc-Drak'thul-EU — The Coiled Altar
+
+U Shado-Pan si připrav Chi na první Zenith a navazující Fists of Fury. Pokud používáš statový potion, zapni ho před Zenith, aby z něj těžil už úvodní úder.
+
+Reset Fists of Fury, Chi, Bloodlust a počet cílů mění další pořadí. Nevyžadujeme jeden univerzální opener ani nesčítáme automatické efekty jako další stisky.
+
+- Připrav si Chi před prvním Zenith. **Stejné pořadí jako v doporučeném začátku**: Tiger Palm +0.930 s; Zenith +1.859 s. Tiger Palm je přípravný krok v Shado-Pan openeru; přesný potřebný počet závisí na skutečných zdrojích.
+- Když používáš statový potion v openeru, dej ho před Zenith. **Ve sledovaném úseku chybí část dvojice; nejde o výtku**: Zenith +1.859 s Guide doporučuje statové buffy před Zenith kvůli úvodnímu Zenith Stomp. Potion je na farmě rada s nižší prioritou.
+- Připrav Fists of Fury do Zenith. **Vlastní buff před použitím doložený**: Fists of Fury +2.058 s Kontrola ověřuje začátek channelu při pozorovaném Zenith, nikoli jeho dokončení.
+
+[Guide](https://www.method.gg/guides/windwalker-monk/playstyle-and-rotation) · [Připnutá verze SimulationCraft](https://github.com/simulationcraft/simc/tree/76f8118cf3f7f41dad20708e8328e1f4ab2deebc)
+
+### Kubéc-Drak'thul-EU — Ula'tek
+
+U Shado-Pan si připrav Chi na první Zenith a navazující Fists of Fury. Pokud používáš statový potion, zapni ho před Zenith, aby z něj těžil už úvodní úder.
+
+Reset Fists of Fury, Chi, Bloodlust a počet cílů mění další pořadí. Nevyžadujeme jeden univerzální opener ani nesčítáme automatické efekty jako další stisky.
+
+- Připrav si Chi před prvním Zenith. **Stejné pořadí jako v doporučeném začátku**: Tiger Palm +0.502 s; Zenith +1.464 s. Tiger Palm je přípravný krok v Shado-Pan openeru; přesný potřebný počet závisí na skutečných zdrojích.
+- Když používáš statový potion v openeru, dej ho před Zenith. **Ve sledovaném úseku chybí část dvojice; nejde o výtku**: Zenith +1.464 s Guide doporučuje statové buffy před Zenith kvůli úvodnímu Zenith Stomp. Potion je na farmě rada s nižší prioritou.
+- Připrav Fists of Fury do Zenith. **Vlastní buff před použitím doložený**: Fists of Fury +1.694 s Kontrola ověřuje začátek channelu při pozorovaném Zenith, nikoli jeho dokončení.
+
+[Guide](https://www.method.gg/guides/windwalker-monk/playstyle-and-rotation) · [Připnutá verze SimulationCraft](https://github.com/simulationcraft/simc/tree/76f8118cf3f7f41dad20708e8328e1f4ab2deebc)
+
+### Kubéc-Drak'thul-EU — Kith'ix
+
+U Shado-Pan si připrav Chi na první Zenith a navazující Fists of Fury. Pokud používáš statový potion, zapni ho před Zenith, aby z něj těžil už úvodní úder.
+
+Reset Fists of Fury, Chi, Bloodlust a počet cílů mění další pořadí. Nevyžadujeme jeden univerzální opener ani nesčítáme automatické efekty jako další stisky.
+
+- Připrav si Chi před prvním Zenith. **Stejné pořadí jako v doporučeném začátku**: Tiger Palm +1.376 s; Zenith +2.493 s. Tiger Palm je přípravný krok v Shado-Pan openeru; přesný potřebný počet závisí na skutečných zdrojích.
+- Když používáš statový potion v openeru, dej ho před Zenith. **Ve sledovaném úseku chybí část dvojice; nejde o výtku**: Zenith +2.493 s Guide doporučuje statové buffy před Zenith kvůli úvodnímu Zenith Stomp. Potion je na farmě rada s nižší prioritou.
+- Připrav Fists of Fury do Zenith. **Vlastní buff před použitím doložený**: Fists of Fury +2.842 s Kontrola ověřuje začátek channelu při pozorovaném Zenith, nikoli jeho dokončení.
+
+[Guide](https://www.method.gg/guides/windwalker-monk/playstyle-and-rotation) · [Připnutá verze SimulationCraft](https://github.com/simulationcraft/simc/tree/76f8118cf3f7f41dad20708e8328e1f4ab2deebc)
+
+### Kubéc-Drak'thul-EU — Entombed Sentinels
+
+U Shado-Pan si připrav Chi na první Zenith a navazující Fists of Fury. Pokud používáš statový potion, zapni ho před Zenith, aby z něj těžil už úvodní úder.
+
+Reset Fists of Fury, Chi, Bloodlust a počet cílů mění další pořadí. Nevyžadujeme jeden univerzální opener ani nesčítáme automatické efekty jako další stisky.
+
+- Připrav si Chi před prvním Zenith. **Stejné pořadí jako v doporučeném začátku**: Tiger Palm +1.378 s; Zenith +2.999 s. Tiger Palm je přípravný krok v Shado-Pan openeru; přesný potřebný počet závisí na skutečných zdrojích.
+- Když používáš statový potion v openeru, dej ho před Zenith. **Jiné pořadí — zkontroluj přípravu burstu**: Potion of Recklessness +6.422 s; Zenith +2.999 s. Guide doporučuje statové buffy před Zenith kvůli úvodnímu Zenith Stomp. Potion je na farmě rada s nižší prioritou.
+- Připrav Fists of Fury do Zenith. **Vlastní buff před použitím doložený**: Fists of Fury +3.734 s Kontrola ověřuje začátek channelu při pozorovaném Zenith, nikoli jeho dokončení.
+
+[Guide](https://www.method.gg/guides/windwalker-monk/playstyle-and-rotation) · [Připnutá verze SimulationCraft](https://github.com/simulationcraft/simc/tree/76f8118cf3f7f41dad20708e8328e1f4ab2deebc)
+
+### Kubéc-Drak'thul-EU — Vashnik the Malignant
+
+U Shado-Pan si připrav Chi na první Zenith a navazující Fists of Fury. Pokud používáš statový potion, zapni ho před Zenith, aby z něj těžil už úvodní úder.
+
+Reset Fists of Fury, Chi, Bloodlust a počet cílů mění další pořadí. Nevyžadujeme jeden univerzální opener ani nesčítáme automatické efekty jako další stisky.
+
+- Připrav si Chi před prvním Zenith. **Stejné pořadí jako v doporučeném začátku**: Tiger Palm +0.577 s; Zenith +2.137 s. Tiger Palm je přípravný krok v Shado-Pan openeru; přesný potřebný počet závisí na skutečných zdrojích.
+- Když používáš statový potion v openeru, dej ho před Zenith. **Jiné pořadí — zkontroluj přípravu burstu**: Potion of Recklessness +6.682 s; Zenith +2.137 s. Guide doporučuje statové buffy před Zenith kvůli úvodnímu Zenith Stomp. Potion je na farmě rada s nižší prioritou.
+- Připrav Fists of Fury do Zenith. **Vlastní buff před použitím doložený**: Fists of Fury +4.100 s Kontrola ověřuje začátek channelu při pozorovaném Zenith, nikoli jeho dokončení.
+
+[Guide](https://www.method.gg/guides/windwalker-monk/playstyle-and-rotation) · [Připnutá verze SimulationCraft](https://github.com/simulationcraft/simc/tree/76f8118cf3f7f41dad20708e8328e1f4ab2deebc)
+
+### Odmin-Drak'thul-EU — The Coiled Altar
+
+U Fel-Scarred připrav první Eye Beam před ruční Metamorphosis a využij Essence Break na silné útoky ve formě. Po resetu se k paprsku vrať.
+
+The Hunt nebo pohybová schopnost může přijít kvůli náběhu dřív. Cast paprsku v logu nepotvrzuje dokončený channel; automatická forma z Demonic není ruční Metamorphosis.
+
+- První Eye Beam připrav před ruční Metamorphosis, pokud je dostupný. **Stejné pořadí jako v doporučeném začátku**: Eye Beam +1.182 s; Metamorphosis +10.632 s. Fel-Scarred opener využívá paprsek před Metamorphosis a jeho další použití po resetu.
+- Silné Death Sweep směřuj do Essence Break. **Stejné pořadí jako v doporučeném začátku**: Essence Break +2.851 s; Death Sweep +3.827 s. Porovnáváme první zaznamenané použití obou schopností, ne přesnou délku debuffu ani všechny útoky za zdroje.
+
+[Guide](https://www.method.gg/guides/havoc-demon-hunter/playstyle-and-rotation) · [Připnutá verze SimulationCraft](https://github.com/simulationcraft/simc/tree/76f8118cf3f7f41dad20708e8328e1f4ab2deebc)
+
+### Odmin-Drak'thul-EU — Ula'tek
+
+U Fel-Scarred připrav první Eye Beam před ruční Metamorphosis a využij Essence Break na silné útoky ve formě. Po resetu se k paprsku vrať.
+
+The Hunt nebo pohybová schopnost může přijít kvůli náběhu dřív. Cast paprsku v logu nepotvrzuje dokončený channel; automatická forma z Demonic není ruční Metamorphosis.
+
+- První Eye Beam připrav před ruční Metamorphosis, pokud je dostupný. **Stejné pořadí jako v doporučeném začátku**: Eye Beam +1.673 s; Metamorphosis +10.304 s. Fel-Scarred opener využívá paprsek před Metamorphosis a jeho další použití po resetu.
+- Silné Death Sweep směřuj do Essence Break. **Stejné pořadí jako v doporučeném začátku**: Essence Break +3.419 s; Death Sweep +4.404 s. Porovnáváme první zaznamenané použití obou schopností, ne přesnou délku debuffu ani všechny útoky za zdroje.
+
+[Guide](https://www.method.gg/guides/havoc-demon-hunter/playstyle-and-rotation) · [Připnutá verze SimulationCraft](https://github.com/simulationcraft/simc/tree/76f8118cf3f7f41dad20708e8328e1f4ab2deebc)
+
+### Odmin-Drak'thul-EU — Kith'ix
+
+U Fel-Scarred připrav první Eye Beam před ruční Metamorphosis a využij Essence Break na silné útoky ve formě. Po resetu se k paprsku vrať.
+
+The Hunt nebo pohybová schopnost může přijít kvůli náběhu dřív. Cast paprsku v logu nepotvrzuje dokončený channel; automatická forma z Demonic není ruční Metamorphosis.
+
+- První Eye Beam připrav před ruční Metamorphosis, pokud je dostupný. **Stejné pořadí jako v doporučeném začátku**: Eye Beam +1.347 s; Metamorphosis +12.134 s. Fel-Scarred opener využívá paprsek před Metamorphosis a jeho další použití po resetu.
+- Silné Death Sweep směřuj do Essence Break. **Stejné pořadí jako v doporučeném začátku**: Essence Break +2.872 s; Death Sweep +3.660 s. Porovnáváme první zaznamenané použití obou schopností, ne přesnou délku debuffu ani všechny útoky za zdroje.
+
+[Guide](https://www.method.gg/guides/havoc-demon-hunter/playstyle-and-rotation) · [Připnutá verze SimulationCraft](https://github.com/simulationcraft/simc/tree/76f8118cf3f7f41dad20708e8328e1f4ab2deebc)
+
+### Odmin-Drak'thul-EU — Entombed Sentinels
+
+U Fel-Scarred připrav první Eye Beam před ruční Metamorphosis a využij Essence Break na silné útoky ve formě. Po resetu se k paprsku vrať.
+
+The Hunt nebo pohybová schopnost může přijít kvůli náběhu dřív. Cast paprsku v logu nepotvrzuje dokončený channel; automatická forma z Demonic není ruční Metamorphosis.
+
+- První Eye Beam připrav před ruční Metamorphosis, pokud je dostupný. **Stejné pořadí jako v doporučeném začátku**: Eye Beam +4.514 s; Metamorphosis +11.150 s. Fel-Scarred opener využívá paprsek před Metamorphosis a jeho další použití po resetu.
+- Silné Death Sweep směřuj do Essence Break. **Stejné pořadí jako v doporučeném začátku**: Essence Break +6.002 s; Death Sweep +6.823 s. Porovnáváme první zaznamenané použití obou schopností, ne přesnou délku debuffu ani všechny útoky za zdroje.
+
+[Guide](https://www.method.gg/guides/havoc-demon-hunter/playstyle-and-rotation) · [Připnutá verze SimulationCraft](https://github.com/simulationcraft/simc/tree/76f8118cf3f7f41dad20708e8328e1f4ab2deebc)
+
+### Odmin-Drak'thul-EU — Vashnik the Malignant
+
+U Fel-Scarred připrav první Eye Beam před ruční Metamorphosis a využij Essence Break na silné útoky ve formě. Po resetu se k paprsku vrať.
+
+The Hunt nebo pohybová schopnost může přijít kvůli náběhu dřív. Cast paprsku v logu nepotvrzuje dokončený channel; automatická forma z Demonic není ruční Metamorphosis.
+
+- První Eye Beam připrav před ruční Metamorphosis, pokud je dostupný. **Stejné pořadí jako v doporučeném začátku**: Eye Beam +3.710 s; Metamorphosis +11.775 s. Fel-Scarred opener využívá paprsek před Metamorphosis a jeho další použití po resetu.
+- Silné Death Sweep směřuj do Essence Break. **Stejné pořadí jako v doporučeném začátku**: Essence Break +5.328 s; Death Sweep +6.088 s. Porovnáváme první zaznamenané použití obou schopností, ne přesnou délku debuffu ani všechny útoky za zdroje.
+
+[Guide](https://www.method.gg/guides/havoc-demon-hunter/playstyle-and-rotation) · [Připnutá verze SimulationCraft](https://github.com/simulationcraft/simc/tree/76f8118cf3f7f41dad20708e8328e1f4ab2deebc)
+
+### Fobina-Drak'thul-EU — Nek'zali the Soulcoiler
+
+Připrav podporu spoluhráčů pro první Breath of Eons. Fire Breath, Upheaval a Eruption pak využij k prodloužení vlastního Ebon Might.
+
+Breath of Eons umí vlastní Ebon Might také aplikovat. Krátká mezera před tímto buffem proto sama neznamená, že máš přidat další Ebon Might. Nejlepší příjemce podpory ani domluvené časy skupiny z pořadí castů neurčujeme.
+
+- Sleduj vlastní Ebon Might kolem první Breath of Eons. **Vlastní buff před použitím doložený**: Breath of Eons +1.951 s Guide doporučuje připravený burst; Breath of Eons ale podle připnuté implementace umí Ebon Might také aplikovat. Samotný chybějící buff těsně před Eons není výtka.
+- Eruption: prodlužuj vlastní Ebon Might a respektuj Afterimage. **Vlastní buff před použitím doložený**: Eruption +8.129 s Běžné Eruption plánuj do vlastního Ebon Might. S Afterimage a plnými stacky Essence Burst může mít Eruption přednost i bez tohoto buffu.
+
+[Guide](https://www.method.gg/guides/augmentation-evoker/playstyle-and-rotation) · [Připnutá verze SimulationCraft](https://github.com/simulationcraft/simc/tree/76f8118cf3f7f41dad20708e8328e1f4ab2deebc)
+
+### Fobina-Drak'thul-EU — The Coiled Altar
+
+Připrav podporu spoluhráčů pro první Breath of Eons. Fire Breath, Upheaval a Eruption pak využij k prodloužení vlastního Ebon Might.
+
+Breath of Eons umí vlastní Ebon Might také aplikovat. Krátká mezera před tímto buffem proto sama neznamená, že máš přidat další Ebon Might. Nejlepší příjemce podpory ani domluvené časy skupiny z pořadí castů neurčujeme.
+
+- Sleduj vlastní Ebon Might kolem první Breath of Eons. **Ebon Might se objevil po Breath of Eons — samotná tato návaznost není výtka**: Breath of Eons +0.156 s Guide doporučuje připravený burst; Breath of Eons ale podle připnuté implementace umí Ebon Might také aplikovat. Samotný chybějící buff těsně před Eons není výtka.
+- Eruption: prodlužuj vlastní Ebon Might a respektuj Afterimage. **Vlastní buff před použitím doložený**: Eruption +7.598 s Běžné Eruption plánuj do vlastního Ebon Might. S Afterimage a plnými stacky Essence Burst může mít Eruption přednost i bez tohoto buffu.
+
+[Guide](https://www.method.gg/guides/augmentation-evoker/playstyle-and-rotation) · [Připnutá verze SimulationCraft](https://github.com/simulationcraft/simc/tree/76f8118cf3f7f41dad20708e8328e1f4ab2deebc)
+
+### Fobina-Drak'thul-EU — Ula'tek
+
+Připrav podporu spoluhráčů pro první Breath of Eons. Fire Breath, Upheaval a Eruption pak využij k prodloužení vlastního Ebon Might.
+
+Breath of Eons umí vlastní Ebon Might také aplikovat. Krátká mezera před tímto buffem proto sama neznamená, že máš přidat další Ebon Might. Nejlepší příjemce podpory ani domluvené časy skupiny z pořadí castů neurčujeme.
+
+- Sleduj vlastní Ebon Might kolem první Breath of Eons. **Ebon Might se objevil po Breath of Eons — samotná tato návaznost není výtka**: Breath of Eons +1.278 s Guide doporučuje připravený burst; Breath of Eons ale podle připnuté implementace umí Ebon Might také aplikovat. Samotný chybějící buff těsně před Eons není výtka.
+- Eruption: prodlužuj vlastní Ebon Might a respektuj Afterimage. **Vlastní buff před použitím doložený**: Eruption +6.890 s Běžné Eruption plánuj do vlastního Ebon Might. S Afterimage a plnými stacky Essence Burst může mít Eruption přednost i bez tohoto buffu.
+
+[Guide](https://www.method.gg/guides/augmentation-evoker/playstyle-and-rotation) · [Připnutá verze SimulationCraft](https://github.com/simulationcraft/simc/tree/76f8118cf3f7f41dad20708e8328e1f4ab2deebc)
+
+### Fobina-Drak'thul-EU — Kith'ix
+
+Připrav podporu spoluhráčů pro první Breath of Eons. Fire Breath, Upheaval a Eruption pak využij k prodloužení vlastního Ebon Might.
+
+Breath of Eons umí vlastní Ebon Might také aplikovat. Krátká mezera před tímto buffem proto sama neznamená, že máš přidat další Ebon Might. Nejlepší příjemce podpory ani domluvené časy skupiny z pořadí castů neurčujeme.
+
+- Sleduj vlastní Ebon Might kolem první Breath of Eons. **Ebon Might se objevil po Breath of Eons — samotná tato návaznost není výtka**: Breath of Eons +0.371 s Guide doporučuje připravený burst; Breath of Eons ale podle připnuté implementace umí Ebon Might také aplikovat. Samotný chybějící buff těsně před Eons není výtka.
+- Eruption: prodlužuj vlastní Ebon Might a respektuj Afterimage. **Vlastní buff před použitím doložený**: Eruption +7.872 s Běžné Eruption plánuj do vlastního Ebon Might. S Afterimage a plnými stacky Essence Burst může mít Eruption přednost i bez tohoto buffu.
+
+[Guide](https://www.method.gg/guides/augmentation-evoker/playstyle-and-rotation) · [Připnutá verze SimulationCraft](https://github.com/simulationcraft/simc/tree/76f8118cf3f7f41dad20708e8328e1f4ab2deebc)
+
+### Fobina-Drak'thul-EU — Entombed Sentinels
+
+Připrav podporu spoluhráčů pro první Breath of Eons. Fire Breath, Upheaval a Eruption pak využij k prodloužení vlastního Ebon Might.
+
+Breath of Eons umí vlastní Ebon Might také aplikovat. Krátká mezera před tímto buffem proto sama neznamená, že máš přidat další Ebon Might. Nejlepší příjemce podpory ani domluvené časy skupiny z pořadí castů neurčujeme.
+
+- Sleduj vlastní Ebon Might kolem první Breath of Eons. **Ebon Might se objevil po Breath of Eons — samotná tato návaznost není výtka**: Breath of Eons +1.433 s Guide doporučuje připravený burst; Breath of Eons ale podle připnuté implementace umí Ebon Might také aplikovat. Samotný chybějící buff těsně před Eons není výtka.
+- Eruption: prodlužuj vlastní Ebon Might a respektuj Afterimage. **Vlastní buff před použitím doložený**: Eruption +7.217 s Běžné Eruption plánuj do vlastního Ebon Might. S Afterimage a plnými stacky Essence Burst může mít Eruption přednost i bez tohoto buffu.
+
+[Guide](https://www.method.gg/guides/augmentation-evoker/playstyle-and-rotation) · [Připnutá verze SimulationCraft](https://github.com/simulationcraft/simc/tree/76f8118cf3f7f41dad20708e8328e1f4ab2deebc)
+
+### Fobina-Drak'thul-EU — Vashnik the Malignant
+
+Připrav podporu spoluhráčů pro první Breath of Eons. Fire Breath, Upheaval a Eruption pak využij k prodloužení vlastního Ebon Might.
+
+Breath of Eons umí vlastní Ebon Might také aplikovat. Krátká mezera před tímto buffem proto sama neznamená, že máš přidat další Ebon Might. Nejlepší příjemce podpory ani domluvené časy skupiny z pořadí castů neurčujeme.
+
+- Sleduj vlastní Ebon Might kolem první Breath of Eons. **Ebon Might se objevil po Breath of Eons — samotná tato návaznost není výtka**: Breath of Eons +2.053 s Guide doporučuje připravený burst; Breath of Eons ale podle připnuté implementace umí Ebon Might také aplikovat. Samotný chybějící buff těsně před Eons není výtka.
+- Eruption: prodlužuj vlastní Ebon Might a respektuj Afterimage. **Doložená podmínka Afterimage — samotné chybějící Ebon Might není výtka**: Eruption +10.272 s Před začátkem tohoto Eruption jsou doložené plné stacky Essence Burst a zvolený Afterimage. To je důležitá výjimka: kvůli samotnému chybějícímu Ebon Might tento cast neodkládej. Celé priority tím potvrzené nejsou.
+
+[Guide](https://www.method.gg/guides/augmentation-evoker/playstyle-and-rotation) · [Připnutá verze SimulationCraft](https://github.com/simulationcraft/simc/tree/76f8118cf3f7f41dad20708e8328e1f4ab2deebc)
+
+### Kirill-Drak'thul-EU — The Coiled Altar
+
+U Annihilator si připrav první Void Metamorphosis sbíráním soulů a uvnitř plánuj Collapsing Star podle jejich zásoby a zbývající formy.
+
+Devourer nemá pevný čas první formy. Počet soulů a Fury zde z času samotného nedopočítáváme; pozdější nástup formy ani samotný čas Collapsing Star není rotační chyba.
+
+- Plánuj Collapsing Star v první Void Metamorphosis podle skutečně nasbíraných soulů. **Vlastní buff před použitím doložený**: Collapsing Star +28.138 s Kontrolujeme pozorovaný buff formy při prvním Collapsing Star. Splnění hranice soulů a nejlepší okamžik jsou samostatné otázky.
+
+[Guide](https://www.method.gg/guides/devourer-demon-hunter/playstyle-and-rotation) · [Připnutá verze SimulationCraft](https://github.com/simulationcraft/simc/tree/76f8118cf3f7f41dad20708e8328e1f4ab2deebc)
+
+### Kirill-Drak'thul-EU — Ula'tek
+
+U Annihilator si připrav první Void Metamorphosis sbíráním soulů a uvnitř plánuj Collapsing Star podle jejich zásoby a zbývající formy.
+
+Devourer nemá pevný čas první formy. Počet soulů a Fury zde z času samotného nedopočítáváme; pozdější nástup formy ani samotný čas Collapsing Star není rotační chyba.
+
+- Plánuj Collapsing Star v první Void Metamorphosis podle skutečně nasbíraných soulů. **Vlastní buff před použitím doložený**: Collapsing Star +20.894 s Kontrolujeme pozorovaný buff formy při prvním Collapsing Star. Splnění hranice soulů a nejlepší okamžik jsou samostatné otázky.
+
+[Guide](https://www.method.gg/guides/devourer-demon-hunter/playstyle-and-rotation) · [Připnutá verze SimulationCraft](https://github.com/simulationcraft/simc/tree/76f8118cf3f7f41dad20708e8328e1f4ab2deebc)
+
+### Kirill-Drak'thul-EU — Kith'ix
+
+U Annihilator si připrav první Void Metamorphosis sbíráním soulů a uvnitř plánuj Collapsing Star podle jejich zásoby a zbývající formy.
+
+Devourer nemá pevný čas první formy. Počet soulů a Fury zde z času samotného nedopočítáváme; pozdější nástup formy ani samotný čas Collapsing Star není rotační chyba.
+
+- Plánuj Collapsing Star v první Void Metamorphosis podle skutečně nasbíraných soulů. **Vlastní buff před použitím doložený**: Collapsing Star +20.552 s Kontrolujeme pozorovaný buff formy při prvním Collapsing Star. Splnění hranice soulů a nejlepší okamžik jsou samostatné otázky.
+
+[Guide](https://www.method.gg/guides/devourer-demon-hunter/playstyle-and-rotation) · [Připnutá verze SimulationCraft](https://github.com/simulationcraft/simc/tree/76f8118cf3f7f41dad20708e8328e1f4ab2deebc)
+
+### Kirill-Drak'thul-EU — Entombed Sentinels
+
+U Annihilator si připrav první Void Metamorphosis sbíráním soulů a uvnitř plánuj Collapsing Star podle jejich zásoby a zbývající formy.
+
+Devourer nemá pevný čas první formy. Počet soulů a Fury zde z času samotného nedopočítáváme; pozdější nástup formy ani samotný čas Collapsing Star není rotační chyba.
+
+- Plánuj Collapsing Star v první Void Metamorphosis podle skutečně nasbíraných soulů. **Vlastní buff před použitím doložený**: Collapsing Star +17.508 s Kontrolujeme pozorovaný buff formy při prvním Collapsing Star. Splnění hranice soulů a nejlepší okamžik jsou samostatné otázky.
+
+[Guide](https://www.method.gg/guides/devourer-demon-hunter/playstyle-and-rotation) · [Připnutá verze SimulationCraft](https://github.com/simulationcraft/simc/tree/76f8118cf3f7f41dad20708e8328e1f4ab2deebc)
+
+### Kirill-Drak'thul-EU — Vashnik the Malignant
+
+U Annihilator si připrav první Void Metamorphosis sbíráním soulů a uvnitř plánuj Collapsing Star podle jejich zásoby a zbývající formy.
+
+Devourer nemá pevný čas první formy. Počet soulů a Fury zde z času samotného nedopočítáváme; pozdější nástup formy ani samotný čas Collapsing Star není rotační chyba.
+
+- Plánuj Collapsing Star v první Void Metamorphosis podle skutečně nasbíraných soulů. **Vlastní buff před použitím doložený**: Collapsing Star +24.640 s Kontrolujeme pozorovaný buff formy při prvním Collapsing Star. Splnění hranice soulů a nejlepší okamžik jsou samostatné otázky.
+
+[Guide](https://www.method.gg/guides/devourer-demon-hunter/playstyle-and-rotation) · [Připnutá verze SimulationCraft](https://github.com/simulationcraft/simc/tree/76f8118cf3f7f41dad20708e8328e1f4ab2deebc)
+
+
 ## DPS potiony — doplňkový přehled
 Na farmě volitelné; doporučení má nízkou prioritu. Nezaznamenané použití není důkaz nepoužití. Pre-pull casty jsou v okně 30 s; poslední starší cast je zachovaný v JSON. Jiné potiony vyžadují posouzení.
 
