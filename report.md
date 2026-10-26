@@ -1,8 +1,26 @@
-# Raid 15. 10. 2026
+# Raid 22. 10. 2026
 
 # Coaching z killů
 
 Všechna témata z killů. Rotační pravidlo je podmíněný postup pro příště; pozorování není potvrzená chyba nebo lepší alternativa. Nejde o pořadí podle DPS ztráty.
+
+## Kirill-Drak'thul-EU
+
+### Kith’ix: rady pro tento fight
+
+1. **Kith’ix: připrav si přepnutí na velké addy**
+Co zkusit příště: Pokud máš za úkol addy, připrav si cílení Venomous Hulk a Voidweaver ještě před jejich příchodem. Pokud máš peta, přesměruj i jeho. Po smrti velkých addů počítej s Mindstinger Eggs. Pokud máš podle domluvy útočit do bosse, drž se tohoto úkolu.
+Proč: Připravené cílení ti usnadní začít útočit na přidělený cíl.
+Co ukázal log: Vybraných úseků před tvým prvním zaznamenaným zásahem nebo zásahem peta do velkého adda: 1. Samo to neznamená pozdní přepnutí.
+Na co dát pozor: První zaznamenaný zásah může přijít z automatického efektu. Z těchto úseků proto nepoznáme přesný okamžik tvého přepnutí ani to, zda bylo pozdě.
+   Příklad: Kith'ix · 00:10.683 · kill pokus 10.
+
+2. **Kith’ix: projdi zásahy během mechanik**
+Co zkusit příště: U uvedených časů zkontroluj Nullshards, Twisted Appendage a Suffocation. Tam, kde tvůj úkol dovoluje zásahu předejít, si připrav bezpečné místo a schopnosti použitelné za pohybu. Během burstu nepřestávej sledovat okolí.
+Proč: Připravený pohyb může usnadnit přežití i pokračování v útocích.
+Co ukázal log: Log zachytil: Nullshards 2×.
+Na co dát pozor: Report zná zásah, ale nemusí znát tvůj úkol. Ne každý uvedený zásah byl nutně vyhnutelný nebo tvoje chyba.
+   Příklad: Kith'ix · 03:46.915 · kill pokus 10.
 
 ## Hrbaty-Drak'thul-EU
 
@@ -11,498 +29,26 @@ Všechna témata z killů. Rotační pravidlo je podmíněný postup pro příš
 1. **Utrácej Maelstrom dřív, než přeteče**
 Co zkusit příště: Před Lava Burst hlídej volné místo pro Maelstrom. Pokud hraješ Elemental Blast, při méně než 15 volných Maelstrom zkontroluj jeho použití; podle situace přichází v úvahu i Earthquake. Pořadí ale ovlivňuje Master of the Elements a další procy.
 Proč: Maelstrom nad maximum už nezískáš. Pomůže plánovat jeho utracení ještě před dokončením dalšího kouzla.
-Co ukázal log: U 3 sledovaných použití Lava Burst se část Maelstrom nevešla do maxima. Nejde o stejný počet potvrzených chyb.
+Co ukázal log: U 5 sledovaných použití Lava Burst se část Maelstrom nevešla do maxima. Nejde o stejný počet potvrzených chyb.
 Na co dát pozor: Samotný přebytek neříká, zda bylo v danou chvíli lepší nebo možné použít Elemental Blast či Earthquake.
-   Příklad: Nek'zali the Soulcoiler · 00:28.850 · kill pokus 1.
-
-### Další pozorování k prohlédnutí
-
-**Lava Surge: proc skončil během dalších kouzel**
-Podívej se, zda šel Lava Surge využít před jeho skončením. Kvůli němu ale automaticky neodsouvej důležitější kouzlo; samotný konec procu není důkaz chyby.
-
-## Fobina-Drak'thul-EU
-
-### Obecné DPS rady
-
-1. **Rozliš Eruption pro Ebon Might a pro Afterimage**
-Co zkusit příště: Běžné Eruption plánuj do doby, kdy máš vlastní Ebon Might, aby ho prodlužovaly. Pokud máš Afterimage a plné stacky Essence Burst, může mít Eruption přednost i bez Ebon Might. V takové chvíli na buff automaticky nečekej.
-Proč: Eruption bez Ebon Might nemusí být chyba. Afterimage je důležitá výjimka.
-Co ukázal log: 65 Eruption začalo bez vlastního Ebon Might. U 5 byly splněné stacky pro výjimku Afterimage, u 49 nebyly a u 11 to nevíme. Tato čísla nejsou počty chyb.
-Na co dát pozor: Ani nesplněná výjimka sama neříká, zda jsi mohl Ebon Might právě použít. Kontroluj také předchozí a následující schopnosti.
-   Příklad: Nek'zali the Soulcoiler · 01:19.757 · kill pokus 1.
-
-### Kith’ix: rady pro tento fight
-
-1. **Kith’ix: připrav si přepnutí na velké addy**
-Co zkusit příště: Pokud máš za úkol addy, připrav si cílení Venomous Hulk a Voidweaver ještě před jejich příchodem. Pokud máš peta, přesměruj i jeho. Po smrti velkých addů počítej s Mindstinger Eggs. Pokud máš podle domluvy útočit do bosse, drž se tohoto úkolu.
-Proč: Připravené cílení ti usnadní začít útočit na přidělený cíl.
-Co ukázal log: Vybraných úseků před tvým prvním zaznamenaným zásahem nebo zásahem peta do velkého adda: 1. Samo to neznamená pozdní přepnutí.
-Na co dát pozor: První zaznamenaný zásah může přijít z automatického efektu. Z těchto úseků proto nepoznáme přesný okamžik tvého přepnutí ani to, zda bylo pozdě.
-   Příklad: Kith'ix · 00:13.873 · kill pokus 9.
-
-2. **Kith’ix: projdi zásahy během mechanik**
-Co zkusit příště: U uvedených časů zkontroluj Nullshards, Twisted Appendage a Suffocation. Tam, kde tvůj úkol dovoluje zásahu předejít, si připrav bezpečné místo a schopnosti použitelné za pohybu. Během burstu nepřestávej sledovat okolí.
-Proč: Připravený pohyb může usnadnit přežití i pokračování v útocích.
-Co ukázal log: Log zachytil: Nullshards 3×, Twisted Appendage 2×.
-Na co dát pozor: Report zná zásah, ale nemusí znát tvůj úkol. Ne každý uvedený zásah byl nutně vyhnutelný nebo tvoje chyba.
-   Příklad: Kith'ix · 02:57.883 · kill pokus 9.
-
-## Slejhy-Drak'thul-EU
-
-### Obecné DPS rady
-
-1. **Hlídej Envenom a plné Combo Points**
-Co zkusit příště: Bez Darkest Night začni zvažovat Envenom od 5 Combo Points; s tímto procem až při plných bodech. Hlídej hlavně poslední sekundu buffu Envenom a Energy nad 70 %. Neodsouvej kvůli tomu důležité bleedy nebo přípravu burstu.
-Proč: Envenom utrácí Combo Points a obnovuje buff. Když buffu zbývá dost času a máš málo Energy, může být správné chvíli šetřit.
-Co ukázal log: U 24 sledovaných použití Mutilate se část Combo Points nevešla do maxima. Nejde o stejný počet potvrzených chyb.
-Na co dát pozor: Plné Combo Points samy neznamenají, že jsi měl okamžitě použít Envenom. Rozhoduje i zbytek rotace.
-   Příklad: Nek'zali the Soulcoiler · 01:22.076 · kill pokus 1.
-
-2. **Dlouhé mezery mezi cooldowny**
-Co zkusit příště: Hlídej si další použití uvedených cooldownů. Pokud je nedržíš kvůli mechanice, addům nebo domluvenému burstu, připrav jejich opětovné použití, jakmile to tvoje rotace a cíl dovolí. U vyznačených dlouhých mezer si ověř, proč další použití přišlo později.
-Proč: Při opakovaných dlouhých mezerách může během fightu ubýt příležitostí využít silné schopnosti. Proto si další použití průběžně hlídej.
-Co ukázal log: Sledované schopnosti: Deathmark + Kingsbane. Vybrali jsme delší mezery mezi jejich použitími; přesné časy otevřeš níže.
-Na co dát pozor: Delší mezera neznamená automaticky zapomenutý cooldown. Report neví jistě, kdy byla schopnost znovu dostupná ani zda šlo v tu chvíli útočit.
-   Příklad: Nek'zali the Soulcoiler · 00:08.081 · kill pokus 1.
-
-### Cooldowny: co si hlídat
-
-Hlídej další použití těchto schopností. Pokud je nedržíš kvůli domluvenému burstu nebo mechanice, připrav jejich opětovné použití, jakmile to tvoje rotace a cíl dovolí.
-
-**Deathmark** — vybraných výrazných mezer: 4; čas mezi použitími 151,1 s až 198,1 s. Průměr ze všech 11 měřených mezer na 6 killech: 148 s. Orientační základ cooldownu: 120 s.
-
-**Kingsbane** — vybraných výrazných mezer: 4; čas mezi použitími 91,8 s až 193,9 s. Průměr ze všech 24 měřených mezer na 6 killech: 78,8 s. Orientační základ cooldownu: 60 s.
-
-Průměr zahrnuje i běžné krátké mezery; vybrané výrazné mezery jsou jen část přehledu. Srovnání se základem neříká, jak dlouho byla schopnost připravená a nepoužitá. Přesné časy, společný burst a mechaniky najdeš v záložce Cooldowny.
-
-### Kith’ix: rady pro tento fight
-
-1. **Kith’ix: připrav si přepnutí na velké addy**
-Co zkusit příště: Pokud máš za úkol addy, připrav si cílení Venomous Hulk a Voidweaver ještě před jejich příchodem. Pokud máš peta, přesměruj i jeho. Po smrti velkých addů počítej s Mindstinger Eggs. Pokud máš podle domluvy útočit do bosse, drž se tohoto úkolu.
-Proč: Připravené cílení ti usnadní začít útočit na přidělený cíl.
-Co ukázal log: Vybraných úseků před tvým prvním zaznamenaným zásahem nebo zásahem peta do velkého adda: 2. Samo to neznamená pozdní přepnutí.
-Na co dát pozor: První zaznamenaný zásah může přijít z automatického efektu. Z těchto úseků proto nepoznáme přesný okamžik tvého přepnutí ani to, zda bylo pozdě.
-   Příklad: Kith'ix · 00:07.806 · kill pokus 9.
-
-2. **Kith’ix: projdi zásahy během mechanik**
-Co zkusit příště: U uvedených časů zkontroluj Nullshards, Twisted Appendage a Suffocation. Tam, kde tvůj úkol dovoluje zásahu předejít, si připrav bezpečné místo a schopnosti použitelné za pohybu. Během burstu nepřestávej sledovat okolí.
-Proč: Připravený pohyb může usnadnit přežití i pokračování v útocích.
-Co ukázal log: Log zachytil: Nullshards 1×.
-Na co dát pozor: Report zná zásah, ale nemusí znát tvůj úkol. Ne každý uvedený zásah byl nutně vyhnutelný nebo tvoje chyba.
-   Příklad: Kith'ix · 04:22.452 · kill pokus 9.
-
-3. **Kith’ix: připrav ochranu na Extinguish**
-Co zkusit příště: Před Extinguish si zajisti Light’s Embrace nebo předem domluvený jiný způsob přežití. Pokud spoléháš na osobní obranu nebo pomoc spoluhráče, domluvte se na tom dopředu.
-Proč: Na tuto vlnu je potřeba mít připravený konkrétní plán ochrany.
-Co ukázal log: Light’s Embrace nebyl přítomný při tomto počtu vln Extinguish: 1. Další zaznamenané buffy: Feint, Power Word: Shield.
-Na co dát pozor: Log neříká, zda byla jiná zaznamenaná ochrana dostatečná. Chybějící Light’s Embrace proto sám neprokazuje, že jsi byl bez jakékoliv obrany.
-   Příklad: Kith'ix · 02:25.976 · kill pokus 9.
-
-## Rhínö-Drak'thul-EU
-
-### Obecné DPS rady
-
-1. **Nech si místo pro další Astral Power**
-Co zkusit příště: Před Wrath nebo Starfire sleduj Astral Power i Eclipse. Proti jednomu cíli zkontroluj mimo Eclipse Starsurge, když zbývá méně než 20 volných Astral Power. Během Eclipse a proti více cílům se pořadí liší.
-Proč: Astral Power nad maximum už nezískáš. Starsurge a Starfall ale mají odlišné použití; plný ukazatel sám nerozhoduje mezi nimi.
-Co ukázal log: U 21 sledovaných použití Starfire se část Astral Power nevešla do maxima. Nejde o stejný počet potvrzených chyb.
-Na co dát pozor: Během sesílání může přijít další Astral Power. Stav při dokončení proto nemusí odpovídat stavu při zahájení.
-   Příklad: Nek'zali the Soulcoiler · 01:47.268 · kill pokus 1.
-
-### Kith’ix: rady pro tento fight
-
-1. **Kith’ix: projdi zásahy během mechanik**
-Co zkusit příště: U uvedených časů zkontroluj Nullshards, Twisted Appendage a Suffocation. Tam, kde tvůj úkol dovoluje zásahu předejít, si připrav bezpečné místo a schopnosti použitelné za pohybu. Během burstu nepřestávej sledovat okolí.
-Proč: Připravený pohyb může usnadnit přežití i pokračování v útocích.
-Co ukázal log: Log zachytil: Nullshards 4×.
-Na co dát pozor: Report zná zásah, ale nemusí znát tvůj úkol. Ne každý uvedený zásah byl nutně vyhnutelný nebo tvoje chyba.
-   Příklad: Kith'ix · 04:01.083 · kill pokus 9.
-
-## Luminos-BurningBlade-EU
-
-Bez doložené priority ke změně. Není to potvrzení bezchybné hry.
-
-### Další pozorování k prohlédnutí
-
-**Power Infusion: načasování podle příjemce**
-Zkontroluj, komu Power Infusion šlo a jak se hodilo do jeho burstu. Vlastní kopie buffu nemusí znamenat, že jsi ho plánoval pro sebe; chybějící vlastní Voidform proto sama není důvod PI posouvat.
-
-## Omniblue-Drak'thul-EU
-
-### Obecné DPS rady
-
-1. **Hlídej Insanity před Mind Blast**
-Co zkusit příště: Před Mind Blast se podívej, zda máš místo pro další Insanity. Když můžeš podle své rotace použít Shadow Word: Madness, naplánuj ho před dalším přírůstkem. Přitom hlídej DoT efekty, Voidform a procy.
-Proč: Insanity nad maximum už nezískáš. Včasné utrácení může zabránit přebytku, pokud tím neodsuneš důležitější schopnost.
-Co ukázal log: U 5 sledovaných použití Mind Blast se část Insanity nevešla do maxima. Nejde o stejný počet potvrzených chyb.
-Na co dát pozor: Z přebytku samotného nepoznáme, zda jsi mohl použít Shadow Word: Madness dřív.
-   Příklad: Ula'tek · 05:05.560 · kill pokus 5.
-
-2. **Dlouhé mezery mezi cooldowny**
-Co zkusit příště: Hlídej si další použití uvedených cooldownů. Pokud je nedržíš kvůli mechanice, addům nebo domluvenému burstu, připrav jejich opětovné použití, jakmile to tvoje rotace a cíl dovolí. U vyznačených dlouhých mezer si ověř, proč další použití přišlo později.
-Proč: Při opakovaných dlouhých mezerách může během fightu ubýt příležitostí využít silné schopnosti. Proto si další použití průběžně hlídej.
-Co ukázal log: Sledované schopnosti: Power Infusion. Vybrali jsme delší mezery mezi jejich použitími; přesné časy otevřeš níže.
-Na co dát pozor: Delší mezera neznamená automaticky zapomenutý cooldown. Report neví jistě, kdy byla schopnost znovu dostupná ani zda šlo v tu chvíli útočit.
-   Příklad: Nek'zali the Soulcoiler · 00:05.518 · kill pokus 1.
-
-### Cooldowny: co si hlídat
-
-Hlídej další použití těchto schopností. Pokud je nedržíš kvůli domluvenému burstu nebo mechanice, připrav jejich opětovné použití, jakmile to tvoje rotace a cíl dovolí.
-
-**Power Infusion** — vybraných výrazných mezer: 3; čas mezi použitími 151,6 s až 173,6 s. Průměr ze všech 11 měřených mezer na 6 killech: 136,6 s. Orientační základ cooldownu: 120 s.
-
-Průměr zahrnuje i běžné krátké mezery; vybrané výrazné mezery jsou jen část přehledu. Srovnání se základem neříká, jak dlouho byla schopnost připravená a nepoužitá. Přesné časy, společný burst a mechaniky najdeš v záložce Cooldowny.
-
-### Kith’ix: rady pro tento fight
-
-1. **Kith’ix: projdi zásahy během mechanik**
-Co zkusit příště: U uvedených časů zkontroluj Nullshards, Twisted Appendage a Suffocation. Tam, kde tvůj úkol dovoluje zásahu předejít, si připrav bezpečné místo a schopnosti použitelné za pohybu. Během burstu nepřestávej sledovat okolí.
-Proč: Připravený pohyb může usnadnit přežití i pokračování v útocích.
-Co ukázal log: Log zachytil: Suffocation 1×, Nullshards 3×.
-Na co dát pozor: Report zná zásah, ale nemusí znát tvůj úkol. Ne každý uvedený zásah byl nutně vyhnutelný nebo tvoje chyba.
-   Příklad: Kith'ix · 03:26.299 · kill pokus 9.
-
-## Theila-Drak'thul-EU
-
-### Obecné DPS rady
-
-1. **Hlídej Focus i Tip of the Spear před Kill Command**
-Co zkusit příště: Sentinel: V běžné rotaci proti jednomu cíli utrácej Focus přes Raptor Strike, než přidáš další Kill Command. Pokud ale Kill Command potřebuješ pro Tip of the Spear nebo přípravu Takedown, může mít přednost. Proti více cílům hlídej u Raptor Strike také Tip of the Spear a Raptor Swipe.
-Proč: Kill Command není jen zdroj Focusu. Jeho použití může být důležité i pro další schopnosti a pety.
-Co ukázal log: U 102 sledovaných použití Kill Command se část Focus nevešla do maxima. Nejde o stejný počet potvrzených chyb.
-Na co dát pozor: Přebytek Focusu proto není automatický důvod Kill Command vynechat; záleží i na cíli, pohybu a přípravě burstu.
-   Příklad: Nek'zali the Soulcoiler · 00:03.768 · kill pokus 1.
-
-2. **Dlouhé mezery mezi cooldowny**
-Co zkusit příště: Hlídej si další použití uvedených cooldownů. Pokud je nedržíš kvůli mechanice, addům nebo domluvenému burstu, připrav jejich opětovné použití, jakmile to tvoje rotace a cíl dovolí. U vyznačených dlouhých mezer si ověř, proč další použití přišlo později.
-Proč: Při opakovaných dlouhých mezerách může během fightu ubýt příležitostí využít silné schopnosti. Proto si další použití průběžně hlídej.
-Co ukázal log: Sledované schopnosti: Takedown. Vybrali jsme delší mezery mezi jejich použitími; přesné časy otevřeš níže.
-Na co dát pozor: Delší mezera neznamená automaticky zapomenutý cooldown. Report neví jistě, kdy byla schopnost znovu dostupná ani zda šlo v tu chvíli útočit.
-   Příklad: Ula'tek · 00:02.942 · kill pokus 5.
-
-### Cooldowny: co si hlídat
-
-Hlídej další použití těchto schopností. Pokud je nedržíš kvůli domluvenému burstu nebo mechanice, připrav jejich opětovné použití, jakmile to tvoje rotace a cíl dovolí.
-
-**Takedown** — vybraných výrazných mezer: 1; čas mezi použitími 133,3 s až 133,3 s. Průměr ze všech 19 měřených mezer na 6 killech: 100,5 s. Orientační základ cooldownu: 90 s.
-
-Průměr zahrnuje i běžné krátké mezery; vybrané výrazné mezery jsou jen část přehledu. Srovnání se základem neříká, jak dlouho byla schopnost připravená a nepoužitá. Přesné časy, společný burst a mechaniky najdeš v záložce Cooldowny.
-
-### Kith’ix: rady pro tento fight
-
-1. **Kith’ix: projdi zásahy během mechanik**
-Co zkusit příště: U uvedených časů zkontroluj Nullshards, Twisted Appendage a Suffocation. Tam, kde tvůj úkol dovoluje zásahu předejít, si připrav bezpečné místo a schopnosti použitelné za pohybu. Během burstu nepřestávej sledovat okolí.
-Proč: Připravený pohyb může usnadnit přežití i pokračování v útocích.
-Co ukázal log: Log zachytil: Twisted Appendage 1×.
-Na co dát pozor: Report zná zásah, ale nemusí znát tvůj úkol. Ne každý uvedený zásah byl nutně vyhnutelný nebo tvoje chyba.
-   Příklad: Kith'ix · 01:23.747 · kill pokus 9.
-
-### Další pozorování k prohlédnutí
-
-**Kill Command a Tip of the Spear**
-Před uvedeným Kill Command log zachytil 3 stacky Tip of the Spear, ale nemusely vydržet až do použití. Přebytek Focusu z těchto použití už je zahrnutý v přehledu výše; není to další ztráta navíc.
-
-**Wildfire Bomb bez doloženého Tip of the Spear**
-Wildfire Bomb proti jednomu cíli může být správně i bez Tip of the Spear. Před změnou pořadí zkontroluj počet cílů a nabití bomby; nepřidávej Kill Command automaticky před každou bombu.
-
-## Corneilia-Sylvanas-EU
-
-### Obecné DPS rady
-
-1. **Během Arcane Soul se nevracej automaticky k Arcane Blast**
-Co zkusit příště: Pokud hraješ Sunfury, během Arcane Soul hlídej Clearcasting a Arcane Salvo. S využitelným Clearcasting a méně než 12 stacky Arcane Salvo zkontroluj nejdřív Arcane Missiles; potom podle rotace Arcane Barrage. Arcane Blast tu nepoužívej automaticky jako běžnou výplň.
-Proč: Arcane Soul mění pořadí schopností. Důležité je reagovat na procy, které právě máš.
-Co ukázal log: V těchto příkladech začal Arcane Blast během Arcane Soul; sledovaných použití: 1. Dostupné procy a další kouzla je potřeba posoudit u každého zvlášť.
-Na co dát pozor: U uvedených Arcane Blast nevíme, zda v daném okamžiku šla bezpečně použít lepší schopnost. Bez Clearcasting neplatí uvedené pravidlo pro Arcane Missiles.
-   Příklad: The Coiled Altar · 03:55.726 · kill pokus 4.
-
-2. **Dlouhé mezery mezi cooldowny**
-Co zkusit příště: Hlídej si další použití uvedených cooldownů. Pokud je nedržíš kvůli mechanice, addům nebo domluvenému burstu, připrav jejich opětovné použití, jakmile to tvoje rotace a cíl dovolí. U vyznačených dlouhých mezer si ověř, proč další použití přišlo později.
-Proč: Při opakovaných dlouhých mezerách může během fightu ubýt příležitostí využít silné schopnosti. Proto si další použití průběžně hlídej.
-Co ukázal log: Sledované schopnosti: Touch of the Magi. Vybrali jsme delší mezery mezi jejich použitími; přesné časy otevřeš níže.
-Na co dát pozor: Delší mezera neznamená automaticky zapomenutý cooldown. Report neví jistě, kdy byla schopnost znovu dostupná ani zda šlo v tu chvíli útočit.
-   Příklad: The Coiled Altar · 00:49.394 · kill pokus 4.
-
-### Cooldowny: co si hlídat
-
-Hlídej další použití těchto schopností. Pokud je nedržíš kvůli domluvenému burstu nebo mechanice, připrav jejich opětovné použití, jakmile to tvoje rotace a cíl dovolí.
-
-**Touch of the Magi** — vybraných výrazných mezer: 6; čas mezi použitími 67,2 s až 105,1 s. Průměr ze všech 34 měřených mezer na 6 killech: 56,3 s. Orientační základ cooldownu: 45 s.
-
-Průměr zahrnuje i běžné krátké mezery; vybrané výrazné mezery jsou jen část přehledu. Srovnání se základem neříká, jak dlouho byla schopnost připravená a nepoužitá. Přesné časy, společný burst a mechaniky najdeš v záložce Cooldowny.
-
-### Kith’ix: rady pro tento fight
-
-1. **Kith’ix: připrav si přepnutí na velké addy**
-Co zkusit příště: Pokud máš za úkol addy, připrav si cílení Venomous Hulk a Voidweaver ještě před jejich příchodem. Pokud máš peta, přesměruj i jeho. Po smrti velkých addů počítej s Mindstinger Eggs. Pokud máš podle domluvy útočit do bosse, drž se tohoto úkolu.
-Proč: Připravené cílení ti usnadní začít útočit na přidělený cíl.
-Co ukázal log: Vybraných úseků před tvým prvním zaznamenaným zásahem nebo zásahem peta do velkého adda: 1. Samo to neznamená pozdní přepnutí.
-Na co dát pozor: První zaznamenaný zásah může přijít z automatického efektu. Z těchto úseků proto nepoznáme přesný okamžik tvého přepnutí ani to, zda bylo pozdě.
-   Příklad: Kith'ix · 00:13.873 · kill pokus 9.
-
-2. **Kith’ix: projdi zásahy během mechanik**
-Co zkusit příště: U uvedených časů zkontroluj Nullshards, Twisted Appendage a Suffocation. Tam, kde tvůj úkol dovoluje zásahu předejít, si připrav bezpečné místo a schopnosti použitelné za pohybu. Během burstu nepřestávej sledovat okolí.
-Proč: Připravený pohyb může usnadnit přežití i pokračování v útocích.
-Co ukázal log: Log zachytil: Suffocation 1×, Nullshards 2×.
-Na co dát pozor: Report zná zásah, ale nemusí znát tvůj úkol. Ne každý uvedený zásah byl nutně vyhnutelný nebo tvoje chyba.
-   Příklad: Kith'ix · 03:19.877 · kill pokus 9.
-
-### Další pozorování k prohlédnutí
-
-**Další Arcane Blast během Arcane Soul**
-U těchto použití neznáme dost okolností pro doporučení změny pořadí. Zkontroluj tehdejší Clearcasting, Arcane Salvo a možnosti použití Arcane Barrage.
-
-## Vejr-Drak'thul-EU
-
-### Obecné DPS rady
-
-1. **Utrácej Runic Power průběžně**
-Co zkusit příště: Proti jednomu cíli a s nejvýš 10 volnými Runic Power zkontroluj Death Coil před běžným Scourge Strike. Soul Reaper a příprava důležitějších schopností ale mohou mít přednost. Nesnaž se proto za každou cenu odstranit každý přebytek.
-Proč: Runic Power nad maximum už nezískáš. Cílem je včasné utrácení v běžné rotaci, při zachování důležitějších útoků.
-Co ukázal log: Runic Power se nevešla do maxima u 176 sledovaných použití schopností. Rozdělení: Scourge Strike: 148, Soul Reaper: 21, Festering Strike: 7. Nejde o počet potvrzených chyb.
-Na co dát pozor: Uvedené přebytky nejsou počet špatně použitých útoků. Záleží také na počtu cílů a právě dostupných schopnostech.
-   Příklad: Nek'zali the Soulcoiler · 00:47.460 · kill pokus 1.
-
-### Kith’ix: rady pro tento fight
-
-1. **Kith’ix: připrav ochranu na Extinguish**
-Co zkusit příště: Před Extinguish si zajisti Light’s Embrace nebo předem domluvený jiný způsob přežití. Pokud spoléháš na osobní obranu nebo pomoc spoluhráče, domluvte se na tom dopředu.
-Proč: Na tuto vlnu je potřeba mít připravený konkrétní plán ochrany.
-Co ukázal log: Light’s Embrace nebyl přítomný při tomto počtu vln Extinguish: 1.
-Na co dát pozor: Log neříká, zda byla jiná zaznamenaná ochrana dostatečná. Chybějící Light’s Embrace proto sám neprokazuje, že jsi byl bez jakékoliv obrany.
-   Příklad: Kith'ix · 02:25.976 · kill pokus 9.
-
-2. **Kith’ix: připrav si přepnutí na velké addy**
-Co zkusit příště: Pokud máš za úkol addy, připrav si cílení Venomous Hulk a Voidweaver ještě před jejich příchodem. Pokud máš peta, přesměruj i jeho. Po smrti velkých addů počítej s Mindstinger Eggs. Pokud máš podle domluvy útočit do bosse, drž se tohoto úkolu.
-Proč: Připravené cílení ti usnadní začít útočit na přidělený cíl.
-Co ukázal log: Vybraných úseků před tvým prvním zaznamenaným zásahem nebo zásahem peta do velkého adda: 1. Samo to neznamená pozdní přepnutí.
-Na co dát pozor: První zaznamenaný zásah může přijít z automatického efektu. Z těchto úseků proto nepoznáme přesný okamžik tvého přepnutí ani to, zda bylo pozdě.
-   Příklad: Kith'ix · 01:57.452 · kill pokus 9.
-
-### Další pozorování k prohlédnutí
-
-**Sudden Doom: proc skončil**
-Projdi schopnosti použité před skončením Sudden Doom. Samotný konec procu neříká, zda šel využít bez odsunutí důležitější schopnosti.
-
-## Johnyhoudini-BurningBlade-EU
-
-### Obecné DPS rady
-
-1. **Během Arcane Soul se nevracej automaticky k Arcane Blast**
-Co zkusit příště: Pokud hraješ Sunfury, během Arcane Soul hlídej Clearcasting a Arcane Salvo. S využitelným Clearcasting a méně než 12 stacky Arcane Salvo zkontroluj nejdřív Arcane Missiles; potom podle rotace Arcane Barrage. Arcane Blast tu nepoužívej automaticky jako běžnou výplň.
-Proč: Arcane Soul mění pořadí schopností. Důležité je reagovat na procy, které právě máš.
-Co ukázal log: V těchto příkladech začal Arcane Blast během Arcane Soul; sledovaných použití: 1. Dostupné procy a další kouzla je potřeba posoudit u každého zvlášť.
-Na co dát pozor: U uvedených Arcane Blast nevíme, zda v daném okamžiku šla bezpečně použít lepší schopnost. Bez Clearcasting neplatí uvedené pravidlo pro Arcane Missiles.
-   Příklad: Kith'ix · 00:21.537 · kill pokus 9.
-
-2. **Dlouhé mezery mezi cooldowny**
-Co zkusit příště: Hlídej si další použití uvedených cooldownů. Pokud je nedržíš kvůli mechanice, addům nebo domluvenému burstu, připrav jejich opětovné použití, jakmile to tvoje rotace a cíl dovolí. U vyznačených dlouhých mezer si ověř, proč další použití přišlo později.
-Proč: Při opakovaných dlouhých mezerách může během fightu ubýt příležitostí využít silné schopnosti. Proto si další použití průběžně hlídej.
-Co ukázal log: Sledované schopnosti: Touch of the Magi. Vybrali jsme delší mezery mezi jejich použitími; přesné časy otevřeš níže.
-Na co dát pozor: Delší mezera neznamená automaticky zapomenutý cooldown. Report neví jistě, kdy byla schopnost znovu dostupná ani zda šlo v tu chvíli útočit.
-   Příklad: Ula'tek · 01:08.927 · kill pokus 5.
-
-### Cooldowny: co si hlídat
-
-Hlídej další použití těchto schopností. Pokud je nedržíš kvůli domluvenému burstu nebo mechanice, připrav jejich opětovné použití, jakmile to tvoje rotace a cíl dovolí.
-
-**Touch of the Magi** — vybraných výrazných mezer: 3; čas mezi použitími 68,3 s až 99,8 s. Průměr ze všech 36 měřených mezer na 6 killech: 53,9 s. Orientační základ cooldownu: 45 s.
-
-Průměr zahrnuje i běžné krátké mezery; vybrané výrazné mezery jsou jen část přehledu. Srovnání se základem neříká, jak dlouho byla schopnost připravená a nepoužitá. Přesné časy, společný burst a mechaniky najdeš v záložce Cooldowny.
-
-### Kith’ix: rady pro tento fight
-
-1. **Kith’ix: připrav si přepnutí na velké addy**
-Co zkusit příště: Pokud máš za úkol addy, připrav si cílení Venomous Hulk a Voidweaver ještě před jejich příchodem. Pokud máš peta, přesměruj i jeho. Po smrti velkých addů počítej s Mindstinger Eggs. Pokud máš podle domluvy útočit do bosse, drž se tohoto úkolu.
-Proč: Připravené cílení ti usnadní začít útočit na přidělený cíl.
-Co ukázal log: Vybraných úseků před tvým prvním zaznamenaným zásahem nebo zásahem peta do velkého adda: 1. Samo to neznamená pozdní přepnutí.
-Na co dát pozor: První zaznamenaný zásah může přijít z automatického efektu. Z těchto úseků proto nepoznáme přesný okamžik tvého přepnutí ani to, zda bylo pozdě.
-   Příklad: Kith'ix · 00:13.873 · kill pokus 9.
-
-2. **Kith’ix: projdi zásahy během mechanik**
-Co zkusit příště: U uvedených časů zkontroluj Nullshards, Twisted Appendage a Suffocation. Tam, kde tvůj úkol dovoluje zásahu předejít, si připrav bezpečné místo a schopnosti použitelné za pohybu. Během burstu nepřestávej sledovat okolí.
-Proč: Připravený pohyb může usnadnit přežití i pokračování v útocích.
-Co ukázal log: Log zachytil: Nullshards 4×.
-Na co dát pozor: Report zná zásah, ale nemusí znát tvůj úkol. Ne každý uvedený zásah byl nutně vyhnutelný nebo tvoje chyba.
-   Příklad: Kith'ix · 04:07.955 · kill pokus 9.
-
-## Kubéc-Drak'thul-EU
-
-### Obecné DPS rady
-
-1. **Hlídej střídání schopností kvůli Combo Strikes**
-Co zkusit příště: Sleduj poslední schopnost, která se počítá do Combo Strikes. Pokud máš vhodnou dostupnou alternativu, neopakuj hned stejnou. Nestřídej ale tlačítka náhodně za cenu odsunutí důležitější schopnosti.
-Proč: Střídáním udržuješ bonus Combo Strikes a případně Hit Combo.
-Co ukázal log: 37 opakování stejné schopnosti; u 35 skončil buff Hit Combo.
-Na co dát pozor: Uvedená opakování stojí za kontrolu, ale log sám neurčuje, které jiné tlačítko bylo v každém okamžiku správné.
-   Příklad: Nek'zali the Soulcoiler · 00:01.965 · kill pokus 1.
-
-2. **Před Tiger Palm hlídej Chi i Energy**
-Co zkusit příště: Před Tiger Palm se podívej, zda máš místo pro Chi, kolik máš Energy a co jsi použil naposledy kvůli Combo Strikes. Mimo Zenith proti jednomu cíli potřebuješ prostor pro Chi a zároveň důvod utratit Energy, která se blíží maximu.
-Proč: Tiger Palm řeší dva zdroje najednou. Vyhnout se přebytku Chi za cenu přetékající Energy nemusí být výhodné.
-Co ukázal log: U 17 sledovaných použití Tiger Palm se část Chi nevešla do maxima. Nejde o stejný počet potvrzených chyb.
-Na co dát pozor: Ze samotného přebytku Chi nepoznáme, zda bylo lepší čekat nebo použít jinou schopnost. Během Zenith se pořadí liší.
-   Příklad: Nek'zali the Soulcoiler · 03:59.783 · kill pokus 1.
-
-### Kith’ix: rady pro tento fight
-
-1. **Kith’ix: projdi zásahy během mechanik**
-Co zkusit příště: U uvedených časů zkontroluj Nullshards, Twisted Appendage a Suffocation. Tam, kde tvůj úkol dovoluje zásahu předejít, si připrav bezpečné místo a schopnosti použitelné za pohybu. Během burstu nepřestávej sledovat okolí.
-Proč: Připravený pohyb může usnadnit přežití i pokračování v útocích.
-Co ukázal log: Log zachytil: Nullshards 2×.
-Na co dát pozor: Report zná zásah, ale nemusí znát tvůj úkol. Ne každý uvedený zásah byl nutně vyhnutelný nebo tvoje chyba.
-   Příklad: Kith'ix · 04:07.374 · kill pokus 9.
-
-### Další pozorování k prohlédnutí
-
-**Kopy po Zenith: zkontroluj celou sérii**
-Mezi Zenith a dalším Rising Sun Kick nebo Rushing Wind Kick je delší mezera. Podívej se i na Fists of Fury a Chi; tato mezera sama neznamená, že jsi neútočil nebo měl změnit pořadí.
-
-## Galneryus-Drak'thul-EU
-
-### Obecné DPS rady
-
-1. **Hlídej Holy Power před Blade of Justice**
-Co zkusit příště: Při 5 Holy Power a ještě se dobíjejícím Wake of Ashes zkontroluj před dalším Blade of Justice použití Final Verdict nebo Divine Storm. Ber přitom v úvahu Hammer of Light a bezplatná použití schopností. Dva stacky Art of War samy nestačí k tomu, aby měl Blade vždy přednost.
-Proč: Další Holy Power se do plného ukazatele nevejde. Výjimky s procy ale znamenají, že nelze všechna použití Blade of Justice posuzovat stejně.
-Co ukázal log: U 16 sledovaných použití Blade of Justice se část Holy Power nevešla do maxima. Nejde o stejný počet potvrzených chyb.
-Na co dát pozor: S talentem Walk Into Light během Avenging Wrath se tato výjimka pro Blade of Justice neuplatňuje. Z logu přesto nevíme, zda šel v každém uvedeném okamžiku použít vhodný útok za Holy Power.
-   Příklad: Nek'zali the Soulcoiler · 01:21.072 · kill pokus 1.
-
-2. **Dlouhé mezery mezi cooldowny**
-Co zkusit příště: Hlídej si další použití uvedených cooldownů. Pokud je nedržíš kvůli mechanice, addům nebo domluvenému burstu, připrav jejich opětovné použití, jakmile to tvoje rotace a cíl dovolí. U vyznačených dlouhých mezer si ověř, proč další použití přišlo později.
-Proč: Při opakovaných dlouhých mezerách může během fightu ubýt příležitostí využít silné schopnosti. Proto si další použití průběžně hlídej.
-Co ukázal log: Sledované schopnosti: Divine Toll + Execution Sentence. Vybrali jsme delší mezery mezi jejich použitími; přesné časy otevřeš níže.
-Na co dát pozor: Delší mezera neznamená automaticky zapomenutý cooldown. Report neví jistě, kdy byla schopnost znovu dostupná ani zda šlo v tu chvíli útočit.
-   Příklad: Ula'tek · 02:16.606 · kill pokus 5.
-
-### Cooldowny: co si hlídat
-
-Hlídej další použití těchto schopností. Pokud je nedržíš kvůli domluvenému burstu nebo mechanice, připrav jejich opětovné použití, jakmile to tvoje rotace a cíl dovolí.
-
-**Execution Sentence** — vybraných výrazných mezer: 3; čas mezi použitími 80,5 s až 87,6 s. Průměr ze všech 30 měřených mezer na 6 killech: 65 s. Orientační základ cooldownu: 60 s.
-
-**Divine Toll** — vybraných výrazných mezer: 2; čas mezi použitími 85 s až 89,3 s. Průměr ze všech 29 měřených mezer na 6 killech: 66,3 s. Orientační základ cooldownu: 60 s.
-
-**Wake of Ashes** — vybraných výrazných mezer: 1; čas mezi použitími 51,2 s až 51,2 s. Průměr ze všech 61 měřených mezer na 6 killech: 33,1 s. Orientační základ cooldownu: 30 s.
-
-Průměr zahrnuje i běžné krátké mezery; vybrané výrazné mezery jsou jen část přehledu. Srovnání se základem neříká, jak dlouho byla schopnost připravená a nepoužitá. Přesné časy, společný burst a mechaniky najdeš v záložce Cooldowny.
-
-### Kith’ix: rady pro tento fight
-
-1. **Kith’ix: připrav si přepnutí na velké addy**
-Co zkusit příště: Pokud máš za úkol addy, připrav si cílení Venomous Hulk a Voidweaver ještě před jejich příchodem. Pokud máš peta, přesměruj i jeho. Po smrti velkých addů počítej s Mindstinger Eggs. Pokud máš podle domluvy útočit do bosse, drž se tohoto úkolu.
-Proč: Připravené cílení ti usnadní začít útočit na přidělený cíl.
-Co ukázal log: Vybraných úseků před tvým prvním zaznamenaným zásahem nebo zásahem peta do velkého adda: 1. Samo to neznamená pozdní přepnutí.
-Na co dát pozor: První zaznamenaný zásah může přijít z automatického efektu. Z těchto úseků proto nepoznáme přesný okamžik tvého přepnutí ani to, zda bylo pozdě.
-   Příklad: Kith'ix · 00:13.873 · kill pokus 9.
-
-2. **Kith’ix: projdi zásahy během mechanik**
-Co zkusit příště: U uvedených časů zkontroluj Nullshards, Twisted Appendage a Suffocation. Tam, kde tvůj úkol dovoluje zásahu předejít, si připrav bezpečné místo a schopnosti použitelné za pohybu. Během burstu nepřestávej sledovat okolí.
-Proč: Připravený pohyb může usnadnit přežití i pokračování v útocích.
-Co ukázal log: Log zachytil: Suffocation 1×, Nullshards 3×, Twisted Appendage 1×.
-Na co dát pozor: Report zná zásah, ale nemusí znát tvůj úkol. Ne každý uvedený zásah byl nutně vyhnutelný nebo tvoje chyba.
-   Příklad: Kith'ix · 02:48.696 · kill pokus 9.
-
-## Kirill-Drak'thul-EU
-
-### Kith’ix: rady pro tento fight
-
-1. **Kith’ix: projdi zásahy během mechanik**
-Co zkusit příště: U uvedených časů zkontroluj Nullshards, Twisted Appendage a Suffocation. Tam, kde tvůj úkol dovoluje zásahu předejít, si připrav bezpečné místo a schopnosti použitelné za pohybu. Během burstu nepřestávej sledovat okolí.
-Proč: Připravený pohyb může usnadnit přežití i pokračování v útocích.
-Co ukázal log: Log zachytil: Nullshards 4×, Twisted Appendage 1×.
-Na co dát pozor: Report zná zásah, ale nemusí znát tvůj úkol. Ne každý uvedený zásah byl nutně vyhnutelný nebo tvoje chyba.
-   Příklad: Kith'ix · 01:38.861 · kill pokus 9.
-
-## Nahollou-Drak'thul-EU
-
-### Obecné DPS rady
-
-1. **Připrav pety a Soul Shards před Tyrantem**
-Co zkusit příště: Diabolist: před Summon Demonic Tyrant si připrav 5 Soul Shards a naplánuj Grimoire: Imp Lord a Call Dreadstalkers. Mysli na to už při předchozích kouzlech; nečekej pak naslepo na jednoho peta, zatímco ostatní končí.
-Proč: Důležité je, aby na sebe navazovala celá příprava a ostatní peti mezitím neskončili.
-Co ukázal log: Vybraných příprav Tyranta k prohlédnutí: 8. Zkontroluj v nich Soul Shards a pořadí přivolávání petů; report tím ještě neurčuje bezpečné jiné pořadí.
-Na co dát pozor: Z těchto případů nevíme, zda šlo přípravu petů změnit nebo zda by čekání pomohlo. Pet přivolaný později navíc nemusí být promarněný.
-   Příklad: The Coiled Altar · 02:10.012 · kill pokus 4.
-
-2. **Nech si místo pro další Soul Shards**
-Co zkusit příště: Před Demonbolt, Shadow Bolt nebo Infernal Bolt se podívej, kolik máš Soul Shards. Pokud by část přírůstku přišla nazmar, naplánuj Hand of Gul’dan dřív, pokud ho dovoluje tvoje rotace. Před Tyrantem má příprava petů vlastní pořadí.
-Proč: Soul Shards nad maximum už nezískáš. Cílem je utrácet průběžně, ne pokaždé čekat na plný ukazatel.
-Co ukázal log: U 60 sledovaných použití Demonbolt, Shadow Bolt, Infernal Bolt se část Soul Shards nevešla do maxima. Nejde o stejný počet potvrzených chyb.
-Na co dát pozor: Plné Soul Shards při dokončení kouzla ještě neříkají, kolik jsi měl při jeho zahájení. Samy proto nedokazují špatně použitý Demonbolt.
-   Příklad: The Coiled Altar · 01:17.046 · kill pokus 4.
-
-3. **Dlouhé mezery mezi cooldowny**
-Co zkusit příště: Hlídej si další použití uvedených cooldownů. Pokud je nedržíš kvůli mechanice, addům nebo domluvenému burstu, připrav jejich opětovné použití, jakmile to tvoje rotace a cíl dovolí. U vyznačených dlouhých mezer si ověř, proč další použití přišlo později.
-Proč: Při opakovaných dlouhých mezerách může během fightu ubýt příležitostí využít silné schopnosti. Proto si další použití průběžně hlídej.
-Co ukázal log: Sledované schopnosti: Summon Demonic Tyrant. Vybrali jsme delší mezery mezi jejich použitími; přesné časy otevřeš níže.
-Na co dát pozor: Delší mezera neznamená automaticky zapomenutý cooldown. Report neví jistě, kdy byla schopnost znovu dostupná ani zda šlo v tu chvíli útočit.
-   Příklad: Ula'tek · 04:47.169 · kill pokus 5.
-
-### Cooldowny: co si hlídat
-
-Hlídej další použití těchto schopností. Pokud je nedržíš kvůli domluvenému burstu nebo mechanice, připrav jejich opětovné použití, jakmile to tvoje rotace a cíl dovolí.
-
-**Summon Demonic Tyrant** — vybraných výrazných mezer: 2; čas mezi použitími 89,5 s až 144,7 s. Průměr ze všech 22 měřených mezer na 5 killech: 73,1 s. Orientační základ cooldownu: 60 s.
-
-**Grimoire: Imp Lord** — vybraných výrazných mezer: 1; čas mezi použitími 150,8 s až 150,8 s. Průměr ze všech 10 měřených mezer na 5 killech: 143,9 s. Orientační základ cooldownu: 120 s.
-
-Průměr zahrnuje i běžné krátké mezery; vybrané výrazné mezery jsou jen část přehledu. Srovnání se základem neříká, jak dlouho byla schopnost připravená a nepoužitá. Přesné časy, společný burst a mechaniky najdeš v záložce Cooldowny.
-
-### Kith’ix: rady pro tento fight
-
-1. **Kith’ix: připrav ochranu na Extinguish**
-Co zkusit příště: Před Extinguish si zajisti Light’s Embrace nebo předem domluvený jiný způsob přežití. Pokud spoléháš na osobní obranu nebo pomoc spoluhráče, domluvte se na tom dopředu.
-Proč: Na tuto vlnu je potřeba mít připravený konkrétní plán ochrany.
-Co ukázal log: Light’s Embrace nebyl přítomný při tomto počtu vln Extinguish: 1.
-Na co dát pozor: Log neříká, zda byla jiná zaznamenaná ochrana dostatečná. Chybějící Light’s Embrace proto sám neprokazuje, že jsi byl bez jakékoliv obrany.
-   Příklad: Kith'ix · 02:25.976 · kill pokus 9.
-
-2. **Kith’ix: projdi zásahy během mechanik**
-Co zkusit příště: U uvedených časů zkontroluj Nullshards, Twisted Appendage a Suffocation. Tam, kde tvůj úkol dovoluje zásahu předejít, si připrav bezpečné místo a schopnosti použitelné za pohybu. Během burstu nepřestávej sledovat okolí.
-Proč: Připravený pohyb může usnadnit přežití i pokračování v útocích.
-Co ukázal log: Log zachytil: Nullshards 4×.
-Na co dát pozor: Report zná zásah, ale nemusí znát tvůj úkol. Ne každý uvedený zásah byl nutně vyhnutelný nebo tvoje chyba.
-   Příklad: Kith'ix · 04:11.891 · kill pokus 9.
-
-### Další pozorování k prohlédnutí
-
-**Pomalejší Demonbolt bez doloženého Demonic Core**
-U uvedených Demonbolt zkontroluj, zda jsi měl Demonic Core a proč jsi kouzlo zvolil. V běžné rotaci porovnej jeho použití se Shadow Bolt nebo Infernal Bolt; report tím neurčuje lepší volbu pro každý případ.
-
-**Soul Shards před Tyrantem**
-U uvedených Hand of Gul’dan projdi, kolik Soul Shards ti zbývalo pro přípravu Tyranta a zda nekončila fáze. Některé časy se překrývají s hlavní radou pro Tyranta; nepočítej je jako další chyby.
-
-**Další přípravy Tyranta k prohlédnutí**
-Tyto další situace se liší od hlavních příkladů výše. Projdi jejich celou přípravu; neznamenají automaticky stejný problém ani důvod vždy čekat na 5 Soul Shards.
-
-**Call Dreadstalkers kolem Tyranta**
-Projdi Call Dreadstalkers před Tyrantem i po něm. Správné načasování závisí na celé přípravě a ostatních petech; samotný odstup nestačí k doporučení čekat.
+   Příklad: Nek'zali the Soulcoiler · 00:24.795 · kill pokus 1.
 
 ## Íácekpwn-Drak'thul-EU
 
 ### Obecné DPS rady
 
-1. **Naplánuj si využití Mind Flay: Insanity**
-Co zkusit příště: Po získání Mind Flay: Insanity sleduj, kolik času zbývá na jeho využití. Hledej chvíli, kdy můžeš bezpečně stát a sesílat, aniž bys odsunul důležitější schopnost, například Mind Blast.
-Proč: Když musíš řešit pohyb nebo důležitější schopnost, nemusí být možné proc využít.
-Co ukázal log: U 1 sledovaných proců Mind Flay: Insanity log zachytil jejich konec poblíž očekávaného vypršení. Sám neříká, zda jsi měl možnost je bezpečně využít.
-Na co dát pozor: Jeho skončení samo nedokazuje promarněné použití. Uvedené časy porovnej s tím, co se ve fightu dělo.
-   Příklad: Ula'tek · 05:41.877 · kill pokus 5.
-
-2. **Dlouhé mezery mezi cooldowny**
+1. **Dlouhé mezery mezi cooldowny**
 Co zkusit příště: Hlídej si další použití uvedených cooldownů. Pokud je nedržíš kvůli mechanice, addům nebo domluvenému burstu, připrav jejich opětovné použití, jakmile to tvoje rotace a cíl dovolí. U vyznačených dlouhých mezer si ověř, proč další použití přišlo později.
 Proč: Při opakovaných dlouhých mezerách může během fightu ubýt příležitostí využít silné schopnosti. Proto si další použití průběžně hlídej.
 Co ukázal log: Sledované schopnosti: Halo. Vybrali jsme delší mezery mezi jejich použitími; přesné časy otevřeš níže.
 Na co dát pozor: Delší mezera neznamená automaticky zapomenutý cooldown. Report neví jistě, kdy byla schopnost znovu dostupná ani zda šlo v tu chvíli útočit.
-   Příklad: The Coiled Altar · 02:07.389 · kill pokus 4.
+   Příklad: The Coiled Altar · 00:05.369 · kill pokus 4.
 
 ### Cooldowny: co si hlídat
 
 Hlídej další použití těchto schopností. Pokud je nedržíš kvůli domluvenému burstu nebo mechanice, připrav jejich opětovné použití, jakmile to tvoje rotace a cíl dovolí.
 
-**Halo** — vybraných výrazných mezer: 2; čas mezi použitími 83,4 s až 97 s. Průměr ze všech 19 měřených mezer na 4 killech: 66,1 s. Orientační základ cooldownu: 60 s.
+**Halo** — vybraných výrazných mezer: 2; čas mezi použitími 85,9 s až 95,2 s. Průměr ze všech 17 měřených mezer na 5 killech: 67,3 s. Orientační základ cooldownu: 60 s.
 
 Průměr zahrnuje i běžné krátké mezery; vybrané výrazné mezery jsou jen část přehledu. Srovnání se základem neříká, jak dlouho byla schopnost připravená a nepoužitá. Přesné časy, společný burst a mechaniky najdeš v záložce Cooldowny.
 
@@ -513,22 +59,125 @@ Průměr zahrnuje i běžné krátké mezery; vybrané výrazné mezery jsou jen
 1. **Rozliš Felblade pro Fury a pro pohyb**
 Co zkusit příště: Když používáš Felblade hlavně k získání Fury, hlídej místo pro další přírůstek. Pokud jím připravuješ Inertia nebo se potřebuješ dostat k cíli, neposuzuj ho stejně jako běžné doplňování Fury. U Felscarred se pořadí liší i podle Metamorphosis.
 Proč: Přebytek Fury může být vedlejší důsledek potřebného doskoku nebo přípravy bonusu.
-Co ukázal log: U 17 sledovaných použití Felblade se část Fury nevešla do maxima. Nejde o stejný počet potvrzených chyb.
+Co ukázal log: U 19 sledovaných použití Felblade se část Fury nevešla do maxima. Nejde o stejný počet potvrzených chyb.
 Na co dát pozor: Samotný přebytek proto není pokyn Felblade vynechat nebo ho vždy nahradit Chaos Strike či Annihilation.
-   Příklad: The Coiled Altar · 04:10.180 · kill pokus 4.
+   Příklad: Nek'zali the Soulcoiler · 01:25.799 · kill pokus 1.
 
 2. **Dlouhé mezery mezi cooldowny**
 Co zkusit příště: Hlídej si další použití uvedených cooldownů. Pokud je nedržíš kvůli mechanice, addům nebo domluvenému burstu, připrav jejich opětovné použití, jakmile to tvoje rotace a cíl dovolí. U vyznačených dlouhých mezer si ověř, proč další použití přišlo později.
 Proč: Při opakovaných dlouhých mezerách může během fightu ubýt příležitostí využít silné schopnosti. Proto si další použití průběžně hlídej.
-Co ukázal log: Sledované schopnosti: Essence Break. Vybrali jsme delší mezery mezi jejich použitími; přesné časy otevřeš níže.
+Co ukázal log: Sledované schopnosti: The Hunt. Vybrali jsme delší mezery mezi jejich použitími; přesné časy otevřeš níže.
 Na co dát pozor: Delší mezera neznamená automaticky zapomenutý cooldown. Report neví jistě, kdy byla schopnost znovu dostupná ani zda šlo v tu chvíli útočit.
-   Příklad: Vashnik the Malignant · 00:44.007 · kill pokus 12.
+   Příklad: The Coiled Altar · 01:10.595 · kill pokus 4.
 
 ### Cooldowny: co si hlídat
 
 Hlídej další použití těchto schopností. Pokud je nedržíš kvůli domluvenému burstu nebo mechanice, připrav jejich opětovné použití, jakmile to tvoje rotace a cíl dovolí.
 
-**Essence Break** — vybraných výrazných mezer: 1; čas mezi použitími 68,2 s až 68,2 s. Průměr ze všech 40 měřených mezer na 5 killech: 42 s.
+**Essence Break** — vybraných výrazných mezer: 2; čas mezi použitími 66,2 s až 84,1 s. Průměr ze všech 41 měřených mezer na 6 killech: 40,1 s.
+
+**The Hunt** — vybraných výrazných mezer: 2; čas mezi použitími 136,1 s až 136,2 s. Průměr ze všech 21 měřených mezer na 6 killech: 74,2 s.
+
+Průměr zahrnuje i běžné krátké mezery; vybrané výrazné mezery jsou jen část přehledu. Srovnání se základem neříká, jak dlouho byla schopnost připravená a nepoužitá. Přesné časy, společný burst a mechaniky najdeš v záložce Cooldowny.
+
+### Kith’ix: rady pro tento fight
+
+1. **Kith’ix: projdi zásahy během mechanik**
+Co zkusit příště: U uvedených časů zkontroluj Nullshards, Twisted Appendage a Suffocation. Tam, kde tvůj úkol dovoluje zásahu předejít, si připrav bezpečné místo a schopnosti použitelné za pohybu. Během burstu nepřestávej sledovat okolí.
+Proč: Připravený pohyb může usnadnit přežití i pokračování v útocích.
+Co ukázal log: Log zachytil: Nullshards 3×.
+Na co dát pozor: Report zná zásah, ale nemusí znát tvůj úkol. Ne každý uvedený zásah byl nutně vyhnutelný nebo tvoje chyba.
+   Příklad: Kith'ix · 04:01.555 · kill pokus 10.
+
+## Fobina-Drak'thul-EU
+
+### Obecné DPS rady
+
+1. **Rozliš Eruption pro Ebon Might a pro Afterimage**
+Co zkusit příště: Běžné Eruption plánuj do doby, kdy máš vlastní Ebon Might, aby ho prodlužovaly. Pokud máš Afterimage a plné stacky Essence Burst, může mít Eruption přednost i bez Ebon Might. V takové chvíli na buff automaticky nečekej.
+Proč: Eruption bez Ebon Might nemusí být chyba. Afterimage je důležitá výjimka.
+Co ukázal log: 28 Eruption začalo bez vlastního Ebon Might. U 3 byly splněné stacky pro výjimku Afterimage, u 19 nebyly a u 6 to nevíme. Tato čísla nejsou počty chyb.
+Na co dát pozor: Ani nesplněná výjimka sama neříká, zda jsi mohl Ebon Might právě použít. Kontroluj také předchozí a následující schopnosti.
+   Příklad: Nek'zali the Soulcoiler · 02:20.584 · kill pokus 1.
+
+### Kith’ix: rady pro tento fight
+
+1. **Kith’ix: připrav si přepnutí na velké addy**
+Co zkusit příště: Pokud máš za úkol addy, připrav si cílení Venomous Hulk a Voidweaver ještě před jejich příchodem. Pokud máš peta, přesměruj i jeho. Po smrti velkých addů počítej s Mindstinger Eggs. Pokud máš podle domluvy útočit do bosse, drž se tohoto úkolu.
+Proč: Připravené cílení ti usnadní začít útočit na přidělený cíl.
+Co ukázal log: Vybraných úseků před tvým prvním zaznamenaným zásahem nebo zásahem peta do velkého adda: 3. Samo to neznamená pozdní přepnutí.
+Na co dát pozor: První zaznamenaný zásah může přijít z automatického efektu. Z těchto úseků proto nepoznáme přesný okamžik tvého přepnutí ani to, zda bylo pozdě.
+   Příklad: Kith'ix · 00:07.851 · kill pokus 10.
+
+2. **Kith’ix: projdi zásahy během mechanik**
+Co zkusit příště: U uvedených časů zkontroluj Nullshards, Twisted Appendage a Suffocation. Tam, kde tvůj úkol dovoluje zásahu předejít, si připrav bezpečné místo a schopnosti použitelné za pohybu. Během burstu nepřestávej sledovat okolí.
+Proč: Připravený pohyb může usnadnit přežití i pokračování v útocích.
+Co ukázal log: Log zachytil: Nullshards 3×.
+Na co dát pozor: Report zná zásah, ale nemusí znát tvůj úkol. Ne každý uvedený zásah byl nutně vyhnutelný nebo tvoje chyba.
+   Příklad: Kith'ix · 03:45.907 · kill pokus 10.
+
+## Shalo-Drak'thul-EU
+
+### Obecné DPS rady
+
+1. **Dlouhé mezery mezi cooldowny**
+Co zkusit příště: Hlídej si další použití uvedených cooldownů. Pokud je nedržíš kvůli mechanice, addům nebo domluvenému burstu, připrav jejich opětovné použití, jakmile to tvoje rotace a cíl dovolí. U vyznačených dlouhých mezer si ověř, proč další použití přišlo později.
+Proč: Při opakovaných dlouhých mezerách může během fightu ubýt příležitostí využít silné schopnosti. Proto si další použití průběžně hlídej.
+Co ukázal log: Sledované schopnosti: Colossus Smash. Vybrali jsme delší mezery mezi jejich použitími; přesné časy otevřeš níže.
+Na co dát pozor: Delší mezera neznamená automaticky zapomenutý cooldown. Report neví jistě, kdy byla schopnost znovu dostupná ani zda šlo v tu chvíli útočit.
+   Příklad: Ula'tek · 04:38.153 · kill pokus 6.
+
+### Cooldowny: co si hlídat
+
+Hlídej další použití těchto schopností. Pokud je nedržíš kvůli domluvenému burstu nebo mechanice, připrav jejich opětovné použití, jakmile to tvoje rotace a cíl dovolí.
+
+**Colossus Smash** — vybraných výrazných mezer: 1; čas mezi použitími 86,2 s až 86,2 s. Průměr ze všech 45 měřených mezer na 6 killech: 35 s.
+
+Průměr zahrnuje i běžné krátké mezery; vybrané výrazné mezery jsou jen část přehledu. Srovnání se základem neříká, jak dlouho byla schopnost připravená a nepoužitá. Přesné časy, společný burst a mechaniky najdeš v záložce Cooldowny.
+
+### Kith’ix: rady pro tento fight
+
+1. **Kith’ix: připrav ochranu na Extinguish**
+Co zkusit příště: Před Extinguish si zajisti Light’s Embrace nebo předem domluvený jiný způsob přežití. Pokud spoléháš na osobní obranu nebo pomoc spoluhráče, domluvte se na tom dopředu.
+Proč: Na tuto vlnu je potřeba mít připravený konkrétní plán ochrany.
+Co ukázal log: Light’s Embrace nebyl přítomný při tomto počtu vln Extinguish: 1.
+Na co dát pozor: Log neříká, zda byla jiná zaznamenaná ochrana dostatečná. Chybějící Light’s Embrace proto sám neprokazuje, že jsi byl bez jakékoliv obrany.
+   Příklad: Kith'ix · 02:26.008 · kill pokus 10.
+
+2. **Kith’ix: připrav si přepnutí na velké addy**
+Co zkusit příště: Pokud máš za úkol addy, připrav si cílení Venomous Hulk a Voidweaver ještě před jejich příchodem. Pokud máš peta, přesměruj i jeho. Po smrti velkých addů počítej s Mindstinger Eggs. Pokud máš podle domluvy útočit do bosse, drž se tohoto úkolu.
+Proč: Připravené cílení ti usnadní začít útočit na přidělený cíl.
+Co ukázal log: Vybraných úseků před tvým prvním zaznamenaným zásahem nebo zásahem peta do velkého adda: 1. Samo to neznamená pozdní přepnutí.
+Na co dát pozor: První zaznamenaný zásah může přijít z automatického efektu. Z těchto úseků proto nepoznáme přesný okamžik tvého přepnutí ani to, zda bylo pozdě.
+   Příklad: Kith'ix · 00:10.683 · kill pokus 10.
+
+## Iluneesama-Drak'thul-EU
+
+### Obecné DPS rady
+
+1. **Hlídej Holy Power před Blade of Justice**
+Co zkusit příště: Při 5 Holy Power a ještě se dobíjejícím Wake of Ashes zkontroluj před dalším Blade of Justice použití Final Verdict nebo Divine Storm. Ber přitom v úvahu Hammer of Light a bezplatná použití schopností. Dva stacky Art of War samy nestačí k tomu, aby měl Blade vždy přednost.
+Proč: Další Holy Power se do plného ukazatele nevejde. Výjimky s procy ale znamenají, že nelze všechna použití Blade of Justice posuzovat stejně.
+Co ukázal log: U 40 sledovaných použití Blade of Justice se část Holy Power nevešla do maxima. Nejde o stejný počet potvrzených chyb.
+Na co dát pozor: S talentem Walk Into Light během Avenging Wrath se tato výjimka pro Blade of Justice neuplatňuje. Z logu přesto nevíme, zda šel v každém uvedeném okamžiku použít vhodný útok za Holy Power.
+   Příklad: Nek'zali the Soulcoiler · 00:05.100 · kill pokus 1.
+
+2. **Dlouhé mezery mezi cooldowny**
+Co zkusit příště: Hlídej si další použití uvedených cooldownů. Pokud je nedržíš kvůli mechanice, addům nebo domluvenému burstu, připrav jejich opětovné použití, jakmile to tvoje rotace a cíl dovolí. U vyznačených dlouhých mezer si ověř, proč další použití přišlo později.
+Proč: Při opakovaných dlouhých mezerách může během fightu ubýt příležitostí využít silné schopnosti. Proto si další použití průběžně hlídej.
+Co ukázal log: Sledované schopnosti: Wake of Ashes. Vybrali jsme delší mezery mezi jejich použitími; přesné časy otevřeš níže.
+Na co dát pozor: Delší mezera neznamená automaticky zapomenutý cooldown. Report neví jistě, kdy byla schopnost znovu dostupná ani zda šlo v tu chvíli útočit.
+   Příklad: Ula'tek · 02:53.846 · kill pokus 6.
+
+### Cooldowny: co si hlídat
+
+Hlídej další použití těchto schopností. Pokud je nedržíš kvůli domluvenému burstu nebo mechanice, připrav jejich opětovné použití, jakmile to tvoje rotace a cíl dovolí.
+
+**Wake of Ashes** — vybraných výrazných mezer: 7; čas mezi použitími 50,4 s až 78,8 s. Průměr ze všech 45 měřených mezer na 6 killech: 38,1 s. Orientační základ cooldownu: 30 s.
+
+**Divine Toll** — vybraných výrazných mezer: 4; čas mezi použitími 85,6 s až 151,4 s. Průměr ze všech 20 měřených mezer na 6 killech: 75,6 s. Orientační základ cooldownu: 60 s.
+
+**Execution Sentence** — vybraných výrazných mezer: 2; čas mezi použitími 85 s až 149,4 s. Průměr ze všech 23 měřených mezer na 6 killech: 69 s. Orientační základ cooldownu: 60 s.
 
 Průměr zahrnuje i běžné krátké mezery; vybrané výrazné mezery jsou jen část přehledu. Srovnání se základem neříká, jak dlouho byla schopnost připravená a nepoužitá. Přesné časy, společný burst a mechaniky najdeš v záložce Cooldowny.
 
@@ -539,311 +188,742 @@ Co zkusit příště: Pokud máš za úkol addy, připrav si cílení Venomous H
 Proč: Připravené cílení ti usnadní začít útočit na přidělený cíl.
 Co ukázal log: Vybraných úseků před tvým prvním zaznamenaným zásahem nebo zásahem peta do velkého adda: 1. Samo to neznamená pozdní přepnutí.
 Na co dát pozor: První zaznamenaný zásah může přijít z automatického efektu. Z těchto úseků proto nepoznáme přesný okamžik tvého přepnutí ani to, zda bylo pozdě.
-   Příklad: Kith'ix · 01:57.452 · kill pokus 9.
+   Příklad: Kith'ix · 00:10.683 · kill pokus 10.
 
 2. **Kith’ix: projdi zásahy během mechanik**
 Co zkusit příště: U uvedených časů zkontroluj Nullshards, Twisted Appendage a Suffocation. Tam, kde tvůj úkol dovoluje zásahu předejít, si připrav bezpečné místo a schopnosti použitelné za pohybu. Během burstu nepřestávej sledovat okolí.
 Proč: Připravený pohyb může usnadnit přežití i pokračování v útocích.
-Co ukázal log: Log zachytil: Suffocation 1×, Nullshards 3×, Twisted Appendage 1×.
+Co ukázal log: Log zachytil: Nullshards 4×.
 Na co dát pozor: Report zná zásah, ale nemusí znát tvůj úkol. Ne každý uvedený zásah byl nutně vyhnutelný nebo tvoje chyba.
-   Příklad: Kith'ix · 01:00.345 · kill pokus 9.
+   Příklad: Kith'ix · 03:55.523 · kill pokus 10.
+
+## Theila-Drak'thul-EU
+
+### Obecné DPS rady
+
+1. **Hlídej Focus i Tip of the Spear před Kill Command**
+Co zkusit příště: Sentinel: V běžné rotaci proti jednomu cíli utrácej Focus přes Raptor Strike, než přidáš další Kill Command. Pokud ale Kill Command potřebuješ pro Tip of the Spear nebo přípravu Takedown, může mít přednost. Proti více cílům hlídej u Raptor Strike také Tip of the Spear a Raptor Swipe.
+Proč: Kill Command není jen zdroj Focusu. Jeho použití může být důležité i pro další schopnosti a pety.
+Co ukázal log: U 123 sledovaných použití Kill Command se část Focus nevešla do maxima. Nejde o stejný počet potvrzených chyb.
+Na co dát pozor: Přebytek Focusu proto není automatický důvod Kill Command vynechat; záleží i na cíli, pohybu a přípravě burstu.
+   Příklad: Nek'zali the Soulcoiler · 00:05.158 · kill pokus 1.
+
+2. **Dlouhé mezery mezi cooldowny**
+Co zkusit příště: Hlídej si další použití uvedených cooldownů. Pokud je nedržíš kvůli mechanice, addům nebo domluvenému burstu, připrav jejich opětovné použití, jakmile to tvoje rotace a cíl dovolí. U vyznačených dlouhých mezer si ověř, proč další použití přišlo později.
+Proč: Při opakovaných dlouhých mezerách může během fightu ubýt příležitostí využít silné schopnosti. Proto si další použití průběžně hlídej.
+Co ukázal log: Sledované schopnosti: Takedown. Vybrali jsme delší mezery mezi jejich použitími; přesné časy otevřeš níže.
+Na co dát pozor: Delší mezera neznamená automaticky zapomenutý cooldown. Report neví jistě, kdy byla schopnost znovu dostupná ani zda šlo v tu chvíli útočit.
+   Příklad: The Coiled Altar · 00:01.919 · kill pokus 4.
+
+### Cooldowny: co si hlídat
+
+Hlídej další použití těchto schopností. Pokud je nedržíš kvůli domluvenému burstu nebo mechanice, připrav jejich opětovné použití, jakmile to tvoje rotace a cíl dovolí.
+
+**Takedown** — vybraných výrazných mezer: 3; čas mezi použitími 136,3 s až 184,5 s. Průměr ze všech 14 měřených mezer na 6 killech: 109,2 s. Orientační základ cooldownu: 90 s.
+
+**Boomstick** — vybraných výrazných mezer: 2; čas mezi použitími 80,1 s až 90,1 s. Průměr ze všech 31 měřených mezer na 6 killech: 53,8 s.
+
+Průměr zahrnuje i běžné krátké mezery; vybrané výrazné mezery jsou jen část přehledu. Srovnání se základem neříká, jak dlouho byla schopnost připravená a nepoužitá. Přesné časy, společný burst a mechaniky najdeš v záložce Cooldowny.
+
+### Kith’ix: rady pro tento fight
+
+1. **Kith’ix: připrav si přepnutí na velké addy**
+Co zkusit příště: Pokud máš za úkol addy, připrav si cílení Venomous Hulk a Voidweaver ještě před jejich příchodem. Pokud máš peta, přesměruj i jeho. Po smrti velkých addů počítej s Mindstinger Eggs. Pokud máš podle domluvy útočit do bosse, drž se tohoto úkolu.
+Proč: Připravené cílení ti usnadní začít útočit na přidělený cíl.
+Co ukázal log: Vybraných úseků před tvým prvním zaznamenaným zásahem nebo zásahem peta do velkého adda: 1. Samo to neznamená pozdní přepnutí.
+Na co dát pozor: První zaznamenaný zásah může přijít z automatického efektu. Z těchto úseků proto nepoznáme přesný okamžik tvého přepnutí ani to, zda bylo pozdě.
+   Příklad: Kith'ix · 00:10.683 · kill pokus 10.
+
+2. **Kith’ix: projdi zásahy během mechanik**
+Co zkusit příště: U uvedených časů zkontroluj Nullshards, Twisted Appendage a Suffocation. Tam, kde tvůj úkol dovoluje zásahu předejít, si připrav bezpečné místo a schopnosti použitelné za pohybu. Během burstu nepřestávej sledovat okolí.
+Proč: Připravený pohyb může usnadnit přežití i pokračování v útocích.
+Co ukázal log: Log zachytil: Nullshards 2×.
+Na co dát pozor: Report zná zásah, ale nemusí znát tvůj úkol. Ne každý uvedený zásah byl nutně vyhnutelný nebo tvoje chyba.
+   Příklad: Kith'ix · 04:05.781 · kill pokus 10.
 
 ### Další pozorování k prohlédnutí
 
-**Eye Beam nebo Abyssal Gaze během Essence Break**
-U Abyssal Gaze zkontroluj Demonsurge pro Death Sweep i Annihilation. Pokud oba bonusy nejsou aktivní, může mít Abyssal Gaze přednost. Jeho použití během Essence Break proto samo neznamená chybu.
+**Kill Command a Tip of the Spear**
+Před uvedeným Kill Command log zachytil 3 stacky Tip of the Spear, ale nemusely vydržet až do použití. Přebytek Focusu z těchto použití už je zahrnutý v přehledu výše; není to další ztráta navíc.
 
-## Iacek-Drak'thul-EU
+**Wildfire Bomb bez doloženého Tip of the Spear**
+Wildfire Bomb proti jednomu cíli může být správně i bez Tip of the Spear. Před změnou pořadí zkontroluj počet cílů a nabití bomby; nepřidávej Kill Command automaticky před každou bombu.
 
-Bez doložené priority ke změně. Není to potvrzení bezchybné hry.
+## Këss-Drak'thul-EU
+
+### Obecné DPS rady
+
+1. **Během Arcane Soul se nevracej automaticky k Arcane Blast**
+Co zkusit příště: Pokud hraješ Sunfury, během Arcane Soul hlídej Clearcasting a Arcane Salvo. S využitelným Clearcasting a méně než 12 stacky Arcane Salvo zkontroluj nejdřív Arcane Missiles; potom podle rotace Arcane Barrage. Arcane Blast tu nepoužívej automaticky jako běžnou výplň.
+Proč: Arcane Soul mění pořadí schopností. Důležité je reagovat na procy, které právě máš.
+Co ukázal log: V těchto příkladech začal Arcane Blast během Arcane Soul; sledovaných použití: 1. Dostupné procy a další kouzla je potřeba posoudit u každého zvlášť.
+Na co dát pozor: U uvedených Arcane Blast nevíme, zda v daném okamžiku šla bezpečně použít lepší schopnost. Bez Clearcasting neplatí uvedené pravidlo pro Arcane Missiles.
+   Příklad: The Lost Explorers · 00:18.656 · kill pokus 7.
+
+### Kith’ix: rady pro tento fight
+
+1. **Kith’ix: připrav ochranu na Extinguish**
+Co zkusit příště: Před Extinguish si zajisti Light’s Embrace nebo předem domluvený jiný způsob přežití. Pokud spoléháš na osobní obranu nebo pomoc spoluhráče, domluvte se na tom dopředu.
+Proč: Na tuto vlnu je potřeba mít připravený konkrétní plán ochrany.
+Co ukázal log: Light’s Embrace nebyl přítomný při tomto počtu vln Extinguish: 1.
+Na co dát pozor: Log neříká, zda byla jiná zaznamenaná ochrana dostatečná. Chybějící Light’s Embrace proto sám neprokazuje, že jsi byl bez jakékoliv obrany.
+   Příklad: Kith'ix · 02:26.008 · kill pokus 10.
+
+2. **Kith’ix: projdi zásahy během mechanik**
+Co zkusit příště: U uvedených časů zkontroluj Nullshards, Twisted Appendage a Suffocation. Tam, kde tvůj úkol dovoluje zásahu předejít, si připrav bezpečné místo a schopnosti použitelné za pohybu. Během burstu nepřestávej sledovat okolí.
+Proč: Připravený pohyb může usnadnit přežití i pokračování v útocích.
+Co ukázal log: Log zachytil: Nullshards 4×.
+Na co dát pozor: Report zná zásah, ale nemusí znát tvůj úkol. Ne každý uvedený zásah byl nutně vyhnutelný nebo tvoje chyba.
+   Příklad: Kith'ix · 04:05.022 · kill pokus 10.
+
+## Vejr-Drak'thul-EU
+
+### Obecné DPS rady
+
+1. **Utrácej Runic Power průběžně**
+Co zkusit příště: Proti jednomu cíli a s nejvýš 10 volnými Runic Power zkontroluj Death Coil před běžným Scourge Strike. Soul Reaper a příprava důležitějších schopností ale mohou mít přednost. Nesnaž se proto za každou cenu odstranit každý přebytek.
+Proč: Runic Power nad maximum už nezískáš. Cílem je včasné utrácení v běžné rotaci, při zachování důležitějších útoků.
+Co ukázal log: Runic Power se nevešla do maxima u 56 sledovaných použití schopností. Rozdělení: Scourge Strike: 44, Soul Reaper: 9, Festering Strike: 3. Nejde o počet potvrzených chyb.
+Na co dát pozor: Uvedené přebytky nejsou počet špatně použitých útoků. Záleží také na počtu cílů a právě dostupných schopnostech.
+   Příklad: Nek'zali the Soulcoiler · 00:38.608 · kill pokus 1.
+
+### Kith’ix: rady pro tento fight
+
+1. **Kith’ix: projdi zásahy během mechanik**
+Co zkusit příště: U uvedených časů zkontroluj Nullshards, Twisted Appendage a Suffocation. Tam, kde tvůj úkol dovoluje zásahu předejít, si připrav bezpečné místo a schopnosti použitelné za pohybu. Během burstu nepřestávej sledovat okolí.
+Proč: Připravený pohyb může usnadnit přežití i pokračování v útocích.
+Co ukázal log: Log zachytil: Nullshards 4×.
+Na co dát pozor: Report zná zásah, ale nemusí znát tvůj úkol. Ne každý uvedený zásah byl nutně vyhnutelný nebo tvoje chyba.
+   Příklad: Kith'ix · 03:57.056 · kill pokus 10.
+
+### Další pozorování k prohlédnutí
+
+**Sudden Doom: proc skončil**
+Projdi schopnosti použité před skončením Sudden Doom. Samotný konec procu neříká, zda šel využít bez odsunutí důležitější schopnosti.
+
+## Greenfire-Drak'thul-EU
+
+### Obecné DPS rady
+
+1. **Připrav pety a Soul Shards před Tyrantem**
+Co zkusit příště: Diabolist: před Summon Demonic Tyrant si připrav 5 Soul Shards a naplánuj Grimoire: Imp Lord a Call Dreadstalkers. Mysli na to už při předchozích kouzlech; nečekej pak naslepo na jednoho peta, zatímco ostatní končí.
+Proč: Důležité je, aby na sebe navazovala celá příprava a ostatní peti mezitím neskončili.
+Co ukázal log: Vybraných příprav Tyranta k prohlédnutí: 10. Zkontroluj v nich Soul Shards a pořadí přivolávání petů; report tím ještě neurčuje bezpečné jiné pořadí.
+Na co dát pozor: Z těchto případů nevíme, zda šlo přípravu petů změnit nebo zda by čekání pomohlo. Pet přivolaný později navíc nemusí být promarněný.
+   Příklad: Nek'zali the Soulcoiler · 02:25.277 · kill pokus 1.
+
+2. **Nech si místo pro další Soul Shards**
+Co zkusit příště: Před Demonbolt, Shadow Bolt nebo Infernal Bolt se podívej, kolik máš Soul Shards. Pokud by část přírůstku přišla nazmar, naplánuj Hand of Gul’dan dřív, pokud ho dovoluje tvoje rotace. Před Tyrantem má příprava petů vlastní pořadí.
+Proč: Soul Shards nad maximum už nezískáš. Cílem je utrácet průběžně, ne pokaždé čekat na plný ukazatel.
+Co ukázal log: U 47 sledovaných použití Demonbolt, Shadow Bolt, Infernal Bolt se část Soul Shards nevešla do maxima. Nejde o stejný počet potvrzených chyb.
+Na co dát pozor: Plné Soul Shards při dokončení kouzla ještě neříkají, kolik jsi měl při jeho zahájení. Samy proto nedokazují špatně použitý Demonbolt.
+   Příklad: Nek'zali the Soulcoiler · 01:26.458 · kill pokus 1.
+
+3. **Dlouhé mezery mezi cooldowny**
+Co zkusit příště: Hlídej si další použití uvedených cooldownů. Pokud je nedržíš kvůli mechanice, addům nebo domluvenému burstu, připrav jejich opětovné použití, jakmile to tvoje rotace a cíl dovolí. U vyznačených dlouhých mezer si ověř, proč další použití přišlo později.
+Proč: Při opakovaných dlouhých mezerách může během fightu ubýt příležitostí využít silné schopnosti. Proto si další použití průběžně hlídej.
+Co ukázal log: Sledované schopnosti: Summon Demonic Tyrant. Vybrali jsme delší mezery mezi jejich použitími; přesné časy otevřeš níže.
+Na co dát pozor: Delší mezera neznamená automaticky zapomenutý cooldown. Report neví jistě, kdy byla schopnost znovu dostupná ani zda šlo v tu chvíli útočit.
+   Příklad: Ula'tek · 02:15.745 · kill pokus 6.
+
+### Cooldowny: co si hlídat
+
+Hlídej další použití těchto schopností. Pokud je nedržíš kvůli domluvenému burstu nebo mechanice, připrav jejich opětovné použití, jakmile to tvoje rotace a cíl dovolí.
+
+**Summon Demonic Tyrant** — vybraných výrazných mezer: 2; čas mezi použitími 86 s až 91,5 s. Průměr ze všech 20 měřených mezer na 5 killech: 67,5 s. Orientační základ cooldownu: 60 s.
+
+**Grimoire: Imp Lord** — vybraných výrazných mezer: 1; čas mezi použitími 153,1 s až 153,1 s. Průměr ze všech 8 měřených mezer na 5 killech: 132,4 s. Orientační základ cooldownu: 120 s.
+
+Průměr zahrnuje i běžné krátké mezery; vybrané výrazné mezery jsou jen část přehledu. Srovnání se základem neříká, jak dlouho byla schopnost připravená a nepoužitá. Přesné časy, společný burst a mechaniky najdeš v záložce Cooldowny.
+
+### Další pozorování k prohlédnutí
+
+**Call Dreadstalkers kolem Tyranta**
+Projdi Call Dreadstalkers před Tyrantem i po něm. Správné načasování závisí na celé přípravě a ostatních petech; samotný odstup nestačí k doporučení čekat.
+
+**Soul Shards před Tyrantem**
+U uvedených Hand of Gul’dan projdi, kolik Soul Shards ti zbývalo pro přípravu Tyranta a zda nekončila fáze. Některé časy se překrývají s hlavní radou pro Tyranta; nepočítej je jako další chyby.
+
+**Další přípravy Tyranta k prohlédnutí**
+Tyto další situace se liší od hlavních příkladů výše. Projdi jejich celou přípravu; neznamenají automaticky stejný problém ani důvod vždy čekat na 5 Soul Shards.
+
+## Kubéc-Drak'thul-EU
+
+### Obecné DPS rady
+
+1. **Hlídej střídání schopností kvůli Combo Strikes**
+Co zkusit příště: Sleduj poslední schopnost, která se počítá do Combo Strikes. Pokud máš vhodnou dostupnou alternativu, neopakuj hned stejnou. Nestřídej ale tlačítka náhodně za cenu odsunutí důležitější schopnosti.
+Proč: Střídáním udržuješ bonus Combo Strikes a případně Hit Combo.
+Co ukázal log: 27 opakování stejné schopnosti; u 27 skončil buff Hit Combo.
+Na co dát pozor: Uvedená opakování stojí za kontrolu, ale log sám neurčuje, které jiné tlačítko bylo v každém okamžiku správné.
+   Příklad: Nek'zali the Soulcoiler · 00:57.654 · kill pokus 1.
+
+2. **Před Tiger Palm hlídej Chi i Energy**
+Co zkusit příště: Před Tiger Palm se podívej, zda máš místo pro Chi, kolik máš Energy a co jsi použil naposledy kvůli Combo Strikes. Mimo Zenith proti jednomu cíli potřebuješ prostor pro Chi a zároveň důvod utratit Energy, která se blíží maximu.
+Proč: Tiger Palm řeší dva zdroje najednou. Vyhnout se přebytku Chi za cenu přetékající Energy nemusí být výhodné.
+Co ukázal log: U 2 sledovaných použití Tiger Palm se část Chi nevešla do maxima. Nejde o stejný počet potvrzených chyb.
+Na co dát pozor: Ze samotného přebytku Chi nepoznáme, zda bylo lepší čekat nebo použít jinou schopnost. Během Zenith se pořadí liší.
+   Příklad: Nek'zali the Soulcoiler · 01:13.430 · kill pokus 1.
+
+### Kith’ix: rady pro tento fight
+
+1. **Kith’ix: projdi zásahy během mechanik**
+Co zkusit příště: U uvedených časů zkontroluj Nullshards, Twisted Appendage a Suffocation. Tam, kde tvůj úkol dovoluje zásahu předejít, si připrav bezpečné místo a schopnosti použitelné za pohybu. Během burstu nepřestávej sledovat okolí.
+Proč: Připravený pohyb může usnadnit přežití i pokračování v útocích.
+Co ukázal log: Log zachytil: Nullshards 4×.
+Na co dát pozor: Report zná zásah, ale nemusí znát tvůj úkol. Ne každý uvedený zásah byl nutně vyhnutelný nebo tvoje chyba.
+   Příklad: Kith'ix · 03:57.100 · kill pokus 10.
+
+### Další pozorování k prohlédnutí
+
+**Kopy po Zenith: zkontroluj celou sérii**
+Mezi Zenith a dalším Rising Sun Kick nebo Rushing Wind Kick je delší mezera. Podívej se i na Fists of Fury a Chi; tato mezera sama neznamená, že jsi neútočil nebo měl změnit pořadí.
+
+## Johnyhoudini-BurningBlade-EU
+
+### Obecné DPS rady
+
+1. **Dlouhé mezery mezi cooldowny**
+Co zkusit příště: Hlídej si další použití uvedených cooldownů. Pokud je nedržíš kvůli mechanice, addům nebo domluvenému burstu, připrav jejich opětovné použití, jakmile to tvoje rotace a cíl dovolí. U vyznačených dlouhých mezer si ověř, proč další použití přišlo později.
+Proč: Při opakovaných dlouhých mezerách může během fightu ubýt příležitostí využít silné schopnosti. Proto si další použití průběžně hlídej.
+Co ukázal log: Sledované schopnosti: Touch of the Magi. Vybrali jsme delší mezery mezi jejich použitími; přesné časy otevřeš níže.
+Na co dát pozor: Delší mezera neznamená automaticky zapomenutý cooldown. Report neví jistě, kdy byla schopnost znovu dostupná ani zda šlo v tu chvíli útočit.
+   Příklad: Ula'tek · 01:10.047 · kill pokus 6.
+
+### Cooldowny: co si hlídat
+
+Hlídej další použití těchto schopností. Pokud je nedržíš kvůli domluvenému burstu nebo mechanice, připrav jejich opětovné použití, jakmile to tvoje rotace a cíl dovolí.
+
+**Touch of the Magi** — vybraných výrazných mezer: 4; čas mezi použitími 67,1 s až 100,9 s. Průměr ze všech 28 měřených mezer na 6 killech: 53,9 s. Orientační základ cooldownu: 45 s.
+
+Průměr zahrnuje i běžné krátké mezery; vybrané výrazné mezery jsou jen část přehledu. Srovnání se základem neříká, jak dlouho byla schopnost připravená a nepoužitá. Přesné časy, společný burst a mechaniky najdeš v záložce Cooldowny.
+
+### Kith’ix: rady pro tento fight
+
+1. **Kith’ix: připrav si přepnutí na velké addy**
+Co zkusit příště: Pokud máš za úkol addy, připrav si cílení Venomous Hulk a Voidweaver ještě před jejich příchodem. Pokud máš peta, přesměruj i jeho. Po smrti velkých addů počítej s Mindstinger Eggs. Pokud máš podle domluvy útočit do bosse, drž se tohoto úkolu.
+Proč: Připravené cílení ti usnadní začít útočit na přidělený cíl.
+Co ukázal log: Vybraných úseků před tvým prvním zaznamenaným zásahem nebo zásahem peta do velkého adda: 1. Samo to neznamená pozdní přepnutí.
+Na co dát pozor: První zaznamenaný zásah může přijít z automatického efektu. Z těchto úseků proto nepoznáme přesný okamžik tvého přepnutí ani to, zda bylo pozdě.
+   Příklad: Kith'ix · 00:10.683 · kill pokus 10.
+
+2. **Kith’ix: projdi zásahy během mechanik**
+Co zkusit příště: U uvedených časů zkontroluj Nullshards, Twisted Appendage a Suffocation. Tam, kde tvůj úkol dovoluje zásahu předejít, si připrav bezpečné místo a schopnosti použitelné za pohybu. Během burstu nepřestávej sledovat okolí.
+Proč: Připravený pohyb může usnadnit přežití i pokračování v útocích.
+Co ukázal log: Log zachytil: Suffocation 1×.
+Na co dát pozor: Report zná zásah, ale nemusí znát tvůj úkol. Ne každý uvedený zásah byl nutně vyhnutelný nebo tvoje chyba.
+   Příklad: Kith'ix · 01:37.422 · kill pokus 10.
+
+### Další pozorování k prohlédnutí
+
+**Další Arcane Blast během Arcane Soul**
+U těchto použití neznáme dost okolností pro doporučení změny pořadí. Zkontroluj tehdejší Clearcasting, Arcane Salvo a možnosti použití Arcane Barrage.
+
+## Galneryus-Drak'thul-EU
+
+### Obecné DPS rady
+
+1. **Hlídej Holy Power před Blade of Justice**
+Co zkusit příště: Při 5 Holy Power a ještě se dobíjejícím Wake of Ashes zkontroluj před dalším Blade of Justice použití Final Verdict nebo Divine Storm. Ber přitom v úvahu Hammer of Light a bezplatná použití schopností. Dva stacky Art of War samy nestačí k tomu, aby měl Blade vždy přednost.
+Proč: Další Holy Power se do plného ukazatele nevejde. Výjimky s procy ale znamenají, že nelze všechna použití Blade of Justice posuzovat stejně.
+Co ukázal log: U 6 sledovaných použití Blade of Justice se část Holy Power nevešla do maxima. Nejde o stejný počet potvrzených chyb.
+Na co dát pozor: S talentem Walk Into Light během Avenging Wrath se tato výjimka pro Blade of Justice neuplatňuje. Z logu přesto nevíme, zda šel v každém uvedeném okamžiku použít vhodný útok za Holy Power.
+   Příklad: The Coiled Altar · 05:04.462 · kill pokus 4.
+
+2. **Dlouhé mezery mezi cooldowny**
+Co zkusit příště: Hlídej si další použití uvedených cooldownů. Pokud je nedržíš kvůli mechanice, addům nebo domluvenému burstu, připrav jejich opětovné použití, jakmile to tvoje rotace a cíl dovolí. U vyznačených dlouhých mezer si ověř, proč další použití přišlo později.
+Proč: Při opakovaných dlouhých mezerách může během fightu ubýt příležitostí využít silné schopnosti. Proto si další použití průběžně hlídej.
+Co ukázal log: Sledované schopnosti: Wake of Ashes. Vybrali jsme delší mezery mezi jejich použitími; přesné časy otevřeš níže.
+Na co dát pozor: Delší mezera neznamená automaticky zapomenutý cooldown. Report neví jistě, kdy byla schopnost znovu dostupná ani zda šlo v tu chvíli útočit.
+   Příklad: The Coiled Altar · 02:10.629 · kill pokus 4.
+
+### Cooldowny: co si hlídat
+
+Hlídej další použití těchto schopností. Pokud je nedržíš kvůli domluvenému burstu nebo mechanice, připrav jejich opětovné použití, jakmile to tvoje rotace a cíl dovolí.
+
+**Wake of Ashes** — vybraných výrazných mezer: 3; čas mezi použitími 50,6 s až 66,2 s. Průměr ze všech 48 měřených mezer na 6 killech: 34,3 s. Orientační základ cooldownu: 30 s.
+
+**Divine Toll** — vybraných výrazných mezer: 2; čas mezi použitími 80,9 s až 84,5 s. Průměr ze všech 23 měřených mezer na 6 killech: 65,5 s. Orientační základ cooldownu: 60 s.
+
+**Execution Sentence** — vybraných výrazných mezer: 1; čas mezi použitími 83,2 s až 83,2 s. Průměr ze všech 24 měřených mezer na 6 killech: 64,4 s. Orientační základ cooldownu: 60 s.
+
+Průměr zahrnuje i běžné krátké mezery; vybrané výrazné mezery jsou jen část přehledu. Srovnání se základem neříká, jak dlouho byla schopnost připravená a nepoužitá. Přesné časy, společný burst a mechaniky najdeš v záložce Cooldowny.
+
+### Kith’ix: rady pro tento fight
+
+1. **Kith’ix: připrav si přepnutí na velké addy**
+Co zkusit příště: Pokud máš za úkol addy, připrav si cílení Venomous Hulk a Voidweaver ještě před jejich příchodem. Pokud máš peta, přesměruj i jeho. Po smrti velkých addů počítej s Mindstinger Eggs. Pokud máš podle domluvy útočit do bosse, drž se tohoto úkolu.
+Proč: Připravené cílení ti usnadní začít útočit na přidělený cíl.
+Co ukázal log: Vybraných úseků před tvým prvním zaznamenaným zásahem nebo zásahem peta do velkého adda: 1. Samo to neznamená pozdní přepnutí.
+Na co dát pozor: První zaznamenaný zásah může přijít z automatického efektu. Z těchto úseků proto nepoznáme přesný okamžik tvého přepnutí ani to, zda bylo pozdě.
+   Příklad: Kith'ix · 00:10.683 · kill pokus 10.
+
+2. **Kith’ix: projdi zásahy během mechanik**
+Co zkusit příště: U uvedených časů zkontroluj Nullshards, Twisted Appendage a Suffocation. Tam, kde tvůj úkol dovoluje zásahu předejít, si připrav bezpečné místo a schopnosti použitelné za pohybu. Během burstu nepřestávej sledovat okolí.
+Proč: Připravený pohyb může usnadnit přežití i pokračování v útocích.
+Co ukázal log: Log zachytil: Suffocation 1×, Nullshards 2×.
+Na co dát pozor: Report zná zásah, ale nemusí znát tvůj úkol. Ne každý uvedený zásah byl nutně vyhnutelný nebo tvoje chyba.
+   Příklad: Kith'ix · 01:37.374 · kill pokus 10.
+
+## Nahollou-Drak'thul-EU
+
+### Obecné DPS rady
+
+1. **Připrav pety a Soul Shards před Tyrantem**
+Co zkusit příště: Diabolist: před Summon Demonic Tyrant si připrav 5 Soul Shards a naplánuj Grimoire: Imp Lord a Call Dreadstalkers. Mysli na to už při předchozích kouzlech; nečekej pak naslepo na jednoho peta, zatímco ostatní končí.
+Proč: Důležité je, aby na sebe navazovala celá příprava a ostatní peti mezitím neskončili.
+Co ukázal log: Vybraných příprav Tyranta k prohlédnutí: 5. Zkontroluj v nich Soul Shards a pořadí přivolávání petů; report tím ještě neurčuje bezpečné jiné pořadí.
+Na co dát pozor: Z těchto případů nevíme, zda šlo přípravu petů změnit nebo zda by čekání pomohlo. Pet přivolaný později navíc nemusí být promarněný.
+   Příklad: Ula'tek · 06:45.256 · kill pokus 6.
+
+2. **Nech si místo pro další Soul Shards**
+Co zkusit příště: Před Demonbolt, Shadow Bolt nebo Infernal Bolt se podívej, kolik máš Soul Shards. Pokud by část přírůstku přišla nazmar, naplánuj Hand of Gul’dan dřív, pokud ho dovoluje tvoje rotace. Před Tyrantem má příprava petů vlastní pořadí.
+Proč: Soul Shards nad maximum už nezískáš. Cílem je utrácet průběžně, ne pokaždé čekat na plný ukazatel.
+Co ukázal log: U 51 sledovaných použití Demonbolt, Shadow Bolt, Infernal Bolt se část Soul Shards nevešla do maxima. Nejde o stejný počet potvrzených chyb.
+Na co dát pozor: Plné Soul Shards při dokončení kouzla ještě neříkají, kolik jsi měl při jeho zahájení. Samy proto nedokazují špatně použitý Demonbolt.
+   Příklad: The Coiled Altar · 01:55.048 · kill pokus 4.
+
+3. **Dlouhé mezery mezi cooldowny**
+Co zkusit příště: Hlídej si další použití uvedených cooldownů. Pokud je nedržíš kvůli mechanice, addům nebo domluvenému burstu, připrav jejich opětovné použití, jakmile to tvoje rotace a cíl dovolí. U vyznačených dlouhých mezer si ověř, proč další použití přišlo později.
+Proč: Při opakovaných dlouhých mezerách může během fightu ubýt příležitostí využít silné schopnosti. Proto si další použití průběžně hlídej.
+Co ukázal log: Sledované schopnosti: Summon Demonic Tyrant. Vybrali jsme delší mezery mezi jejich použitími; přesné časy otevřeš níže.
+Na co dát pozor: Delší mezera neznamená automaticky zapomenutý cooldown. Report neví jistě, kdy byla schopnost znovu dostupná ani zda šlo v tu chvíli útočit.
+   Příklad: Ula'tek · 04:49.781 · kill pokus 6.
+
+### Cooldowny: co si hlídat
+
+Hlídej další použití těchto schopností. Pokud je nedržíš kvůli domluvenému burstu nebo mechanice, připrav jejich opětovné použití, jakmile to tvoje rotace a cíl dovolí.
+
+**Summon Demonic Tyrant** — vybraných výrazných mezer: 3; čas mezi použitími 82,1 s až 116,7 s. Průměr ze všech 14 měřených mezer na 5 killech: 81,6 s. Orientační základ cooldownu: 60 s.
+
+Průměr zahrnuje i běžné krátké mezery; vybrané výrazné mezery jsou jen část přehledu. Srovnání se základem neříká, jak dlouho byla schopnost připravená a nepoužitá. Přesné časy, společný burst a mechaniky najdeš v záložce Cooldowny.
+
+### Kith’ix: rady pro tento fight
+
+1. **Kith’ix: připrav ochranu na Extinguish**
+Co zkusit příště: Před Extinguish si zajisti Light’s Embrace nebo předem domluvený jiný způsob přežití. Pokud spoléháš na osobní obranu nebo pomoc spoluhráče, domluvte se na tom dopředu.
+Proč: Na tuto vlnu je potřeba mít připravený konkrétní plán ochrany.
+Co ukázal log: Light’s Embrace nebyl přítomný při tomto počtu vln Extinguish: 1.
+Na co dát pozor: Log neříká, zda byla jiná zaznamenaná ochrana dostatečná. Chybějící Light’s Embrace proto sám neprokazuje, že jsi byl bez jakékoliv obrany.
+   Příklad: Kith'ix · 03:23.027 · kill pokus 10.
+
+2. **Kith’ix: projdi zásahy během mechanik**
+Co zkusit příště: U uvedených časů zkontroluj Nullshards, Twisted Appendage a Suffocation. Tam, kde tvůj úkol dovoluje zásahu předejít, si připrav bezpečné místo a schopnosti použitelné za pohybu. Během burstu nepřestávej sledovat okolí.
+Proč: Připravený pohyb může usnadnit přežití i pokračování v útocích.
+Co ukázal log: Log zachytil: Nullshards 3×.
+Na co dát pozor: Report zná zásah, ale nemusí znát tvůj úkol. Ne každý uvedený zásah byl nutně vyhnutelný nebo tvoje chyba.
+   Příklad: Kith'ix · 04:05.853 · kill pokus 10.
+
+### Další pozorování k prohlédnutí
+
+**Další přípravy Tyranta k prohlédnutí**
+Tyto další situace se liší od hlavních příkladů výše. Projdi jejich celou přípravu; neznamenají automaticky stejný problém ani důvod vždy čekat na 5 Soul Shards.
+
+**Pomalejší Demonbolt bez doloženého Demonic Core**
+U uvedených Demonbolt zkontroluj, zda jsi měl Demonic Core a proč jsi kouzlo zvolil. V běžné rotaci porovnej jeho použití se Shadow Bolt nebo Infernal Bolt; report tím neurčuje lepší volbu pro každý případ.
+
+**Call Dreadstalkers kolem Tyranta**
+Projdi Call Dreadstalkers před Tyrantem i po něm. Správné načasování závisí na celé přípravě a ostatních petech; samotný odstup nestačí k doporučení čekat.
+
+**Soul Shards před Tyrantem**
+U uvedených Hand of Gul’dan projdi, kolik Soul Shards ti zbývalo pro přípravu Tyranta a zda nekončila fáze. Některé časy se překrývají s hlavní radou pro Tyranta; nepočítej je jako další chyby.
+
+## Corneilia-Sylvanas-EU
+
+### Obecné DPS rady
+
+1. **Dlouhé mezery mezi cooldowny**
+Co zkusit příště: Hlídej si další použití uvedených cooldownů. Pokud je nedržíš kvůli mechanice, addům nebo domluvenému burstu, připrav jejich opětovné použití, jakmile to tvoje rotace a cíl dovolí. U vyznačených dlouhých mezer si ověř, proč další použití přišlo později.
+Proč: Při opakovaných dlouhých mezerách může během fightu ubýt příležitostí využít silné schopnosti. Proto si další použití průběžně hlídej.
+Co ukázal log: Sledované schopnosti: Touch of the Magi. Vybrali jsme delší mezery mezi jejich použitími; přesné časy otevřeš níže.
+Na co dát pozor: Delší mezera neznamená automaticky zapomenutý cooldown. Report neví jistě, kdy byla schopnost znovu dostupná ani zda šlo v tu chvíli útočit.
+   Příklad: The Coiled Altar · 01:51.975 · kill pokus 4.
+
+### Cooldowny: co si hlídat
+
+Hlídej další použití těchto schopností. Pokud je nedržíš kvůli domluvenému burstu nebo mechanice, připrav jejich opětovné použití, jakmile to tvoje rotace a cíl dovolí.
+
+**Touch of the Magi** — vybraných výrazných mezer: 4; čas mezi použitími 74,7 s až 107,3 s. Průměr ze všech 17 měřených mezer na 5 killech: 73,9 s. Orientační základ cooldownu: 45 s.
+
+Průměr zahrnuje i běžné krátké mezery; vybrané výrazné mezery jsou jen část přehledu. Srovnání se základem neříká, jak dlouho byla schopnost připravená a nepoužitá. Přesné časy, společný burst a mechaniky najdeš v záložce Cooldowny.
+
+### Kith’ix: rady pro tento fight
+
+1. **Kith’ix: připrav si přepnutí na velké addy**
+Co zkusit příště: Pokud máš za úkol addy, připrav si cílení Venomous Hulk a Voidweaver ještě před jejich příchodem. Pokud máš peta, přesměruj i jeho. Po smrti velkých addů počítej s Mindstinger Eggs. Pokud máš podle domluvy útočit do bosse, drž se tohoto úkolu.
+Proč: Připravené cílení ti usnadní začít útočit na přidělený cíl.
+Co ukázal log: Vybraných úseků před tvým prvním zaznamenaným zásahem nebo zásahem peta do velkého adda: 2. Samo to neznamená pozdní přepnutí.
+Na co dát pozor: První zaznamenaný zásah může přijít z automatického efektu. Z těchto úseků proto nepoznáme přesný okamžik tvého přepnutí ani to, zda bylo pozdě.
+   Příklad: Kith'ix · 00:10.296 · kill pokus 10.
+
+2. **Kith’ix: projdi zásahy během mechanik**
+Co zkusit příště: U uvedených časů zkontroluj Nullshards, Twisted Appendage a Suffocation. Tam, kde tvůj úkol dovoluje zásahu předejít, si připrav bezpečné místo a schopnosti použitelné za pohybu. Během burstu nepřestávej sledovat okolí.
+Proč: Připravený pohyb může usnadnit přežití i pokračování v útocích.
+Co ukázal log: Log zachytil: Nullshards 4×.
+Na co dát pozor: Report zná zásah, ale nemusí znát tvůj úkol. Ne každý uvedený zásah byl nutně vyhnutelný nebo tvoje chyba.
+   Příklad: Kith'ix · 03:45.169 · kill pokus 10.
+
+## Íacek-Drak'thul-EU
+
+### Obecné DPS rady
+
+1. **Utrácej Maelstrom dřív, než přeteče**
+Co zkusit příště: Před Lava Burst hlídej volné místo pro Maelstrom. Pokud hraješ Elemental Blast, při méně než 15 volných Maelstrom zkontroluj jeho použití; podle situace přichází v úvahu i Earthquake. Pořadí ale ovlivňuje Master of the Elements a další procy.
+Proč: Maelstrom nad maximum už nezískáš. Pomůže plánovat jeho utracení ještě před dokončením dalšího kouzla.
+Co ukázal log: U 7 sledovaných použití Lava Burst se část Maelstrom nevešla do maxima. Nejde o stejný počet potvrzených chyb.
+Na co dát pozor: Samotný přebytek neříká, zda bylo v danou chvíli lepší nebo možné použít Elemental Blast či Earthquake.
+   Příklad: Ula'tek · 00:42.270 · kill pokus 6.
+
+2. **Dlouhé mezery mezi cooldowny**
+Co zkusit příště: Hlídej si další použití uvedených cooldownů. Pokud je nedržíš kvůli mechanice, addům nebo domluvenému burstu, připrav jejich opětovné použití, jakmile to tvoje rotace a cíl dovolí. U vyznačených dlouhých mezer si ověř, proč další použití přišlo později.
+Proč: Při opakovaných dlouhých mezerách může během fightu ubýt příležitostí využít silné schopnosti. Proto si další použití průběžně hlídej.
+Co ukázal log: Sledované schopnosti: Stormkeeper. Vybrali jsme delší mezery mezi jejich použitími; přesné časy otevřeš níže.
+Na co dát pozor: Delší mezera neznamená automaticky zapomenutý cooldown. Report neví jistě, kdy byla schopnost znovu dostupná ani zda šlo v tu chvíli útočit.
+   Příklad: Ula'tek · 03:21.115 · kill pokus 6.
+
+### Cooldowny: co si hlídat
+
+Hlídej další použití těchto schopností. Pokud je nedržíš kvůli domluvenému burstu nebo mechanice, připrav jejich opětovné použití, jakmile to tvoje rotace a cíl dovolí.
+
+**Stormkeeper** — vybraných výrazných mezer: 1; čas mezi použitími 81,5 s až 81,5 s. Průměr ze všech 9 měřených mezer na 1 killech: 55,9 s.
+
+Průměr zahrnuje i běžné krátké mezery; vybrané výrazné mezery jsou jen část přehledu. Srovnání se základem neříká, jak dlouho byla schopnost připravená a nepoužitá. Přesné časy, společný burst a mechaniky najdeš v záložce Cooldowny.
+
+## Krokous-Drak'thul-EU
+
+### Obecné DPS rady
+
+1. **Využij 4 stacky Cobra Fang**
+Co zkusit příště: Proti jednomu cíli při 4 stackách Cobra Fang zkontroluj Cobra Shot před běžným Barbed Shot. Přednost ale může mít Barbed Shot kvůli plným nabitím nebo přípravě Bestial Wrath, samotný Bestial Wrath či důležitější Kill Command.
+Proč: Cílem je využít Cobra Fang bez narušení burstu a ostatních důležitých schopností.
+Co ukázal log: U 16 vybraných použití Barbed Shot byly zaznamenané 4 stacky Cobra Fang. U každého je potřeba zohlednit cíle a přípravu burstu.
+Na co dát pozor: Proti více cílům se pořadí liší. Samotné 4 stacky proto nejsou pokyn vždy nahradit Barbed Shot za Cobra Shot.
+   Příklad: Nek'zali the Soulcoiler · 00:54.739 · kill pokus 1.
+
+2. **Propoj Bestial Wrath a Wild Thrash při více cílech**
+Co zkusit příště: Pokud hraješ s Beast Cleave a bojuješ s více cíli, připrav si Wild Thrash po Bestial Wrath, pokud je dostupný a cíle jsou na vhodném místě. Zkontroluj přitom i přípravu před Bestial Wrath.
+Proč: Nově přivolaný Apex pet nepřebírá předchozí Beast Cleave. Proto záleží na návaznosti schopností.
+Co ukázal log: K prohlédnutí je 14 sérií schopností kolem Bestial Wrath, ve kterých peti zasáhli více cílů.
+Na co dát pozor: Jiná schopnost po Bestial Wrath ještě neznamená chybu; záleží na celé situaci a dostupném Wild Thrash.
+   Příklad: Ula'tek · 00:34.404 · kill pokus 6.
+
+### Kith’ix: rady pro tento fight
+
+1. **Kith’ix: připrav si přepnutí na velké addy**
+Co zkusit příště: Pokud máš za úkol addy, připrav si cílení Venomous Hulk a Voidweaver ještě před jejich příchodem. Pokud máš peta, přesměruj i jeho. Po smrti velkých addů počítej s Mindstinger Eggs. Pokud máš podle domluvy útočit do bosse, drž se tohoto úkolu.
+Proč: Připravené cílení ti usnadní začít útočit na přidělený cíl.
+Co ukázal log: Vybraných úseků před tvým prvním zaznamenaným zásahem nebo zásahem peta do velkého adda: 1. Samo to neznamená pozdní přepnutí.
+Na co dát pozor: První zaznamenaný zásah může přijít z automatického efektu. Z těchto úseků proto nepoznáme přesný okamžik tvého přepnutí ani to, zda bylo pozdě.
+   Příklad: Kith'ix · 00:10.683 · kill pokus 10.
+
+2. **Kith’ix: projdi zásahy během mechanik**
+Co zkusit příště: U uvedených časů zkontroluj Nullshards, Twisted Appendage a Suffocation. Tam, kde tvůj úkol dovoluje zásahu předejít, si připrav bezpečné místo a schopnosti použitelné za pohybu. Během burstu nepřestávej sledovat okolí.
+Proč: Připravený pohyb může usnadnit přežití i pokračování v útocích.
+Co ukázal log: Log zachytil: Nullshards 4×.
+Na co dát pozor: Report zná zásah, ale nemusí znát tvůj úkol. Ne každý uvedený zásah byl nutně vyhnutelný nebo tvoje chyba.
+   Příklad: Kith'ix · 04:05.706 · kill pokus 10.
 
 ## Micaello-Drak'thul-EU
 
 ### Obecné DPS rady
 
-1. **Propoj Bestial Wrath a Wild Thrash při více cílech**
-Co zkusit příště: Pokud hraješ s Beast Cleave a bojuješ s více cíli, připrav si Wild Thrash po Bestial Wrath, pokud je dostupný a cíle jsou na vhodném místě. Zkontroluj přitom i přípravu před Bestial Wrath.
-Proč: Nově přivolaný Apex pet nepřebírá předchozí Beast Cleave. Proto záleží na návaznosti schopností.
-Co ukázal log: K prohlédnutí je 8 sérií schopností kolem Bestial Wrath, ve kterých peti zasáhli více cílů.
-Na co dát pozor: Jiná schopnost po Bestial Wrath ještě neznamená chybu; záleží na celé situaci a dostupném Wild Thrash.
-   Příklad: Nek'zali the Soulcoiler · 01:05.170 · kill pokus 1.
-
-2. **Využij 4 stacky Cobra Fang**
+1. **Využij 4 stacky Cobra Fang**
 Co zkusit příště: Proti jednomu cíli při 4 stackách Cobra Fang zkontroluj Cobra Shot před běžným Barbed Shot. Přednost ale může mít Barbed Shot kvůli plným nabitím nebo přípravě Bestial Wrath, samotný Bestial Wrath či důležitější Kill Command.
 Proč: Cílem je využít Cobra Fang bez narušení burstu a ostatních důležitých schopností.
-Co ukázal log: U 27 vybraných použití Barbed Shot byly zaznamenané 4 stacky Cobra Fang. U každého je potřeba zohlednit cíle a přípravu burstu.
+Co ukázal log: U 24 vybraných použití Barbed Shot byly zaznamenané 4 stacky Cobra Fang. U každého je potřeba zohlednit cíle a přípravu burstu.
 Na co dát pozor: Proti více cílům se pořadí liší. Samotné 4 stacky proto nejsou pokyn vždy nahradit Barbed Shot za Cobra Shot.
-   Příklad: The Coiled Altar · 00:18.939 · kill pokus 4.
+   Příklad: Nek'zali the Soulcoiler · 02:09.466 · kill pokus 1.
+
+### Kith’ix: rady pro tento fight
+
+1. **Kith’ix: připrav ochranu na Extinguish**
+Co zkusit příště: Před Extinguish si zajisti Light’s Embrace nebo předem domluvený jiný způsob přežití. Pokud spoléháš na osobní obranu nebo pomoc spoluhráče, domluvte se na tom dopředu.
+Proč: Na tuto vlnu je potřeba mít připravený konkrétní plán ochrany.
+Co ukázal log: Light’s Embrace nebyl přítomný při tomto počtu vln Extinguish: 1.
+Na co dát pozor: Log neříká, zda byla jiná zaznamenaná ochrana dostatečná. Chybějící Light’s Embrace proto sám neprokazuje, že jsi byl bez jakékoliv obrany.
+   Příklad: Kith'ix · 01:34.000 · kill pokus 10.
 
 
 # DPS coaching
 
-Hráčů: 17; důkazů: 432.
+Hráčů: 17; důkazů: 500.
+
+## Kirill-Drak'thul-EU
+
+Analyzovaní bossové: Nek'zali the Soulcoiler, The Coiled Altar, Ula'tek, The Lost Explorers, Sszorak, Kith'ix.
+
+Nemáme konkrétní podklad pro změnu rotace.
+
+Cooldown intervaly k samostatnému posouzení: 1.
 
 ## Hrbaty-Drak'thul-EU
 
-Analyzovaní bossové: Nek'zali the Soulcoiler, Entombed Sentinels, Vashnik the Malignant.
+Analyzovaní bossové: Nek'zali the Soulcoiler, The Lost Explorers.
 
 ### Lava Burst: zaznamenaný Maelstrom cap
 
 Pozorování k ověření
 
-3 × Lava Burst; propadlo 17 Maelstrom. U 1 je mezi startem a dokončením časový odstup, u 2 stejný timestamp. Mana snapshot není Maelstrom stav. Elemental Blast je vybraný ve všech zde uvedených případech; výběr talentu není potvrzená použitelnost. Počet sledovaných castů, během nichž vznikl Lava Surge: 1. Tento pozdější proc není stav před startem; konkrétní přechody jsou níže. U 2 z 3 případů je již před logovaným startem skutečný Maelstrom snapshot na maximu s nulovou reportovanou cenou. Přesný stav při stisku ani dostupný spender tím nejsou potvrzené; nulový Elemental Blast není automaticky utracení zdroje.
+5 × Lava Burst; propadlo 37 Maelstrom. U 2 je mezi startem a dokončením časový odstup, u 3 stejný timestamp. Mana snapshot není Maelstrom stav. Elemental Blast je vybraný ve všech zde uvedených případech; výběr talentu není potvrzená použitelnost. Počet sledovaných castů, během nichž vznikl Lava Surge: 0. Tento pozdější proc není stav před startem; konkrétní přechody jsou níže. U 4 z 5 případů je již před logovaným startem skutečný Maelstrom snapshot na maximu s nulovou reportovanou cenou. Přesný stav při stisku ani dostupný spender tím nejsou potvrzené; nulový Elemental Blast není automaticky utracení zdroje.
 
 Tento build má Elemental Blast; v připnuté referenci nahrazuje Earth Shock. U těchto Lava Burst proto kontroluj načasování Elemental Blast / Earthquake spolu s Master of the Elements a vyššími prioritami. Samotný cap neprokazuje, že byl spender před Lava Burst dostupný nebo vhodnější.
 
-- Nek'zali the Soulcoiler · 00:28.850 — Lava Burst: uloženo 0 Maelstrom, propadlo 8. [Důkaz](index.html#evidence-e00426bf59f08278d2b88b989d7eeca0ab5815a3a8c5a0a2706c2284130ed654)
-- Nek'zali the Soulcoiler · 04:48.285 — Lava Burst: uloženo 7 Maelstrom, propadlo 1. [Důkaz](index.html#evidence-725f623968ab455f2cc4923486fdd33613ce05ee39e89332fb1e0ef897e59de5)
-- Vashnik the Malignant · 01:49.974 — Lava Burst: uloženo 0 Maelstrom, propadlo 8. [Důkaz](index.html#evidence-9a43c14813c2be9bdafff3340c2eb24cdd10fd919be667d0c964ab7a268c4bf7)
+- Nek'zali the Soulcoiler · 00:24.795 — Lava Burst: uloženo 3 Maelstrom, propadlo 5. [Důkaz](index.html#evidence-050349b11e95827a8bd1f545c5c8c25123cea76d0dae9c4e9b55216440140a3a)
+- Nek'zali the Soulcoiler · 02:33.740 — Lava Burst: uloženo 0 Maelstrom, propadlo 8. [Důkaz](index.html#evidence-fe69cfe78a28e0ad0c3f94c714ea41696ca41c5d5f2add724113347b2cd16781)
+- Nek'zali the Soulcoiler · 02:39.159 — Lava Burst: uloženo 0 Maelstrom, propadlo 8. [Důkaz](index.html#evidence-62e376f2dfc11cecf872c50c9311f71c294fe341b6835358d8ecbf80f542ec76)
+- Nek'zali the Soulcoiler · 02:43.467 — Lava Burst: uloženo 0 Maelstrom, propadlo 8. [Důkaz](index.html#evidence-2d43ada7266910cb10f8e7b91fdf3362b916cd0f13aad27a3c7dbbf25458402d)
+- Nek'zali the Soulcoiler · 02:46.659 — Lava Burst: uloženo 0 Maelstrom, propadlo 8. [Důkaz](index.html#evidence-8c30a24831bd72752523ee35555bdeb2148f803979e5e43b71946392e426c852)
 
-### Lava Surge odstraněné při očekávané expiraci
+Cooldown intervaly k samostatnému posouzení: 1.
+
+## Íácekpwn-Drak'thul-EU
+
+Analyzovaní bossové: Nek'zali the Soulcoiler, The Coiled Altar, The Lost Explorers, Sszorak, Kith'ix.
+
+Nemáme konkrétní podklad pro změnu rotace.
+
+Cooldown intervaly k samostatnému posouzení: 3.
+
+## Odmin-Drak'thul-EU
+
+Analyzovaní bossové: Nek'zali the Soulcoiler, The Coiled Altar, Ula'tek, The Lost Explorers, Sszorak, Kith'ix.
+
+### Felblade: Fury cap, pohyb a Inertia
 
 Pozorování k ověření
 
-Lava Surge skončil při očekávané expiraci během dalšího castování. Lava Burst má podmíněné priority; bez znalosti celé situace nelze doporučit jeho vložení před Chain Lightning.
+19 × Felblade; propadlo 222 Fury.
 
+U konkrétního Felblade rozliš účel doskoku, Inertia a generování Fury. Pohybový důvod ani dostupný Chaos Strike / Annihilation nejsou samotným gainem potvrzené; z capu nepředepisujeme vynechání Felblade.
 
+- Nek'zali the Soulcoiler · 01:25.799 — Felblade: uloženo 12 Fury, propadlo 3. [Důkaz](index.html#evidence-2bcf2aec1ec0a367e01a2c9af83af409b80b976392a5fc5ba2daf12a8b825ec9)
+- Nek'zali the Soulcoiler · 01:54.180 — Felblade: uloženo 2 Fury, propadlo 13. [Důkaz](index.html#evidence-70be9e8163889b26720df569474597001db7d1d68978ac12658a242ac9b443cc)
+- Nek'zali the Soulcoiler · 02:23.368 — Felblade: uloženo 12 Fury, propadlo 3. [Důkaz](index.html#evidence-bd729e3bb37380b1d3479dcbfe2c4cbea86cafdcb5ef2394d1533b96b8879d7c)
+- The Coiled Altar · 04:55.974 — Felblade: uloženo 0 Fury, propadlo 15. [Důkaz](index.html#evidence-3727d71579feaab6e4cc7ebfc5d40a92da52f74097fb72eacbe3b7a27f0e870d)
+- Ula'tek · 00:49.198 — Felblade: uloženo 0 Fury, propadlo 15. [Důkaz](index.html#evidence-91bc748561e5bdbce2a83350bdbfea2473e3d073fed8c07eee348d3896a043ee)
+- Ula'tek · 01:59.459 — Felblade: uloženo 0 Fury, propadlo 15. [Důkaz](index.html#evidence-7e24092d320bda78080f568ad3ea005ba965df731f47769348f7d6b35dc445b2)
+- Ula'tek · 02:57.228 — Felblade: uloženo 0 Fury, propadlo 15. [Důkaz](index.html#evidence-92bf077b86ca71d1d6953a9853943b756d14f4dc4e4192e6732bde818ba70e9a)
+- Ula'tek · 03:28.183 — Felblade: uloženo 13 Fury, propadlo 2. [Důkaz](index.html#evidence-31efd74717bac07998838c55a1a99b0e5e250a2b756d9f4a8ed605b9de4a02f6)
+- Ula'tek · 04:21.520 — Felblade: uloženo 0 Fury, propadlo 15. [Důkaz](index.html#evidence-886821f273096db3067264c59a0a7b8497c29e8a10d37ff76a66fc1126130ac6)
+- Ula'tek · 04:38.550 — Felblade: uloženo 6 Fury, propadlo 9. [Důkaz](index.html#evidence-6b97fb476a532649984a09f0a66b4b9c7f4f651ea50a71fb57b73302661b530d)
+- Ula'tek · 05:52.509 — Felblade: uloženo 0 Fury, propadlo 15. [Důkaz](index.html#evidence-97927c7787a0dc6f63656ad5ed6a55dade7f79180988ec593efedd82e747ef9c)
+- Ula'tek · 06:35.185 — Felblade: uloženo 13 Fury, propadlo 2. [Důkaz](index.html#evidence-2a25ca274e0bd65d27095c3bdd998426ea7bb60d28ad8d1b9ff2b321ef755684)
+- Ula'tek · 08:08.431 — Felblade: uloženo 5 Fury, propadlo 10. [Důkaz](index.html#evidence-42dd49431d4a3f3dd643e8b94657377bc756b60348260c76b60dd2c4bb0ae9d4)
+- The Lost Explorers · 00:28.943 — Felblade: uloženo 0 Fury, propadlo 15. [Důkaz](index.html#evidence-472aa9b3e0b52a24f46224ae143085305cc55f76eeb050126388795fbbad1ae8)
+- Sszorak · 00:22.543 — Felblade: uloženo 0 Fury, propadlo 15. [Důkaz](index.html#evidence-d0a0f4539d233fa86d23ff1a6c5082a4e894e46ffa2c240e3a4d49c41ec38351)
+- Sszorak · 02:33.440 — Felblade: uloženo 0 Fury, propadlo 15. [Důkaz](index.html#evidence-6d986bcf6567fa0637ca7647eb2be9b94ab6d898d3cd41bf50a3c12e56abf177)
+- Kith'ix · 00:16.888 — Felblade: uloženo 0 Fury, propadlo 15. [Důkaz](index.html#evidence-8ae94038d6e06e639e5c68b730aaba5391139257179b81ff43930954c312c34b)
+- Kith'ix · 00:25.248 — Felblade: uloženo 0 Fury, propadlo 15. [Důkaz](index.html#evidence-a566705b544b51c9719fa3be4be7e0bc3eda3f73efb341f820365d51521608cf)
+- Kith'ix · 03:37.883 — Felblade: uloženo 0 Fury, propadlo 15. [Důkaz](index.html#evidence-c4718133dcb884ec9e1823380643d41f593fe7be250f8b726184a2bcd9a42f4f)
 
-- Nek'zali the Soulcoiler · 03:38.205 — Proc od 03:28.195 do 03:38.205; odstranění při očekávané expiraci během vlastní aktivity. [Důkaz](index.html#evidence-521a0c35ab9cd6076bb7d8a27ba1605004a952a6be2454ad80d0d0fefdb5f2b3)
-
-Cooldown intervaly k samostatnému posouzení: 0.
+Cooldown intervaly k samostatnému posouzení: 5.
 
 ## Fobina-Drak'thul-EU
 
-Analyzovaní bossové: Nek'zali the Soulcoiler, The Coiled Altar, Ula'tek, Kith'ix, Entombed Sentinels, Vashnik the Malignant.
+Analyzovaní bossové: Nek'zali the Soulcoiler, The Coiled Altar, Ula'tek, The Lost Explorers, Sszorak, Kith'ix.
 
 Nemáme konkrétní podklad pro změnu rotace.
 
 Cooldown intervaly k samostatnému posouzení: 0.
 
-## Slejhy-Drak'thul-EU
+## Shalo-Drak'thul-EU
 
-Analyzovaní bossové: Nek'zali the Soulcoiler, The Coiled Altar, Ula'tek, Kith'ix, Entombed Sentinels, Vashnik the Malignant.
-
-### Mutilate: CP cap a Envenom okna
-
-Pozorování k ověření
-
-24 sledovaných Mutilate s CP capem: 13 při doložené absenci Envenom v 8 oknech, 11 s přítomným buffem, 0 s neznámým stavem. Okna jsou pozorovaná; není to počet potvrzených chyb ani dostupných Envenom.
-
-Začni úseky, kde chyběl vlastní Envenom a dál následoval Mutilate. Zkontroluj obnovení buffu spolu s bleedy a vyššími cooldown prioritami. U Mutilate s aktivním Envenom rozhoduje také zbývající doba buffu a Energy pooling. Samotný CP cap není automatický pokyn Envenom okamžitě použít.
-
-- Nek'zali the Soulcoiler · 01:22.076 — Mutilate: uloženo 0 Combo Points, propadlo 2. [Důkaz](index.html#evidence-4563fa4a8cf0590579dadc68f942cfd61b4b421434793902b91b02c554b9debf)
-- Nek'zali the Soulcoiler · 01:24.455 — Mutilate: uloženo 0 Combo Points, propadlo 2. [Důkaz](index.html#evidence-5b947ffb5e569e549ae424036b4cfc183ac37d29e3dfef9d7449fecbad4659de)
-- Nek'zali the Soulcoiler · 01:33.407 — Mutilate: uloženo 0 Combo Points, propadlo 2. [Důkaz](index.html#evidence-0ddeac28586900e6330f4921cbb622d7c8705f3fdc0353d4456fcc99e11c7439)
-- Nek'zali the Soulcoiler · 02:31.406 — Mutilate: uloženo 1 Combo Points, propadlo 1. [Důkaz](index.html#evidence-a68325de6a9c61f9c489a061188c3e2f64103cfb8c444b0cfaca75189077dd1e)
-- Nek'zali the Soulcoiler · 03:04.446 — Mutilate: uloženo 0 Combo Points, propadlo 2. [Důkaz](index.html#evidence-3d7c40e62c9404eb715a834d5c474737afd5bbf81671e776decab25530cfbfde)
-- The Coiled Altar · 00:14.449 — Mutilate: uloženo 1 Combo Points, propadlo 1. [Důkaz](index.html#evidence-a5fdff9d9d30325b42dd129fab60428580d2913b376770d399633eb1940e88bc)
-- The Coiled Altar · 02:48.334 — Mutilate: uloženo 0 Combo Points, propadlo 2. [Důkaz](index.html#evidence-2e0b03ead3d54e3b05a6e5b1c06d482a7fb47c576bfb7f3d61c899e0c7a2c172)
-- Ula'tek · 00:21.586 — Mutilate: uloženo 0 Combo Points, propadlo 2. [Důkaz](index.html#evidence-ea618bf0470fbe4b28e034ebba8e1cb284a69598377544cb05094a13b8b482e9)
-- Ula'tek · 04:20.634 — Mutilate: uloženo 0 Combo Points, propadlo 2. [Důkaz](index.html#evidence-997b40a947c1d28942d311558e0599b962b5152e0f87a77bdd140393f978d804)
-- Ula'tek · 06:24.733 — Mutilate: uloženo 1 Combo Points, propadlo 1. [Důkaz](index.html#evidence-be251227fb9b190aba840b64ab36130ff9e83b2f8256a5abd62a0f793439c512)
-- Ula'tek · 06:55.399 — Mutilate: uloženo 1 Combo Points, propadlo 1. [Důkaz](index.html#evidence-5a5c6ceec766444255bbd5cddd0d4db5a067f70f270aed8d62fa6ed02043cf89)
-- Ula'tek · 09:26.361 — Mutilate: uloženo 0 Combo Points, propadlo 2. [Důkaz](index.html#evidence-2b55e63b91b3dd745d8bbf78db83f62fd2f2362fe7d14790bbfe2dad04114acd)
-- Ula'tek · 09:34.410 — Mutilate: uloženo 0 Combo Points, propadlo 2. [Důkaz](index.html#evidence-07ea5f2cca8f176b1c3995553ddf2370a16f208503ac6d9b637903caac5f4fbf)
-- Ula'tek · 09:35.430 — Mutilate: uloženo 0 Combo Points, propadlo 2. [Důkaz](index.html#evidence-7c7a9566c7e4f83508ab2e84f88fc4e97ac964f5b853651b39b517b04e027aa7)
-- Ula'tek · 09:37.265 — Mutilate: uloženo 0 Combo Points, propadlo 2. [Důkaz](index.html#evidence-067a25e96a629f06d3c10fce043b3e442406ed7f3f13bed39a3e961bb7b3c1cb)
-- Kith'ix · 01:30.563 — Mutilate: uloženo 1 Combo Points, propadlo 1. [Důkaz](index.html#evidence-e77a28333592881df0382949bc81a9d6bcde18dedee063cc560ece8042873894)
-- Kith'ix · 03:17.371 — Mutilate: uloženo 1 Combo Points, propadlo 1. [Důkaz](index.html#evidence-a449dc42fd192f46260790ba8937c580600f474b76897420429c01e04d10e450)
-- Kith'ix · 03:21.802 — Mutilate: uloženo 0 Combo Points, propadlo 2. [Důkaz](index.html#evidence-92983074a9691e56d536aedb1aa30b7d12c23df736d1aa8251e82676c81cbb1e)
-- Kith'ix · 03:22.773 — Mutilate: uloženo 0 Combo Points, propadlo 2. [Důkaz](index.html#evidence-a0f48c341a40d61fe283bbc39cdf3e05629e652b836e898c14c5560578721a10)
-- Entombed Sentinels · 00:21.754 — Mutilate: uloženo 0 Combo Points, propadlo 2. [Důkaz](index.html#evidence-d7031ba6571a3f1f78e25f27683114a0675acd4434f383b5c1206718afd2b9a6)
-- Entombed Sentinels · 01:19.157 — Mutilate: uloženo 1 Combo Points, propadlo 1. [Důkaz](index.html#evidence-269b312179695b91432100e053c298ef5f759ffff83a23b5c04befefdd951ae9)
-- Entombed Sentinels · 02:36.460 — Mutilate: uloženo 1 Combo Points, propadlo 1. [Důkaz](index.html#evidence-143e79ea34876607fd4cde92910e305bfae3d941c20a9166f633fe9a5d29a797)
-- Entombed Sentinels · 02:45.973 — Mutilate: uloženo 0 Combo Points, propadlo 2. [Důkaz](index.html#evidence-93a1331cb7fe0bf89cc9f1eac99908f93d6d2160c82fc72412eb3e6e431d7ab5)
-- Entombed Sentinels · 03:17.847 — Mutilate: uloženo 0 Combo Points, propadlo 2. [Důkaz](index.html#evidence-a6fd9dbd45a1f926faa19cc87393437509e9d6918e4c0a06515fdaf27e498576)
-
-Cooldown intervaly k samostatnému posouzení: 13.
-
-## Rhínö-Drak'thul-EU
-
-Analyzovaní bossové: Nek'zali the Soulcoiler, The Coiled Altar, Ula'tek, Kith'ix, Entombed Sentinels, Vashnik the Malignant.
-
-### Starfire / Wrath: cap při dokončení
-
-Pozorování k ověření
-
-21 × Starfire; propadlo 163.5 Astral Power. Kalibrovaný nezískaný přebytek v těchto případech: 163.5 AP. Snapshot a maximum mají odlišné měřítko od gain/waste; nejde o výpočet ztraceného damage.
-
-Nezaměň Astral Power při dokončení se stavem při startu castu. U uvedených časů porovnej příchozí gainy během castu, Eclipse a vyšší priority; samotný cap není pokyn vložit Starsurge / Starfall před tento cast.
-
-- Nek'zali the Soulcoiler · 01:47.268 — Starfire: uloženo 0 Astral Power, propadlo 12. [Důkaz](index.html#evidence-3e13cbd8e17d661ed0983f6d0524982a6eba29949152a004b271acf730654ffd)
-- Nek'zali the Soulcoiler · 04:25.006 — Starfire: uloženo 9.5 Astral Power, propadlo 2.5. [Důkaz](index.html#evidence-b21c0e9f7f47b79800fd7ba55204bf71a2c4adf944fe531e7fe6d4f7f1af23b2)
-- The Coiled Altar · 00:11.077 — Starfire: uloženo 0 Astral Power, propadlo 12. [Důkaz](index.html#evidence-3b4ab03ee26a8d68d55cfb2ffb3a2691d0352f8076e0b8928da783f5b7aa6f59)
-- The Coiled Altar · 01:16.069 — Starfire: uloženo 0 Astral Power, propadlo 12. [Důkaz](index.html#evidence-95216e7833cc75199ff7cecdbb1c1faf19e6c07f6ebac42604dadd623a84f98c)
-- The Coiled Altar · 01:41.446 — Starfire: uloženo 11 Astral Power, propadlo 1. [Důkaz](index.html#evidence-ff79141d50c3ca95d57b7c24232c527fbef37e1ca32ea45db17f8d5c95c4ebc7)
-- The Coiled Altar · 01:47.555 — Starfire: uloženo 3.5 Astral Power, propadlo 8.5. [Důkaz](index.html#evidence-16c7dc46a6b85b0b6adefc8a43ef558e03f49061e8f75b0c79ce3f5be0f64c91)
-- The Coiled Altar · 02:33.966 — Starfire: uloženo 3.5 Astral Power, propadlo 8.5. [Důkaz](index.html#evidence-340a62fc805bdcfad24c78ef5d769b45d3c32d537adb821759293a3da525d3d2)
-- The Coiled Altar · 03:50.269 — Starfire: uloženo 10.5 Astral Power, propadlo 1.5. [Důkaz](index.html#evidence-4f641100ad1fb85d7c660b75ded23665026aebe4aa8115d4ace068d700692021)
-- Ula'tek · 00:52.232 — Starfire: uloženo 3.5 Astral Power, propadlo 8.5. [Důkaz](index.html#evidence-76287488021762cac0b38973d91334cf05e6596aa4f7ac266e35609316d8daa9)
-- Ula'tek · 05:08.560 — Starfire: uloženo 10 Astral Power, propadlo 2. [Důkaz](index.html#evidence-04a0e3f31379fce3113bc32f348c590062a0fb1d4f008698553b47ad182f7ddb)
-- Entombed Sentinels · 00:32.404 — Starfire: uloženo 0 Astral Power, propadlo 12. [Důkaz](index.html#evidence-f1a01314c40d184565449c8e49b47526cf603922e0822412051c887613e3b16f)
-- Entombed Sentinels · 02:58.320 — Starfire: uloženo 0 Astral Power, propadlo 12. [Důkaz](index.html#evidence-bdcf10060ef91c69fa7ec492de5585dc0b65cda6bf5a6952f20ecb75f17996bf)
-- Entombed Sentinels · 03:30.210 — Starfire: uloženo 0 Astral Power, propadlo 12. [Důkaz](index.html#evidence-7bc4ae07939cb39741cf9c9dd5b41aec8dc446b930ae74f9bf80b4127d362a58)
-- Entombed Sentinels · 03:49.441 — Starfire: uloženo 4 Astral Power, propadlo 8. [Důkaz](index.html#evidence-d67b3291720c56199be0aa9248d6c7bd901cb5e6393b21e3aeeb9283f251c323)
-- Vashnik the Malignant · 00:13.937 — Starfire: uloženo 6 Astral Power, propadlo 6. [Důkaz](index.html#evidence-709bd5ce70752deab8ffc5a2fb9527bf4cd1587210ea8ebd679ec553d860f4d4)
-- Vashnik the Malignant · 00:56.320 — Starfire: uloženo 0 Astral Power, propadlo 12. [Důkaz](index.html#evidence-392100ae9d94e1b74ea51529ebc7077f4ae444af2af8c0ea66d1bb0012daea74)
-- Vashnik the Malignant · 01:42.294 — Starfire: uloženo 0 Astral Power, propadlo 12. [Důkaz](index.html#evidence-0411d385f84fed07193b7c90791bad71351feab47ae998819a0a56b4875b1711)
-- Vashnik the Malignant · 02:57.871 — Starfire: uloženo 7.5 Astral Power, propadlo 4.5. [Důkaz](index.html#evidence-250cbe5268399a59c323fb9837e6a780f4fd7e5d5977b460088f2253620a9992)
-- Vashnik the Malignant · 02:59.370 — Starfire: uloženo 0 Astral Power, propadlo 12. [Důkaz](index.html#evidence-99e814409600c7972c23ea6612bacecb71e0006fb535b4fd164db74940146179)
-- Vashnik the Malignant · 03:11.289 — Starfire: uloženo 8 Astral Power, propadlo 4. [Důkaz](index.html#evidence-419c068ee86aca1eaf3bf2cd33ffcf5e73c5fab8b48120e10ba46f1e0742c914)
-- Vashnik the Malignant · 03:51.198 — Starfire: uloženo 11.5 Astral Power, propadlo 0.5. [Důkaz](index.html#evidence-d84925a5ee507d3e33bcc70c72581dd6ec0a965f2327cbb91fc9f31a6caf9d6d)
-
-Cooldown intervaly k samostatnému posouzení: 0.
-
-## Luminos-BurningBlade-EU
-
-Analyzovaní bossové: Nek'zali the Soulcoiler.
+Analyzovaní bossové: Nek'zali the Soulcoiler, The Coiled Altar, Ula'tek, The Lost Explorers, Sszorak, Kith'ix.
 
 Nemáme konkrétní podklad pro změnu rotace.
 
-### Vlastní Power Infusion bez překryvu s Voidform
+Cooldown intervaly k samostatnému posouzení: 2.
+
+## Iluneesama-Drak'thul-EU
+
+Analyzovaní bossové: Nek'zali the Soulcoiler, The Coiled Altar, Ula'tek, The Lost Explorers, Sszorak, Kith'ix.
+
+### Blade of Justice: Holy Power cap a proc výjimka
 
 Pozorování k ověření
 
-Power Infusion v uvedených oknech nemělo zaznamenaný překryv s Voidform. U těchto časů zkontroluj, zda načasování souviselo se spoluhráčem nebo mechanikou. Dostupnost Voidform není doložená, proto přesun Power Infusion nepředepisujeme. U části situací se nepodařilo ověřit celý potřebný kontext; konkrétní změnu rotace z nich neurčujeme.
+40 × Blade of Justice; propadlo 70 Holy Power. Art of War: doloženě chyběl u 16, neznámý stav u 20 z 40 pozorovaných castů. Neznámé není nepřítomné. Hero kontext: 0 případů Templar, 40 Herald of the Sun. Předchozí Holy Power snapshoty obsahují cenu finisheru; částku nelze převzít jako stav po utracení. Righteous Cause není vybraný u všech 40 sledovaných případů. Art of War: 16 doložených absencí, 20 neznámých stavů; neznámé není nepřítomné. Divine Purpose při Blade of Justice: 7 doložených přítomností z 40 případů. Reference má základní cenu finisherů 3 Holy Power a oddělené free větve; hranice 5 Holy Power v APL není cena Hammer of Light. U 24 případů vybraný Walk Into Light a přítomný Avenging Wrath vylučují konkrétní proc větev Blade of Justice v referenci; nejde tím o 24 potvrzených chyb.
 
+Righteous Cause v těchto buildech není. U uvedených Blade of Justice tedy řeš Art of War a pořadí finisherů vůči Wake of Ashes. Při 5 Holy Power reference kontroluje finishery před proc větví, pokud ještě dobíhá cooldown Wake of Ashes. Dostupný finisher ani Wake stav zatím nejsou doložené; konkrétní záměnu nepředepisujeme.
 
+- Nek'zali the Soulcoiler · 00:05.100 — Blade of Justice: uloženo 0 Holy Power, propadlo 2. [Důkaz](index.html#evidence-608c60d5024a3a07b1164b591c9ad4eab65f9f753fc193fb77c29e90e67ae3d9)
+- Nek'zali the Soulcoiler · 01:13.061 — Blade of Justice: uloženo 0 Holy Power, propadlo 2. [Důkaz](index.html#evidence-da912d887ad25d34e08ac7308eddcea3b328107154d551904e6c34f636378b23)
+- Nek'zali the Soulcoiler · 02:43.838 — Blade of Justice: uloženo 0 Holy Power, propadlo 2. [Důkaz](index.html#evidence-e372d326e051508189ecf0de15dcc25b0a0773a579c8787428760888e6b603cf)
+- Nek'zali the Soulcoiler · 02:57.865 — Blade of Justice: uloženo 1 Holy Power, propadlo 1. [Důkaz](index.html#evidence-64485bc5ac038e2e70a9c36661ac6bea496b2cefcace5962725a0d78a18223b8)
+- Nek'zali the Soulcoiler · 03:15.500 — Blade of Justice: uloženo 0 Holy Power, propadlo 2. [Důkaz](index.html#evidence-2909eb21ed25501943f86b1c199dd0b76d72039b9b61772456fb915df5379abb)
+- The Coiled Altar · 01:05.164 — Blade of Justice: uloženo 0 Holy Power, propadlo 2. [Důkaz](index.html#evidence-e5ab5c0dc49e75144be9019a4860588612723dcc722c7ab7c3f90b849d2bbdb9)
+- The Coiled Altar · 01:24.148 — Blade of Justice: uloženo 0 Holy Power, propadlo 2. [Důkaz](index.html#evidence-7af0b904fb20f8f3be211c98f925273c4ff8d985c160b33560408b601e1e11e6)
+- The Coiled Altar · 01:28.543 — Blade of Justice: uloženo 0 Holy Power, propadlo 2. [Důkaz](index.html#evidence-c80179e8f34a226d4ed8cdeb66c89d4b042f2bfa69795dc7227b9ebe2b95f533)
+- The Coiled Altar · 01:50.806 — Blade of Justice: uloženo 0 Holy Power, propadlo 2. [Důkaz](index.html#evidence-012155499a6f898fa8874523e37a310960043f1fd9944417a1f61c6d3e601242)
+- The Coiled Altar · 02:37.063 — Blade of Justice: uloženo 1 Holy Power, propadlo 1. [Důkaz](index.html#evidence-6d9e2caf53f9e771aeffbbb1b2c039e941cd35cdbe1de39ec04cb99ec186165c)
+- The Coiled Altar · 03:08.488 — Blade of Justice: uloženo 0 Holy Power, propadlo 2. [Důkaz](index.html#evidence-f7d1873f401d26573d8be60bce91563ac762727ef8ec511a7bf950f63fbf45d7)
+- The Coiled Altar · 03:30.388 — Blade of Justice: uloženo 1 Holy Power, propadlo 1. [Důkaz](index.html#evidence-67f892b4de94a16d6e0fbe3131be45b5763663a66aa41c3b818a2cbfc898889b)
+- The Coiled Altar · 03:40.638 — Blade of Justice: uloženo 0 Holy Power, propadlo 2. [Důkaz](index.html#evidence-3d8428a3d0faa07d09f8431fca6b4e9be8a50ac006db876e12ea2866090aa7a2)
+- The Coiled Altar · 04:45.797 — Blade of Justice: uloženo 0 Holy Power, propadlo 2. [Důkaz](index.html#evidence-c4e713602f122713da14a93540a319a0c80a1398df162c35224883ce3959c7a2)
+- The Coiled Altar · 05:19.466 — Blade of Justice: uloženo 0 Holy Power, propadlo 2. [Důkaz](index.html#evidence-6358cc8b9121e15cfaa478b5caa63a08ebc425571eb0df478795ac1b308091ed)
+- The Coiled Altar · 05:23.834 — Blade of Justice: uloženo 0 Holy Power, propadlo 2. [Důkaz](index.html#evidence-350d597784640fbf1f8159af617bf7f6cb0023fb44966e9fb25b407456348c8f)
+- Ula'tek · 00:58.926 — Blade of Justice: uloženo 0 Holy Power, propadlo 2. [Důkaz](index.html#evidence-875110bfd12b50ed716124e74cb758f6ce909f20fae7fd52857cb59b70dda56e)
+- Ula'tek · 08:25.144 — Blade of Justice: uloženo 0 Holy Power, propadlo 2. [Důkaz](index.html#evidence-2abe86c8d3b51a0677320d8e8e2dcbacf9148c72fdf1998a1ac7124daada075c)
+- Ula'tek · 08:31.686 — Blade of Justice: uloženo 0 Holy Power, propadlo 2. [Důkaz](index.html#evidence-7be0a3bbc2004a5de01061330bd3e6f7a28ed7111e5f675759c58074bf683923)
+- Ula'tek · 08:38.122 — Blade of Justice: uloženo 0 Holy Power, propadlo 2. [Důkaz](index.html#evidence-f50d50ce2e9b93b4d72ed043c41945bc1b0b80118637ade5b0be4ca81181324f)
+- The Lost Explorers · 01:06.954 — Blade of Justice: uloženo 0 Holy Power, propadlo 2. [Důkaz](index.html#evidence-86e72b553e830c92bae551978aa5bf17e9cd278fbbadcf49c84fb1cd03bd6547)
+- The Lost Explorers · 01:16.132 — Blade of Justice: uloženo 0 Holy Power, propadlo 2. [Důkaz](index.html#evidence-2c54579417249e5f0f73183c853dcc373ad8d77b617e3ee073c5d578ce0d0a5f)
+- The Lost Explorers · 01:23.214 — Blade of Justice: uloženo 0 Holy Power, propadlo 2. [Důkaz](index.html#evidence-fb8dccdfc7a487f9ab82ef15fe2f6c1ea5de56041820b6988ebd7f276df7c581)
+- The Lost Explorers · 01:38.719 — Blade of Justice: uloženo 0 Holy Power, propadlo 2. Před castem doložený Art of War se 2 stacky; možná vyšší proc větev, ne prokázaná chyba. [Důkaz](index.html#evidence-cf851e2387aef8cef6dfbe5d59411afd61b017633dfb6e40bbac87a265fbebe3)
+- The Lost Explorers · 01:48.813 — Blade of Justice: uloženo 1 Holy Power, propadlo 1. [Důkaz](index.html#evidence-edc1333f3d0c70c126599ce285a3d198fa181e5407278074eca8f20fb8f612e5)
+- The Lost Explorers · 02:01.276 — Blade of Justice: uloženo 0 Holy Power, propadlo 2. [Důkaz](index.html#evidence-222a395d6a27d97d584bf6d2261fda7622d1daa80bfff8191c7985a70ffc2fea)
+- Sszorak · 00:11.254 — Blade of Justice: uloženo 0 Holy Power, propadlo 2. [Důkaz](index.html#evidence-ff17af4ae89afed02ce72db8758f93f69e0e3c2e299e603806ed9f77d60d8c70)
+- Sszorak · 00:17.247 — Blade of Justice: uloženo 0 Holy Power, propadlo 2. [Důkaz](index.html#evidence-3e161ec906161eba6d75a94ad8aaed7dd87ea914d27cfe61a7e2223f3b6c872e)
+- Sszorak · 00:50.162 — Blade of Justice: uloženo 1 Holy Power, propadlo 1. [Důkaz](index.html#evidence-8447d2594cb63a8d01f34ab69d4f34cdf0011ba43e56a4472222604ff8f34b63)
+- Sszorak · 01:00.175 — Blade of Justice: uloženo 1 Holy Power, propadlo 1. [Důkaz](index.html#evidence-3e578c01d33948bdb2a1e1cc4c18890340dca7248bf1e331cd71770da54a61c0)
+- Sszorak · 01:10.307 — Blade of Justice: uloženo 0 Holy Power, propadlo 2. [Důkaz](index.html#evidence-8bf958b73b5278b62ceb50cf845b4d78d2a523d1f9224bfd6b43ef1d020228ad)
+- Sszorak · 01:38.192 — Blade of Justice: uloženo 0 Holy Power, propadlo 2. [Důkaz](index.html#evidence-c79c275057611f7ec3ed5273438b1976948c83b8ae5ca9e08f6d5b8e82e435ad)
+- Sszorak · 03:10.081 — Blade of Justice: uloženo 1 Holy Power, propadlo 1. [Důkaz](index.html#evidence-f7cf89e038e0aaac9fe94fb0b84f1b742052c622d9d62dcbc552c2d48d1261e8)
+- Sszorak · 03:17.752 — Blade of Justice: uloženo 0 Holy Power, propadlo 2. [Důkaz](index.html#evidence-0d114f87a58870099bbe89e3b0c9cb8f27c0eb0c3d027c64196636fc63840633)
+- Sszorak · 03:22.721 — Blade of Justice: uloženo 1 Holy Power, propadlo 1. [Důkaz](index.html#evidence-5719641f47f796c3b0a72432031ca57f6a924fb206189ed81a85c293a8b0e791)
+- Kith'ix · 00:12.393 — Blade of Justice: uloženo 0 Holy Power, propadlo 2. [Důkaz](index.html#evidence-3af8df5039f30d4253b7b64e6da8e6f0d37d0a3a1ef9c687d09d53c1c2356505)
+- Kith'ix · 00:27.241 — Blade of Justice: uloženo 1 Holy Power, propadlo 1. [Důkaz](index.html#evidence-2f6c87e229ef7f858488faaaa8e1a95667ae95e18dd1ee02cd568ed2e34df133)
+- Kith'ix · 01:31.636 — Blade of Justice: uloženo 1 Holy Power, propadlo 1. [Důkaz](index.html#evidence-3c1e1124d0155d89932013114dc7e6880460d1ea22da26e649ff44c4ed6a7e8c)
+- Kith'ix · 03:47.458 — Blade of Justice: uloženo 0 Holy Power, propadlo 2. [Důkaz](index.html#evidence-90eb10dcee248b0af2c7cb37bd15883c68bd1e09b2d47b599c47b18e426fed41)
+- Kith'ix · 04:13.270 — Blade of Justice: uloženo 0 Holy Power, propadlo 2. [Důkaz](index.html#evidence-40ba8a3b5ee0869807d79f987a2547ffe9c410eb1e710c85a4fcfb54b5afc75f)
 
-- Nek'zali the Soulcoiler · 01:59.120 — Power Infusion v uvedených oknech nemělo zaznamenaný překryv s Voidform. U těchto časů zkontroluj, zda načasování souviselo se spoluhráčem nebo mechanikou. Dostupnost Voidform není doložená, proto přesun Power Infusion nepředepisujeme. [Důkaz](index.html#evidence-1a9b89819c27c5eb36669421d882864c976fb89bad80dd4af5833898f67b5c48)
-- Nek'zali the Soulcoiler · 04:01.981 — Power Infusion v uvedených oknech nemělo zaznamenaný překryv s Voidform. U těchto časů zkontroluj, zda načasování souviselo se spoluhráčem nebo mechanikou. Dostupnost Voidform není doložená, proto přesun Power Infusion nepředepisujeme. [Důkaz](index.html#evidence-3a357ec4ca46edec28bbe60b177267b9fa8fb5c769d47df51c0abeffc29c64bb)
-
-Cooldown intervaly k samostatnému posouzení: 0.
-
-## Omniblue-Drak'thul-EU
-
-Analyzovaní bossové: Nek'zali the Soulcoiler, The Coiled Altar, Ula'tek, Kith'ix, Entombed Sentinels, Vashnik the Malignant.
-
-### Mind Blast: zaznamenaný Insanity cap
-
-Pozorování k ověření
-
-5 × Mind Blast; propadlo 24.2 Insanity.
-
-U těchto Mind Blast posuzuj procy a skutečnou dostupnost spenderu před castem. Z dokončeného gainu nepředepisujeme automatické vložení Shadow Word: Madness.
-
-- Ula'tek · 05:05.560 — Mind Blast: uloženo 0 Insanity, propadlo 6. [Důkaz](index.html#evidence-b75ce9573ebf09694b583189136e0c60470795d2595f4830eb154377cfe0d686)
-- Kith'ix · 00:41.530 — Mind Blast: uloženo 0 Insanity, propadlo 6. [Důkaz](index.html#evidence-785bbc3304cd1edc4e2cc1dbebc8f8d824e131c7417da072b23852cd3bee83fe)
-- Entombed Sentinels · 03:16.937 — Mind Blast: uloženo 0 Insanity, propadlo 6. [Důkaz](index.html#evidence-6250c9b6313cbd17b378edae47b8622a1dd19fe0c15e619d92a3dbc7c39fa79e)
-- Entombed Sentinels · 03:19.220 — Mind Blast: uloženo 0 Insanity, propadlo 6. [Důkaz](index.html#evidence-2735d406b507d73e8dd6d0b08bc6808751ea2d3f246fa9ed0e83f06a88157c15)
-- Vashnik the Malignant · 00:35.244 — Mind Blast: uloženo 5.8 Insanity, propadlo 0.2. [Důkaz](index.html#evidence-9a511ae8056187d8c7d31961b3e41fc1397591bf9c2f139bb322a8629fc82b01)
-
-Cooldown intervaly k samostatnému posouzení: 4.
+Cooldown intervaly k samostatnému posouzení: 19.
 
 ## Theila-Drak'thul-EU
 
-Analyzovaní bossové: Nek'zali the Soulcoiler, The Coiled Altar, Ula'tek, Kith'ix, Entombed Sentinels, Vashnik the Malignant.
+Analyzovaní bossové: Nek'zali the Soulcoiler, The Coiled Altar, Ula'tek, The Lost Explorers, Sszorak, Kith'ix.
 
 ### Kill Command: Focus cap a související efekty
 
 Pozorování k ověření
 
-102 × Kill Command; propadlo 1189 Focus.
+123 × Kill Command; propadlo 1554 Focus.
 
 U uvedených Kill Command posuzuj vedle Focus i Tip of the Spear, pet damage a pohyb. Samotný cap neprokazuje, že Raptor Strike byl vhodnou a dostupnou náhradou.
 
-- Nek'zali the Soulcoiler · 00:03.768 — Kill Command: uloženo 0 Focus, propadlo 20. [Důkaz](index.html#evidence-d876858f7037a205065426c01ea56d48589a4c387a032a3ffebb1363d4498133)
-- Nek'zali the Soulcoiler · 00:05.519 — Kill Command: uloženo 0 Focus, propadlo 20. [Důkaz](index.html#evidence-c771cb6aaf3f793382a67fbf9c6f9d19c61b4ff4c0f67270b7883178311844dd)
-- Nek'zali the Soulcoiler · 01:11.861 — Kill Command: uloženo 0 Focus, propadlo 20. [Důkaz](index.html#evidence-faed65b124b6c46847d9cb51042f2f6a22f176ab41b74adc790d74fa2696576c)
-- Nek'zali the Soulcoiler · 01:14.657 — Kill Command: uloženo 0 Focus, propadlo 20. [Důkaz](index.html#evidence-02528c62bcf163335a9b937065d6bcd64c32b7027474d8e3fba03f898cae820a)
-- Nek'zali the Soulcoiler · 01:17.536 — Kill Command: uloženo 17 Focus, propadlo 3. [Důkaz](index.html#evidence-ce6cf0edd14c3f8cca11521ec9852824e968978738fb2f6ea9c406e133baa415)
-- Nek'zali the Soulcoiler · 01:38.212 — Kill Command: uloženo 19 Focus, propadlo 1. [Důkaz](index.html#evidence-a65d954e5dfffc3ae9b2d9ef4497db27d4532d7e3ad164652bc029f9696bec7d)
-- Nek'zali the Soulcoiler · 01:42.547 — Kill Command: uloženo 0 Focus, propadlo 20. [Důkaz](index.html#evidence-696a8e18585fdc73412034a046da57309956a7514a46bcb3c45415acf4557de2)
-- Nek'zali the Soulcoiler · 02:30.774 — Kill Command: uloženo 3 Focus, propadlo 17. [Důkaz](index.html#evidence-95904cb11e90e9d423c20049248f0fb250367396e8865db715db2f9c7d97e45a)
-- Nek'zali the Soulcoiler · 02:34.928 — Kill Command: uloženo 19 Focus, propadlo 1. [Důkaz](index.html#evidence-11b87da064d912c614fb993e66895e37befec743ebae4a09ead6dc76f3672539)
-- Nek'zali the Soulcoiler · 02:36.980 — Kill Command: uloženo 0 Focus, propadlo 20. [Důkaz](index.html#evidence-2292432fd9efbb9c90703899efef9a474ab321c3e3eb140b8774420c96a7072c)
-- Nek'zali the Soulcoiler · 02:40.709 — Kill Command: uloženo 0 Focus, propadlo 20. [Důkaz](index.html#evidence-aa0c0bff93c205e634ed54f70b1b6a7928a11c069a831cb5e8574a3370e116a5)
-- Nek'zali the Soulcoiler · 02:53.337 — Kill Command: uloženo 0 Focus, propadlo 20. [Důkaz](index.html#evidence-667ab8335d1e7050bf9a6689fce2c4555bb77cd26fa9b69ca30c4d75f8d5d50a)
-- Nek'zali the Soulcoiler · 03:19.308 — Kill Command: uloženo 0 Focus, propadlo 20. [Důkaz](index.html#evidence-e5f634071c6d1eb9467e2ba0aab0b523ed79139f7132dbfab29de4771946d160)
-- Nek'zali the Soulcoiler · 03:24.659 — Kill Command: uloženo 18 Focus, propadlo 2. [Důkaz](index.html#evidence-6eb764655e58b15cd962878ff08311f565d6188249610639e181148cbb1c1191)
-- Nek'zali the Soulcoiler · 03:28.880 — Kill Command: uloženo 18 Focus, propadlo 2. [Důkaz](index.html#evidence-61f06e9b9b3cbaa48dcd89291b654d34473ec8038903950456acd0c2d1a2b397)
-- Nek'zali the Soulcoiler · 04:33.846 — Kill Command: uloženo 17 Focus, propadlo 3. [Důkaz](index.html#evidence-17f66fe4f3640400fd4d750292cebe1ee59f510fd0589d864269a49e8c90448a)
-- Nek'zali the Soulcoiler · 04:37.896 — Kill Command: uloženo 17 Focus, propadlo 3. [Důkaz](index.html#evidence-714761a55499df15d3a38b3c0b446bc80fb3daac1370571cc0b654d1ed8a3f7f)
-- Nek'zali the Soulcoiler · 04:44.742 — Kill Command: uloženo 18 Focus, propadlo 2. [Důkaz](index.html#evidence-33ad95da29f5ff15cc53fa916a8229fdf79d6750e81f077a33f98e1b49fe090c)
-- Nek'zali the Soulcoiler · 04:55.302 — Kill Command: uloženo 18 Focus, propadlo 2. [Důkaz](index.html#evidence-92296b714e37e1d52503f83d1a5e70ce72837956c484626e42e4444088eaf687)
-- The Coiled Altar · 00:05.198 — Kill Command: uloženo 0 Focus, propadlo 20. [Důkaz](index.html#evidence-cd51e9fd69a77273e0fd1024b4fd70d9e0810998f75fbbc1ea4029a5d509431b)
-- The Coiled Altar · 00:22.112 — Kill Command: uloženo 0 Focus, propadlo 20. [Důkaz](index.html#evidence-3c7be6d7b25aaac97b50b8a0e21f0071499ae007f88bd0a8cb5f94f32d943f1b)
-- The Coiled Altar · 01:59.348 — Kill Command: uloženo 0 Focus, propadlo 20. [Důkaz](index.html#evidence-d366f324e5c8ef6647e6df5ab7626210926ad882d2d2f5803c0d2bf20ac1a515)
-- The Coiled Altar · 02:15.898 — Kill Command: uloženo 17 Focus, propadlo 3. [Důkaz](index.html#evidence-4ae3316489c39cc7ffb3582e3b90e018a6fb36c4d45b52c7cb824183b5a87d0f)
-- The Coiled Altar · 03:18.647 — Kill Command: uloženo 16 Focus, propadlo 4. [Důkaz](index.html#evidence-f4fbb530a985d13081c658a3c31a9781a1663fbd750ed754236b0d0f23b3b97e)
-- The Coiled Altar · 03:25.504 — Kill Command: uloženo 0 Focus, propadlo 20. [Důkaz](index.html#evidence-ff91cef0c25e1edc2f0690da91f1bc01d0763ec8f87b008d82d5f4e0aefe5b09)
-- The Coiled Altar · 03:27.578 — Kill Command: uloženo 0 Focus, propadlo 20. [Důkaz](index.html#evidence-1721d329784f3252485fcaf529861485d7ae936c1deb3b27756eb7da7bff67a8)
-- The Coiled Altar · 03:31.255 — Kill Command: uloženo 0 Focus, propadlo 20. [Důkaz](index.html#evidence-458d51316c8c3cfb83a739847ca1fb3c71d6a2acff068f26e1f2880a4ce7c6cf)
-- The Coiled Altar · 03:36.811 — Kill Command: uloženo 14 Focus, propadlo 6. [Důkaz](index.html#evidence-9615b530fd66f65fef2b39da971073215376f09c39cda5a193608f20231b3555)
-- The Coiled Altar · 03:44.093 — Kill Command: uloženo 18 Focus, propadlo 2. [Důkaz](index.html#evidence-5f567e31b6bc45bb9126ce0c67d739f924ef0a2bade06929ff7c3fa4f4c3bfa4)
-- The Coiled Altar · 05:05.350 — Kill Command: uloženo 3 Focus, propadlo 17. [Důkaz](index.html#evidence-97744d22901640af18372236d6f75b42125a32d949cd986fd532bf7397e45205)
-- The Coiled Altar · 06:50.659 — Kill Command: uloženo 14 Focus, propadlo 6. [Důkaz](index.html#evidence-883a2c2a5d7b488cbeaa101ef63177551bd36b24984aed9e6e691f19d86e5267)
-- The Coiled Altar · 06:57.852 — Kill Command: uloženo 18 Focus, propadlo 2. [Důkaz](index.html#evidence-850d1a052c2ff78bc0375f9841a5de63cb48031692c439a8f2a7090b958fd682)
-- The Coiled Altar · 07:01.375 — Kill Command: uloženo 0 Focus, propadlo 20. [Důkaz](index.html#evidence-7fd05a583fb10f489cc295ab5ed84a8aee0478f53093aebea84af5f1f6822606)
-- Ula'tek · 00:05.738 — Kill Command: uloženo 0 Focus, propadlo 20. [Důkaz](index.html#evidence-8311cf7ea94a9fc2c8bf6a1b93a67477c91a94a09dd530c814e00db41e518c75)
-- Ula'tek · 01:01.596 — Kill Command: uloženo 13 Focus, propadlo 7. [Důkaz](index.html#evidence-1da73baf920ef6257fe00f89040513c716bfe56a34f167fff4b11ca368f7283e)
-- Ula'tek · 01:07.229 — Kill Command: uloženo 0 Focus, propadlo 20. [Důkaz](index.html#evidence-426c288dfce82965322452f9ae3a056a6d5d46fbf094ce91920a2c4113589096)
-- Ula'tek · 02:20.281 — Kill Command: uloženo 0 Focus, propadlo 20. [Důkaz](index.html#evidence-a67fdeac21fccbb1452e2662193864ac479cbbf3f0ae330e05e1e3853940b918)
-- Ula'tek · 02:22.617 — Kill Command: uloženo 17 Focus, propadlo 3. [Důkaz](index.html#evidence-9aa05d923c75efaf7b6bb29a7e6f0d346434e160593b22f529663931c9eab764)
-- Ula'tek · 02:25.697 — Kill Command: uloženo 18 Focus, propadlo 2. [Důkaz](index.html#evidence-aebfa5eb6895b8417465e0489b1cdc0dfe31baa6985063b75476f8dbf17417e1)
-- Ula'tek · 02:32.109 — Kill Command: uloženo 17 Focus, propadlo 3. [Důkaz](index.html#evidence-81e60728a4eca3ecf08576f63e7c5ca8ec5b29ad761af7bdcb475f1a3aab3543)
-- Ula'tek · 02:55.913 — Kill Command: uloženo 0 Focus, propadlo 20. [Důkaz](index.html#evidence-7797fc297c5fd239efcfed576a5a915e3bacb5f0c0b2dfae27912d4b76af3b08)
-- Ula'tek · 03:38.721 — Kill Command: uloženo 0 Focus, propadlo 20. [Důkaz](index.html#evidence-bd3e9cdb0d62b33e7c98804d91fc79cf89cc7a49f90b481cb24a6665e5c25d29)
-- Ula'tek · 04:07.920 — Kill Command: uloženo 0 Focus, propadlo 20. [Důkaz](index.html#evidence-6a69b36bbf9ef85b4d612ad2621ad1f831b4c27471f44ad7dc51e977ac01d4f9)
-- Ula'tek · 04:12.417 — Kill Command: uloženo 0 Focus, propadlo 20. [Důkaz](index.html#evidence-47ae8a5cea861fca5c0ae4a78336412ec130f45058dd0aa57b42d5ba8dc0e2a0)
-- Ula'tek · 04:15.266 — Kill Command: uloženo 18 Focus, propadlo 2. [Důkaz](index.html#evidence-a9a2467eb9a1de6461fae689cf6a282502333a3cc8abed2ca0ed6699bc49a7bd)
-- Ula'tek · 04:19.742 — Kill Command: uloženo 17 Focus, propadlo 3. [Důkaz](index.html#evidence-533ac29bf2beac15de09feff65379037d537eee2c411bda8f40fdd3cf275f57d)
-- Ula'tek · 04:46.681 — Kill Command: uloženo 13 Focus, propadlo 7. [Důkaz](index.html#evidence-7cd9895b0364beb7e0bbc2f708879f8a3fc17c536e5742a30a0a5e3e33726b90)
-- Ula'tek · 04:52.314 — Kill Command: uloženo 17 Focus, propadlo 3. [Důkaz](index.html#evidence-2e66032232fa770959e4a535d054b20c7d8f3f8d6f122f14b46f917cc4a28e6b)
-- Ula'tek · 05:33.370 — Kill Command: uloženo 0 Focus, propadlo 20. [Důkaz](index.html#evidence-d6798c088e331ebb11bcb1e046c27c9849260050b956b0480ae8404d789bed89)
-- Ula'tek · 05:37.513 — Kill Command: uloženo 0 Focus, propadlo 20. [Důkaz](index.html#evidence-591a46b6e0b96befe683dc3b1defa370380704a0a37d2880fc0baa6693579c7f)
-- Ula'tek · 06:03.256 — Kill Command: uloženo 16 Focus, propadlo 4. [Důkaz](index.html#evidence-a2e791aadb919fc5d7e44595ad705678db00f70a2ebd5614fbaea3d4614eba85)
-- Ula'tek · 06:31.828 — Kill Command: uloženo 18 Focus, propadlo 2. [Důkaz](index.html#evidence-c9825845b338f47e4b8c069a3ea98ad1fdfa1168b57b88a55a696a7eb2bf3675)
-- Ula'tek · 06:35.886 — Kill Command: uloženo 0 Focus, propadlo 20. [Důkaz](index.html#evidence-bcfd29765659a9cd2b58e40f637f86b33c34b920f2a0ae3c3e4e9ae7dfc5f4f0)
-- Ula'tek · 06:41.750 — Kill Command: uloženo 4 Focus, propadlo 16. [Důkaz](index.html#evidence-db45bd8cbe3b4eded947d389e4c00366c9f0b99ac5d0a279e2e467fced8a2455)
-- Ula'tek · 07:47.557 — Kill Command: uloženo 18 Focus, propadlo 2. [Důkaz](index.html#evidence-6f33666bda2b1a049115c31370b136a37aef2b6726e6d1b4e2d29bbfd6edb8fb)
-- Ula'tek · 08:15.402 — Kill Command: uloženo 0 Focus, propadlo 20. [Důkaz](index.html#evidence-28df5ca3a9416494ebee36fd338a2a49a5b3f3131f4b85cf505d269828ed7aa3)
-- Ula'tek · 08:18.122 — Kill Command: uloženo 18 Focus, propadlo 2. [Důkaz](index.html#evidence-6e1cdf8f26782f36368a9d87da5542b0c5da00366ae57bc665a865d104a7651b)
-- Ula'tek · 08:26.239 — Kill Command: uloženo 17 Focus, propadlo 3. [Důkaz](index.html#evidence-6b55d7d3cb77301150c821a68d29826d8875864fca646780af19d2fd4c4c42d6)
-- Ula'tek · 08:34.885 — Kill Command: uloženo 0 Focus, propadlo 20. [Důkaz](index.html#evidence-50aed67fc54403afaf4efff4530262269b02aa74e595e4149f3276bc56d37bbc)
-- Ula'tek · 08:38.019 — Kill Command: uloženo 0 Focus, propadlo 20. [Důkaz](index.html#evidence-e8d61cadd48fab81ab596ff03e3bf5afa808fc02b944bc08be01b7c1e3a448c0)
-- Ula'tek · 08:43.653 — Kill Command: uloženo 9 Focus, propadlo 11. [Důkaz](index.html#evidence-34be07ee2fc66d6c8192bde99bccb9abba73dcdbe1c6b9f72bb6285a122aec9f)
-- Ula'tek · 08:47.201 — Kill Command: uloženo 0 Focus, propadlo 20. [Důkaz](index.html#evidence-6ae9a8f83cdab926279ef8af40b7b85d4f64f90bc936f600dfcaaaa9f9dc3b0d)
-- Ula'tek · 09:45.728 — Kill Command: uloženo 16 Focus, propadlo 4. [Důkaz](index.html#evidence-5c1559002e9f0f6b5a44419d2723cdab28320ff2e017fc60f014e1e4148ce6d1)
-- Kith'ix · 00:04.180 — Kill Command: uloženo 18 Focus, propadlo 2. [Důkaz](index.html#evidence-ff9ec73225c9b0b65eda5bce7fabc71e168e66c832f5194f0524f3e07914576a)
-- Kith'ix · 00:37.482 — Kill Command: uloženo 0 Focus, propadlo 20. [Důkaz](index.html#evidence-d6f6f640acad7c058d312e3b83df99b9c5ed1006311b1e98e3a3c6e1523ddfd2)
-- Kith'ix · 00:40.024 — Kill Command: uloženo 18 Focus, propadlo 2. [Důkaz](index.html#evidence-f0a64ea0d2dde1b9f18f16279a5d4ce6dca98d7b1d93ed038e800e8367a92c71)
-- Kith'ix · 00:43.643 — Kill Command: uloženo 18 Focus, propadlo 2. [Důkaz](index.html#evidence-75122b7091d349a942a8f6b09f7525830f53c461ed64c058ef5981d4618a7e79)
-- Kith'ix · 00:48.412 — Kill Command: uloženo 17 Focus, propadlo 3. [Důkaz](index.html#evidence-207c475b6600fab47ab372ed90c40cb8103c17be7b8cb449977cf9ab20bfcaf2)
-- Kith'ix · 02:36.168 — Kill Command: uloženo 16 Focus, propadlo 4. [Důkaz](index.html#evidence-3c9f2dcdc1698d05f1fa4e764490ae3f34a6af4d104a31d3d717a1f0dc77250f)
-- Kith'ix · 02:38.329 — Kill Command: uloženo 0 Focus, propadlo 20. [Důkaz](index.html#evidence-aba9bbc9a1561c9e16c89947520cf72ba079287d5eb3b668f97b0b96c3cb96f6)
-- Kith'ix · 02:47.039 — Kill Command: uloženo 0 Focus, propadlo 20. [Důkaz](index.html#evidence-d94e95bcb442588a9d48e76afb61d63449b47018e66b365484b094a24a562f76)
-- Kith'ix · 03:06.843 — Kill Command: uloženo 0 Focus, propadlo 20. [Důkaz](index.html#evidence-a02fe1a3c225331e4554a511260f48c70b2835650519fee7f5428954bdb3fef8)
-- Kith'ix · 03:09.572 — Kill Command: uloženo 17 Focus, propadlo 3. [Důkaz](index.html#evidence-803d2b560fbaf460972180668902f44a5af24bcf4a26bdc8c49a6c2cbc2e2e49)
-- Kith'ix · 03:23.941 — Kill Command: uloženo 17 Focus, propadlo 3. [Důkaz](index.html#evidence-e06e8aebe3a6355456fb34abe60537f6b3dae69d8318296512acbeeb0b483353)
-- Kith'ix · 03:48.535 — Kill Command: uloženo 5 Focus, propadlo 15. [Důkaz](index.html#evidence-47c15002eee2202db47eb73ad182e4b20b420978c12e6ebeb1f38b1523f1dfea)
-- Kith'ix · 04:05.377 — Kill Command: uloženo 0 Focus, propadlo 20. [Důkaz](index.html#evidence-04b4e6facf48e83a893661fdc0cb4adeb869a7da098d43a5349179a5133aa54e)
-- Entombed Sentinels · 00:04.125 — Kill Command: uloženo 0 Focus, propadlo 20. [Důkaz](index.html#evidence-e52a7176db6b5b92ee926a8aa5d61d8202af83f51b728fe3d6546de67f6481c5)
-- Entombed Sentinels · 00:11.499 — Kill Command: uloženo 19 Focus, propadlo 1. [Důkaz](index.html#evidence-8e5c25741ce26e13f035d4a9354f5d7b24b6a9719202261a03f1d7621cfbe8d1)
-- Entombed Sentinels · 00:24.753 — Kill Command: uloženo 0 Focus, propadlo 20. [Důkaz](index.html#evidence-b40a6ac6e0ae8edb620ec0d0f6e1601025a44b38ed1192168a60facc39e2b9e1)
-- Entombed Sentinels · 00:32.265 — Kill Command: uloženo 18 Focus, propadlo 2. [Důkaz](index.html#evidence-3b1c59c43a5f2208f0b78420e0cbe97d530b3e6f9dffd00d3b5ca1f487d5d6ce)
-- Entombed Sentinels · 01:39.590 — Kill Command: uloženo 0 Focus, propadlo 20. [Důkaz](index.html#evidence-205a77bfb371091c32f0e13b3f414cc03dca117eb644334d4fb338f5a923aa9d)
-- Entombed Sentinels · 01:43.622 — Kill Command: uloženo 18 Focus, propadlo 2. [Důkaz](index.html#evidence-6cf5d1996e4da1e2944f7aa0c487423e31b37469380104bdcc8f32312f0a9ed4)
-- Entombed Sentinels · 02:44.347 — Kill Command: uloženo 0 Focus, propadlo 20. [Důkaz](index.html#evidence-ef2667432172be7da256212610a67be44d10b4351f5f5d75b4a467e14d21310a)
-- Entombed Sentinels · 02:52.282 — Kill Command: uloženo 0 Focus, propadlo 20. [Důkaz](index.html#evidence-d30173ec2fe1274eafd9a44ca8c28258264a047284b3f311e15458ab981a82c3)
-- Entombed Sentinels · 03:05.116 — Kill Command: uloženo 9 Focus, propadlo 11. [Důkaz](index.html#evidence-43bd76cd1c2bbc917f5e23eef5b09d90bbb0b22b555145c08568a32261950705)
-- Entombed Sentinels · 03:07.562 — Kill Command: uloženo 0 Focus, propadlo 20. [Důkaz](index.html#evidence-cdcdea28841aee8af6c7410b8741e7969f673c33a5199f0db65b646389017efe)
-- Entombed Sentinels · 03:15.391 — Kill Command: uloženo 0 Focus, propadlo 20. [Důkaz](index.html#evidence-5bc193881a756c5af1236e649673a93e4ab0157f1a219a9a95b98570cc46842f)
-- Entombed Sentinels · 04:31.264 — Kill Command: uloženo 0 Focus, propadlo 20. [Důkaz](index.html#evidence-6e2fc2c3dd58562099914d29a2200ca4193e964bfd844494e011688fcbadd8e7)
-- Entombed Sentinels · 04:47.568 — Kill Command: uloženo 0 Focus, propadlo 20. [Důkaz](index.html#evidence-8e7adb6d3cbb93ce5e196d7407144e41d1118f823d6b502c2e829336bddac32b)
-- Entombed Sentinels · 04:48.944 — Kill Command: uloženo 0 Focus, propadlo 20. [Důkaz](index.html#evidence-2cac6b2c938c769f943dc1442558b96a6b305cb3106d1326e5dec26418e438e0)
-- Vashnik the Malignant · 00:02.914 — Kill Command: uloženo 17 Focus, propadlo 3. [Důkaz](index.html#evidence-84bd4cd6ae4ea80745cb41958c4bba7aa9d71fa3a8464e8e334361ace3ff2eaf)
-- Vashnik the Malignant · 00:06.089 — Kill Command: uloženo 19 Focus, propadlo 1. [Důkaz](index.html#evidence-7ea4ced8d20896731d08d744d1b6355ead13eb89b07cf654d39b7dccd3e8ab52)
-- Vashnik the Malignant · 00:15.456 — Kill Command: uloženo 0 Focus, propadlo 20. [Důkaz](index.html#evidence-997f97085bc5b5da43deea8fb99e4d7278775e2272a4ae76ff6b02dbb72f00be)
-- Vashnik the Malignant · 00:22.187 — Kill Command: uloženo 17 Focus, propadlo 3. [Důkaz](index.html#evidence-1b7b60d7ade684c37e0cd62c7b235200a787e2b2c57ed000ce7374f700aec0e1)
-- Vashnik the Malignant · 00:26.530 — Kill Command: uloženo 18 Focus, propadlo 2. [Důkaz](index.html#evidence-1040dc5de365aa5d6a4a37c53372b4e03b369bfb103792eb439253c9e9bc14c8)
-- Vashnik the Malignant · 01:54.100 — Kill Command: uloženo 0 Focus, propadlo 20. [Důkaz](index.html#evidence-655a80d4981cc9fe5d90c80524623c79a4c526ed511a8dfaf262b1d114fcc48f)
-- Vashnik the Malignant · 02:23.007 — Kill Command: uloženo 17 Focus, propadlo 3. [Důkaz](index.html#evidence-bd3ac2e114787d74cb27dad05570184c347a2c6d09ca1fec2744a69aa95a4bc0)
-- Vashnik the Malignant · 02:47.355 — Kill Command: uloženo 18 Focus, propadlo 2. [Důkaz](index.html#evidence-78e384a3d661196e8d14f1935833caa7fb11d74bde778b8c0079771114d27f46)
-- Vashnik the Malignant · 02:54.242 — Kill Command: uloženo 18 Focus, propadlo 2. [Důkaz](index.html#evidence-911c9c371daa9961a70747752324abb6cc5face4eda98b9dd227d3d56c2f1f04)
-- Vashnik the Malignant · 03:23.479 — Kill Command: uloženo 9 Focus, propadlo 11. [Důkaz](index.html#evidence-bfc3331578de52f2b5f6f4d90e9f2904da7f8b88254b1c872ae47679397dd4a7)
-- Vashnik the Malignant · 03:26.184 — Kill Command: uloženo 0 Focus, propadlo 20. [Důkaz](index.html#evidence-0d203691292146cc3703ffcc854588487597f2e9fe412cc12d1015321b2c37a1)
-- Vashnik the Malignant · 03:38.345 — Kill Command: uloženo 18 Focus, propadlo 2. [Důkaz](index.html#evidence-1eab8f9460bba9d440f32f0adfd947e428bfbc2e48bf1b205c488c8c0b091607)
+- Nek'zali the Soulcoiler · 00:05.158 — Kill Command: uloženo 0 Focus, propadlo 20. [Důkaz](index.html#evidence-6217b9ae4a657635d8642e1a7e0f16b806319632396fcf5a723961e8203c97ed)
+- Nek'zali the Soulcoiler · 00:15.824 — Kill Command: uloženo 14 Focus, propadlo 6. [Důkaz](index.html#evidence-bc556926848df7ee8e0c91b31107d6d7b9fc8b56670ceef9607c634e33669801)
+- Nek'zali the Soulcoiler · 00:45.659 — Kill Command: uloženo 6 Focus, propadlo 14. [Důkaz](index.html#evidence-3f37bf95f62237104c7e6f42479b64f769e7f748a22c260dbf6f529e7c2fe28e)
+- Nek'zali the Soulcoiler · 01:01.708 — Kill Command: uloženo 0 Focus, propadlo 20. [Důkaz](index.html#evidence-a08d6a30b68dd783494dcfce50f4e3fab0670416d0cd9c25b9b5408669916f5a)
+- Nek'zali the Soulcoiler · 01:29.300 — Kill Command: uloženo 1 Focus, propadlo 19. [Důkaz](index.html#evidence-4d31c659b6a9bd1e52b7021d4e41be333eae5e32be39945eb47ac22cb3e01e48)
+- Nek'zali the Soulcoiler · 01:33.364 — Kill Command: uloženo 9 Focus, propadlo 11. [Důkaz](index.html#evidence-12c1002c2557fbc63d711a03b930b615497d5c1b0d3d4a27398e72d7835095ee)
+- Nek'zali the Soulcoiler · 01:41.966 — Kill Command: uloženo 18 Focus, propadlo 2. [Důkaz](index.html#evidence-bba58c1fe87ac33cee5fc798bebeba2699db2d3d6c541d3889ddc1ac73a2c81e)
+- Nek'zali the Soulcoiler · 01:55.130 — Kill Command: uloženo 9 Focus, propadlo 11. [Důkaz](index.html#evidence-17517f7b2420f920e8ffc29b2deb2dfa4bb07b0d30366018ef068839d3cc0be0)
+- Nek'zali the Soulcoiler · 02:04.610 — Kill Command: uloženo 0 Focus, propadlo 20. [Důkaz](index.html#evidence-1023fde08ed093eab5f87d88aabc0b8e4ce9ca340bb1810f3a8662cbb435a81b)
+- Nek'zali the Soulcoiler · 02:11.440 — Kill Command: uloženo 18 Focus, propadlo 2. [Důkaz](index.html#evidence-e9e11db777479e10af9235de9c88252e625160a6b0af793a6c01074b04bacba5)
+- Nek'zali the Soulcoiler · 02:28.223 — Kill Command: uloženo 19 Focus, propadlo 1. [Důkaz](index.html#evidence-268cdcd2d03cbc409e41ffdf21f5c55cf761fd840ec263d9e83fe74a0c000b65)
+- Nek'zali the Soulcoiler · 03:22.228 — Kill Command: uloženo 0 Focus, propadlo 20. [Důkaz](index.html#evidence-05df32066ad26e93a3565e0bad482351a53a960329a6acd83d3f91e05651ef84)
+- Nek'zali the Soulcoiler · 03:27.800 — Kill Command: uloženo 0 Focus, propadlo 20. [Důkaz](index.html#evidence-04e519ae3e129c06b4be0f2c0610a95f95e559679b8586a43c2d66e3f98c79cb)
+- Nek'zali the Soulcoiler · 03:31.634 — Kill Command: uloženo 0 Focus, propadlo 20. [Důkaz](index.html#evidence-db89bc8d56b686816413db731fe269ec58715d4cb618950098bae5dd311e79d7)
+- The Coiled Altar · 00:04.702 — Kill Command: uloženo 0 Focus, propadlo 20. [Důkaz](index.html#evidence-f04ffc0a120fab63e4d924f83d0f4eb6f064cd28e7b7217a41c71b46cb31b7a4)
+- The Coiled Altar · 00:14.267 — Kill Command: uloženo 14 Focus, propadlo 6. [Důkaz](index.html#evidence-c362cdd0924aedcc12637c65960a38e2791cf3f86dcfef303cf52c04c0fac4b2)
+- The Coiled Altar · 01:00.700 — Kill Command: uloženo 18 Focus, propadlo 2. [Důkaz](index.html#evidence-d79621ae28a7d64e6ca337efbbe2afeccee22e6d86f4171556f27d5941ac9456)
+- The Coiled Altar · 01:38.727 — Kill Command: uloženo 4 Focus, propadlo 16. [Důkaz](index.html#evidence-04fb015a1191c89fb1c9b1b8d216d68ad42258dbb4166116ab923aa67978e479)
+- The Coiled Altar · 02:34.761 — Kill Command: uloženo 8 Focus, propadlo 12. [Důkaz](index.html#evidence-367e9f73208041c95a4f59128a0c5241756db2d5841c6cc0e79dea41b808ff4b)
+- The Coiled Altar · 02:36.094 — Kill Command: uloženo 0 Focus, propadlo 20. [Důkaz](index.html#evidence-f0f125c9f2b301450663ae1bb38a3ac91049a64acb5cddefd63fd89cfea4f372)
+- The Coiled Altar · 02:43.771 — Kill Command: uloženo 13 Focus, propadlo 7. [Důkaz](index.html#evidence-fa87d5def18b2926aa02ef96fe19b071a24844639e8f5ffcaa807c45757c596a)
+- The Coiled Altar · 03:08.553 — Kill Command: uloženo 0 Focus, propadlo 20. [Důkaz](index.html#evidence-d06215a4521322183bcf81abe4b03de01135847caff4d6d7a659ac70a5d82686)
+- The Coiled Altar · 03:30.386 — Kill Command: uloženo 19 Focus, propadlo 1. [Důkaz](index.html#evidence-a63fb8e32fde166fd6dedc6a92b8593ada4c3a743671e056f565b4c9d723d12a)
+- The Coiled Altar · 04:41.040 — Kill Command: uloženo 0 Focus, propadlo 20. [Důkaz](index.html#evidence-412abc7a4999d3cb2e77e90e40d9964c4a0cfcfb6e24a0e61f544636ae6d5a54)
+- The Coiled Altar · 04:43.748 — Kill Command: uloženo 18 Focus, propadlo 2. [Důkaz](index.html#evidence-b104f66ca500432b839c9b48d93e465fa34eb4eaff42907d7bb0d315e542b2e7)
+- The Coiled Altar · 05:02.794 — Kill Command: uloženo 2 Focus, propadlo 18. [Důkaz](index.html#evidence-c4fddff4b1e6c8f1af409ae2f65cab1f628670d030f6bb73e626580bbd03cd75)
+- The Coiled Altar · 05:13.805 — Kill Command: uloženo 18 Focus, propadlo 2. [Důkaz](index.html#evidence-47f8155d8eba9f912533f87a7b33d5ee420016b32eba2a9cf864ba7f76909ff8)
+- The Coiled Altar · 05:21.612 — Kill Command: uloženo 14 Focus, propadlo 6. [Důkaz](index.html#evidence-c01a89465acecc9632c8aa518c1ccc8c3608607ffd58a2d303566a5937c66767)
+- Ula'tek · 00:11.497 — Kill Command: uloženo 0 Focus, propadlo 20. [Důkaz](index.html#evidence-1b7216c0256a5102506d867753d1dc1a82989996d83bbbb53e83224c4b4bc222)
+- Ula'tek · 00:15.512 — Kill Command: uloženo 18 Focus, propadlo 2. [Důkaz](index.html#evidence-ac612822cc642ea3c287e2f7f11d129852543d1a95d1850cf94f3b3ca732c0a0)
+- Ula'tek · 00:25.823 — Kill Command: uloženo 16 Focus, propadlo 4. [Důkaz](index.html#evidence-5186556e8b6b2aae83bbb347c92fa873af634a8c9e0d7d7cd2039ba78769a1dd)
+- Ula'tek · 01:18.539 — Kill Command: uloženo 19 Focus, propadlo 1. [Důkaz](index.html#evidence-39b51c32288e8f21b508cdc02a2f56e5f2517eea3221104a8a9effc5c2e3952c)
+- Ula'tek · 02:04.900 — Kill Command: uloženo 16 Focus, propadlo 4. [Důkaz](index.html#evidence-d6a2f5821fead83831c3b92baec35695c3c4f6f4df5f97a33eb1fe99ecf17a84)
+- Ula'tek · 02:08.431 — Kill Command: uloženo 0 Focus, propadlo 20. [Důkaz](index.html#evidence-52513c14a615e4241f7c18b85618b60327a0d92d2b577aacf16504b2e001ad3c)
+- Ula'tek · 02:16.242 — Kill Command: uloženo 0 Focus, propadlo 20. [Důkaz](index.html#evidence-1bb95e0edb0737aacd9dae8c2314645cfdacdb9f6952c9bd5ee9f6585bc20ae7)
+- Ula'tek · 02:20.389 — Kill Command: uloženo 0 Focus, propadlo 20. [Důkaz](index.html#evidence-db666dd5f2a0ca32a64e9075c32808b0f4109c9b68c6a8bd8679dbf3213acf71)
+- Ula'tek · 03:45.106 — Kill Command: uloženo 0 Focus, propadlo 20. [Důkaz](index.html#evidence-d2469f3ee0989ed04d292b214a36a9915c917cc38ed26e2aafbc593d1882cf0f)
+- Ula'tek · 03:49.586 — Kill Command: uloženo 11 Focus, propadlo 9. [Důkaz](index.html#evidence-e8858117efaa381f12e538722c9847a405e1b3407d0dad9a69a8f5fef665a88f)
+- Ula'tek · 03:52.321 — Kill Command: uloženo 0 Focus, propadlo 20. [Důkaz](index.html#evidence-7d5b56a484aeedab43b7a7867873f85955d1940efc6911e2aba7b00204169417)
+- Ula'tek · 04:20.802 — Kill Command: uloženo 0 Focus, propadlo 20. [Důkaz](index.html#evidence-f8219c3191c750516d13489957d64236009a8806226508c37695a7d39cdd6cc9)
+- Ula'tek · 04:40.301 — Kill Command: uloženo 4 Focus, propadlo 16. [Důkaz](index.html#evidence-dc4d5c22233a82095e068ec123b846b4286389e2977596d9693745da98b55aa9)
+- Ula'tek · 04:42.977 — Kill Command: uloženo 0 Focus, propadlo 20. [Důkaz](index.html#evidence-29d08537abb8f3b59e91a25d2c5c20203b0bc4ad1153afff81ed165d027d33ee)
+- Ula'tek · 04:50.910 — Kill Command: uloženo 0 Focus, propadlo 20. [Důkaz](index.html#evidence-b1a761fac410ae1bbcfbfd61d77a127a403ac23c0ac31d5c827d5b3973868f5a)
+- Ula'tek · 04:55.283 — Kill Command: uloženo 8 Focus, propadlo 12. [Důkaz](index.html#evidence-b1699e59802489221360e874aa2028c9cbb982678eaccbe264d10c8a1b61f295)
+- Ula'tek · 05:33.400 — Kill Command: uloženo 0 Focus, propadlo 20. [Důkaz](index.html#evidence-4f21c9e10ad3ac7050df46fc442c824238701df4b2c57dee5c2f62acdc76e6cf)
+- Ula'tek · 05:37.422 — Kill Command: uloženo 0 Focus, propadlo 20. [Důkaz](index.html#evidence-e45bdac8ceb8de111b60788c351eddd4b1db619593304ce89700d98461df03aa)
+- Ula'tek · 06:03.528 — Kill Command: uloženo 0 Focus, propadlo 20. [Důkaz](index.html#evidence-fe1e3d0325aded138ced02ad66624fe092ad5a121f25c0e9f799b41a2048d1d3)
+- Ula'tek · 06:07.660 — Kill Command: uloženo 17 Focus, propadlo 3. [Důkaz](index.html#evidence-ffff8be4ab7416c9c67bb6ee7d8fadd9c4d5c81e9d2ea784de2d4fa2dc06c05c)
+- Ula'tek · 06:11.813 — Kill Command: uloženo 17 Focus, propadlo 3. [Důkaz](index.html#evidence-1acf51b7937db01bfd0c563c0eda191c53b4a4bafe1184e1b9955503bc24ae56)
+- Ula'tek · 06:18.637 — Kill Command: uloženo 18 Focus, propadlo 2. [Důkaz](index.html#evidence-de4a5559739bf439c078f47ba075dfcba432ca77239dfc3f04f1a9bd461834f9)
+- Ula'tek · 06:40.010 — Kill Command: uloženo 0 Focus, propadlo 20. [Důkaz](index.html#evidence-6599305442c23d1edb219c1deb7c529ae4dbc4f582fbaf3d1e66254d2eb135e0)
+- Ula'tek · 06:45.444 — Kill Command: uloženo 18 Focus, propadlo 2. [Důkaz](index.html#evidence-75e5d2e8ef9dedfd1993d591304bc2d696fc3113020280a39e68fa76d5e219c2)
+- Ula'tek · 07:40.051 — Kill Command: uloženo 16 Focus, propadlo 4. [Důkaz](index.html#evidence-98d379a2c6202462e01cf3e610320584509d26f8f854edd8f8df1044e4bc897f)
+- Ula'tek · 07:52.934 — Kill Command: uloženo 0 Focus, propadlo 20. [Důkaz](index.html#evidence-9568db38badaffa724634498ff8241676f28f73fa78c45d3d50dde55d30c800e)
+- Ula'tek · 07:57.905 — Kill Command: uloženo 17 Focus, propadlo 3. [Důkaz](index.html#evidence-ceb7d9212fe1e54faf3b808874f7ea903b13d461a5971232dcf58d2113d67096)
+- Ula'tek · 08:13.738 — Kill Command: uloženo 0 Focus, propadlo 20. [Důkaz](index.html#evidence-b6f7275fdd8e168b4520340ae4828b5bd5380ff634fe7fc8558ce2f70211f1c8)
+- Ula'tek · 08:17.869 — Kill Command: uloženo 0 Focus, propadlo 20. [Důkaz](index.html#evidence-42e726609c0bc44539a76e015a8376986e381ef995fbf6e509b92ccbf3dc831b)
+- Ula'tek · 08:27.379 — Kill Command: uloženo 18 Focus, propadlo 2. [Důkaz](index.html#evidence-fd6065832de2f09ea305bdc7d168c5b6c931d64bcb52f27e6cdb5e376ebd4f6e)
+- The Lost Explorers · 00:04.274 — Kill Command: uloženo 0 Focus, propadlo 20. [Důkaz](index.html#evidence-6dd3d849c31465f934c95af727c324f80333d2792ba02ee2bc8c1a84f0f0cc99)
+- The Lost Explorers · 00:09.566 — Kill Command: uloženo 13 Focus, propadlo 7. [Důkaz](index.html#evidence-c5b2f945d89b814760e3d002ace5c325bd6988adab386fcf4ebc11a96d5da237)
+- The Lost Explorers · 00:14.784 — Kill Command: uloženo 15 Focus, propadlo 5. [Důkaz](index.html#evidence-1fb5a0a80384b001a9e88422d98a414a4f19c35e25afbfbf72a13b2a79c1cf2e)
+- The Lost Explorers · 00:17.808 — Kill Command: uloženo 0 Focus, propadlo 20. [Důkaz](index.html#evidence-4e6aa99fa03b9a3dd79cdc337d14aa88eb0bc32ac5b013b827179ed4cf550529)
+- The Lost Explorers · 00:28.345 — Kill Command: uloženo 0 Focus, propadlo 20. [Důkaz](index.html#evidence-ae82342bb5eda31a728b2c1eb1d9b0f5bd9321ebb6a4b41dca6088971cb28015)
+- The Lost Explorers · 00:29.388 — Kill Command: uloženo 0 Focus, propadlo 20. [Důkaz](index.html#evidence-6f520666c928734905b3accd64e7bbe7947b906baef9d5d5a36fe261c566f47a)
+- The Lost Explorers · 00:37.235 — Kill Command: uloženo 1 Focus, propadlo 19. [Důkaz](index.html#evidence-039e0661667032f0d5ab98fadbe269e030e646b5df2b552382bc8388bb6a6440)
+- The Lost Explorers · 00:38.669 — Kill Command: uloženo 0 Focus, propadlo 20. [Důkaz](index.html#evidence-13d23e3cd9d2d522dc94003c88ed90d4634c1f7a3ce8e565e00ed618414979e1)
+- The Lost Explorers · 00:48.824 — Kill Command: uloženo 18 Focus, propadlo 2. [Důkaz](index.html#evidence-73bc28a3766e029075b7d123b2172a77c28fccbf0c66e44d0695e21addb7b658)
+- The Lost Explorers · 01:02.868 — Kill Command: uloženo 0 Focus, propadlo 20. [Důkaz](index.html#evidence-1052408124355fd1fcfc884c3a8e17102f0d0405ec04530fe2c493cad30762b5)
+- The Lost Explorers · 01:09.212 — Kill Command: uloženo 18 Focus, propadlo 2. [Důkaz](index.html#evidence-c02d4f36139493e356f4a779868ce0d8b8f339374b927774f5b2d7c96b27afae)
+- The Lost Explorers · 01:14.648 — Kill Command: uloženo 0 Focus, propadlo 20. [Důkaz](index.html#evidence-78a9e75df2a87bb400edafc99bf3913687634b160238222a6f816befe34ec355)
+- The Lost Explorers · 01:16.739 — Kill Command: uloženo 0 Focus, propadlo 20. [Důkaz](index.html#evidence-62a2bda34efc5d8917a20e4cd6cc19af628faba2551a9e94bd60cd9b8a8cf83b)
+- The Lost Explorers · 01:23.737 — Kill Command: uloženo 0 Focus, propadlo 20. [Důkaz](index.html#evidence-2353eafc57dfbe22714ddfa1b90c8bbbb14925e0ec03a75f29d3aa529eaf56ff)
+- The Lost Explorers · 01:38.405 — Kill Command: uloženo 0 Focus, propadlo 20. [Důkaz](index.html#evidence-a81bbdabcf251de0a634f5a59111faded29dda6860271d7cf583b5f1d37743ce)
+- The Lost Explorers · 02:06.880 — Kill Command: uloženo 0 Focus, propadlo 20. [Důkaz](index.html#evidence-f3771e7ebe2dafd544a251038afaea9c7291d8d02fcd0a1b34c27ca37a874597)
+- The Lost Explorers · 02:24.050 — Kill Command: uloženo 0 Focus, propadlo 20. [Důkaz](index.html#evidence-9d030d939c381d4eb5bec683f319f53613622915f8125472d3983c905c8bb530)
+- The Lost Explorers · 02:26.387 — Kill Command: uloženo 0 Focus, propadlo 20. [Důkaz](index.html#evidence-50d33029039767bd3e312f7073fa8e0cebce235aeac3dd9dbbbda2b47310f816)
+- The Lost Explorers · 02:29.959 — Kill Command: uloženo 0 Focus, propadlo 20. [Důkaz](index.html#evidence-f70926503cc9383031fceb8593e02dc4ad8614be31dc282627c02babc699e780)
+- The Lost Explorers · 02:48.298 — Kill Command: uloženo 0 Focus, propadlo 20. [Důkaz](index.html#evidence-f6ccfe22cbfad980a230e065ecdee18b8eb2b4ac9e1f4992a6edb487c32d85b5)
+- The Lost Explorers · 02:51.425 — Kill Command: uloženo 0 Focus, propadlo 20. [Důkaz](index.html#evidence-fa278c619e16e641828e3d883bf4a14ea089574366d7d69fc7e6539e7bce2f4e)
+- The Lost Explorers · 03:02.378 — Kill Command: uloženo 14 Focus, propadlo 6. [Důkaz](index.html#evidence-278306f3c09e69cfb0ec17fd37f44d42020c86a68d3994f8897efee513ece82b)
+- The Lost Explorers · 03:13.032 — Kill Command: uloženo 0 Focus, propadlo 20. [Důkaz](index.html#evidence-55762a95a76e63399016b43f0f198d447fa465367473d5234fd08aadab52c694)
+- The Lost Explorers · 03:18.699 — Kill Command: uloženo 18 Focus, propadlo 2. [Důkaz](index.html#evidence-8e2a870bd7be36fdbb6704a603b772de53043370832079a5859c969ce16e1e3a)
+- The Lost Explorers · 03:22.169 — Kill Command: uloženo 18 Focus, propadlo 2. [Důkaz](index.html#evidence-0a98366ef8696de6c9c72b6ab5172fecbd0f57e4a4354bbf3722daecbe8e8aab)
+- Sszorak · 00:01.101 — Kill Command: uloženo 0 Focus, propadlo 20. [Důkaz](index.html#evidence-a73e7dfbdb828271e361696893c71018172d7dbbce850f44422336932370c300)
+- Sszorak · 00:09.626 — Kill Command: uloženo 0 Focus, propadlo 20. [Důkaz](index.html#evidence-cbc63ae45182ab29ac1b29a94ec1190643096567de173b6a72892f7290930918)
+- Sszorak · 00:16.107 — Kill Command: uloženo 17 Focus, propadlo 3. [Důkaz](index.html#evidence-7fe401b7d25ba8dae61a01ecd10eaf40511ad0c6ad6ed0ea7b2de495909346a3)
+- Sszorak · 00:19.253 — Kill Command: uloženo 17 Focus, propadlo 3. [Důkaz](index.html#evidence-702f1721475dabaf1337a68045829cebef417c5e039721648950271c94933a7d)
+- Sszorak · 01:08.587 — Kill Command: uloženo 18 Focus, propadlo 2. [Důkaz](index.html#evidence-b43db0182f659909eedb7f2399099bffc3d501c65cb72e66368d6e4c1af11f75)
+- Sszorak · 01:38.192 — Kill Command: uloženo 0 Focus, propadlo 20. [Důkaz](index.html#evidence-369e824e1006f6fcb94776e3e08ae5fd4833389939313dfa844530215b1db5c3)
+- Sszorak · 01:42.031 — Kill Command: uloženo 11 Focus, propadlo 9. [Důkaz](index.html#evidence-709e472aa9c56c9bc3f83ac8405990a805e4fd7bf79e8351b606bb5019dd10fc)
+- Sszorak · 01:48.776 — Kill Command: uloženo 17 Focus, propadlo 3. [Důkaz](index.html#evidence-9423771303db46da0c21b4f35be8f030f8d047a6bada76e7104175f804dac1c9)
+- Sszorak · 02:13.432 — Kill Command: uloženo 15 Focus, propadlo 5. [Důkaz](index.html#evidence-28fbb6c15bc603375c168a1466fb00a254fcd5acc34c646e94cc75a4a025c221)
+- Sszorak · 02:16.045 — Kill Command: uloženo 18 Focus, propadlo 2. [Důkaz](index.html#evidence-68d28d1c4cf237c200ee30245eba066b33cd960a60e6ad967bc5f78357527517)
+- Sszorak · 02:19.076 — Kill Command: uloženo 0 Focus, propadlo 20. [Důkaz](index.html#evidence-f50fa7799083c8ddf828458c6477a2d077421b7016d2425323dfe35056146de0)
+- Sszorak · 02:22.988 — Kill Command: uloženo 19 Focus, propadlo 1. [Důkaz](index.html#evidence-c3865502d1bb03464b07abae3eb065301145ea423434f7ae9ebb1628fa2fdbd0)
+- Sszorak · 02:32.038 — Kill Command: uloženo 2 Focus, propadlo 18. [Důkaz](index.html#evidence-488b17f052bde1949d40632634a73dfd6b590e2f29900fd86ad9f0c2b35f10cc)
+- Sszorak · 03:09.911 — Kill Command: uloženo 0 Focus, propadlo 20. [Důkaz](index.html#evidence-a20ba24e8cd6e6a3417857452a870a3003bfba5c00da0712995cb4d2b6f5e455)
+- Sszorak · 03:15.464 — Kill Command: uloženo 0 Focus, propadlo 20. [Důkaz](index.html#evidence-7c598d587979b90eb3f8f9660ea7d6aaa042504d070cde4138be736e6a03fc5d)
+- Sszorak · 03:18.182 — Kill Command: uloženo 17 Focus, propadlo 3. [Důkaz](index.html#evidence-37476d28b0fcc49b86a614605b859523c50f302b5a7c2769fb8fd09f7a59c82d)
+- Sszorak · 03:23.636 — Kill Command: uloženo 15 Focus, propadlo 5. [Důkaz](index.html#evidence-71109ab0dd85f7f22d7e6ed91d5b0855b6e3c41703c7b96a12d9a370005c371c)
+- Sszorak · 03:28.343 — Kill Command: uloženo 18 Focus, propadlo 2. [Důkaz](index.html#evidence-7eab4d1996b99fa6953758dbc5355bd0e26755e2200721ffe08b70ab843ec940)
+- Sszorak · 03:52.172 — Kill Command: uloženo 18 Focus, propadlo 2. [Důkaz](index.html#evidence-e536300f2c512eb7b9df3c2a0c986ede3fead994b94c246beb95f6a6be85d2f7)
+- Kith'ix · 00:14.909 — Kill Command: uloženo 0 Focus, propadlo 20. [Důkaz](index.html#evidence-e3dc24940e7a45592791b8144bff8ea21e4a6aee679c29e18a72bb3a35c78d09)
+- Kith'ix · 00:35.787 — Kill Command: uloženo 0 Focus, propadlo 20. [Důkaz](index.html#evidence-0581d2d6673513d0d96bfe0417a51f2e7171ea50d5b58aedf6d90624d9fa9c1e)
+- Kith'ix · 00:38.283 — Kill Command: uloženo 0 Focus, propadlo 20. [Důkaz](index.html#evidence-a863d7440c89808d5d922a940b4a132b6651c403c914b03af598ed37c6e2e9a2)
+- Kith'ix · 00:41.385 — Kill Command: uloženo 0 Focus, propadlo 20. [Důkaz](index.html#evidence-00a43a469fb2ed9499378cfcbefe3c51e20702025d757c5a9199fab07b022815)
+- Kith'ix · 00:49.752 — Kill Command: uloženo 19 Focus, propadlo 1. [Důkaz](index.html#evidence-3eeeaf7496534841216ff23f1ef89fcc944be21bf2bf27f2fe7613070978934f)
+- Kith'ix · 01:00.960 — Kill Command: uloženo 12 Focus, propadlo 8. [Důkaz](index.html#evidence-2d4a7b4eb059a749784cb9257da72fe89d389a25c94cfaff91a03e781531fae7)
+- Kith'ix · 01:05.207 — Kill Command: uloženo 18 Focus, propadlo 2. [Důkaz](index.html#evidence-c00849de33d7badb806eb5967745f975fb699133b9048d023dee6aa7116bd5fa)
+- Kith'ix · 01:23.012 — Kill Command: uloženo 18 Focus, propadlo 2. [Důkaz](index.html#evidence-39d21ab5d64db9b7ee842370b36fc32c6adea5d9c4f67b72b91357a4ce3f75c8)
+- Kith'ix · 01:31.978 — Kill Command: uloženo 0 Focus, propadlo 20. [Důkaz](index.html#evidence-cf00292ba5ba737e1dc6ca3e1aad889d859510f05aedb1b5617cc33f698ad0ff)
+- Kith'ix · 01:37.792 — Kill Command: uloženo 0 Focus, propadlo 20. [Důkaz](index.html#evidence-df865ea4302edb0cb7ec91d404b6291d35c1c4856b5b697fbc56a3c2034a8419)
+- Kith'ix · 01:47.456 — Kill Command: uloženo 18 Focus, propadlo 2. [Důkaz](index.html#evidence-29228cca76742eb9fc0ff7c8c48905bbda713e6d08b0341d481be4c43e268fb7)
+- Kith'ix · 02:07.876 — Kill Command: uloženo 14 Focus, propadlo 6. [Důkaz](index.html#evidence-b68f599e5aba772f1af19cdb7d5314ed542a6e056db4a8dc5d290de1a398104f)
+- Kith'ix · 02:09.883 — Kill Command: uloženo 0 Focus, propadlo 20. [Důkaz](index.html#evidence-f585ff8140e081779b48651dbc2a03c8535fe110ac63072dde4281d514c5084b)
+- Kith'ix · 02:14.802 — Kill Command: uloženo 19 Focus, propadlo 1. [Důkaz](index.html#evidence-a5d5a76e0da1efea1b440a726dab59a94bdd8b2be829f5e2ceeec9f8f74bb2a6)
+- Kith'ix · 03:10.967 — Kill Command: uloženo 0 Focus, propadlo 20. [Důkaz](index.html#evidence-0466790aa4fa93c96904618ee28e66c3dc5fecba78b2deb1601597d6e2fee8d7)
+- Kith'ix · 03:15.524 — Kill Command: uloženo 0 Focus, propadlo 20. [Důkaz](index.html#evidence-78d2e9473661a440c3537b18148b8c4be040f148a2811452bcc70e524221d888)
+- Kith'ix · 03:35.855 — Kill Command: uloženo 19 Focus, propadlo 1. [Důkaz](index.html#evidence-95930ed62922bceaaa56e7080e0ab7cdc5d978fce5736e07a094842d92ac0d85)
+- Kith'ix · 03:38.607 — Kill Command: uloženo 0 Focus, propadlo 20. [Důkaz](index.html#evidence-2fad42c15c8bc7b9975e0ab11e59f360bd88e8c1c6bb1ce6c3c6d90414bb6dd2)
+- Kith'ix · 03:41.391 — Kill Command: uloženo 17 Focus, propadlo 3. [Důkaz](index.html#evidence-c7a483e8839682208d80ccfdb60ccd7c42470371ba2e8796d209b107d4057833)
+- Kith'ix · 04:08.905 — Kill Command: uloženo 0 Focus, propadlo 20. [Důkaz](index.html#evidence-28f47518d9a0a33ab7b4350a5650ab78556126bdba68ba8dc5b83979f72df345)
+- Kith'ix · 04:17.871 — Kill Command: uloženo 0 Focus, propadlo 20. [Důkaz](index.html#evidence-41786d87b864c213d82c41ca7b7deb49c126524bdd6b2f5dd3760549e1fadc87)
 
 ### Prověř Kill Command při Focus waste a předchozím Tip dose 3
 
@@ -853,11 +933,15 @@ Před Kill Command byl dříve zaznamenaný Tip of the Spear se 3 stacky. To neu
 
 
 
-- Nek'zali the Soulcoiler · 02:36.980 — Při plnění Focus a Tip of the Spear plánuj vhodný spender před dalším Kill Commandem, pokud je dostupný a situace to dovoluje. U označených časů prověř i pet damage a burst plán: ty mohou Kill Command ospravedlnit i bez využitého Focus gainu. Howl of the Pack Leader je v ověřeném Sentinel buildu nevybraný.  [Důkaz](index.html#evidence-cc12de792dcf7296b6f54613020426bb91848426eccce4d16419fb0e6d661cd2)
-- Nek'zali the Soulcoiler · 02:53.337 — Při plnění Focus a Tip of the Spear plánuj vhodný spender před dalším Kill Commandem, pokud je dostupný a situace to dovoluje. U označených časů prověř i pet damage a burst plán: ty mohou Kill Command ospravedlnit i bez využitého Focus gainu. Howl of the Pack Leader je v ověřeném Sentinel buildu nevybraný.  [Důkaz](index.html#evidence-de2e439a8cc84584a536b9c2e9b581b9a5e2509887c79c6fb0d637bb5cd7d16a)
-- Ula'tek · 06:41.750 — Při plnění Focus a Tip of the Spear plánuj vhodný spender před dalším Kill Commandem, pokud je dostupný a situace to dovoluje. U označených časů prověř i pet damage a burst plán: ty mohou Kill Command ospravedlnit i bez využitého Focus gainu. Howl of the Pack Leader je v ověřeném Sentinel buildu nevybraný.  [Důkaz](index.html#evidence-de14c63ede0703340d388a1317df3188878548cc944a97f3a0356a6ba750830b)
-- Entombed Sentinels · 00:24.753 — Při plnění Focus a Tip of the Spear plánuj vhodný spender před dalším Kill Commandem, pokud je dostupný a situace to dovoluje. U označených časů prověř i pet damage a burst plán: ty mohou Kill Command ospravedlnit i bez využitého Focus gainu. Howl of the Pack Leader je v ověřeném Sentinel buildu nevybraný.  [Důkaz](index.html#evidence-c2b8974f7f08378cc573e67facf1d84c8d7a7ad69ac7ea0f0e572737bb4f3b2a)
-- Entombed Sentinels · 04:48.944 — Při plnění Focus a Tip of the Spear plánuj vhodný spender před dalším Kill Commandem, pokud je dostupný a situace to dovoluje. U označených časů prověř i pet damage a burst plán: ty mohou Kill Command ospravedlnit i bez využitého Focus gainu. Howl of the Pack Leader je v ověřeném Sentinel buildu nevybraný.  [Důkaz](index.html#evidence-4ff4853c74c1160f627bcb6c61821bcade3b093f3500d0b8e2ab3c996240aa1c)
+- Nek'zali the Soulcoiler · 03:27.800 — Při plnění Focus a Tip of the Spear plánuj vhodný spender před dalším Kill Commandem, pokud je dostupný a situace to dovoluje. U označených časů prověř i pet damage a burst plán: ty mohou Kill Command ospravedlnit i bez využitého Focus gainu. Howl of the Pack Leader je v ověřeném Sentinel buildu nevybraný.  [Důkaz](index.html#evidence-3ca65013aff49c568e3a0cdc3a1c13ffe16e36c9629f89c6df5699e4369ddd50)
+- Ula'tek · 04:20.802 — Při plnění Focus a Tip of the Spear plánuj vhodný spender před dalším Kill Commandem, pokud je dostupný a situace to dovoluje. U označených časů prověř i pet damage a burst plán: ty mohou Kill Command ospravedlnit i bez využitého Focus gainu. Howl of the Pack Leader je v ověřeném Sentinel buildu nevybraný.  [Důkaz](index.html#evidence-c1d307df47cf99f0e8647f759a91381018420e90cf8f8596323ac0d44dd85e27)
+- The Lost Explorers · 00:29.388 — Při plnění Focus a Tip of the Spear plánuj vhodný spender před dalším Kill Commandem, pokud je dostupný a situace to dovoluje. U označených časů prověř i pet damage a burst plán: ty mohou Kill Command ospravedlnit i bez využitého Focus gainu. Howl of the Pack Leader je v ověřeném Sentinel buildu nevybraný.  [Důkaz](index.html#evidence-6df9501ba4d554535cd4e28b475cc3645e8d252f42a01066dff048807713429a)
+- The Lost Explorers · 00:38.669 — Při plnění Focus a Tip of the Spear plánuj vhodný spender před dalším Kill Commandem, pokud je dostupný a situace to dovoluje. U označených časů prověř i pet damage a burst plán: ty mohou Kill Command ospravedlnit i bez využitého Focus gainu. Howl of the Pack Leader je v ověřeném Sentinel buildu nevybraný.  [Důkaz](index.html#evidence-5577d0ded8840a478943ff55430d363c762706ab5e6888e18917b5305db0b51c)
+- The Lost Explorers · 01:16.739 — Při plnění Focus a Tip of the Spear plánuj vhodný spender před dalším Kill Commandem, pokud je dostupný a situace to dovoluje. U označených časů prověř i pet damage a burst plán: ty mohou Kill Command ospravedlnit i bez využitého Focus gainu. Howl of the Pack Leader je v ověřeném Sentinel buildu nevybraný.  [Důkaz](index.html#evidence-7da608b31b0c06b161768d98af24626ea6dc32decc13ca9e687ff50a210c7b58)
+- The Lost Explorers · 02:26.387 — Při plnění Focus a Tip of the Spear plánuj vhodný spender před dalším Kill Commandem, pokud je dostupný a situace to dovoluje. U označených časů prověř i pet damage a burst plán: ty mohou Kill Command ospravedlnit i bez využitého Focus gainu. Howl of the Pack Leader je v ověřeném Sentinel buildu nevybraný.  [Důkaz](index.html#evidence-fc949e1c420f99def2547098edce86bbc96996fbe68098b913bccd9aec95c4ba)
+- The Lost Explorers · 03:02.378 — Při plnění Focus a Tip of the Spear plánuj vhodný spender před dalším Kill Commandem, pokud je dostupný a situace to dovoluje. U označených časů prověř i pet damage a burst plán: ty mohou Kill Command ospravedlnit i bez využitého Focus gainu. Howl of the Pack Leader je v ověřeném Sentinel buildu nevybraný.  [Důkaz](index.html#evidence-73b9f3756baf7f7e73b928ec8e9df6c58e329d5a06e558036cc3251dac5ba2b2)
+- Kith'ix · 00:38.283 — Při plnění Focus a Tip of the Spear plánuj vhodný spender před dalším Kill Commandem, pokud je dostupný a situace to dovoluje. U označených časů prověř i pet damage a burst plán: ty mohou Kill Command ospravedlnit i bez využitého Focus gainu. Howl of the Pack Leader je v ověřeném Sentinel buildu nevybraný.  [Důkaz](index.html#evidence-f84feb9cd2290f467309e7fb253cb53dc013390633613360c82ddc3b96f0a0c8)
+- Kith'ix · 02:09.883 — Při plnění Focus a Tip of the Spear plánuj vhodný spender před dalším Kill Commandem, pokud je dostupný a situace to dovoluje. U označených časů prověř i pet damage a burst plán: ty mohou Kill Command ospravedlnit i bez využitého Focus gainu. Howl of the Pack Leader je v ověřeném Sentinel buildu nevybraný.  [Důkaz](index.html#evidence-13021b6502b2d4544f5dd185efd76daa663e735b1da4d18cfa375beed58c319e)
 
 ### Prověř přípravu Tip of the Spear před Bombou
 
@@ -867,47 +951,36 @@ Wildfire Bomb byla použitá bez doloženého Tip of the Spear. Single-target pr
 
 
 
-- Nek'zali the Soulcoiler · 04:22.275 — Zvlášť při AoE prověř získání Tipu před Bombou pomocí vhodného Kill Commandu, pokud je dostupný a neodsune přednější akci nebo potřebné utrácení Bomb charges. Při single targetu může Bomb bez Tipu odpovídat nepodmíněnému fallbacku APL; samotný tento záznam není chyba. [Důkaz](index.html#evidence-b703614cdafa8b728ce387f4fc0e4d5764ac8c62254cac8816cbf111acece1dc)
-- The Coiled Altar · 03:53.430 — Zvlášť při AoE prověř získání Tipu před Bombou pomocí vhodného Kill Commandu, pokud je dostupný a neodsune přednější akci nebo potřebné utrácení Bomb charges. Při single targetu může Bomb bez Tipu odpovídat nepodmíněnému fallbacku APL; samotný tento záznam není chyba. [Důkaz](index.html#evidence-4860b88050fd114c4c00eada15b76c83e85b1c858e9db19f0b28c6f1fb0d5233)
-- The Coiled Altar · 07:17.305 — Zvlášť při AoE prověř získání Tipu před Bombou pomocí vhodného Kill Commandu, pokud je dostupný a neodsune přednější akci nebo potřebné utrácení Bomb charges. Při single targetu může Bomb bez Tipu odpovídat nepodmíněnému fallbacku APL; samotný tento záznam není chyba. [Důkaz](index.html#evidence-babf77694b27f928d5cbb4715bcb4e5a003d4022c158dcd5b6b9784e93b12dad)
-- Ula'tek · 05:31.947 — Zvlášť při AoE prověř získání Tipu před Bombou pomocí vhodného Kill Commandu, pokud je dostupný a neodsune přednější akci nebo potřebné utrácení Bomb charges. Při single targetu může Bomb bez Tipu odpovídat nepodmíněnému fallbacku APL; samotný tento záznam není chyba. [Důkaz](index.html#evidence-897e7396890a470952d2a08e2d8af8f7d8f6938c4149e2ff037dc462420dd123)
-- Ula'tek · 07:27.003 — Zvlášť při AoE prověř získání Tipu před Bombou pomocí vhodného Kill Commandu, pokud je dostupný a neodsune přednější akci nebo potřebné utrácení Bomb charges. Při single targetu může Bomb bez Tipu odpovídat nepodmíněnému fallbacku APL; samotný tento záznam není chyba. [Důkaz](index.html#evidence-70e3a97e1d9ca2d1327137b9c7bd5a0a030e47eeb26ebdbae3ea42810bfed7bf)
-- Kith'ix · 00:26.338 — Zvlášť při AoE prověř získání Tipu před Bombou pomocí vhodného Kill Commandu, pokud je dostupný a neodsune přednější akci nebo potřebné utrácení Bomb charges. Při single targetu může Bomb bez Tipu odpovídat nepodmíněnému fallbacku APL; samotný tento záznam není chyba. [Důkaz](index.html#evidence-965271cf22f7f769fbc8ca02f8706ccdc5a3f7b93e95485a5d4d686f93074124)
-- Kith'ix · 02:02.018 — Zvlášť při AoE prověř získání Tipu před Bombou pomocí vhodného Kill Commandu, pokud je dostupný a neodsune přednější akci nebo potřebné utrácení Bomb charges. Při single targetu může Bomb bez Tipu odpovídat nepodmíněnému fallbacku APL; samotný tento záznam není chyba. [Důkaz](index.html#evidence-f463cb768028119f12feaa7bc71bb47895c8bab0e119526abcef0a410b8e51e9)
-- Kith'ix · 02:28.727 — Zvlášť při AoE prověř získání Tipu před Bombou pomocí vhodného Kill Commandu, pokud je dostupný a neodsune přednější akci nebo potřebné utrácení Bomb charges. Při single targetu může Bomb bez Tipu odpovídat nepodmíněnému fallbacku APL; samotný tento záznam není chyba. [Důkaz](index.html#evidence-70674ba2240052950951fd91c9330dadb1dca35d044aca25aa49a26ce63f460c)
-- Vashnik the Malignant · 00:29.758 — Zvlášť při AoE prověř získání Tipu před Bombou pomocí vhodného Kill Commandu, pokud je dostupný a neodsune přednější akci nebo potřebné utrácení Bomb charges. Při single targetu může Bomb bez Tipu odpovídat nepodmíněnému fallbacku APL; samotný tento záznam není chyba. [Důkaz](index.html#evidence-151d4f41dde9a19c2846e10d235f093dfeb459aed3f99d24831e8c3255d2f296)
+- The Coiled Altar · 03:13.999 — Zvlášť při AoE prověř získání Tipu před Bombou pomocí vhodného Kill Commandu, pokud je dostupný a neodsune přednější akci nebo potřebné utrácení Bomb charges. Při single targetu může Bomb bez Tipu odpovídat nepodmíněnému fallbacku APL; samotný tento záznam není chyba. [Důkaz](index.html#evidence-7d3d9d43eb41d4f3580fee4a1c01ef3a850c4859de35702f1c1c4785036b31af)
+- Ula'tek · 02:52.049 — Zvlášť při AoE prověř získání Tipu před Bombou pomocí vhodného Kill Commandu, pokud je dostupný a neodsune přednější akci nebo potřebné utrácení Bomb charges. Při single targetu může Bomb bez Tipu odpovídat nepodmíněnému fallbacku APL; samotný tento záznam není chyba. [Důkaz](index.html#evidence-cc53665684ee99beed773c4999107a63c159bf26fedcc846df9414bdaacb03f9)
+- Ula'tek · 02:57.201 — Zvlášť při AoE prověř získání Tipu před Bombou pomocí vhodného Kill Commandu, pokud je dostupný a neodsune přednější akci nebo potřebné utrácení Bomb charges. Při single targetu může Bomb bez Tipu odpovídat nepodmíněnému fallbacku APL; samotný tento záznam není chyba. [Důkaz](index.html#evidence-1cc78f70718b10ec10b566b123c3847200c8a768cb0c4deef7961565b2ae1c70)
+- Ula'tek · 04:29.201 — Zvlášť při AoE prověř získání Tipu před Bombou pomocí vhodného Kill Commandu, pokud je dostupný a neodsune přednější akci nebo potřebné utrácení Bomb charges. Při single targetu může Bomb bez Tipu odpovídat nepodmíněnému fallbacku APL; samotný tento záznam není chyba. [Důkaz](index.html#evidence-3f32a355191adc7cc7d58cbfeed1d0f680c56ef6f847642ff4d5747642ca074a)
+- Ula'tek · 05:30.318 — Zvlášť při AoE prověř získání Tipu před Bombou pomocí vhodného Kill Commandu, pokud je dostupný a neodsune přednější akci nebo potřebné utrácení Bomb charges. Při single targetu může Bomb bez Tipu odpovídat nepodmíněnému fallbacku APL; samotný tento záznam není chyba. [Důkaz](index.html#evidence-e0f09ba632b569ea2aaca750697c290ef447dbd44ad1787c86092b5ac460183b)
+- Ula'tek · 07:02.476 — Zvlášť při AoE prověř získání Tipu před Bombou pomocí vhodného Kill Commandu, pokud je dostupný a neodsune přednější akci nebo potřebné utrácení Bomb charges. Při single targetu může Bomb bez Tipu odpovídat nepodmíněnému fallbacku APL; samotný tento záznam není chyba. [Důkaz](index.html#evidence-d191d0fe4118acafbbcf5879d1317f1c13bc3badd410014c2f693ba497d73ca9)
+- Ula'tek · 08:10.888 — Zvlášť při AoE prověř získání Tipu před Bombou pomocí vhodného Kill Commandu, pokud je dostupný a neodsune přednější akci nebo potřebné utrácení Bomb charges. Při single targetu může Bomb bez Tipu odpovídat nepodmíněnému fallbacku APL; samotný tento záznam není chyba. [Důkaz](index.html#evidence-9f4cf8dfbdf08485a6df67c831b6b3aa0c3cfbec1abf6077e8092a306c0ade91)
+- The Lost Explorers · 01:01.536 — Zvlášť při AoE prověř získání Tipu před Bombou pomocí vhodného Kill Commandu, pokud je dostupný a neodsune přednější akci nebo potřebné utrácení Bomb charges. Při single targetu může Bomb bez Tipu odpovídat nepodmíněnému fallbacku APL; samotný tento záznam není chyba. [Důkaz](index.html#evidence-2959903fa1bf40a64b2f26990c52c4fc9b071321420e8c6b9742a4b46f28f151)
 
-Cooldown intervaly k samostatnému posouzení: 1.
+Cooldown intervaly k samostatnému posouzení: 6.
 
-## Corneilia-Sylvanas-EU
+## Këss-Drak'thul-EU
 
-Analyzovaní bossové: Nek'zali the Soulcoiler, The Coiled Altar, Ula'tek, Kith'ix, Entombed Sentinels, Vashnik the Malignant.
+Analyzovaní bossové: Nek'zali the Soulcoiler, The Coiled Altar, Ula'tek, The Lost Explorers, Sszorak, Kith'ix.
 
 ### Arcane Blast uvnitř Arcane Soul
 
 Pozorování k ověření
 
-1 Arcane Blast během Soul; u 1 je Clearcasting před logovaným startem výslovně nepřítomný, takže referenční Missiles podmínka neplatí. Soul splňuje vlastní Barrage podmínku; jeho skutečná použitelnost ani chyba hráče tím nejsou prokázané. U 1 případu sdílí změna Arcane Salvo timestamp se startem; stack při stisku neurčujeme.
+1 Arcane Blast během Soul; u 1 je Clearcasting před logovaným startem výslovně nepřítomný, takže referenční Missiles podmínka neplatí. Soul splňuje vlastní Barrage podmínku; jeho skutečná použitelnost ani chyba hráče tím nejsou prokázané.
 
 Porovnej starty těchto Blastů s proc stavem a vyšší Missiles větví. Barrage má vlastní Soul větev, ale bez ověření celé priority a dostupnosti nepředepisujeme jeho záměnu za každý Blast.
 
-- The Coiled Altar · 03:55.726 — Arcane Blast pod Arcane Soul; zaznamenáno 14 Arcane Salvo, Clearcasting nepřítomný. [Důkaz](index.html#evidence-3d23f55368169532d52950b4eee4163cda92bbbac495b3b372028615f9b207d5)
+- The Lost Explorers · 00:18.656 — Arcane Blast pod Arcane Soul; zaznamenáno 17 Arcane Salvo, Clearcasting nepřítomný. [Důkaz](index.html#evidence-09e4ad5a1ff458937831c2c1435baba430101f5b90a8e5898a0ca2259dadfe9b)
 
-### Arcane Blast během Arcane Soul
-
-Pozorování k ověření
-
-Arcane Blast začal během Arcane Soul. Zkontroluj zde Arcane Barrage a stav proců. U těchto dalších situací nemáme dost ověřeného kontextu, abychom předepsali změnu pořadí. U části situací se nepodařilo ověřit celý potřebný kontext; konkrétní změnu rotace z nich neurčujeme.
-
-
-
-- Kith'ix · 00:18.574 — Arcane Blast pod Arcane Soul; zaznamenáno 0 Arcane Salvo, Clearcasting nepřítomný. [Důkaz](index.html#evidence-297f7e38ac111ae9ea499643e4e8a1670d5c56af0d3db0d9734d79d667a1e61e)
-
-Cooldown intervaly k samostatnému posouzení: 9.
+Cooldown intervaly k samostatnému posouzení: 1.
 
 ## Vejr-Drak'thul-EU
 
-Analyzovaní bossové: Nek'zali the Soulcoiler, The Coiled Altar, Ula'tek, Kith'ix, Entombed Sentinels, Vashnik the Malignant.
+Analyzovaní bossové: Nek'zali the Soulcoiler, The Coiled Altar, Ula'tek, The Lost Explorers, Sszorak, Kith'ix.
 
 Nemáme konkrétní podklad pro změnu rotace.
 
@@ -919,298 +992,88 @@ Sudden Doom skončil při očekávané expiraci. Projdi poslední casty před je
 
 
 
-- Kith'ix · 02:11.612 — Proc od 02:01.588 do 02:11.612; odstranění při očekávané expiraci během vlastní aktivity. [Důkaz](index.html#evidence-1269b5ba06a5685bf4cccc2868e95a435dd7b556c4dd24f054224d3f0362dcc5)
+- Sszorak · 03:53.377 — Proc od 03:43.385 do 03:53.377; odstranění při očekávané expiraci během vlastní aktivity. [Důkaz](index.html#evidence-d96d999fceb61eca4fa0054dc236c455213f1b9cb95cd1b71c7aa746fa1dd498)
 
-Cooldown intervaly k samostatnému posouzení: 2.
+Cooldown intervaly k samostatnému posouzení: 5.
 
-## Johnyhoudini-BurningBlade-EU
+## Greenfire-Drak'thul-EU
 
-Analyzovaní bossové: Nek'zali the Soulcoiler, The Coiled Altar, Ula'tek, Kith'ix, Entombed Sentinels, Vashnik the Malignant.
-
-### Arcane Blast uvnitř Arcane Soul
-
-Pozorování k ověření
-
-1 Arcane Blast během Soul; u 1 je Clearcasting před logovaným startem výslovně nepřítomný, takže referenční Missiles podmínka neplatí. Soul splňuje vlastní Barrage podmínku; jeho skutečná použitelnost ani chyba hráče tím nejsou prokázané.
-
-Porovnej starty těchto Blastů s proc stavem a vyšší Missiles větví. Barrage má vlastní Soul větev, ale bez ověření celé priority a dostupnosti nepředepisujeme jeho záměnu za každý Blast.
-
-- Kith'ix · 00:21.537 — Arcane Blast pod Arcane Soul; zaznamenáno 16 Arcane Salvo, Clearcasting nepřítomný. [Důkaz](index.html#evidence-328b67ba9b2f00d488ee764252e7e0099a0d7fdb7c3ea1f2afd7cf5a0178a18d)
-
-Cooldown intervaly k samostatnému posouzení: 7.
-
-## Kubéc-Drak'thul-EU
-
-Analyzovaní bossové: Nek'zali the Soulcoiler, The Coiled Altar, Ula'tek, Kith'ix, Entombed Sentinels, Vashnik the Malignant.
-
-### Opakovaná Combo Strikes schopnost
-
-Pozorování k ověření
-
-37 opakování; u 35 odstraněno Hit Combo.
-
-Opakovaná relevantní schopnost a případný reset Hit Combo jsou pozorované. Jinou schopnost lze předepsat až po ověření její použitelnosti a celé priority; samotné opakování neurčuje správné náhradní tlačítko.
-
-- Nek'zali the Soulcoiler · 00:01.965 — Tiger Palm 00:00.955 → znovu 00:01.965; současně odstraněno Hit Combo. [Důkaz](index.html#evidence-8fa1e882164b1ba76a4409c52a17754b25b1475f6f9e686670d8905160254ab5)
-- Nek'zali the Soulcoiler · 00:38.040 — Blackout Kick 00:37.045 → znovu 00:38.040; současně odstraněno Hit Combo. [Důkaz](index.html#evidence-b1bfdbbc23a4fdb688a7bba4730e329835d8e560b91048bc6f4a6b540ca66502)
-- Nek'zali the Soulcoiler · 00:58.609 — Tiger Palm 00:57.598 → znovu 00:58.609; současně odstraněno Hit Combo. [Důkaz](index.html#evidence-0b051ccb6fb9d53862c97ac615357f484aaecc0ed53670854469fc6252d36cfc)
-- Nek'zali the Soulcoiler · 01:51.292 — Tiger Palm 01:48.233 → znovu 01:51.292; současně odstraněno Hit Combo. [Důkaz](index.html#evidence-e3df226f977b38fafe733e220d9880f54372b152705ed05367b858fc81aaaa22)
-- Nek'zali the Soulcoiler · 02:18.559 — Blackout Kick 02:17.214 → znovu 02:18.559; současně odstraněno Hit Combo. [Důkaz](index.html#evidence-2a4b60ccd18ef07d0a0e02740d955881268ce1172bde068c53fe181f7f763a3b)
-- Nek'zali the Soulcoiler · 02:31.745 — Spinning Crane Kick 02:24.802 → znovu 02:31.745; současně odstraněno Hit Combo. [Důkaz](index.html#evidence-4818acfcc5fc8a9bbd90eac61e5a13bf1ee350fcc081035de4fdd1875ff158e3)
-- Nek'zali the Soulcoiler · 03:59.783 — Tiger Palm 03:56.598 → znovu 03:59.783; současně odstraněno Hit Combo. [Důkaz](index.html#evidence-70ce82ea4408364fdf32fd440b41d63d5fc74cff1629d5bbb067b6779ae0e869)
-- The Coiled Altar · 00:53.674 — Tiger Palm 00:50.082 → znovu 00:53.674; současně odstraněno Hit Combo. [Důkaz](index.html#evidence-74b3ad7c69fe9bbdd3d46bbf04a8f2bbe3999324fba90bc65e6ce810090b0a16)
-- The Coiled Altar · 01:18.224 — Blackout Kick 01:17.235 → znovu 01:18.224; současně odstraněno Hit Combo. [Důkaz](index.html#evidence-fbce07048bec12aa4c3ba3551accced5278bb742c895160b7b278af512436b25)
-- The Coiled Altar · 03:06.195 — Tiger Palm 03:05.210 → znovu 03:06.195; současně odstraněno Hit Combo. [Důkaz](index.html#evidence-a953f097c44cf44c8044c60f5f013744c9ee2848cca9479a6d1930e2c0cdf687)
-- The Coiled Altar · 03:26.244 — Tiger Palm 03:25.240 → znovu 03:26.244; současně odstraněno Hit Combo. [Důkaz](index.html#evidence-fe2fd20ebce6e3692f74e2ab0a07c9f3ba2feed5187fd8cc3e9343b89cdf5d2d)
-- The Coiled Altar · 04:00.003 — Tiger Palm 03:59.031 → znovu 04:00.003; současně odstraněno Hit Combo. [Důkaz](index.html#evidence-fca817401aeaa20e656ed30520235f144c25e6bec3213342cc283f210cba570b)
-- The Coiled Altar · 05:26.338 — Blackout Kick 05:25.334 → znovu 05:26.338; současně odstraněno Hit Combo. [Důkaz](index.html#evidence-7ad1422bb6aeda2ca39aea0f322657b6fb6d7cade5f85d081227cf71cab3c38f)
-- The Coiled Altar · 06:46.155 — Blackout Kick 06:45.125 → znovu 06:46.155; současně odstraněno Hit Combo. [Důkaz](index.html#evidence-c1ed25dec09af7a3346d0774dee4bd6f008a8824aece32a577e7a7bd98ad8b51)
-- The Coiled Altar · 07:04.447 — Tiger Palm 07:03.468 → znovu 07:04.447; současně odstraněno Hit Combo. [Důkaz](index.html#evidence-4bff0ce622d249f56bad1a086a1b4ba546796100d0c9471b5dd084d4650d86e3)
-- Ula'tek · 00:58.583 — Tiger Palm 00:57.529 → znovu 00:58.583; současně odstraněno Hit Combo. [Důkaz](index.html#evidence-325c03b010730188102b32ddaeb85f32b121f194dbc13c01543727b3f5ac8609)
-- Ula'tek · 02:04.562 — Tiger Palm 02:03.527 → znovu 02:04.562; současně odstraněno Hit Combo. [Důkaz](index.html#evidence-34c6e01497346f972bf292cfca40a07ad564b1ef05d22f43aa5c5a219a33c168)
-- Ula'tek · 02:12.838 — Spinning Crane Kick 02:11.857 → znovu 02:12.838; současně odstraněno Hit Combo. [Důkaz](index.html#evidence-375e09a58d5f9ab9a8a65d95dcc6a8884fae5bca6a7c2fc04d8b3c38ba81bf3a)
-- Ula'tek · 03:57.067 — Spinning Crane Kick 03:55.152 → znovu 03:57.067; současně odstraněno Hit Combo. [Důkaz](index.html#evidence-b3b61075ee1c27cdf14ce87cacf6d257cc899c6af8ec7ae7c3727ef8c64aa4c4)
-- Ula'tek · 04:01.060 — Blackout Kick 04:00.050 → znovu 04:01.060; současně odstraněno Hit Combo. [Důkaz](index.html#evidence-27a184d11c26301fc18eaef5c922e129b89f5145ae0b935d4dc29baa9420eeec)
-- Ula'tek · 04:51.887 — Blackout Kick 04:50.907 → znovu 04:51.887; současně odstraněno Hit Combo. [Důkaz](index.html#evidence-37418c705b7fcf9360fe62f65e5abe87fdc9016756b4c898b2857965055ce430)
-- Ula'tek · 07:08.603 — Spinning Crane Kick 07:03.653 → znovu 07:08.603; současně odstraněno Hit Combo. [Důkaz](index.html#evidence-2cd36004bc0cd16ba3aadca73eaf0ef3b8fb25a990e1e7ebb545400caa3c3a38)
-- Kith'ix · 03:53.168 — Spinning Crane Kick 03:50.743 → znovu 03:53.168; současně odstraněno Hit Combo. [Důkaz](index.html#evidence-0f315e6b00da3de4071f88d87ebd6d3df290eb0a7f4c4ec485ed7099d7a60c39)
-- Kith'ix · 04:15.961 — Spinning Crane Kick 04:13.534 → znovu 04:15.961; současně odstraněno Hit Combo. [Důkaz](index.html#evidence-ab50633cecf3ce87f18c5ce74e153ed4e44a0b1aacd93a56087b2efcd9fe1b45)
-- Entombed Sentinels · 01:02.910 — Tiger Palm 01:00.739 → znovu 01:02.910; současně odstraněno Hit Combo. [Důkaz](index.html#evidence-f223dec9b2e97d725e8cb58a47e51170c45a453d8ef7d630b71b7c5a1e76c2c8)
-- Entombed Sentinels · 01:35.495 — Tiger Palm 01:34.509 → znovu 01:35.495; současně odstraněno Hit Combo. [Důkaz](index.html#evidence-268247c0ed40b37d0ef40fc9b3ebd89acb37201fe0579de90eca01cba5b2b31d)
-- Entombed Sentinels · 02:14.824 — Tiger Palm 02:12.931 → znovu 02:14.824; současně odstraněno Hit Combo. [Důkaz](index.html#evidence-c2f440bcf9afa7fe25b34330c34dec91a743fc8ee309073970b9a2a3efd12208)
-- Entombed Sentinels · 02:48.965 — Tiger Palm 02:42.871 → znovu 02:48.965; současně odstraněno Hit Combo. [Důkaz](index.html#evidence-08de5fdff31da74c266f82e313b98b984f9ab3dd7b44c9ce3b8df893171a1134)
-- Entombed Sentinels · 02:49.982 — Tiger Palm 02:42.871 → znovu 02:49.982; refresh stejné Combo Strikes značky. [Důkaz](index.html#evidence-61ed4597400a6084c13705e2780156345c6bbb155acbedb8067571099379075b)
-- Entombed Sentinels · 03:46.420 — Tiger Palm 03:45.415 → znovu 03:46.420; současně odstraněno Hit Combo. [Důkaz](index.html#evidence-712fd0a76187d2f7769720d13fac3c95f93355f6aae24d6d6c44ce88098c5641)
-- Entombed Sentinels · 03:55.615 — Blackout Kick 03:54.614 → znovu 03:55.615; současně odstraněno Hit Combo. [Důkaz](index.html#evidence-3d835794ecbeda9e357298e86ea3e8fc644031927e18dd98fd0e33b87464bc96)
-- Entombed Sentinels · 04:12.256 — Blackout Kick 04:11.255 → znovu 04:12.256; současně odstraněno Hit Combo. [Důkaz](index.html#evidence-98cabf99eb260c24ee5066a2456ee1eb253bd2a4d812a14ecf324fe94cbdabbc)
-- Entombed Sentinels · 04:24.876 — Tiger Palm 04:21.492 → znovu 04:24.876; současně odstraněno Hit Combo. [Důkaz](index.html#evidence-7386b163b5f0d4389c0dac2f0ebf2551fc14dbaa4bd130f872b66746e361f855)
-- Entombed Sentinels · 04:28.870 — Tiger Palm 04:26.897 → znovu 04:28.870; současně odstraněno Hit Combo. [Důkaz](index.html#evidence-ab9288dddbddaaaee5efe2ec149fd54e1191a6926c82f2d1848877992939579d)
-- Entombed Sentinels · 04:50.385 — Tiger Palm 04:49.110 → znovu 04:50.385; současně odstraněno Hit Combo. [Důkaz](index.html#evidence-d6b4d095d331a819538a2781c7815bb5960d7c989b93b5e1c681a5f27f2f825b)
-- Entombed Sentinels · 04:51.703 — Tiger Palm 04:49.110 → znovu 04:51.703; refresh stejné Combo Strikes značky. [Důkaz](index.html#evidence-557075241bd5da9c39426a3518a4ff944cce47c0ffd0428f104ed336179ea879)
-- Vashnik the Malignant · 01:09.210 — Blackout Kick 01:08.218 → znovu 01:09.210; současně odstraněno Hit Combo. [Důkaz](index.html#evidence-4a0a774dbd700c4bcaa71ae41fdebfdd1c08f58ba7cf97b96040b4e802ce6651)
-
-### Tiger Palm: zaznamenaný Chi cap
-
-Pozorování k ověření
-
-17 pozorování s ověřeným kontextem.
-
-Porovnej tyto Tiger Palm se stavem Chi a Energy, předchozí Combo Strikes akcí a dostupností spenderů. Samotné Chi waste nepotvrzuje, že čekání či jiná akce byly lepší.
-
-- Nek'zali the Soulcoiler · 03:59.783 — Tiger Palm: uloženo 1 Chi, propadlo 1. Energy snapshot 140 / 150. [Důkaz](index.html#evidence-89442b089e0690180c225a05e6ee7a3c5d363a56892cee7db2de0780007fe6aa)
-- Nek'zali the Soulcoiler · 04:12.801 — Tiger Palm: uloženo 1 Chi, propadlo 1. Energy snapshot 147 / 150. [Důkaz](index.html#evidence-a52ffda9a8cf0a8add8604fa55d299b34a3eeff247e0109034de2d0277f6e579)
-- The Coiled Altar · 00:23.865 — Tiger Palm: uloženo 1 Chi, propadlo 1. Energy snapshot 112 / 150. [Důkaz](index.html#evidence-8621bcb535445f39e3c387f11f7063bd1879ff4cb24fbdc2640d7c4de126fd4b)
-- The Coiled Altar · 00:25.849 — Tiger Palm: uloženo 1 Chi, propadlo 1. Energy snapshot 85 / 150. [Důkaz](index.html#evidence-b54d18c3cce2e4087b288d6399fbbab81f8a8e97469725f4e7903bf7ee8ecc32)
-- The Coiled Altar · 04:27.003 — Tiger Palm: uloženo 1 Chi, propadlo 1. Energy snapshot 118 / 150. [Důkaz](index.html#evidence-ab792d4a4b7939143a701404dcc71e92ba3e9a574fc5de2f51a72a09e8480135)
-- The Coiled Altar · 07:04.447 — Tiger Palm: uloženo 0 Chi, propadlo 2. Energy snapshot 109 / 150. [Důkaz](index.html#evidence-0304494673892716f8d71475ee5d8eecec040811e566e3446d63176097134636)
-- Ula'tek · 00:57.529 — Tiger Palm: uloženo 1 Chi, propadlo 1. Energy snapshot 119 / 150. [Důkaz](index.html#evidence-d2e0987915d545bd285c601531bebce0cfb980d5f670fcc3be251878d144cd2e)
-- Ula'tek · 00:58.583 — Tiger Palm: uloženo 0 Chi, propadlo 2. Energy snapshot 80 / 150. [Důkaz](index.html#evidence-9de923c5fb3ff69f0c6165455e1496dab2e4b5bd2c9478ca169befa6d74c0832)
-- Kith'ix · 01:35.051 — Tiger Palm: uloženo 0 Chi, propadlo 2. Energy snapshot 125 / 150. [Důkaz](index.html#evidence-628bb6d18616ca62b5bc609006dcf78930f47d607e1123b2e68a81f8e79fb8ee)
-- Kith'ix · 04:28.336 — Tiger Palm: uloženo 0 Chi, propadlo 2. Energy snapshot 150 / 150. [Důkaz](index.html#evidence-648c0898f28b7a421a1f0c803fcb8c672a0f7d19a7e75ead3d3857229b1f88f4)
-- Entombed Sentinels · 00:58.223 — Tiger Palm: uloženo 0 Chi, propadlo 2. Energy snapshot 103 / 150. [Důkaz](index.html#evidence-abe229811f80be60215385b73565b29c3687befc10f5d47266e754cc6e66d29e)
-- Entombed Sentinels · 01:02.910 — Tiger Palm: uloženo 0 Chi, propadlo 2. Energy snapshot 61 / 150. [Důkaz](index.html#evidence-749b08f2161f55ef32c506624d27dc9d4aaa2628ac8271ef869d0bbac8c00d37)
-- Entombed Sentinels · 02:48.965 — Tiger Palm: uloženo 0 Chi, propadlo 2. Energy snapshot 115 / 150. [Důkaz](index.html#evidence-411c8389868735e038d0bc37e0d8c0dc9d95bfe56a340202d471633cb8f7ec1e)
-- Entombed Sentinels · 02:49.982 — Tiger Palm: uloženo 0 Chi, propadlo 2. Energy snapshot 74 / 150. [Důkaz](index.html#evidence-d11519e4413842cdeed505a5838cb3f20bd0ad8f83b76963b9b44d1120709436)
-- Entombed Sentinels · 02:52.949 — Tiger Palm: uloženo 1 Chi, propadlo 1. Energy snapshot 62 / 150. [Důkaz](index.html#evidence-3995bc024687e2549844faa46c8b286936ca10786d2a9edd95f0980c3c8c8b69)
-- Entombed Sentinels · 04:28.870 — Tiger Palm: uloženo 0 Chi, propadlo 2. Energy snapshot 60 / 150. [Důkaz](index.html#evidence-8faa726366f333864b337e6620b6a2d663a2747702a6007a7a1837bdc453790c)
-- Vashnik the Malignant · 03:14.673 — Tiger Palm: uloženo 1 Chi, propadlo 1. Energy snapshot 92 / 150. [Důkaz](index.html#evidence-5b60b8c5fc1859c00616a84a16d65deadca08c80676fb5fe0cb7abdbeae885a9)
-
-### Zenith reset bez navazujícího Rising Sun Kick / Rushing Wind Kick po 10 s
-
-Pozorování k ověření
-
-Po Zenith je delší odstup k Rising Sun Kick nebo Rushing Wind Kick. Projdi celou sekvenci včetně Fists of Fury a stavu Chi; samotný odstup není nečinnost ani prokázaný důvod měnit pořadí.
-
-
-
-- Ula'tek · 06:57.370 — Prověř, proč po resetu nepřišel Rising Sun Kick ani Rushing Wind Kick. Pokud nešlo o Chi, pořadí burstu či mechaniku, naplánuj návaznost kopu na Zenith. [Důkaz](index.html#evidence-d88b611f3550a2c644e79d4b052321889aaa73fb9ed2e4efa54a202010ef58d8)
-- Kith'ix · 04:12.667 — Prověř, proč po resetu nepřišel Rising Sun Kick ani Rushing Wind Kick. Pokud nešlo o Chi, pořadí burstu či mechaniku, naplánuj návaznost kopu na Zenith. [Důkaz](index.html#evidence-c27878b50d48bcaf8d27cac4f084980cbc34e1e1b6e2ea3d2eb69cb8d062678a)
-
-Cooldown intervaly k samostatnému posouzení: 0.
-
-## Galneryus-Drak'thul-EU
-
-Analyzovaní bossové: Nek'zali the Soulcoiler, The Coiled Altar, Ula'tek, Kith'ix, Entombed Sentinels, Vashnik the Malignant.
-
-### Blade of Justice: Holy Power cap a proc výjimka
-
-Pozorování k ověření
-
-16 × Blade of Justice; propadlo 21 Holy Power. Art of War: doloženě chyběl u 8, neznámý stav u 8 z 16 pozorovaných castů. Neznámé není nepřítomné. Hero kontext: 6 případů Templar, 10 Herald of the Sun. Předchozí Holy Power snapshoty obsahují cenu finisheru; částku nelze převzít jako stav po utracení. Righteous Cause není vybraný u všech 16 sledovaných případů. Art of War: 8 doložených absencí, 8 neznámých stavů; neznámé není nepřítomné. Divine Purpose při Blade of Justice: 1 doložených přítomností z 16 případů. Reference má základní cenu finisherů 3 Holy Power a oddělené free větve; hranice 5 Holy Power v APL není cena Hammer of Light. U 6 Templar případů před capem již proběhly Wake of Ashes a dva Hammer of Light; efekt pro bezplatný Hammer už poté skončil. Připravený další Hammer tím není potvrzený. U 6 případů vybraný Walk Into Light a přítomný Avenging Wrath vylučují konkrétní proc větev Blade of Justice v referenci; nejde tím o 6 potvrzených chyb.
-
-Righteous Cause v těchto buildech není. U uvedených Blade of Justice tedy řeš Art of War a pořadí finisherů vůči Wake of Ashes. Při 5 Holy Power reference kontroluje finishery před proc větví, pokud ještě dobíhá cooldown Wake of Ashes. Dostupný finisher ani Wake stav zatím nejsou doložené; konkrétní záměnu nepředepisujeme.
-
-- Nek'zali the Soulcoiler · 01:21.072 — Blade of Justice: uloženo 0 Holy Power, propadlo 2. [Důkaz](index.html#evidence-44c2acfe89f94199d8f9be42927e7c39faae1cc08cf4c1b5648a54451ac977f6)
-- Nek'zali the Soulcoiler · 03:07.359 — Blade of Justice: uloženo 1 Holy Power, propadlo 1. [Důkaz](index.html#evidence-cbcb0d926704543e2431c5d6c44969db8e1a8da5e110d21c20a57313d11e7bbf)
-- Nek'zali the Soulcoiler · 03:21.854 — Blade of Justice: uloženo 1 Holy Power, propadlo 1. [Důkaz](index.html#evidence-2ae6d7e9c51d3006db3ab4c2c049763ab3cd705411f5e662dd0b9f4c630d2730)
-- Nek'zali the Soulcoiler · 03:26.988 — Blade of Justice: uloženo 1 Holy Power, propadlo 1. [Důkaz](index.html#evidence-9642d13adf193eff422b2e3d852051a935610a8868656aba10b77415ec07cc96)
-- Nek'zali the Soulcoiler · 03:54.371 — Blade of Justice: uloženo 1 Holy Power, propadlo 1. [Důkaz](index.html#evidence-3f9e13a2a7aa97baaca786eb8c9c75dc4ed2ff00e3326dc5dd27093acfd91db7)
-- Nek'zali the Soulcoiler · 04:05.460 — Blade of Justice: uloženo 1 Holy Power, propadlo 1. [Důkaz](index.html#evidence-4253d6203dfbd44efab1d80d4f443e6b69d3c6aa0169d969e16e55e7e912c974)
-- The Coiled Altar · 04:32.548 — Blade of Justice: uloženo 0 Holy Power, propadlo 2. [Důkaz](index.html#evidence-057af50c9b4e3578524f477f4393eae5cfdc3bc9354c457d8e5bcea425fa0cd1)
-- Ula'tek · 03:31.915 — Blade of Justice: uloženo 1 Holy Power, propadlo 1. [Důkaz](index.html#evidence-3738897d7597ddb26c012b29ef4062731e8439f386ef3a0d43991831874c8765)
-- Ula'tek · 05:36.693 — Blade of Justice: uloženo 1 Holy Power, propadlo 1. [Důkaz](index.html#evidence-b4bf539b046fba5f447757aeb7dcda317a66637f2d82b1ae0c410bd94882e8be)
-- Ula'tek · 07:04.571 — Blade of Justice: uloženo 0 Holy Power, propadlo 2. [Důkaz](index.html#evidence-76d80fee0d1e48f5ab2f6acd2fe06cd5d91a8a9f5c24eab7694d076a7f1f2b67)
-- Ula'tek · 07:28.789 — Blade of Justice: uloženo 1 Holy Power, propadlo 1. [Důkaz](index.html#evidence-da118a5e1e77a91f5e00aa9e2193e7e1c6fdad75f811049f58e4fb1c8431a5e9)
-- Ula'tek · 08:16.664 — Blade of Justice: uloženo 1 Holy Power, propadlo 1. [Důkaz](index.html#evidence-848cc9e7e67ae8ee2379c9fb00c528ef1ceb7f82bcd5a1ff211fad93eca74aee)
-- Kith'ix · 00:12.859 — Blade of Justice: uloženo 0 Holy Power, propadlo 2. [Důkaz](index.html#evidence-f0930a0a56bc6c572d24efdaf45f2ae754ca421d3fd9dc76b9c0041cf9dc5fa3)
-- Kith'ix · 04:09.507 — Blade of Justice: uloženo 0 Holy Power, propadlo 2. [Důkaz](index.html#evidence-209ed637f498570daee60d12ea60dfb5e5390723355312538703e6b87dea2e08)
-- Entombed Sentinels · 00:55.581 — Blade of Justice: uloženo 1 Holy Power, propadlo 1. [Důkaz](index.html#evidence-47ab6498fbe079fbf72af50fbf5d8e4635e96791b4afe9380c834bdd9b2a7e5b)
-- Entombed Sentinels · 04:11.530 — Blade of Justice: uloženo 1 Holy Power, propadlo 1. [Důkaz](index.html#evidence-119d38daf4bd61b202282809d319e3461366f06a58d21f589dcd41b33f832d3f)
-
-Cooldown intervaly k samostatnému posouzení: 11.
-
-## Kirill-Drak'thul-EU
-
-Analyzovaní bossové: The Coiled Altar, Ula'tek, Kith'ix, Entombed Sentinels, Vashnik the Malignant.
-
-Nemáme konkrétní podklad pro změnu rotace.
-
-Cooldown intervaly k samostatnému posouzení: 3.
-
-## Nahollou-Drak'thul-EU
-
-Analyzovaní bossové: The Coiled Altar, Ula'tek, Kith'ix, Entombed Sentinels, Vashnik the Malignant.
+Analyzovaní bossové: Nek'zali the Soulcoiler, The Coiled Altar, Ula'tek, The Lost Explorers, Sszorak.
 
 ### Soul Shards: cap u generátorů
 
 Pozorování k ověření
 
-60 doložených Soul Shard cap událostí: Demonbolt 35, Shadow Bolt 18, Infernal Bolt 7. U 31 je mezi startem a dokončením časový odstup, u 29 stejný timestamp. Nejde o 60 prokázaných chybných Demonbolt ani o potvrzený Shard stav při startu.
+47 doložených Soul Shard cap událostí: Demonbolt 37, Shadow Bolt 7, Infernal Bolt 3. U 17 je mezi startem a dokončením časový odstup, u 30 stejný timestamp. Nejde o 47 prokázaných chybných Demonbolt ani o potvrzený Shard stav při startu.
 
 U uvedených Demonbolt, Shadow Bolt a Infernal Bolt posuzuj Shardy při startu, Demonic Core a přípravu Tyranta. Mana snapshot není Soul Shard stav; cap při dokončení neprokazuje dostupný Hand of Gul’dan ani Call Dreadstalkers před startem. Bez celé priority konkrétní záměnu nepředepisujeme.
 
-- The Coiled Altar · 01:17.046 — Demonbolt: uloženo 0 Soul Shards, propadlo 2. [Důkaz](index.html#evidence-19191c02b2176e18c630d03446936e791de5a2844ed29803a3201376f1e996f0)
-- The Coiled Altar · 02:05.883 — Demonbolt: uloženo 0 Soul Shards, propadlo 2. [Důkaz](index.html#evidence-47455b8faa4a852b6f6150067548c3483a51fd2de961adbacef654428fc5142e)
-- The Coiled Altar · 03:50.635 — Demonbolt: uloženo 1 Soul Shards, propadlo 1. [Důkaz](index.html#evidence-c73d195b886056c33074332ff3f457073c84e374648cf85a5fc3a1fe05a5a793)
-- The Coiled Altar · 06:51.636 — Demonbolt: uloženo 1 Soul Shards, propadlo 1. [Důkaz](index.html#evidence-ebead54b08599cd66abccfa4c1a93d773c045b6ba4820016ce8b8b4084fbd3d6)
-- The Coiled Altar · 06:59.984 — Demonbolt: uloženo 0 Soul Shards, propadlo 2. [Důkaz](index.html#evidence-918ae21f8c140b1c47a818a25b7d66a6ecf76918195c99f5cbd262c8799854e9)
-- The Coiled Altar · 03:26.836 — Shadow Bolt: uloženo 0 Soul Shards, propadlo 1. [Důkaz](index.html#evidence-dc99580ecb4bbbafadb7bcff21904a5585f2cd810cd3d51e78e7ef675b475c80)
-- The Coiled Altar · 03:27.837 — Shadow Bolt: uloženo 0 Soul Shards, propadlo 1. [Důkaz](index.html#evidence-3f4bb696a973eecd73da6190133c33d1cc766dc84f8074985e647bd75e8f1163)
-- Ula'tek · 00:45.636 — Demonbolt: uloženo 0 Soul Shards, propadlo 2. [Důkaz](index.html#evidence-2dc0b009f3ea6dc916da60355fa2c1611faf070c54720abd95bd4536e86e6751)
-- Ula'tek · 01:38.920 — Demonbolt: uloženo 1 Soul Shards, propadlo 1. [Důkaz](index.html#evidence-af636047b3af6dd2a76441a6d0e096418e194fd9dc56ce42b56cde0f4333d96d)
-- Ula'tek · 01:46.282 — Demonbolt: uloženo 1 Soul Shards, propadlo 1. [Důkaz](index.html#evidence-27c9597b7d9da15850633f0a9780f92f0238811462040b62d13d61c6b21055e4)
-- Ula'tek · 02:23.677 — Demonbolt: uloženo 0 Soul Shards, propadlo 2. [Důkaz](index.html#evidence-2dc3fbd9912ef30b12a4ea6a97d9b205669e561d0f2940a8839881b329797454)
-- Ula'tek · 02:27.133 — Demonbolt: uloženo 0 Soul Shards, propadlo 2. [Důkaz](index.html#evidence-994f7a3d5d05539eb667e2a1886562e600374431385936ee324e444e99e32438)
-- Ula'tek · 04:10.388 — Demonbolt: uloženo 1 Soul Shards, propadlo 1. [Důkaz](index.html#evidence-3a286339b62512fce7f529b2530a335f417dbd32af498f77e8532967a29f21a1)
-- Ula'tek · 04:27.629 — Demonbolt: uloženo 0 Soul Shards, propadlo 2. [Důkaz](index.html#evidence-4e6e4d114b522f02cd7d1ae605fc2f7b14dcc6d46008ec159f168c13f4e4a1f9)
-- Ula'tek · 06:24.607 — Demonbolt: uloženo 0 Soul Shards, propadlo 2. [Důkaz](index.html#evidence-7b63a711babf67e8e2af2bf15c42347cab599be909293286fbbae19fb2cfc364)
-- Ula'tek · 08:56.606 — Demonbolt: uloženo 0 Soul Shards, propadlo 2. [Důkaz](index.html#evidence-f36b8b6cd4fae541324db84e7025413760ede0e42522f20901979102ff5fa79e)
-- Ula'tek · 09:28.271 — Demonbolt: uloženo 1 Soul Shards, propadlo 1. [Důkaz](index.html#evidence-a1deff1452e71f73e90cf2ee63a21ffe5bfaa98ca0f24e12ab16416958853afc)
-- Ula'tek · 02:16.124 — Shadow Bolt: uloženo 0 Soul Shards, propadlo 1. [Důkaz](index.html#evidence-b98a12d477399c7dee13d914f037bce1b3b574521cb252ee877e7ed53574498c)
-- Ula'tek · 03:20.951 — Shadow Bolt: uloženo 0 Soul Shards, propadlo 1. [Důkaz](index.html#evidence-f28be2f04f1e5ded217d0b9a71e5e9dffbbe029c5b49775d9f3f707926f96c79)
-- Ula'tek · 06:15.286 — Shadow Bolt: uloženo 0 Soul Shards, propadlo 1. [Důkaz](index.html#evidence-6a0e08e563eb4bde337a6bdbf44913cfa87c60d3600ef5d0f2963b2cfe5f7df0)
-- Ula'tek · 06:24.607 — Shadow Bolt: uloženo 0 Soul Shards, propadlo 1. [Důkaz](index.html#evidence-07026e1c1b3934ed101ed6876e4a676188156672f9692ae3be8b7ec86a4b8c2d)
-- Ula'tek · 08:28.154 — Shadow Bolt: uloženo 0 Soul Shards, propadlo 1. [Důkaz](index.html#evidence-55866aac1cbef32e7f93a3628acd76cb49b4e8d4699041247071ff336cff8609)
-- Ula'tek · 08:29.352 — Shadow Bolt: uloženo 0 Soul Shards, propadlo 1. [Důkaz](index.html#evidence-dce99314e2845def562a40f22396a83556bcc57781be87ce8f3c27e006608939)
-- Ula'tek · 08:31.360 — Shadow Bolt: uloženo 0 Soul Shards, propadlo 1. [Důkaz](index.html#evidence-8de1461c46f6b9dd7c9f8f4d475ec89e14e4d8cbde4710a089937c47c647baaf)
-- Ula'tek · 09:14.566 — Shadow Bolt: uloženo 0 Soul Shards, propadlo 1. [Důkaz](index.html#evidence-b4085ebefd7634c47c28bebedde34b00b5e63f7f8716e988ce7f4c5418d51838)
-- Ula'tek · 09:31.358 — Shadow Bolt: uloženo 0 Soul Shards, propadlo 1. [Důkaz](index.html#evidence-76d004939e6b7943f35a83487ecf02b2295a818392697f60c7a1f2fa059a0ef3)
-- Ula'tek · 04:24.702 — Infernal Bolt: uloženo 1 Soul Shards, propadlo 2. [Důkaz](index.html#evidence-696ca095653b30fe6de1e4abc092b70045bf298fb285a3e80c7f6c4d5c0e07d4)
-- Ula'tek · 06:19.240 — Infernal Bolt: uloženo 2 Soul Shards, propadlo 1. [Důkaz](index.html#evidence-f63a903ebba209dd208130149280e0b306c4d800d1565594fe824ecd29100898)
-- Kith'ix · 00:28.177 — Demonbolt: uloženo 0 Soul Shards, propadlo 2. [Důkaz](index.html#evidence-dffe6dac6f361f9dbc9c6608c2f5a1899ffb94cc833ee45e61c142c0f269e335)
-- Kith'ix · 01:59.031 — Demonbolt: uloženo 0 Soul Shards, propadlo 2. [Důkaz](index.html#evidence-5deaeadd3829f88a63011401ba2db344d3974b7348c80e9b14ace5e025a111eb)
-- Kith'ix · 02:23.548 — Demonbolt: uloženo 1 Soul Shards, propadlo 1. [Důkaz](index.html#evidence-48c6f8f3e4935a58ee5fe35da7657e85d1c6a236c3be6f974ee8b112c7f1957e)
-- Kith'ix · 02:31.789 — Demonbolt: uloženo 0 Soul Shards, propadlo 2. [Důkaz](index.html#evidence-86f6d3d6a24d7b2fd47ed697fb64c50cce3f0f5a37a8699b711210f9a2f846bf)
-- Kith'ix · 02:33.092 — Demonbolt: uloženo 0 Soul Shards, propadlo 2. [Důkaz](index.html#evidence-2b005165306a4953bc4137daea4628dbd54470eb55c15e0333e7ab4f5c9de89d)
-- Kith'ix · 02:59.695 — Demonbolt: uloženo 1 Soul Shards, propadlo 1. [Důkaz](index.html#evidence-43f66addbbe0d4f4429d717d8ad6be7384443ed71282f0a766ad2abb23a4ca78)
-- Kith'ix · 03:21.135 — Demonbolt: uloženo 0 Soul Shards, propadlo 2. [Důkaz](index.html#evidence-2e2d9d059be8420e309408bb2e181f6bf39f0c1f2a9311a0fe45571c2f62867d)
-- Kith'ix · 03:57.270 — Demonbolt: uloženo 0 Soul Shards, propadlo 2. [Důkaz](index.html#evidence-4d9baa3c67a87cad1f1afecb397aa008cd9cc45b538e40811ff8295669e25982)
-- Kith'ix · 04:16.291 — Demonbolt: uloženo 1 Soul Shards, propadlo 1. [Důkaz](index.html#evidence-f36963d5712a4689198da8e1d5828ae7fe0182abe60c6e6125996ba0dd275de8)
-- Kith'ix · 00:44.755 — Shadow Bolt: uloženo 0 Soul Shards, propadlo 1. [Důkaz](index.html#evidence-6cabfe64168963b41e5d66d9f1289785fd32f3c973ef86101f24dc9e335c5da5)
-- Kith'ix · 01:31.176 — Shadow Bolt: uloženo 0 Soul Shards, propadlo 1. [Důkaz](index.html#evidence-0563cc32b6d43e9df6b64cb74e972ff55586d6a89271f43fdbf2f4be10a5064d)
-- Kith'ix · 03:37.617 — Infernal Bolt: uloženo 2 Soul Shards, propadlo 1. [Důkaz](index.html#evidence-fe219868d08a98568d30b70238428a6a354fe59398f8646f1d7b10e23d48bc8b)
-- Entombed Sentinels · 00:21.779 — Demonbolt: uloženo 0 Soul Shards, propadlo 2. [Důkaz](index.html#evidence-55eb04cde1cfa96a2aa2d17567662d6eba0b2303f529bd7a0cb31be192ef5033)
-- Entombed Sentinels · 00:42.213 — Demonbolt: uloženo 1 Soul Shards, propadlo 1. [Důkaz](index.html#evidence-4f1459961acd3568030b4becbbd160ce8eb902391e546448ba92e98512653c34)
-- Entombed Sentinels · 00:56.036 — Demonbolt: uloženo 0 Soul Shards, propadlo 2. [Důkaz](index.html#evidence-1fa51294bc21db4546558945aa6adbedfc1989e612c2e678a0faeacc2f70709a)
-- Entombed Sentinels · 01:12.718 — Demonbolt: uloženo 0 Soul Shards, propadlo 2. [Důkaz](index.html#evidence-4d0a48a47846dad246e6517ec1a8e4f2c835b50bba23afc17bcce85693491092)
-- Entombed Sentinels · 01:32.271 — Demonbolt: uloženo 0 Soul Shards, propadlo 2. [Důkaz](index.html#evidence-1f56220c193217bacf060bb4465fa5c1af35c5d3ae9984bb1d4e3b0572c47a12)
-- Entombed Sentinels · 03:20.793 — Demonbolt: uloženo 0 Soul Shards, propadlo 2. [Důkaz](index.html#evidence-76742d8d20b668184ac67677a18ffd83fd27e279ea0bded4359bfb92dcf2d55a)
-- Entombed Sentinels · 04:01.395 — Demonbolt: uloženo 1 Soul Shards, propadlo 1. [Důkaz](index.html#evidence-abcd7ef1fa9dc72ae9bebc58567faeb4d2c490aa0477ca7bb27801975d6d82a5)
-- Entombed Sentinels · 04:14.656 — Demonbolt: uloženo 1 Soul Shards, propadlo 1. [Důkaz](index.html#evidence-eb7adf0d64508ad4db0789c4c66e7bd602ea74ff3a317aff7bbf144dbb77492f)
-- Entombed Sentinels · 00:06.849 — Shadow Bolt: uloženo 0 Soul Shards, propadlo 1. [Důkaz](index.html#evidence-8d6f68e906c2def6f2df70d2f80fb4179bb8dc6f9c8a5744f482c688e233da4f)
-- Entombed Sentinels · 00:16.088 — Shadow Bolt: uloženo 0 Soul Shards, propadlo 1. [Důkaz](index.html#evidence-fb6f058549ab5c9f1184ec080090ffc2f6056c642342348dbfda2d8d0bf03e92)
-- Entombed Sentinels · 02:37.057 — Shadow Bolt: uloženo 0 Soul Shards, propadlo 1. [Důkaz](index.html#evidence-e5e211d34eb3a59eaeeda26761082474fdea658e9b4beca6eb704b897623cb65)
-- Entombed Sentinels · 01:22.335 — Infernal Bolt: uloženo 2 Soul Shards, propadlo 1. [Důkaz](index.html#evidence-3053138be104258a254629ca4b0e5583eb41ab1f93bdc29d3ac6a1ea14324bd0)
-- Entombed Sentinels · 02:41.319 — Infernal Bolt: uloženo 1 Soul Shards, propadlo 2. [Důkaz](index.html#evidence-a4d864226da6a6c2b9becc333e18b56cb70e44ed603a17de0a195e09e9147d1c)
-- Entombed Sentinels · 03:30.181 — Infernal Bolt: uloženo 2 Soul Shards, propadlo 1. [Důkaz](index.html#evidence-edb66112e884c5aac9b7ae82bde176c692cae21f862cd5ef04f401b53cfaf638)
-- Vashnik the Malignant · 01:33.848 — Demonbolt: uloženo 0 Soul Shards, propadlo 2. [Důkaz](index.html#evidence-d52d03cdeba91498104f270c7cb5ad3683d11a4c7f7b2725b278e7a4783b10ff)
-- Vashnik the Malignant · 01:36.370 — Demonbolt: uloženo 0 Soul Shards, propadlo 2. [Důkaz](index.html#evidence-a9e23b98c67f5498651c76d3620b4d300fbb74580745538244906d57964d5f17)
-- Vashnik the Malignant · 02:15.464 — Demonbolt: uloženo 1 Soul Shards, propadlo 1. [Důkaz](index.html#evidence-b7ac91035a7aea668189668b761c4ff4a1558662e768558204fd6ed0b12cd4db)
-- Vashnik the Malignant · 01:17.857 — Shadow Bolt: uloženo 0 Soul Shards, propadlo 1. [Důkaz](index.html#evidence-35307d5cd95f18bcc05370ddbd1fde90c5491a9ef921ec26a893ddcd08603941)
-- Vashnik the Malignant · 01:36.370 — Shadow Bolt: uloženo 0 Soul Shards, propadlo 1. [Důkaz](index.html#evidence-8c15efeb08818441fa53fa759dc84234ca5ef13cb211b78fb3391369be038013)
-- Vashnik the Malignant · 01:14.422 — Infernal Bolt: uloženo 2 Soul Shards, propadlo 1. [Důkaz](index.html#evidence-7e74743df30cfb6e8a865ff3b74c7dd7aeabadc6b057734ff0983eeba61166a4)
+- Nek'zali the Soulcoiler · 01:26.458 — Demonbolt: uloženo 1 Soul Shards, propadlo 1. [Důkaz](index.html#evidence-6c6f29b0c820d4512fa33e735bda00d04cd5e9e99839d909c06bb1d148a73ac5)
+- Nek'zali the Soulcoiler · 01:44.903 — Demonbolt: uloženo 0 Soul Shards, propadlo 2. [Důkaz](index.html#evidence-5ebd73a647c64e478125fe31c7fa0c1ecfa358f7ec05c010e8c522ea14a2f8ca)
+- Nek'zali the Soulcoiler · 01:46.091 — Demonbolt: uloženo 0 Soul Shards, propadlo 2. [Důkaz](index.html#evidence-282f295794613d5c8722a7e54d6c00e95785bf87dd9abfb96e77b852fdcaa137)
+- Nek'zali the Soulcoiler · 01:55.777 — Demonbolt: uloženo 0 Soul Shards, propadlo 2. [Důkaz](index.html#evidence-eaa3b203f44df6cb5ed0a9b2767f4f2e43b1d15b57d293cf6706ac77d5b02b1c)
+- Nek'zali the Soulcoiler · 03:04.634 — Demonbolt: uloženo 1 Soul Shards, propadlo 1. [Důkaz](index.html#evidence-0dce04c5b6e07fe02838b7f402e3f8b41ceae41bdd3b3f1616cce548e3384c14)
+- Nek'zali the Soulcoiler · 00:17.816 — Shadow Bolt: uloženo 0 Soul Shards, propadlo 1. [Důkaz](index.html#evidence-3bebce876ca3d0afe5c154074e42ed633d51a4bce12b6c1e2a54cc509266dafb)
+- The Coiled Altar · 01:44.895 — Demonbolt: uloženo 1 Soul Shards, propadlo 1. [Důkaz](index.html#evidence-3d1755d896da38d093a306d68f5fb9e2f558979a4c621436f4528d35df841e6c)
+- The Coiled Altar · 01:48.812 — Demonbolt: uloženo 0 Soul Shards, propadlo 2. [Důkaz](index.html#evidence-ee2bc4f973c2243b15ce9abbf07dfd4c56b8bdfd54915f403ccfdf147a0f9ca7)
+- The Coiled Altar · 02:32.930 — Demonbolt: uloženo 1 Soul Shards, propadlo 1. [Důkaz](index.html#evidence-078b6210d3ccc9b39079bb968846422d3dbfe5ff73c71299ad1ad346e97ad884)
+- The Coiled Altar · 02:44.513 — Demonbolt: uloženo 0 Soul Shards, propadlo 2. [Důkaz](index.html#evidence-fa896a1f372789b48dad12a91d42f69e3bf499f812d2423e215b3c28ac1b8f45)
+- The Coiled Altar · 04:50.134 — Demonbolt: uloženo 1 Soul Shards, propadlo 1. [Důkaz](index.html#evidence-a5970e4fc07e7fadb8fb9d4dc2ecf0d9acd4f29654d778b515bb9e1ab7487173)
+- The Coiled Altar · 04:52.000 — Demonbolt: uloženo 0 Soul Shards, propadlo 2. [Důkaz](index.html#evidence-69ab72ad827202c8a1bb92a83211007152d18d15ab6dc8128105e49e8ecf2a05)
+- The Coiled Altar · 05:15.532 — Demonbolt: uloženo 1 Soul Shards, propadlo 1. [Důkaz](index.html#evidence-57b062f66416f38e2f308be652b790bd88d858a86244f7200fcf0cbc20d7db5a)
+- The Coiled Altar · 05:35.286 — Demonbolt: uloženo 1 Soul Shards, propadlo 1. [Důkaz](index.html#evidence-3cd95ec9b80a6cab9a7180aab066dd764aec98d905c83cf11de528425d2dc63b)
+- The Coiled Altar · 05:40.064 — Demonbolt: uloženo 1 Soul Shards, propadlo 1. [Důkaz](index.html#evidence-a82ecf202693649f396f087d91c87e1458d0dadb613bae620817d32e154f3afd)
+- The Coiled Altar · 05:03.589 — Shadow Bolt: uloženo 0 Soul Shards, propadlo 1. [Důkaz](index.html#evidence-92cf5bc69d46da9ed56eb02805b1c7e7e47a208337679e57ac4a362855649ff2)
+- The Coiled Altar · 02:04.001 — Infernal Bolt: uloženo 2 Soul Shards, propadlo 1. [Důkaz](index.html#evidence-09de735a4108152379392337417c13863cc114a76c41de29a06621522c78f815)
+- Ula'tek · 00:41.884 — Demonbolt: uloženo 1 Soul Shards, propadlo 1. [Důkaz](index.html#evidence-419d0c147c1b468fbd46a4d852640eb4f315dfc72ab512a60b97f8b22ecc7cae)
+- Ula'tek · 02:12.664 — Demonbolt: uloženo 0 Soul Shards, propadlo 2. [Důkaz](index.html#evidence-1c4a7f6d1be606bbdbc6c154839601b24d84f1b0f6c5e8847a27b51694c08dc2)
+- Ula'tek · 02:13.410 — Demonbolt: uloženo 0 Soul Shards, propadlo 2. [Důkaz](index.html#evidence-6d61d54a5c8168a2f6dfba737633720021165d5fadff1641ed5a2b6f1433be8c)
+- Ula'tek · 03:04.534 — Demonbolt: uloženo 1 Soul Shards, propadlo 1. [Důkaz](index.html#evidence-e14d4e37a6691b653eeafd1679ebc786ae2560ae2f569f2628a658fbad8fe61b)
+- Ula'tek · 04:14.258 — Demonbolt: uloženo 1 Soul Shards, propadlo 1. [Důkaz](index.html#evidence-f356f7f71d05cb51ad32ef002c8ecf15a6486002a62bf6dff522b45abfe56248)
+- Ula'tek · 04:48.689 — Demonbolt: uloženo 1 Soul Shards, propadlo 1. [Důkaz](index.html#evidence-18244e154045731992b7803c5e5f28576352de20ebaad2e51d1d43e129d94e9c)
+- Ula'tek · 06:29.582 — Demonbolt: uloženo 1 Soul Shards, propadlo 1. [Důkaz](index.html#evidence-501e3d615f28ac5ac3a31a9097fd164df4894e0b1c00d95f09a7a3787860f0b7)
+- Ula'tek · 06:43.253 — Demonbolt: uloženo 1 Soul Shards, propadlo 1. [Důkaz](index.html#evidence-59e431f8929faeb2108bf0e80d9d89c1548a2955e1dbbb7cc4d69f28a66f2a0d)
+- Ula'tek · 06:46.779 — Demonbolt: uloženo 1 Soul Shards, propadlo 1. [Důkaz](index.html#evidence-ebe7ac540116f5e20ba876f17fd2c8f1b6632416e2c8e84796744b153951817e)
+- Ula'tek · 07:10.531 — Demonbolt: uloženo 0 Soul Shards, propadlo 2. [Důkaz](index.html#evidence-7769629477f30ec84a36e756a55f2fe26925816e98930413261577d1356237eb)
+- Ula'tek · 07:26.730 — Demonbolt: uloženo 1 Soul Shards, propadlo 1. [Důkaz](index.html#evidence-7745082ac4fd2a949987a64e0acaf5ab6e160882af9e105ab9066c52b63e3573)
+- Ula'tek · 08:22.385 — Demonbolt: uloženo 1 Soul Shards, propadlo 1. [Důkaz](index.html#evidence-578874ec103fc9cf0ee7b98bea97b02a3438f3d16fa499dc8fe381850e550d30)
+- Ula'tek · 06:49.273 — Shadow Bolt: uloženo 0 Soul Shards, propadlo 1. [Důkaz](index.html#evidence-1f6261dfcc03086d6363bfdb6e40c42fd0429922cda1f85f536fc453dc76d8f9)
+- Ula'tek · 07:31.909 — Shadow Bolt: uloženo 0 Soul Shards, propadlo 1. [Důkaz](index.html#evidence-debad353b64645fd6e5cc145d0233ca54a89637d418114a36a90c28645c94715)
+- Ula'tek · 07:34.079 — Infernal Bolt: uloženo 2 Soul Shards, propadlo 1. [Důkaz](index.html#evidence-6b775ddd3b40362235be53d46857b5bdb4bb05bdfc41d1f3744aba38283b1244)
+- The Lost Explorers · 00:22.547 — Demonbolt: uloženo 0 Soul Shards, propadlo 2. [Důkaz](index.html#evidence-07c93271db5581d5905b26a46810b6a1130adc0925e0f967d1db8f19dae2b247)
+- The Lost Explorers · 01:36.697 — Demonbolt: uloženo 0 Soul Shards, propadlo 2. [Důkaz](index.html#evidence-029426a56ec4def988ab370e9c43974056cd8e404dcb23686dbb24d6c99010be)
+- The Lost Explorers · 01:38.150 — Demonbolt: uloženo 0 Soul Shards, propadlo 2. [Důkaz](index.html#evidence-dc8608b256c58135265fd202a9b47104f33a93be20d04edc05031a6592c6196c)
+- The Lost Explorers · 01:47.001 — Demonbolt: uloženo 0 Soul Shards, propadlo 2. [Důkaz](index.html#evidence-e53f9475c39f71063dab49d9e9b2abd0d015a92efd1be319b7fb227a7ec58477)
+- The Lost Explorers · 02:21.698 — Demonbolt: uloženo 1 Soul Shards, propadlo 1. [Důkaz](index.html#evidence-e3388f9c5b26d091f02089ad17a182341d9c186ad680943720b0d324d5b47280)
+- The Lost Explorers · 01:20.378 — Shadow Bolt: uloženo 0 Soul Shards, propadlo 1. [Důkaz](index.html#evidence-3372e813b34fc355f683afbc46073574f837cc6cc0428896857afa77a808d3be)
+- The Lost Explorers · 00:25.183 — Infernal Bolt: uloženo 2 Soul Shards, propadlo 1. [Důkaz](index.html#evidence-4fd7e5df0bc6ee25ab3ca8e5b1721900316cfbbe1c7c53fc38e13b6c1241a180)
+- Sszorak · 00:22.051 — Demonbolt: uloženo 1 Soul Shards, propadlo 1. [Důkaz](index.html#evidence-9ac9f365f03f0b8e3af26afef648fe5e371bd9d45b98beb9573a60ecfc0e3ff2)
+- Sszorak · 01:02.771 — Demonbolt: uloženo 1 Soul Shards, propadlo 1. [Důkaz](index.html#evidence-17e2bb1d1d9eebbf64d053e4b8e73bdd047cc5fc7aeddef7a4200d46c10bfadd)
+- Sszorak · 01:55.944 — Demonbolt: uloženo 1 Soul Shards, propadlo 1. [Důkaz](index.html#evidence-61938175979bbfb668ab7200c54f729a3074e85a7415cbbf751da4c9b275af5a)
+- Sszorak · 02:15.059 — Demonbolt: uloženo 0 Soul Shards, propadlo 2. [Důkaz](index.html#evidence-db700002639ce5e6ab1adf1decb2118e4b0de8e7aa758fb8e4da3fcd717a8754)
+- Sszorak · 02:32.843 — Demonbolt: uloženo 1 Soul Shards, propadlo 1. [Důkaz](index.html#evidence-75a041652e1054c26de64882577b8cec2c67270aaad2d8d204806500fd21a7ac)
+- Sszorak · 03:19.607 — Demonbolt: uloženo 0 Soul Shards, propadlo 2. [Důkaz](index.html#evidence-d3805b16a2fd0730e702a9ebb152c6de7ecd28c5a472a6638d32c5505fd07012)
+- Sszorak · 02:21.014 — Shadow Bolt: uloženo 0 Soul Shards, propadlo 1. [Důkaz](index.html#evidence-77edde4736dd52bd935301cfc074fb216cd8eb7094af8188c32680c3b5787d9a)
+- Sszorak · 02:28.303 — Shadow Bolt: uloženo 0 Soul Shards, propadlo 1. [Důkaz](index.html#evidence-48679d570cb3183817ad1d760e2bbfab31e2d0ed5f96fa2e9f30acb2f005dd1f)
 
 ### Poslední HoG: nesplněná sledovaná podmínka
 
 Pozorování k ověření
 
-8 pozorování s ověřeným kontextem. Dreadstalkers CD komponenta při Tyrant startu: u 6 ještě dobíhá timer, u 2 doběhl. Celá dostupnost ani správný odklad z toho neplynou; celé sekvence jsou níže. U 8 z 8 Tyrantů jsou doložená další zvýšení Demonic Power po úvodním timestampu. Přínos petů tedy není omezený na okamžik summonu; pozdější pet sám není promarněný. Průběh buffu je níže.
+10 pozorování s ověřeným kontextem. Dreadstalkers CD komponenta při Tyrant startu: u 10 ještě dobíhá timer, u 0 doběhl. Celá dostupnost ani správný odklad z toho neplynou; celé sekvence jsou níže. U 10 z 10 Tyrantů jsou doložená další zvýšení Demonic Power po úvodním timestampu. Přínos petů tedy není omezený na okamžik summonu; pozdější pet sám není promarněný. Průběh buffu je níže.
 
 U uvedených posledních HoG před Tyrantem nevyšla sledovaná vstupní komponenta reference. To samo neprokazuje, že bylo bezpečné čekat na 5 Shardů: chybí úplný stav životnosti petů, dostupný generátor a časový prostor pro burst.
 
-- The Coiled Altar · 02:10.012 — Summon Demonic Tyrant začal se 1 Shardy; sledovaný přípravný práh byl 5. [Důkaz](index.html#evidence-fb87c9c3be916ed06a8715aeb1b1759f08e1bce802ff1dddb35e3a6a68da571e)
-- The Coiled Altar · 04:30.416 — Summon Demonic Tyrant začal se 0 Shardy; sledovaný přípravný práh byl 5. [Důkaz](index.html#evidence-4de9b5e7a15605e93c87721ca67d8c0a6393a06ac20289e55de7e03f3f321003)
-- The Coiled Altar · 06:35.311 — Summon Demonic Tyrant začal se 1 Shardy; sledovaný přípravný práh byl 5. [Důkaz](index.html#evidence-605b59190491013de71859d0c990490b26ef6af560c7a21e90df7870d050cb6b)
-- Entombed Sentinels · 01:08.422 — Summon Demonic Tyrant začal se 3 Shardy; sledovaný přípravný práh byl 5. [Důkaz](index.html#evidence-666ec13258c0618efcf543c8b6cc9c0270c2f3be6c13b43dcfbf9aca2971dd18)
-- Entombed Sentinels · 02:10.992 — Summon Demonic Tyrant začal se 2 Shardy; sledovaný přípravný práh byl 5. [Důkaz](index.html#evidence-3bf016ab0b68d1d56d23dd99e26ff7bdd7f0194ed83df12576172d6e8aa0248b)
-- Vashnik the Malignant · 01:06.832 — Summon Demonic Tyrant začal se 2 Shardy; sledovaný přípravný práh byl 5. [Důkaz](index.html#evidence-809fc523af4530801e49d6c66271ad2e28e368b2e39314f114fce7fc307a5664)
-- Vashnik the Malignant · 02:09.028 — Summon Demonic Tyrant začal se 3 Shardy; sledovaný přípravný práh byl 5. [Důkaz](index.html#evidence-524fbae75dfc145eab11383451348d66bffd4e8e346207ad12004d2ea504d80d)
-- Vashnik the Malignant · 03:11.198 — Summon Demonic Tyrant začal se 4 Shardy; sledovaný přípravný práh byl 5. [Důkaz](index.html#evidence-00c3af315c00321333df28863ea5515bba16261523583a2bb7d844f556d5511f)
-
-### Hardcast Demonbolt bez Demonic Core
-
-Pozorování k ověření
-
-Demonbolt měl zaznamenanou dobu castu bez doloženého Demonic Core. U uvedených časů zkontroluj proc a důvod použití; během běžného generování porovnej tento cast se Shadow Bolt nebo Infernal Bolt.
-
-
-
-- The Coiled Altar · 07:03.470 — Během boje používej Demonbolt s Demonic Core; bez procu vol Shadow Bolt nebo jeho talentovou náhradu Infernal Bolt. Prověř konkrétní casty v reportu. [Důkaz](index.html#evidence-3faae8c129b9ee5aa0f12bedf0099302c725a8cdcead856fd625123d09709c9f)
-- Ula'tek · 02:24.541 — Během boje používej Demonbolt s Demonic Core; bez procu vol Shadow Bolt nebo jeho talentovou náhradu Infernal Bolt. Prověř konkrétní casty v reportu. [Důkaz](index.html#evidence-eb351de04a57f5a443abd73af1e49a079b51d6064df0500ecf11cdc8fd78d651)
-- Kith'ix · 03:59.698 — Během boje používej Demonbolt s Demonic Core; bez procu vol Shadow Bolt nebo jeho talentovou náhradu Infernal Bolt. Prověř konkrétní casty v reportu. [Důkaz](index.html#evidence-88956b9c7f0fc65e5f570411e10faab77f346d459ff7512ebd4beda27bf0cb74)
-
-### Prověř pooling Shardů před Tyrantem
-
-Pozorování k ověření
-
-U těchto Hand of Gul’dan zkontroluj přípravu na Summon Demonic Tyrant, zbývající Shardy a konec fáze. Část situací se může překrývat s Tyrant případy; nepočítej je automaticky jako další chyby.
-
-
-
-- The Coiled Altar · 01:02.316 — Při přípravě Tyranta sleduj dosažení 5 Shardů. Prověř označené HoG: použité APL v těchto stavech HoG nevybírá. Pokud můžeš bezpečně generovat Shardy a žádná vyšší akce nemá přednost, zvaž generátor místo dalšího HoG. Tyranta při 3–4 Shardech toto doporučení nepožaduje. [Důkaz](index.html#evidence-a66b139a486c0131ed8c1df9f14b70c0a4825067b9a40c86e863875d54d00371)
-- The Coiled Altar · 02:08.417 — Při přípravě Tyranta sleduj dosažení 5 Shardů. Prověř označené HoG: použité APL v těchto stavech HoG nevybírá. Pokud můžeš bezpečně generovat Shardy a žádná vyšší akce nemá přednost, zvaž generátor místo dalšího HoG. Tyranta při 3–4 Shardech toto doporučení nepožaduje. [Důkaz](index.html#evidence-d44481096c4c2e5c8b92ce50afbfc327795951f94f7082d34814e863ff0b1710)
-- The Coiled Altar · 04:28.928 — Při přípravě Tyranta sleduj dosažení 5 Shardů. Prověř označené HoG: použité APL v těchto stavech HoG nevybírá. Pokud můžeš bezpečně generovat Shardy a žádná vyšší akce nemá přednost, zvaž generátor místo dalšího HoG. Tyranta při 3–4 Shardech toto doporučení nepožaduje. [Důkaz](index.html#evidence-53c9ee2fde214cad00b277415604a0b3c7fbac96ba6165f2f623b7dfec787e38)
-- The Coiled Altar · 05:26.774 — Při přípravě Tyranta sleduj dosažení 5 Shardů. Prověř označené HoG: použité APL v těchto stavech HoG nevybírá. Pokud můžeš bezpečně generovat Shardy a žádná vyšší akce nemá přednost, zvaž generátor místo dalšího HoG. Tyranta při 3–4 Shardech toto doporučení nepožaduje. [Důkaz](index.html#evidence-c570d06147edcdebedb22275b86ee9009d6a9f1f6d8cc76dfc4ce1216d76d4e4)
-- The Coiled Altar · 06:33.497 — Při přípravě Tyranta sleduj dosažení 5 Shardů. Prověř označené HoG: použité APL v těchto stavech HoG nevybírá. Pokud můžeš bezpečně generovat Shardy a žádná vyšší akce nemá přednost, zvaž generátor místo dalšího HoG. Tyranta při 3–4 Shardech toto doporučení nepožaduje. [Důkaz](index.html#evidence-87e8521517e92b5ede098fcb9fc7043e7dc0dc76cbc36a4cefeb23402a798769)
-- Ula'tek · 04:33.849 — Při přípravě Tyranta sleduj dosažení 5 Shardů. Prověř označené HoG: použité APL v těchto stavech HoG nevybírá. Pokud můžeš bezpečně generovat Shardy a žádná vyšší akce nemá přednost, zvaž generátor místo dalšího HoG. Tyranta při 3–4 Shardech toto doporučení nepožaduje. [Důkaz](index.html#evidence-3975b5ed8ea1dee3d23b837587bf8ded4bdf4d33b9258ed7bfe69277d89feac4)
-- Entombed Sentinels · 00:59.600 — Při přípravě Tyranta sleduj dosažení 5 Shardů. Prověř označené HoG: použité APL v těchto stavech HoG nevybírá. Pokud můžeš bezpečně generovat Shardy a žádná vyšší akce nemá přednost, zvaž generátor místo dalšího HoG. Tyranta při 3–4 Shardech toto doporučení nepožaduje. [Důkaz](index.html#evidence-b9d8822995b69871924c1aaef5d5a99af7c05687ea19dfb7daaba728d65320fa)
-- Entombed Sentinels · 02:07.279 — Při přípravě Tyranta sleduj dosažení 5 Shardů. Prověř označené HoG: použité APL v těchto stavech HoG nevybírá. Pokud můžeš bezpečně generovat Shardy a žádná vyšší akce nemá přednost, zvaž generátor místo dalšího HoG. Tyranta při 3–4 Shardech toto doporučení nepožaduje. [Důkaz](index.html#evidence-75b88d99709f0f21a14914fca382b784ce5246f67d29b507aa82ff4729d1af88)
-- Vashnik the Malignant · 01:01.984 — Při přípravě Tyranta sleduj dosažení 5 Shardů. Prověř označené HoG: použité APL v těchto stavech HoG nevybírá. Pokud můžeš bezpečně generovat Shardy a žádná vyšší akce nemá přednost, zvaž generátor místo dalšího HoG. Tyranta při 3–4 Shardech toto doporučení nepožaduje. [Důkaz](index.html#evidence-d6d960d51fcbc199735c75c0dbba3dfdd8800851299b0c2c135f279cf8542c77)
-- Vashnik the Malignant · 02:04.708 — Při přípravě Tyranta sleduj dosažení 5 Shardů. Prověř označené HoG: použité APL v těchto stavech HoG nevybírá. Pokud můžeš bezpečně generovat Shardy a žádná vyšší akce nemá přednost, zvaž generátor místo dalšího HoG. Tyranta při 3–4 Shardech toto doporučení nepožaduje. [Důkaz](index.html#evidence-71bb42b3780cc1e634cf661a4fd67a4230c1b415350f86116c5bd1b736e51cce)
-- Vashnik the Malignant · 03:07.367 — Při přípravě Tyranta sleduj dosažení 5 Shardů. Prověř označené HoG: použité APL v těchto stavech HoG nevybírá. Pokud můžeš bezpečně generovat Shardy a žádná vyšší akce nemá přednost, zvaž generátor místo dalšího HoG. Tyranta při 3–4 Shardech toto doporučení nepožaduje. [Důkaz](index.html#evidence-20e360bd317ac3a05335b6f83e3347f1d44a9e18494a82939a0d95829598b2f8)
-
-### Prověř pooling k 5 Shardům před Tyrantem
-
-Pozorování k ověření
-
-Tyto další Tyrant nebo Demonbolt vstupy nesplňují výběr pro doporučení k poslednímu Hand of Gul’dan výše. Nepovažujeme je za stejný problém; jednotlivé podmínky zůstávají v detailu důkazu.
-
-
-
-- The Coiled Altar · 05:33.112 — Summon Demonic Tyrant začal se 2 Shardy; sledovaný přípravný práh byl 5. [Důkaz](index.html#evidence-564beea7174ae0fe9af7ce87a95431405750a4559cc9a2d857b6e0407fc77448)
-- The Coiled Altar · 05:51.393 — Před dalším generováním při 4–5 Shardech prověř vhodné utrácení. Zohledni Core stacks, proc expiraci a přípravu Tyranta; samotný resource práh neprokazuje waste ani bezpečně dostupný spender. [Důkaz](index.html#evidence-d6d1d1e8ed24bb5bd9288f8de51c40f41a6059c5348fb0bd7c302b03228ab0af)
-- Ula'tek · 01:11.330 — Summon Demonic Tyrant začal se 2 Shardy; sledovaný přípravný práh byl 5. [Důkaz](index.html#evidence-1c8b8dd7ad098987e5dbbd884c0a5a9997dd96daa0738c980d8771917dc2b7e9)
-- Ula'tek · 02:24.541 — Před dalším generováním při 4–5 Shardech prověř vhodné utrácení. Zohledni Core stacks, proc expiraci a přípravu Tyranta; samotný resource práh neprokazuje waste ani bezpečně dostupný spender. [Důkaz](index.html#evidence-80ebb918483f767c45666baf377f5860f67c48285f642af3b50519357108e5b1)
-- Ula'tek · 04:53.087 — Před dalším generováním při 4–5 Shardech prověř vhodné utrácení. Zohledni Core stacks, proc expiraci a přípravu Tyranta; samotný resource práh neprokazuje waste ani bezpečně dostupný spender. [Důkaz](index.html#evidence-814a548830c2449befab6f18bf3f02d3e364cc70eb20217c0b611634c552d593)
-- Kith'ix · 01:06.765 — Summon Demonic Tyrant začal se 4 Shardy; sledovaný přípravný práh byl 5. [Důkaz](index.html#evidence-12d1d29d7f989992ceb2071af4d611dce40dd1be973965c1bf8e7bf206033e41)
-- Kith'ix · 02:10.878 — Summon Demonic Tyrant začal se 0 Shardy; sledovaný přípravný práh byl 5. [Důkaz](index.html#evidence-90cd84e1eb0d514932892e6dd0dc9c88982ae5367a00bb4952d8eb3f1aa59dd1)
-- Kith'ix · 04:19.072 — Summon Demonic Tyrant začal se 2 Shardy; sledovaný přípravný práh byl 5. [Důkaz](index.html#evidence-87fc79343c1d864f879a792a9ed290e321df742dbb852caced14a06fe3a68636)
-- Kith'ix · 04:16.292 — Před dalším generováním při 4–5 Shardech prověř vhodné utrácení. Zohledni Core stacks, proc expiraci a přípravu Tyranta; samotný resource práh neprokazuje waste ani bezpečně dostupný spender. [Důkaz](index.html#evidence-7f4d35749aad851366bf2689f51647a5e9849a407cde01c030c5594d194fb3f0)
-- Entombed Sentinels · 03:15.183 — Summon Demonic Tyrant začal se 4 Shardy; sledovaný přípravný práh byl 5. [Důkaz](index.html#evidence-91e69532c37bd4685c74ad21d6a52c3beb6001a71883d5a206b47419436e137b)
-- Entombed Sentinels · 04:29.667 — Summon Demonic Tyrant začal se 3 Shardy; sledovaný přípravný práh byl 5. [Důkaz](index.html#evidence-db84dc18c52135f8d6a421c6274065640b5024b0719db4f267368aaa259265ee)
-- Entombed Sentinels · 00:24.097 — Před dalším generováním při 4–5 Shardech prověř vhodné utrácení. Zohledni Core stacks, proc expiraci a přípravu Tyranta; samotný resource práh neprokazuje waste ani bezpečně dostupný spender. [Důkaz](index.html#evidence-458539d66c14421a60bd0ebe6da81acb95685306da774868e48761306a75216d)
-- Entombed Sentinels · 01:32.272 — Před dalším generováním při 4–5 Shardech prověř vhodné utrácení. Zohledni Core stacks, proc expiraci a přípravu Tyranta; samotný resource práh neprokazuje waste ani bezpečně dostupný spender. [Důkaz](index.html#evidence-37f36d443ee98d4b68d251d85e52550ea6bd632ec156da3ec1384b9288c28214)
-- Vashnik the Malignant · 02:03.444 — Před dalším generováním při 4–5 Shardech prověř vhodné utrácení. Zohledni Core stacks, proc expiraci a přípravu Tyranta; samotný resource práh neprokazuje waste ani bezpečně dostupný spender. [Důkaz](index.html#evidence-e4a5bce43e32d26e5e1c62e688cd9a216d58ab62f0c5ab6f06278223e5e7f8e7)
+- Nek'zali the Soulcoiler · 02:25.277 — Summon Demonic Tyrant začal se 2 Shardy; sledovaný přípravný práh byl 5. [Důkaz](index.html#evidence-13c8b88a8926fff2e8ab0faf2fd005cc08eda12b2a82db03ec1ed51ce8c6a473)
+- The Coiled Altar · 01:08.242 — Summon Demonic Tyrant začal se 0 Shardy; sledovaný přípravný práh byl 5. [Důkaz](index.html#evidence-5d8517f7122d389e881bd6799cb4024eb42574ff3317dc5a2648f481a2e144f6)
+- The Coiled Altar · 03:13.420 — Summon Demonic Tyrant začal se 3 Shardy; sledovaný přípravný práh byl 5. [Důkaz](index.html#evidence-57de37852ae4d28c60a3e0d9c857790f5424eb9fd594401a5bfb0fb501c9c15d)
+- The Coiled Altar · 04:17.507 — Summon Demonic Tyrant začal se 0 Shardy; sledovaný přípravný práh byl 5. [Důkaz](index.html#evidence-66d281a5226b12181e69da1df61383058811ab25e934ec7ff3adf484def1ef19)
+- Ula'tek · 01:09.688 — Summon Demonic Tyrant začal se 3 Shardy; sledovaný přípravný práh byl 5. [Důkaz](index.html#evidence-584e54901ee67c105f229e7f1d024f85604febf9f8d18fdf1aaf7eb9ab2155ab)
+- Ula'tek · 04:47.327 — Summon Demonic Tyrant začal se 4 Shardy; sledovaný přípravný práh byl 5. [Důkaz](index.html#evidence-d4f6b062fee5e758fde02bf465a6f86a18f8ddc7b58d53b7f97de3e84131b337)
+- Ula'tek · 06:13.113 — Summon Demonic Tyrant začal se 1 Shardy; sledovaný přípravný práh byl 5. [Důkaz](index.html#evidence-7938d9333408a1673e5d39af92caaa5062b717895d43e419d2ce4e7a5e43bbd4)
+- The Lost Explorers · 01:09.457 — Summon Demonic Tyrant začal se 4 Shardy; sledovaný přípravný práh byl 5. [Důkaz](index.html#evidence-2393fa125724b86ac9aeb8ec40d5da10b2418a26de915ec21d2a62f9fde4a065)
+- The Lost Explorers · 02:11.837 — Summon Demonic Tyrant začal se 1 Shardy; sledovaný přípravný práh byl 5. [Důkaz](index.html#evidence-fc600743d4dd3c78a826ab883a40e7a1a4283aecdbf9789ea13942af64379427)
+- The Lost Explorers · 03:15.109 — Summon Demonic Tyrant začal se 2 Shardy; sledovaný přípravný práh byl 5. [Důkaz](index.html#evidence-654849a0567bdadbc7131e154a0f7e882ca63ae018d5409b262f2066f0b3deb2)
 
 ### Prověř načasování Dreadstalkers vůči Tyrantovi
 
@@ -1220,243 +1083,480 @@ U uvedených Call Dreadstalkers projdi návaznost na Summon Demonic Tyrant a př
 
 
 
-- Ula'tek · 01:53.546 — Při přípravě Tyranta plánuj i Dreadstalkers. U označených startů prověř jejich posun mimo toto APL okno, pokud jsou vhodné alternativy a situace to dovoluje. Přesnou délku odkladu ani náhradní akci log nedokládá. [Důkaz](index.html#evidence-990f4ac230e3c31cc4da57416d83cc6c9643d0031d7c78c9ba90c70077edcb7c)
-- Ula'tek · 05:29.483 — Při přípravě Tyranta plánuj i Dreadstalkers. U označených startů prověř jejich posun mimo toto APL okno, pokud jsou vhodné alternativy a situace to dovoluje. Přesnou délku odkladu ani náhradní akci log nedokládá. [Důkaz](index.html#evidence-efad8536a29f82c5b90ca9dd24861d0cac96148171cd2e4cf644ad22676213ce)
-- Ula'tek · 09:14.567 — Při přípravě Tyranta plánuj i Dreadstalkers. U označených startů prověř jejich posun mimo toto APL okno, pokud jsou vhodné alternativy a situace to dovoluje. Přesnou délku odkladu ani náhradní akci log nedokládá. [Důkaz](index.html#evidence-d42e195a16e144172e6d426a02049598da42d148b834a6a5ff6c4ae860c88493)
-- Vashnik the Malignant · 00:43.806 — Při přípravě Tyranta plánuj i Dreadstalkers. U označených startů prověř jejich posun mimo toto APL okno, pokud jsou vhodné alternativy a situace to dovoluje. Přesnou délku odkladu ani náhradní akci log nedokládá. [Důkaz](index.html#evidence-b1380ded16c71a7dcd874348567c791a7d5dc82a53e6c482d402c18106c845fb)
-- Vashnik the Malignant · 01:48.503 — Při přípravě Tyranta plánuj i Dreadstalkers. U označených startů prověř jejich posun mimo toto APL okno, pokud jsou vhodné alternativy a situace to dovoluje. Přesnou délku odkladu ani náhradní akci log nedokládá. [Důkaz](index.html#evidence-dc99dfaa9fba3fb78626c2902eb45512d8b1f23abe4a2526a1f1900eac0e95d0)
-- Vashnik the Malignant · 02:52.441 — Při přípravě Tyranta plánuj i Dreadstalkers. U označených startů prověř jejich posun mimo toto APL okno, pokud jsou vhodné alternativy a situace to dovoluje. Přesnou délku odkladu ani náhradní akci log nedokládá. [Důkaz](index.html#evidence-2350bbf107d823458ff6a24d3633b82e3612a403fbe2d0b04ddb7fcaef07eff9)
-- Vashnik the Malignant · 03:56.426 — Při přípravě Tyranta plánuj i Dreadstalkers. U označených startů prověř jejich posun mimo toto APL okno, pokud jsou vhodné alternativy a situace to dovoluje. Přesnou délku odkladu ani náhradní akci log nedokládá. [Důkaz](index.html#evidence-3c01d47d1f32e5afd174a84359d60cc578b6050c5af873ce260c7498e80ea53b)
+- Nek'zali the Soulcoiler · 03:08.298 — Při přípravě Tyranta plánuj i Dreadstalkers. U označených startů prověř jejich posun mimo toto APL okno, pokud jsou vhodné alternativy a situace to dovoluje. Přesnou délku odkladu ani náhradní akci log nedokládá. [Důkaz](index.html#evidence-bcac5c04c483f584e202d9373bd6c466de1da86e8f95c683ba06a97bc1a869ca)
+- The Coiled Altar · 03:55.150 — Při přípravě Tyranta plánuj i Dreadstalkers. U označených startů prověř jejich posun mimo toto APL okno, pokud jsou vhodné alternativy a situace to dovoluje. Přesnou délku odkladu ani náhradní akci log nedokládá. [Důkaz](index.html#evidence-049f00a4aca033f94ef823bd2790cf9183bbe34e2a4b06b4f6279d76b5bbced4)
+- Ula'tek · 01:51.490 — Při přípravě Tyranta plánuj i Dreadstalkers. U označených startů prověř jejich posun mimo toto APL okno, pokud jsou vhodné alternativy a situace to dovoluje. Přesnou délku odkladu ani náhradní akci log nedokládá. [Důkaz](index.html#evidence-4098a7a86718d5ff9ab727ecaa284cd9c1441dd835bc3dc3d7751aebc25804db)
+- Ula'tek · 08:02.264 — Při přípravě Tyranta plánuj i Dreadstalkers. U označených startů prověř jejich posun mimo toto APL okno, pokud jsou vhodné alternativy a situace to dovoluje. Přesnou délku odkladu ani náhradní akci log nedokládá. [Důkaz](index.html#evidence-823ef573b2c611201f7a4b9358b5734256bfeebe334d5156a46637cb8c39e6ea)
+- The Lost Explorers · 00:47.763 — Při přípravě Tyranta plánuj i Dreadstalkers. U označených startů prověř jejich posun mimo toto APL okno, pokud jsou vhodné alternativy a situace to dovoluje. Přesnou délku odkladu ani náhradní akci log nedokládá. [Důkaz](index.html#evidence-8137bb697339b588f95dfbef1f6cbd0f51e7b344c3bcaec8dea7c647b0b9aab3)
+- The Lost Explorers · 02:56.408 — Při přípravě Tyranta plánuj i Dreadstalkers. U označených startů prověř jejich posun mimo toto APL okno, pokud jsou vhodné alternativy a situace to dovoluje. Přesnou délku odkladu ani náhradní akci log nedokládá. [Důkaz](index.html#evidence-3721839b39cfbda8cb0cca71ef5b3722714e056f607bb2fd438c58c4cc64c2bd)
+- Sszorak · 00:49.319 — Při přípravě Tyranta plánuj i Dreadstalkers. U označených startů prověř jejich posun mimo toto APL okno, pokud jsou vhodné alternativy a situace to dovoluje. Přesnou délku odkladu ani náhradní akci log nedokládá. [Důkaz](index.html#evidence-bc28dcb80a2ce124d9bda4fe46230f0135bb291020e0927a6cbd4f1e8c976bc7)
+- Sszorak · 01:53.465 — Při přípravě Tyranta plánuj i Dreadstalkers. U označených startů prověř jejich posun mimo toto APL okno, pokud jsou vhodné alternativy a situace to dovoluje. Přesnou délku odkladu ani náhradní akci log nedokládá. [Důkaz](index.html#evidence-85653049a6c4f6aae44b6bee82a3e0e269c7c5233730ae0f220d0b5619935861)
 
-Cooldown intervaly k samostatnému posouzení: 8.
-
-## Íácekpwn-Drak'thul-EU
-
-Analyzovaní bossové: The Coiled Altar, Ula'tek, Entombed Sentinels, Vashnik the Malignant.
-
-### Mind Flay: Insanity — odstranění procu
+### Prověř pooling Shardů před Tyrantem
 
 Pozorování k ověření
 
-1 pozorování s ověřeným kontextem. Konkrétní aktivity během těchto oken: Shadow Word: Pain 6, Tentacle Slam 2, Flash Heal 1, Angelic Feather 3. Počet cast success není počet ručních vstupů a nedokládá volný channel.
+U těchto Hand of Gul’dan zkontroluj přípravu na Summon Demonic Tyrant, zbývající Shardy a konec fáze. Část situací se může překrývat s Tyrant případy; nepočítej je automaticky jako další chyby.
 
-Proc byl odstraněný poblíž referenční expirace. To není důkaz dostupného bezpečného channelu ani promarněného použití. Posuzuj skutečné casty a pohybové/healing akce v tomto okně; změnu rotace z odstranění samotného nepředepisujeme.
 
-- Ula'tek · 05:41.877 — Proc od 05:11.852 do 05:41.877; odstranění při očekávané expiraci během vlastní aktivity. [Důkaz](index.html#evidence-553c7f09c5472b70d71471092f738addc1e596f1a92249c88a0e62c153cb99ae)
 
-Cooldown intervaly k samostatnému posouzení: 2.
+- Nek'zali the Soulcoiler · 01:12.308 — Při přípravě Tyranta sleduj dosažení 5 Shardů. Prověř označené HoG: použité APL v těchto stavech HoG nevybírá. Pokud můžeš bezpečně generovat Shardy a žádná vyšší akce nemá přednost, zvaž generátor místo dalšího HoG. Tyranta při 3–4 Shardech toto doporučení nepožaduje. [Důkaz](index.html#evidence-ae468df29e86964fdf71b42da4e7b5689650a1bc0a10de26ee860213dc9dee53)
+- Nek'zali the Soulcoiler · 02:15.538 — Při přípravě Tyranta sleduj dosažení 5 Shardů. Prověř označené HoG: použité APL v těchto stavech HoG nevybírá. Pokud můžeš bezpečně generovat Shardy a žádná vyšší akce nemá přednost, zvaž generátor místo dalšího HoG. Tyranta při 3–4 Shardech toto doporučení nepožaduje. [Důkaz](index.html#evidence-12bf4b6e55e7f5f8aaffaffa429d82a911761bfcdbec20de0d8133f6a18c0e86)
+- Nek'zali the Soulcoiler · 02:19.177 — Při přípravě Tyranta sleduj dosažení 5 Shardů. Prověř označené HoG: použité APL v těchto stavech HoG nevybírá. Pokud můžeš bezpečně generovat Shardy a žádná vyšší akce nemá přednost, zvaž generátor místo dalšího HoG. Tyranta při 3–4 Shardech toto doporučení nepožaduje. [Důkaz](index.html#evidence-fb33a313d3bdbcec52f53420b9cbb15bc67573a0e2412ef50b8578906012b26f)
+- Nek'zali the Soulcoiler · 03:24.140 — Při přípravě Tyranta sleduj dosažení 5 Shardů. Prověř označené HoG: použité APL v těchto stavech HoG nevybírá. Pokud můžeš bezpečně generovat Shardy a žádná vyšší akce nemá přednost, zvaž generátor místo dalšího HoG. Tyranta při 3–4 Shardech toto doporučení nepožaduje. [Důkaz](index.html#evidence-b14bf60bf665e14ffd4c641958dabd776d8d9f5f2a3528853d68dda348fe7ff9)
+- Nek'zali the Soulcoiler · 03:27.939 — Při přípravě Tyranta sleduj dosažení 5 Shardů. Prověř označené HoG: použité APL v těchto stavech HoG nevybírá. Pokud můžeš bezpečně generovat Shardy a žádná vyšší akce nemá přednost, zvaž generátor místo dalšího HoG. Tyranta při 3–4 Shardech toto doporučení nepožaduje. [Důkaz](index.html#evidence-7e771577c37ab56399a09df4abb500554ae1f48c7a145947b183d9f9cfebfc99)
+- Nek'zali the Soulcoiler · 03:32.835 — Při přípravě Tyranta sleduj dosažení 5 Shardů. Prověř označené HoG: použité APL v těchto stavech HoG nevybírá. Pokud můžeš bezpečně generovat Shardy a žádná vyšší akce nemá přednost, zvaž generátor místo dalšího HoG. Tyranta při 3–4 Shardech toto doporučení nepožaduje. [Důkaz](index.html#evidence-949167cbed0e1566e997605486908b4462e70619ed11dd04de39fb545c33c72a)
+- Nek'zali the Soulcoiler · 03:36.451 — Při přípravě Tyranta sleduj dosažení 5 Shardů. Prověř označené HoG: použité APL v těchto stavech HoG nevybírá. Pokud můžeš bezpečně generovat Shardy a žádná vyšší akce nemá přednost, zvaž generátor místo dalšího HoG. Tyranta při 3–4 Shardech toto doporučení nepožaduje. [Důkaz](index.html#evidence-ff2d46e161d0f8be006055f226ab14018dc267b101a51dc187825a5933c30b69)
+- The Coiled Altar · 01:00.962 — Při přípravě Tyranta sleduj dosažení 5 Shardů. Prověř označené HoG: použité APL v těchto stavech HoG nevybírá. Pokud můžeš bezpečně generovat Shardy a žádná vyšší akce nemá přednost, zvaž generátor místo dalšího HoG. Tyranta při 3–4 Shardech toto doporučení nepožaduje. [Důkaz](index.html#evidence-88f677e9807616c99850fd712fa7bb9c15a582d74628fd7740f269b9496102e2)
+- The Coiled Altar · 01:07.115 — Při přípravě Tyranta sleduj dosažení 5 Shardů. Prověř označené HoG: použité APL v těchto stavech HoG nevybírá. Pokud můžeš bezpečně generovat Shardy a žádná vyšší akce nemá přednost, zvaž generátor místo dalšího HoG. Tyranta při 3–4 Shardech toto doporučení nepožaduje. [Důkaz](index.html#evidence-b82da4e497b5dd92bf40b3123f77aa97ece9e638f987198d7ba6b44ab00711ad)
+- The Coiled Altar · 03:09.513 — Při přípravě Tyranta sleduj dosažení 5 Shardů. Prověř označené HoG: použité APL v těchto stavech HoG nevybírá. Pokud můžeš bezpečně generovat Shardy a žádná vyšší akce nemá přednost, zvaž generátor místo dalšího HoG. Tyranta při 3–4 Shardech toto doporučení nepožaduje. [Důkaz](index.html#evidence-d2d8bd0d8da6710030b67be9518c81015f0c8c479f4d203fc074fb19bf3d85ee)
+- The Coiled Altar · 04:11.335 — Při přípravě Tyranta sleduj dosažení 5 Shardů. Prověř označené HoG: použité APL v těchto stavech HoG nevybírá. Pokud můžeš bezpečně generovat Shardy a žádná vyšší akce nemá přednost, zvaž generátor místo dalšího HoG. Tyranta při 3–4 Shardech toto doporučení nepožaduje. [Důkaz](index.html#evidence-f5bd810a7a93b9e6dd70be015a8369b4f03c55a197d417eea4a15950a79d67d1)
+- The Coiled Altar · 04:14.996 — Při přípravě Tyranta sleduj dosažení 5 Shardů. Prověř označené HoG: použité APL v těchto stavech HoG nevybírá. Pokud můžeš bezpečně generovat Shardy a žádná vyšší akce nemá přednost, zvaž generátor místo dalšího HoG. Tyranta při 3–4 Shardech toto doporučení nepožaduje. [Důkaz](index.html#evidence-ef2591f3816268f55eb906cda32485fc0c305f3125f1a3300a3c2095a4585195)
+- Ula'tek · 01:00.648 — Při přípravě Tyranta sleduj dosažení 5 Shardů. Prověř označené HoG: použité APL v těchto stavech HoG nevybírá. Pokud můžeš bezpečně generovat Shardy a žádná vyšší akce nemá přednost, zvaž generátor místo dalšího HoG. Tyranta při 3–4 Shardech toto doporučení nepožaduje. [Důkaz](index.html#evidence-2715c6ca25c3e938791ac4becd0cf59a9e072dc3b6c45f5cccb6418418089252)
+- Ula'tek · 03:11.966 — Při přípravě Tyranta sleduj dosažení 5 Shardů. Prověř označené HoG: použité APL v těchto stavech HoG nevybírá. Pokud můžeš bezpečně generovat Shardy a žádná vyšší akce nemá přednost, zvaž generátor místo dalšího HoG. Tyranta při 3–4 Shardech toto doporučení nepožaduje. [Důkaz](index.html#evidence-c930030df53c0881b64b02421dcd56e7460887323490bf312b0a7ab1d81628b4)
+- Ula'tek · 03:22.630 — Při přípravě Tyranta sleduj dosažení 5 Shardů. Prověř označené HoG: použité APL v těchto stavech HoG nevybírá. Pokud můžeš bezpečně generovat Shardy a žádná vyšší akce nemá přednost, zvaž generátor místo dalšího HoG. Tyranta při 3–4 Shardech toto doporučení nepožaduje. [Důkaz](index.html#evidence-48dbcacbf4249943b4655e2feed9a09719715dbbdd5c4058a5fd31f6fb127300)
+- Ula'tek · 04:43.234 — Při přípravě Tyranta sleduj dosažení 5 Shardů. Prověř označené HoG: použité APL v těchto stavech HoG nevybírá. Pokud můžeš bezpečně generovat Shardy a žádná vyšší akce nemá přednost, zvaž generátor místo dalšího HoG. Tyranta při 3–4 Shardech toto doporučení nepožaduje. [Důkaz](index.html#evidence-6a301344ef23958137e46430e3afbca9cda2b6e6c6c3a6a14b8f6c68e845401e)
+- Ula'tek · 06:10.651 — Při přípravě Tyranta sleduj dosažení 5 Shardů. Prověř označené HoG: použité APL v těchto stavech HoG nevybírá. Pokud můžeš bezpečně generovat Shardy a žádná vyšší akce nemá přednost, zvaž generátor místo dalšího HoG. Tyranta při 3–4 Shardech toto doporučení nepožaduje. [Důkaz](index.html#evidence-54376f7b9876045c25faf4d20eaa6f655b29eb44f9453c37b0e6ceb09a8c6428)
+- Ula'tek · 08:17.523 — Při přípravě Tyranta sleduj dosažení 5 Shardů. Prověř označené HoG: použité APL v těchto stavech HoG nevybírá. Pokud můžeš bezpečně generovat Shardy a žádná vyšší akce nemá přednost, zvaž generátor místo dalšího HoG. Tyranta při 3–4 Shardech toto doporučení nepožaduje. [Důkaz](index.html#evidence-a3d67638063b4769c5f3399486312a9926eabd44546ca1ad68302f3b9c22c5dd)
+- Ula'tek · 08:35.013 — Při přípravě Tyranta sleduj dosažení 5 Shardů. Prověř označené HoG: použité APL v těchto stavech HoG nevybírá. Pokud můžeš bezpečně generovat Shardy a žádná vyšší akce nemá přednost, zvaž generátor místo dalšího HoG. Tyranta při 3–4 Shardech toto doporučení nepožaduje. [Důkaz](index.html#evidence-cda38d7ae393128d33a953817950ef934b6f1894e9444a083aae1387e126b0bc)
+- The Lost Explorers · 01:01.582 — Při přípravě Tyranta sleduj dosažení 5 Shardů. Prověř označené HoG: použité APL v těchto stavech HoG nevybírá. Pokud můžeš bezpečně generovat Shardy a žádná vyšší akce nemá přednost, zvaž generátor místo dalšího HoG. Tyranta při 3–4 Shardech toto doporučení nepožaduje. [Důkaz](index.html#evidence-f58e8e416747df08463e9fc412b57fefd2b50b09aa3eb288aa82dfb9cae35fa8)
+- The Lost Explorers · 01:05.847 — Při přípravě Tyranta sleduj dosažení 5 Shardů. Prověř označené HoG: použité APL v těchto stavech HoG nevybírá. Pokud můžeš bezpečně generovat Shardy a žádná vyšší akce nemá přednost, zvaž generátor místo dalšího HoG. Tyranta při 3–4 Shardech toto doporučení nepožaduje. [Důkaz](index.html#evidence-91e8936e19884c266522a8672bfea9fcba474739ca4c301930d78de0cd963881)
+- The Lost Explorers · 02:08.127 — Při přípravě Tyranta sleduj dosažení 5 Shardů. Prověř označené HoG: použité APL v těchto stavech HoG nevybírá. Pokud můžeš bezpečně generovat Shardy a žádná vyšší akce nemá přednost, zvaž generátor místo dalšího HoG. Tyranta při 3–4 Shardech toto doporučení nepožaduje. [Důkaz](index.html#evidence-5ce4517f85f8eb54c17287d166fcc81ecefadccb477868259914cc01f4948e75)
+- The Lost Explorers · 03:11.282 — Při přípravě Tyranta sleduj dosažení 5 Shardů. Prověř označené HoG: použité APL v těchto stavech HoG nevybírá. Pokud můžeš bezpečně generovat Shardy a žádná vyšší akce nemá přednost, zvaž generátor místo dalšího HoG. Tyranta při 3–4 Shardech toto doporučení nepožaduje. [Důkaz](index.html#evidence-35f9ebc20432dea1fb33e2b1179d1c9f9821ae5853404170d01caea4e6dcc588)
 
-## Odmin-Drak'thul-EU
-
-Analyzovaní bossové: The Coiled Altar, Ula'tek, Kith'ix, Entombed Sentinels, Vashnik the Malignant.
-
-### Felblade: Fury cap, pohyb a Inertia
-
-Pozorování k ověření
-
-17 × Felblade; propadlo 159 Fury.
-
-U konkrétního Felblade rozliš účel doskoku, Inertia a generování Fury. Pohybový důvod ani dostupný Chaos Strike / Annihilation nejsou samotným gainem potvrzené; z capu nepředepisujeme vynechání Felblade.
-
-- The Coiled Altar · 04:10.180 — Felblade: uloženo 3 Fury, propadlo 12. [Důkaz](index.html#evidence-48c4e2177d0c086ad8971474b9d53cb5f3f385cfdfb0508d070807b7e87271b8)
-- The Coiled Altar · 06:50.940 — Felblade: uloženo 4 Fury, propadlo 11. [Důkaz](index.html#evidence-c50bca8a97a5fbbbf11ca5597311f8c7520652b563f7cb8737f3c6c2a4cc624c)
-- Ula'tek · 00:26.489 — Felblade: uloženo 5 Fury, propadlo 10. [Důkaz](index.html#evidence-486901744ab15637068dde44882f70d035785fa24f50bcc76b252fc494a835cc)
-- Ula'tek · 00:35.916 — Felblade: uloženo 14 Fury, propadlo 1. [Důkaz](index.html#evidence-cad376f7673d6754ccfdcb1bbc77010f077cf950e06ad052f3bb0ef43e3fe07c)
-- Ula'tek · 03:02.048 — Felblade: uloženo 7 Fury, propadlo 8. [Důkaz](index.html#evidence-2c07a727b1776592c1df59ed3f356f2ca1315327373eb1a1bca28abcebb5d872)
-- Ula'tek · 05:39.795 — Felblade: uloženo 0 Fury, propadlo 15. [Důkaz](index.html#evidence-e13ca31cf213fb0e1c2e974bd29f3f4a72af6d0a9f097f93c1f5b0e0a27aacab)
-- Ula'tek · 05:49.654 — Felblade: uloženo 13 Fury, propadlo 2. [Důkaz](index.html#evidence-d5811d249e232748c2e0e9fab3809361003e67ea51b7b43d7c51d939211f1134)
-- Ula'tek · 06:34.287 — Felblade: uloženo 0 Fury, propadlo 15. [Důkaz](index.html#evidence-b1f2326e820d6ac4c0d6e974116d8f9d359fb3fe16681f1877ce947bbb2f37a9)
-- Ula'tek · 06:43.805 — Felblade: uloženo 9 Fury, propadlo 6. [Důkaz](index.html#evidence-6654257aa790ce48213dd877dae10d9b06ec23ae66e62279eeb854e1a15b78f5)
-- Ula'tek · 07:03.795 — Felblade: uloženo 0 Fury, propadlo 15. [Důkaz](index.html#evidence-9dc4496fafefcce8f1e723ca5c37f9e56f75fc7877e66dabd75a7f81e49ba450)
-- Ula'tek · 07:33.822 — Felblade: uloženo 6 Fury, propadlo 9. [Důkaz](index.html#evidence-38c4476ea8ac3a9c9b395e2713e2bcab61b4ebd7674fedb4ea17a6f668aee5ef)
-- Ula'tek · 08:09.273 — Felblade: uloženo 0 Fury, propadlo 15. [Důkaz](index.html#evidence-257006160afc0e1f82fa7a0256396a1f8860b22774d7e6e4f9c242ad607e2def)
-- Ula'tek · 08:25.738 — Felblade: uloženo 11 Fury, propadlo 4. [Důkaz](index.html#evidence-89289b4c9255fdc0bdae7f8a05dbc0c1565f80dde9405d2c8a5161362ca59617)
-- Kith'ix · 00:46.913 — Felblade: uloženo 6 Fury, propadlo 9. [Důkaz](index.html#evidence-485e7a12d01577045b56ec2d39490ba21f86c18cf681a0b137094782ab80ec31)
-- Kith'ix · 02:09.263 — Felblade: uloženo 14 Fury, propadlo 1. [Důkaz](index.html#evidence-3e9a7506155f6625fb7f3411f6085afc0bb0dc75f24f9ebcfa44245264a0220c)
-- Entombed Sentinels · 00:17.474 — Felblade: uloženo 4 Fury, propadlo 11. [Důkaz](index.html#evidence-932db25376d2f857e3079a48f13137580514666cda09f99154d0712b4860e1fc)
-- Entombed Sentinels · 02:51.040 — Felblade: uloženo 0 Fury, propadlo 15. [Důkaz](index.html#evidence-b965da2a3005fa216e6f4861db92c69bb1b978a7d6fd44f231df394ebbe254b4)
-
-### Eye Beam / Abyssal Gaze během vlastního Essence Break
+### Prověř pooling k 5 Shardům před Tyrantem
 
 Pozorování k ověření
 
-Eye Beam nebo Abyssal Gaze proběhl během Essence Break. U Abyssal Gaze zkontroluj Demonsurge pro Death Sweep a Annihilation: pokud oba nejsou aktivní, může mít Gaze přednost. Samotný channel v tomto okně proto neznamená chybu; přesun mimo okno nepředepisujeme.
+Tyto další Tyrant nebo Demonbolt vstupy nesplňují výběr pro doporučení k poslednímu Hand of Gul’dan výše. Nepovažujeme je za stejný problém; jednotlivé podmínky zůstávají v detailu důkazu.
 
 
 
-- Entombed Sentinels · 04:49.109 — U Abyssal Gaze zkontroluj Demonsurge pro Death Sweep a Annihilation. Nová APL má vyšší Gaze větev, když oba příslušné Demonsurge příznaky nejsou aktivní. Samotný channel během Essence Break proto není důkaz chyby a přesun mimo okno nepředepisujeme. [Důkaz](index.html#evidence-3f37159f7342acf30ae2f0f4ac30fb77d1a99ebee1782284b034f4a3f01755eb)
+- The Coiled Altar · 00:03.470 — Summon Demonic Tyrant začal se 4 Shardy; sledovaný přípravný práh byl 5. [Důkaz](index.html#evidence-d8152177546a9ea1cbc4570deee66cfd95ff6ce6c8770a8248ba6a80ebecc9ea)
+- The Coiled Altar · 02:11.388 — Summon Demonic Tyrant začal se 0 Shardy; sledovaný přípravný práh byl 5. [Důkaz](index.html#evidence-53de523a96da86237ca4437d0f57b0c5f47edc98015c46b8567f5c874506255e)
+- The Coiled Altar · 05:19.606 — Summon Demonic Tyrant začal se 3 Shardy; sledovaný přípravný práh byl 5. [Důkaz](index.html#evidence-0846f34dfb7c363d3f40a5fae1d8b1984a40b0ce3e14c89d071d37cc786bb432)
+- The Coiled Altar · 00:39.391 — Před dalším generováním při 4–5 Shardech prověř vhodné utrácení. Zohledni Core stacks, proc expiraci a přípravu Tyranta; samotný resource práh neprokazuje waste ani bezpečně dostupný spender. [Důkaz](index.html#evidence-1447564fe0510d249e955e33193b092e0969408f4eafa76af6bff10a2e51167a)
+- The Coiled Altar · 01:28.001 — Před dalším generováním při 4–5 Shardech prověř vhodné utrácení. Zohledni Core stacks, proc expiraci a přípravu Tyranta; samotný resource práh neprokazuje waste ani bezpečně dostupný spender. [Důkaz](index.html#evidence-374193c5e21a5fa7d2e541a98a58ecc804bd718495985a860816c6ee846d6ce5)
+- The Coiled Altar · 04:50.135 — Před dalším generováním při 4–5 Shardech prověř vhodné utrácení. Zohledni Core stacks, proc expiraci a přípravu Tyranta; samotný resource práh neprokazuje waste ani bezpečně dostupný spender. [Důkaz](index.html#evidence-6541cc819932c037b4cffa28287412494615bd36c6abd962c9b3524189e2b1a4)
+- Ula'tek · 02:14.990 — Summon Demonic Tyrant začal se 2 Shardy; sledovaný přípravný práh byl 5. [Důkaz](index.html#evidence-c76baec4d9a1087ee526c10b7bb2c376264a8e8aa69cde2c4a4dfbe5e70cb0c7)
+- Ula'tek · 02:34.950 — Před dalším generováním při 4–5 Shardech prověř vhodné utrácení. Zohledni Core stacks, proc expiraci a přípravu Tyranta; samotný resource práh neprokazuje waste ani bezpečně dostupný spender. [Důkaz](index.html#evidence-d62c29736edadaefde90ed3b0a141be6827b7ee9fa3efd8abf4eadf42d2d12ac)
+- Sszorak · 02:09.669 — Summon Demonic Tyrant začal se 3 Shardy; sledovaný přípravný práh byl 5. [Důkaz](index.html#evidence-acb7a22d88a762809d074471279657c4cb35c61e04da62aa4a5d35c8d040da61)
+- Sszorak · 01:55.945 — Před dalším generováním při 4–5 Shardech prověř vhodné utrácení. Zohledni Core stacks, proc expiraci a přípravu Tyranta; samotný resource práh neprokazuje waste ani bezpečně dostupný spender. [Důkaz](index.html#evidence-6ed1a1caa7b7f79ed57788285905a5bf656545674c0f0d687ae108bfc60eb413)
 
-Cooldown intervaly k samostatnému posouzení: 2.
+Cooldown intervaly k samostatnému posouzení: 5.
 
-## Iacek-Drak'thul-EU
+## Kubéc-Drak'thul-EU
 
-Analyzovaní bossové: Kith'ix.
+Analyzovaní bossové: Nek'zali the Soulcoiler, The Coiled Altar, Ula'tek, The Lost Explorers, Sszorak, Kith'ix.
+
+### Opakovaná Combo Strikes schopnost
+
+Pozorování k ověření
+
+27 opakování; u 27 odstraněno Hit Combo.
+
+Opakovaná relevantní schopnost a případný reset Hit Combo jsou pozorované. Jinou schopnost lze předepsat až po ověření její použitelnosti a celé priority; samotné opakování neurčuje správné náhradní tlačítko.
+
+- Nek'zali the Soulcoiler · 00:57.654 — Blackout Kick 00:56.660 → znovu 00:57.654; současně odstraněno Hit Combo. [Důkaz](index.html#evidence-2a790d88466cff1324da10c267cf4d23cdcb3f9be1fced24f061312bcdb0045b)
+- The Coiled Altar · 01:38.894 — Tiger Palm 01:29.187 → znovu 01:38.894; současně odstraněno Hit Combo. [Důkaz](index.html#evidence-71254eb6b81b222767434463824a6028eb4c365f984c777943d148671932c34a)
+- The Coiled Altar · 02:15.894 — Blackout Kick 02:14.899 → znovu 02:15.894; současně odstraněno Hit Combo. [Důkaz](index.html#evidence-be9aa95594f3d0b2d5548e002198901a98946d066cece0ac18e3bdf8ccd88a57)
+- The Coiled Altar · 02:18.926 — Tiger Palm 02:16.893 → znovu 02:18.926; současně odstraněno Hit Combo. [Důkaz](index.html#evidence-18f1a94c9aa070d6f42a459ad3fd9af90781fe46033553f990a13572eeb15282)
+- The Coiled Altar · 03:58.967 — Blackout Kick 03:57.952 → znovu 03:58.967; současně odstraněno Hit Combo. [Důkaz](index.html#evidence-16b962c2554853dc7e570444a784820a8bc9233ace8286f78075aca5edba25a1)
+- The Coiled Altar · 04:00.962 — Tiger Palm 03:59.949 → znovu 04:00.962; současně odstraněno Hit Combo. [Důkaz](index.html#evidence-88c43cc4b428030cc71d87646a57891a04371f8453a97a808a9588963df59c22)
+- The Coiled Altar · 05:35.716 — Spinning Crane Kick 05:32.997 → znovu 05:35.716; současně odstraněno Hit Combo. [Důkaz](index.html#evidence-8064f70afb34ccf4ef43d07e90ba5d1398f20697a1521a7aca5dd6fd5be3476f)
+- Ula'tek · 00:20.576 — Tiger Palm 00:18.210 → znovu 00:20.576; současně odstraněno Hit Combo. [Důkaz](index.html#evidence-16e5032911109fb1a52b8d6b44eeceb709ee61df8a1039b7429adaf6576657ce)
+- Ula'tek · 01:56.780 — Tiger Palm 01:54.228 → znovu 01:56.780; současně odstraněno Hit Combo. [Důkaz](index.html#evidence-9f09879c374f379f3649afe7f808efb320a1035420e511c33ff0ac20633b4d16)
+- Ula'tek · 02:04.403 — Tiger Palm 02:03.411 → znovu 02:04.403; současně odstraněno Hit Combo. [Důkaz](index.html#evidence-00112cf834485f64bcd52049a0cdf902fe824d691e46d58a198e6803b6ded9bb)
+- Ula'tek · 02:17.539 — Tiger Palm 02:16.556 → znovu 02:17.539; současně odstraněno Hit Combo. [Důkaz](index.html#evidence-96efc1a89b5ec6603b1f365c02bddd474f406d7f1b021e0289b2384a6ff55f08)
+- Ula'tek · 04:43.643 — Tiger Palm 04:42.646 → znovu 04:43.643; současně odstraněno Hit Combo. [Důkaz](index.html#evidence-117567093d711fcacb838434bb9c4b4ec544542be8a5b90a09d0c9bb922555f4)
+- Ula'tek · 05:35.678 — Spinning Crane Kick 05:33.682 → znovu 05:35.678; současně odstraněno Hit Combo. [Důkaz](index.html#evidence-b8d4066c4323b633141c0797e862e675ff77ec32a5e8017cfad49789e8ce094c)
+- Ula'tek · 06:28.810 — Tiger Palm 06:27.351 → znovu 06:28.810; současně odstraněno Hit Combo. [Důkaz](index.html#evidence-c78d082e51a46beada81e2f74481e2d7d4fad871f7194a546a575f3852119ecc)
+- Ula'tek · 07:07.897 — Spinning Crane Kick 07:05.502 → znovu 07:07.897; současně odstraněno Hit Combo. [Důkaz](index.html#evidence-b938aba6a614d2a2afe5af073c7bc74d90fbc58a8082175868223c011bdefcd9)
+- Ula'tek · 09:08.975 — Tiger Palm 09:07.215 → znovu 09:08.975; současně odstraněno Hit Combo. [Důkaz](index.html#evidence-157da02067a0d345d817a6d2a247a25539782b83a9afb4b9d741a8e562b7030e)
+- The Lost Explorers · 00:53.839 — Spinning Crane Kick 00:51.434 → znovu 00:53.839; současně odstraněno Hit Combo. [Důkaz](index.html#evidence-052b9b37b9b96da523589b80de73c8ee505fe6276bbb3b3b7b20d9b33b78c360)
+- The Lost Explorers · 01:03.476 — Tiger Palm 01:01.263 → znovu 01:03.476; současně odstraněno Hit Combo. [Důkaz](index.html#evidence-1b24b26af87eec6eb4eba1fec3b5b6fa44f2ba5c6324b2ce3424ee8d0b687a18)
+- The Lost Explorers · 01:46.248 — Spinning Crane Kick 01:42.275 → znovu 01:46.248; současně odstraněno Hit Combo. [Důkaz](index.html#evidence-2cc7659f277e8be95f92b0088a336b30adc9047c0ab7db929bd028305eabd891)
+- The Lost Explorers · 03:09.230 — Spinning Crane Kick 03:01.555 → znovu 03:09.230; současně odstraněno Hit Combo. [Důkaz](index.html#evidence-89981b1844ce175254c403d473085bd8c6e0eaed297ca821a210f69266225968)
+- Sszorak · 00:58.376 — Tiger Palm 00:56.408 → znovu 00:58.376; současně odstraněno Hit Combo. [Důkaz](index.html#evidence-68ad2edd3c98954ea37b78eea7be907dea745e790e1687f1e4a8d6122fe512a6)
+- Sszorak · 02:31.859 — Tiger Palm 02:30.711 → znovu 02:31.859; současně odstraněno Hit Combo. [Důkaz](index.html#evidence-6423c5636cb9a699705061cf3db5ca0bd032e3c531712c8c1642665596287196)
+- Sszorak · 03:46.065 — Blackout Kick 03:45.069 → znovu 03:46.065; současně odstraněno Hit Combo. [Důkaz](index.html#evidence-76c499b4d1ccd33393d6a58df4650ecdd9a16dbc1cbdf332781430d5875c18ec)
+- Kith'ix · 00:18.767 — Blackout Kick 00:17.756 → znovu 00:18.767; současně odstraněno Hit Combo. [Důkaz](index.html#evidence-5a788307dfd9a1530ee5ea2acad82ce831d7240aeff84f6b1c063a21532f3714)
+- Kith'ix · 01:27.061 — Blackout Kick 01:26.058 → znovu 01:27.061; současně odstraněno Hit Combo. [Důkaz](index.html#evidence-d7ba998a5c7c02bf281061ea7cf64f69299396b296d53e555a8f891caecb5eb1)
+- Kith'ix · 01:29.601 — Tiger Palm 01:28.060 → znovu 01:29.601; současně odstraněno Hit Combo. [Důkaz](index.html#evidence-a20d3752f7f842048a4a36abb1d95fad6fade17fe8d565ce755d830d8c0571b9)
+- Kith'ix · 04:13.692 — Blackout Kick 04:12.676 → znovu 04:13.692; současně odstraněno Hit Combo. [Důkaz](index.html#evidence-01261661a9f9281754e03069f4af692879e9915922a7e45cbb576abc6ff8b6ef)
+
+### Tiger Palm: zaznamenaný Chi cap
+
+Pozorování k ověření
+
+2 pozorování s ověřeným kontextem.
+
+Porovnej tyto Tiger Palm se stavem Chi a Energy, předchozí Combo Strikes akcí a dostupností spenderů. Samotné Chi waste nepotvrzuje, že čekání či jiná akce byly lepší.
+
+- Nek'zali the Soulcoiler · 01:13.430 — Tiger Palm: uloženo 0 Chi, propadlo 2. Energy snapshot 150 / 150. [Důkaz](index.html#evidence-6d67ba34b190c3c590a8869f3d72d7a440a3a7956349ff7945be6eb0b0ca6a5c)
+- Ula'tek · 01:56.780 — Tiger Palm: uloženo 1 Chi, propadlo 1. Energy snapshot 126 / 150. [Důkaz](index.html#evidence-62f849cd4c8dac2f5b386a496c74d56401db6d54207282c33b491e98cc176433)
+
+### Zenith reset bez navazujícího Rising Sun Kick / Rushing Wind Kick po 10 s
+
+Pozorování k ověření
+
+Po Zenith je delší odstup k Rising Sun Kick nebo Rushing Wind Kick. Projdi celou sekvenci včetně Fists of Fury a stavu Chi; samotný odstup není nečinnost ani prokázaný důvod měnit pořadí.
+
+
+
+- Nek'zali the Soulcoiler · 00:56.123 — Prověř, proč po resetu nepřišel Rising Sun Kick ani Rushing Wind Kick. Pokud nešlo o Chi, pořadí burstu či mechaniku, naplánuj návaznost kopu na Zenith. [Důkaz](index.html#evidence-90cfccb1ef760224ae779e21d7cfb91401707f48ced58bfe020a07937a1059b9)
+- Ula'tek · 03:19.837 — Prověř, proč po resetu nepřišel Rising Sun Kick ani Rushing Wind Kick. Pokud nešlo o Chi, pořadí burstu či mechaniku, naplánuj návaznost kopu na Zenith. [Důkaz](index.html#evidence-4a4b46171c8c36d8afb53ba9d5ee1cd1bb0e41e2472cb8bbb4e461f57ee6987d)
+- Ula'tek · 05:29.223 — Prověř, proč po resetu nepřišel Rising Sun Kick ani Rushing Wind Kick. Pokud nešlo o Chi, pořadí burstu či mechaniku, naplánuj návaznost kopu na Zenith. [Důkaz](index.html#evidence-7c4db36eb8945364baf5c20296e54d14d0ec895be780b6af4874932a0c6f7ee0)
+- The Lost Explorers · 02:16.375 — Prověř, proč po resetu nepřišel Rising Sun Kick ani Rushing Wind Kick. Pokud nešlo o Chi, pořadí burstu či mechaniku, naplánuj návaznost kopu na Zenith. [Důkaz](index.html#evidence-4c9089ed98034b0b9ed9064780d59b10f087426671d329435b699575f41395e9)
+
+Cooldown intervaly k samostatnému posouzení: 0.
+
+## Johnyhoudini-BurningBlade-EU
+
+Analyzovaní bossové: Nek'zali the Soulcoiler, The Coiled Altar, Ula'tek, The Lost Explorers, Sszorak, Kith'ix.
 
 Nemáme konkrétní podklad pro změnu rotace.
 
-Cooldown intervaly k samostatnému posouzení: 0.
+### Arcane Blast během Arcane Soul
+
+Pozorování k ověření
+
+Arcane Blast začal během Arcane Soul. Zkontroluj zde Arcane Barrage a stav proců. U těchto dalších situací nemáme dost ověřeného kontextu, abychom předepsali změnu pořadí. U části situací se nepodařilo ověřit celý potřebný kontext; konkrétní změnu rotace z nich neurčujeme.
+
+
+
+- Ula'tek · 08:17.804 — Arcane Blast pod Arcane Soul; zaznamenáno 25 Arcane Salvo, Clearcasting neznámý. [Důkaz](index.html#evidence-9a661a8a546c8eac8df625883ec3bd3f0fed4d21231162bc7eb0e61e1722fceb)
+
+Cooldown intervaly k samostatnému posouzení: 5.
+
+## Galneryus-Drak'thul-EU
+
+Analyzovaní bossové: Nek'zali the Soulcoiler, The Coiled Altar, Ula'tek, The Lost Explorers, Sszorak, Kith'ix.
+
+### Blade of Justice: Holy Power cap a proc výjimka
+
+Pozorování k ověření
+
+6 × Blade of Justice; propadlo 10 Holy Power. Art of War: doloženě chyběl u 0, neznámý stav u 3 z 6 pozorovaných castů. Neznámé není nepřítomné. Hero kontext: 0 případů Templar, 6 Herald of the Sun. Předchozí Holy Power snapshoty obsahují cenu finisheru; částku nelze převzít jako stav po utracení. Righteous Cause není vybraný u všech 6 sledovaných případů. Art of War: 0 doložených absencí, 3 neznámých stavů; neznámé není nepřítomné. Divine Purpose při Blade of Justice: 0 doložených přítomností z 6 případů. Reference má základní cenu finisherů 3 Holy Power a oddělené free větve; hranice 5 Holy Power v APL není cena Hammer of Light. U 1 případů vybraný Walk Into Light a přítomný Avenging Wrath vylučují konkrétní proc větev Blade of Justice v referenci; nejde tím o 1 potvrzených chyb.
+
+Righteous Cause v těchto buildech není. U uvedených Blade of Justice tedy řeš Art of War a pořadí finisherů vůči Wake of Ashes. Při 5 Holy Power reference kontroluje finishery před proc větví, pokud ještě dobíhá cooldown Wake of Ashes. Dostupný finisher ani Wake stav zatím nejsou doložené; konkrétní záměnu nepředepisujeme.
+
+- The Coiled Altar · 05:04.462 — Blade of Justice: uloženo 1 Holy Power, propadlo 1. Před castem doložený Art of War se 2 stacky; možná vyšší proc větev, ne prokázaná chyba. [Důkaz](index.html#evidence-9dab49e776551adefe3b715ba62feb34a1d7877a5b60cfee5cec8d072321658e)
+- The Lost Explorers · 01:37.493 — Blade of Justice: uloženo 0 Holy Power, propadlo 2. [Důkaz](index.html#evidence-5cb8c6e8db0173a1b957f5d2637761e995e60ef7322059c6716acea2626cb9cf)
+- The Lost Explorers · 01:43.592 — Blade of Justice: uloženo 0 Holy Power, propadlo 2. [Důkaz](index.html#evidence-e47870141e5b8fd81edb034f2a3000bb746d58badfc08faaa72c27a68dea0d6c)
+- Sszorak · 00:49.015 — Blade of Justice: uloženo 0 Holy Power, propadlo 2. [Důkaz](index.html#evidence-265e71df3d3dbfed999e2305575ae8080a91541a97e5cfbe951fdec7115627ff)
+- Sszorak · 02:21.114 — Blade of Justice: uloženo 0 Holy Power, propadlo 2. [Důkaz](index.html#evidence-0616d76ed8ed2c20e635b63bff609ce7f35a2d96f3c3a3ce381af65ce684f5d6)
+- Kith'ix · 03:36.270 — Blade of Justice: uloženo 1 Holy Power, propadlo 1. [Důkaz](index.html#evidence-65ce3666296c5a00f54999242ffe3c292424556b1f08fe7e727de2cec67440c9)
+
+Cooldown intervaly k samostatnému posouzení: 7.
+
+## Nahollou-Drak'thul-EU
+
+Analyzovaní bossové: The Coiled Altar, Ula'tek, The Lost Explorers, Sszorak, Kith'ix.
+
+### Soul Shards: cap u generátorů
+
+Pozorování k ověření
+
+51 doložených Soul Shard cap událostí: Demonbolt 31, Shadow Bolt 13, Infernal Bolt 7. U 24 je mezi startem a dokončením časový odstup, u 27 stejný timestamp. Nejde o 51 prokázaných chybných Demonbolt ani o potvrzený Shard stav při startu.
+
+U uvedených Demonbolt, Shadow Bolt a Infernal Bolt posuzuj Shardy při startu, Demonic Core a přípravu Tyranta. Mana snapshot není Soul Shard stav; cap při dokončení neprokazuje dostupný Hand of Gul’dan ani Call Dreadstalkers před startem. Bez celé priority konkrétní záměnu nepředepisujeme.
+
+- The Coiled Altar · 01:55.048 — Demonbolt: uloženo 1 Soul Shards, propadlo 1. [Důkaz](index.html#evidence-eab05be556f345fa1bdf9225e63fd398e2b202c2824afb507b05f06b77ee2397)
+- The Coiled Altar · 02:02.364 — Demonbolt: uloženo 1 Soul Shards, propadlo 1. [Důkaz](index.html#evidence-34ef6919de9c6d340d836b00ad9e7d88390547325ad4c8b57de59af0b2920d8e)
+- The Coiled Altar · 02:16.655 — Demonbolt: uloženo 0 Soul Shards, propadlo 2. [Důkaz](index.html#evidence-6396bda122ed74ba040873a7006f6734f85584cbf7168e0f2adc099aa1166f38)
+- The Coiled Altar · 01:57.953 — Shadow Bolt: uloženo 0 Soul Shards, propadlo 1. [Důkaz](index.html#evidence-eaf0adcf1a055fb1ba37c86ee8a1be58252fb506d4f917f99c1bcea50107a295)
+- The Coiled Altar · 02:04.817 — Infernal Bolt: uloženo 0 Soul Shards, propadlo 3. [Důkaz](index.html#evidence-80d4dc18d38ea4f61d98138bd58f2f5cb6f39a8920b6310936502e6590315361)
+- Ula'tek · 01:44.572 — Demonbolt: uloženo 1 Soul Shards, propadlo 1. [Důkaz](index.html#evidence-8522778621e6664e0d62c77d4e6b84117ca08ff48f019298d95d1981a36be7c7)
+- Ula'tek · 01:48.249 — Demonbolt: uloženo 0 Soul Shards, propadlo 2. [Důkaz](index.html#evidence-d70d8d37905a1f94a8c5a838a7091af07d933c23e35da9efcc6ffaa627b5dc36)
+- Ula'tek · 06:55.254 — Demonbolt: uloženo 0 Soul Shards, propadlo 2. [Důkaz](index.html#evidence-ac4c32af6699e84a1bcf61b4025c0492e483b1dfacd7891da534b5c35d1345ac)
+- Ula'tek · 07:33.172 — Demonbolt: uloženo 1 Soul Shards, propadlo 1. [Důkaz](index.html#evidence-b12619ffeb311a95c633521ca951b5c32b782bda75cf5fbaf5c1aeb6700dfd41)
+- Ula'tek · 07:35.640 — Demonbolt: uloženo 0 Soul Shards, propadlo 2. [Důkaz](index.html#evidence-3d9130f0a69570835fa6cbbc4ad5150e26733bfdaef449447303243600c436d3)
+- Ula'tek · 07:52.816 — Demonbolt: uloženo 0 Soul Shards, propadlo 2. [Důkaz](index.html#evidence-72209d1665b2f88d3c28bb90ec934bfe24ba07a07474a2ec66f565f00cae71b2)
+- Ula'tek · 08:18.233 — Demonbolt: uloženo 1 Soul Shards, propadlo 1. [Důkaz](index.html#evidence-10137fa1b351674a6a9d9cc3e4634376c20deddf968f121dd97836ed5464583f)
+- Ula'tek · 08:30.068 — Demonbolt: uloženo 0 Soul Shards, propadlo 2. [Důkaz](index.html#evidence-0112a5cda93c7d27d37ca973739eb1b46d3d716ca784db9be1b0e33430dde792)
+- Ula'tek · 08:31.266 — Demonbolt: uloženo 0 Soul Shards, propadlo 2. [Důkaz](index.html#evidence-7736dae9c2ad75deba1793e5a4b52835940a43fbab9d0162761361a61d331c91)
+- Ula'tek · 08:35.682 — Demonbolt: uloženo 1 Soul Shards, propadlo 1. [Důkaz](index.html#evidence-53f014b45679a6633ed2fc084d054bdb722a321e91a6aca42ed4c82b50dab23d)
+- Ula'tek · 08:55.324 — Demonbolt: uloženo 1 Soul Shards, propadlo 1. [Důkaz](index.html#evidence-01c7a19952cfc2c13217036d419395a37608d45ae8ba51051106b55dc3a55abe)
+- Ula'tek · 05:38.747 — Shadow Bolt: uloženo 0 Soul Shards, propadlo 1. [Důkaz](index.html#evidence-5ab0b2cb3fb536bd88aed09545357863d1a9a2527988f8b85ed4e66f9133617a)
+- Ula'tek · 06:54.168 — Shadow Bolt: uloženo 0 Soul Shards, propadlo 1. [Důkaz](index.html#evidence-b45e5f1c93ed540e6521f2bb5a5ae85e8d6f9c98db646df430867aca20988df4)
+- Ula'tek · 06:55.253 — Shadow Bolt: uloženo 0 Soul Shards, propadlo 1. [Důkaz](index.html#evidence-b03d285f891ebf97488ab9044c58de147dd537e94db4817cf6b895859b47c3e7)
+- Ula'tek · 07:35.639 — Shadow Bolt: uloženo 0 Soul Shards, propadlo 1. [Důkaz](index.html#evidence-2d191295d166eb83563507c025eff73199c390611658982b26a4297f162c16fe)
+- Ula'tek · 07:48.219 — Shadow Bolt: uloženo 0 Soul Shards, propadlo 1. [Důkaz](index.html#evidence-86ed738c2c3b4e2b002e8fcdb2af0a81874df2e897367224ac76b0a6ac2ac61d)
+- Ula'tek · 07:49.511 — Shadow Bolt: uloženo 0 Soul Shards, propadlo 1. [Důkaz](index.html#evidence-d62a7f7f559974e5f0b6233ad3d66f34fc008798075bbf85a5a1716686a1006c)
+- Ula'tek · 09:07.589 — Shadow Bolt: uloženo 0 Soul Shards, propadlo 1. [Důkaz](index.html#evidence-f285c0c7793e725e99fe3dda1a5248f416d540501cf195df15e5bc6e335f3648)
+- The Lost Explorers · 00:30.306 — Demonbolt: uloženo 0 Soul Shards, propadlo 2. [Důkaz](index.html#evidence-4e81f5f58947ab1fdf8c048d0c585740e98b2774912c51b13d035d806b45a9da)
+- The Lost Explorers · 01:22.708 — Demonbolt: uloženo 1 Soul Shards, propadlo 1. [Důkaz](index.html#evidence-40fb46422135393c085b9540c7de6d4f1fc6298bba9468953912f08b1036d75b)
+- The Lost Explorers · 02:34.885 — Infernal Bolt: uloženo 2 Soul Shards, propadlo 1. [Důkaz](index.html#evidence-3e3f71048d3ae6369e056029996bec3dedaba7810a568f5d05a913026c38216f)
+- The Lost Explorers · 03:22.031 — Infernal Bolt: uloženo 2 Soul Shards, propadlo 1. [Důkaz](index.html#evidence-ffaf31e5382c37346633deab2945480ba432b7697b6db66d93c40bf94443b589)
+- Sszorak · 00:30.622 — Demonbolt: uloženo 1 Soul Shards, propadlo 1. [Důkaz](index.html#evidence-a7086a44cdb3484358b01dc8809bfa1979b1320a8508604d0a37503af006f80b)
+- Sszorak · 00:42.996 — Demonbolt: uloženo 0 Soul Shards, propadlo 2. [Důkaz](index.html#evidence-1847e2e4b0122018daaa60c4489f409d17658e500859d9dca1994aaf3f71c9c6)
+- Sszorak · 01:50.443 — Demonbolt: uloženo 1 Soul Shards, propadlo 1. [Důkaz](index.html#evidence-c715b30e6700f3269fa4996749381aadc18c4ffb6d949caf7d5d1c113807ec6c)
+- Sszorak · 01:55.747 — Demonbolt: uloženo 1 Soul Shards, propadlo 1. [Důkaz](index.html#evidence-0bbea8213671ec48bd7f5a1c242bd8923c3b4d17f54055dc638bb20deeb8f46c)
+- Sszorak · 01:57.950 — Demonbolt: uloženo 0 Soul Shards, propadlo 2. [Důkaz](index.html#evidence-4ee85b5205811a3a9654877e76d57504a0da4824e88bd5362b93812b802fa570)
+- Sszorak · 02:04.208 — Demonbolt: uloženo 1 Soul Shards, propadlo 1. [Důkaz](index.html#evidence-1463e4127b35d45a6b04d14afd95568e81a04b722a30477686eb72c97d62b44d)
+- Sszorak · 02:06.928 — Demonbolt: uloženo 0 Soul Shards, propadlo 2. [Důkaz](index.html#evidence-c9e5920ae27c9ba2bd83ee16231dc284a2e3f2af893997b20a55ea6f8cdd3365)
+- Sszorak · 02:28.441 — Demonbolt: uloženo 0 Soul Shards, propadlo 2. [Důkaz](index.html#evidence-2e179d7fbf81928616e2b0f1db5e498933389b9105ed493e68049d520c5b8fe9)
+- Sszorak · 03:13.533 — Demonbolt: uloženo 1 Soul Shards, propadlo 1. [Důkaz](index.html#evidence-2cbeb83c0075e7ae8902001f3e3f3bd201bd009c84a3cf351fb5db2df3b46755)
+- Sszorak · 03:51.198 — Demonbolt: uloženo 0 Soul Shards, propadlo 2. [Důkaz](index.html#evidence-4830319cf902aaa563775a78717481d63aa0a5ccd6a2cee53d735b8a542c7203)
+- Sszorak · 00:34.598 — Shadow Bolt: uloženo 0 Soul Shards, propadlo 1. [Důkaz](index.html#evidence-3eda9386396a68aeebe77f3bda2fd37f42245f962e875ae7d1e045a63bf62c31)
+- Sszorak · 00:53.334 — Shadow Bolt: uloženo 0 Soul Shards, propadlo 1. [Důkaz](index.html#evidence-a531c6e41bfb7130269532accdd95520d90ead2f3b8fbc45563d6fa0d0d2d137)
+- Sszorak · 00:54.735 — Shadow Bolt: uloženo 0 Soul Shards, propadlo 1. [Důkaz](index.html#evidence-29a72ad14f260062b13524d851c58fab7564dd4f52e637354b77368c70f2e36f)
+- Sszorak · 02:38.744 — Shadow Bolt: uloženo 0 Soul Shards, propadlo 1. [Důkaz](index.html#evidence-3568618152e9755dac7b02106184fa5d9a40525549f8a7994ab16940a0dc78e5)
+- Sszorak · 02:54.615 — Shadow Bolt: uloženo 0 Soul Shards, propadlo 1. [Důkaz](index.html#evidence-859eb1227e9a61c06ecd02a28e5d21d3d63dba4aa944bb75dba733a49d4ab386)
+- Kith'ix · 00:29.471 — Demonbolt: uloženo 0 Soul Shards, propadlo 2. [Důkaz](index.html#evidence-e61b55cf3520d0a23e89066eac42062d0616e03c9abd54b7143311f206dec728)
+- Kith'ix · 00:41.523 — Demonbolt: uloženo 1 Soul Shards, propadlo 1. [Důkaz](index.html#evidence-92d33d01f62b39e50b6726b7fb540fa5306280a7909ac13a271033e336f328e5)
+- Kith'ix · 02:30.309 — Demonbolt: uloženo 0 Soul Shards, propadlo 2. [Důkaz](index.html#evidence-b3ee699bbff7c03f1fe203e4d2c18c4a65781d74f83fe6aee9af992d91290290)
+- Kith'ix · 02:49.390 — Demonbolt: uloženo 0 Soul Shards, propadlo 2. [Důkaz](index.html#evidence-e2fefb09736025a8afaad7daa9b100c3974bd7a71845028adb243c3ea722d6d3)
+- Kith'ix · 03:28.074 — Demonbolt: uloženo 1 Soul Shards, propadlo 1. [Důkaz](index.html#evidence-7b72568bc51acb456cd50b4fb98a98fa9cb130ba4a6669328c78efb66cf1edda)
+- Kith'ix · 00:49.542 — Infernal Bolt: uloženo 1 Soul Shards, propadlo 2. [Důkaz](index.html#evidence-345986341cb9f9b09ab75d75ac1d5044ffb8be5f5ae3f9c3e526b0def552e69c)
+- Kith'ix · 01:36.115 — Infernal Bolt: uloženo 1 Soul Shards, propadlo 2. [Důkaz](index.html#evidence-5984b0e8166c734e2f07d206726bc057875e4ba96245db9a9a1e76969865df0d)
+- Kith'ix · 02:41.755 — Infernal Bolt: uloženo 1 Soul Shards, propadlo 2. [Důkaz](index.html#evidence-a943ec19a2e958adfbd6845be29be6d770ccf7a4a0607945f60c60282cbf7017)
+- Kith'ix · 03:20.581 — Infernal Bolt: uloženo 2 Soul Shards, propadlo 1. [Důkaz](index.html#evidence-1f1876ee9015f23f0251ee1eca9756e48769f9772bfd4755e094943963c97f98)
+
+### Poslední HoG: nesplněná sledovaná podmínka
+
+Pozorování k ověření
+
+5 pozorování s ověřeným kontextem. Dreadstalkers CD komponenta při Tyrant startu: u 5 ještě dobíhá timer, u 0 doběhl. Celá dostupnost ani správný odklad z toho neplynou; celé sekvence jsou níže. U 5 z 5 Tyrantů jsou doložená další zvýšení Demonic Power po úvodním timestampu. Přínos petů tedy není omezený na okamžik summonu; pozdější pet sám není promarněný. Průběh buffu je níže.
+
+U uvedených posledních HoG před Tyrantem nevyšla sledovaná vstupní komponenta reference. To samo neprokazuje, že bylo bezpečné čekat na 5 Shardů: chybí úplný stav životnosti petů, dostupný generátor a časový prostor pro burst.
+
+- Ula'tek · 06:45.256 — Summon Demonic Tyrant začal se 3 Shardy; sledovaný přípravný práh byl 5. [Důkaz](index.html#evidence-c706066265a1dcc78535d113b06b3f439cc8e945d3153db3ad2709508ddbf2f8)
+- The Lost Explorers · 02:04.974 — Summon Demonic Tyrant začal se 2 Shardy; sledovaný přípravný práh byl 5. [Důkaz](index.html#evidence-9e6bf82dbee27eb1d452b13b66fc4bf94f080b411887bc51af8d567d3eba16ff)
+- The Lost Explorers · 03:10.146 — Summon Demonic Tyrant začal se 1 Shardy; sledovaný přípravný práh byl 5. [Důkaz](index.html#evidence-c543d26da6cfbc9690d51b0b74a8c4e76586e057019e68da1664f628d6e3012a)
+- Sszorak · 01:04.173 — Summon Demonic Tyrant začal se 0 Shardy; sledovaný přípravný práh byl 5. [Důkaz](index.html#evidence-203d1999c01d48d0eb30bf584f6b83558b0c3cb6fdc12105d71ac9d9d2df5ecc)
+- Sszorak · 03:30.229 — Summon Demonic Tyrant začal se 0 Shardy; sledovaný přípravný práh byl 5. [Důkaz](index.html#evidence-dc566dbeefe07406aeae2b573ad345f7aa31e59ca7daa64d3da68f9ae30f5af8)
+
+### Prověř pooling k 5 Shardům před Tyrantem
+
+Pozorování k ověření
+
+Tyto další Tyrant nebo Demonbolt vstupy nesplňují výběr pro doporučení k poslednímu Hand of Gul’dan výše. Nepovažujeme je za stejný problém; jednotlivé podmínky zůstávají v detailu důkazu.
+
+
+
+- The Coiled Altar · 01:02.707 — Summon Demonic Tyrant začal se 3 Shardy; sledovaný přípravný práh byl 5. [Důkaz](index.html#evidence-026b1ef98dfdf316f2a5cc3789115e786e86bae173db1bd00e159754fa36159b)
+- The Coiled Altar · 02:32.477 — Před dalším generováním při 4–5 Shardech prověř vhodné utrácení. Zohledni Core stacks, proc expiraci a přípravu Tyranta; samotný resource práh neprokazuje waste ani bezpečně dostupný spender. [Důkaz](index.html#evidence-508c22b8a408bf59305ec2065c694925f0231e9c40976ea649d499dbbfffb122)
+- Ula'tek · 01:11.288 — Summon Demonic Tyrant začal se 4 Shardy; sledovaný přípravný práh byl 5. [Důkaz](index.html#evidence-077b511885e569ea3e2777562b2cfc81c56eba34187ac1de64d9224f54f72b36)
+- Ula'tek · 08:30.069 — Před dalším generováním při 4–5 Shardech prověř vhodné utrácení. Zohledni Core stacks, proc expiraci a přípravu Tyranta; samotný resource práh neprokazuje waste ani bezpečně dostupný spender. [Důkaz](index.html#evidence-69a54bb8a2692378f9a33f3291745fb1bf60823c79a170a6e8810661ede76942)
+- The Lost Explorers · 01:03.476 — Summon Demonic Tyrant začal se 4 Shardy; sledovaný přípravný práh byl 5. [Důkaz](index.html#evidence-e194efa96eeae9b99d879928c0d20112f6c10e0aa57879276f35d7ac52e0611a)
+- The Lost Explorers · 01:25.989 — Před dalším generováním při 4–5 Shardech prověř vhodné utrácení. Zohledni Core stacks, proc expiraci a přípravu Tyranta; samotný resource práh neprokazuje waste ani bezpečně dostupný spender. [Důkaz](index.html#evidence-ea5fdd99f9b26a05ba02272985c9d393a419369b4745a34bf9070363db239717)
+- Kith'ix · 01:10.554 — Summon Demonic Tyrant začal se 2 Shardy; sledovaný přípravný práh byl 5. [Důkaz](index.html#evidence-1291470a15e8858ca3d3f058a73cd7be5a3b5fb3543fe2ca94cf9f63395b28b4)
+- Kith'ix · 00:26.738 — Před dalším generováním při 4–5 Shardech prověř vhodné utrácení. Zohledni Core stacks, proc expiraci a přípravu Tyranta; samotný resource práh neprokazuje waste ani bezpečně dostupný spender. [Důkaz](index.html#evidence-40bd1c5cdef71ce682719a49a8460bf0a905fe6a0bf5b9422f2fc74be38999b7)
+
+### Hardcast Demonbolt bez Demonic Core
+
+Pozorování k ověření
+
+Demonbolt měl zaznamenanou dobu castu bez doloženého Demonic Core. U uvedených časů zkontroluj proc a důvod použití; během běžného generování porovnej tento cast se Shadow Bolt nebo Infernal Bolt.
+
+
+
+- Ula'tek · 07:42.142 — Během boje používej Demonbolt s Demonic Core; bez procu vol Shadow Bolt nebo jeho talentovou náhradu Infernal Bolt. Prověř konkrétní casty v reportu. [Důkaz](index.html#evidence-decdd1f98f756a619ddeb7e1630df41703ca9b75989a30f814256e0adbd57aa3)
+
+### Prověř načasování Dreadstalkers vůči Tyrantovi
+
+Pozorování k ověření
+
+U uvedených Call Dreadstalkers projdi návaznost na Summon Demonic Tyrant a případný další Call Dreadstalkers. Bez celé burst sekvence nelze určit správný odklad.
+
+
+
+- Ula'tek · 05:31.095 — Při přípravě Tyranta plánuj i Dreadstalkers. U označených startů prověř jejich posun mimo toto APL okno, pokud jsou vhodné alternativy a situace to dovoluje. Přesnou délku odkladu ani náhradní akci log nedokládá. [Důkaz](index.html#evidence-8722cd1d0ceab6bbc6e1567557e72898488371c1e3cb35fff98e97ceb36ea8b6)
+- Ula'tek · 08:38.095 — Při přípravě Tyranta plánuj i Dreadstalkers. U označených startů prověř jejich posun mimo toto APL okno, pokud jsou vhodné alternativy a situace to dovoluje. Přesnou délku odkladu ani náhradní akci log nedokládá. [Důkaz](index.html#evidence-4bbfcbc0494845c50ec8b18d1f2cad4ebd118c0c6b352a359c68c24782f4e172)
+- The Lost Explorers · 00:44.961 — Při přípravě Tyranta plánuj i Dreadstalkers. U označených startů prověř jejich posun mimo toto APL okno, pokud jsou vhodné alternativy a situace to dovoluje. Přesnou délku odkladu ani náhradní akci log nedokládá. [Důkaz](index.html#evidence-5f05a3cc6dd4ec81f2386a8cc1e98e7cd1640b3f22bfde9c9d45994b55b0f2a9)
+- The Lost Explorers · 01:49.946 — Při přípravě Tyranta plánuj i Dreadstalkers. U označených startů prověř jejich posun mimo toto APL okno, pokud jsou vhodné alternativy a situace to dovoluje. Přesnou délku odkladu ani náhradní akci log nedokládá. [Důkaz](index.html#evidence-27bf631f322b82a519d96935025c7d61aea6728effc8a0f1400193c20ba90788)
+- The Lost Explorers · 02:53.068 — Při přípravě Tyranta plánuj i Dreadstalkers. U označených startů prověř jejich posun mimo toto APL okno, pokud jsou vhodné alternativy a situace to dovoluje. Přesnou délku odkladu ani náhradní akci log nedokládá. [Důkaz](index.html#evidence-67087ffea63bbe654e862acc94d36c430e9adc46b8646e9ee873bed169524682)
+
+### Prověř pooling Shardů před Tyrantem
+
+Pozorování k ověření
+
+U těchto Hand of Gul’dan zkontroluj přípravu na Summon Demonic Tyrant, zbývající Shardy a konec fáze. Část situací se může překrývat s Tyrant případy; nepočítej je automaticky jako další chyby.
+
+
+
+- Ula'tek · 06:39.038 — Při přípravě Tyranta sleduj dosažení 5 Shardů. Prověř označené HoG: použité APL v těchto stavech HoG nevybírá. Pokud můžeš bezpečně generovat Shardy a žádná vyšší akce nemá přednost, zvaž generátor místo dalšího HoG. Tyranta při 3–4 Shardech toto doporučení nepožaduje. [Důkaz](index.html#evidence-334dfa06e573d5efeffc743e2a0822cdb335ef58684470bd9a89304950650424)
+- Ula'tek · 09:11.244 — Při přípravě Tyranta sleduj dosažení 5 Shardů. Prověř označené HoG: použité APL v těchto stavech HoG nevybírá. Pokud můžeš bezpečně generovat Shardy a žádná vyšší akce nemá přednost, zvaž generátor místo dalšího HoG. Tyranta při 3–4 Shardech toto doporučení nepožaduje. [Důkaz](index.html#evidence-10ea7f7011c860c846e74339331a6b745599ecbb8b7b6eb37e78739d9932ced7)
+- The Lost Explorers · 02:00.690 — Při přípravě Tyranta sleduj dosažení 5 Shardů. Prověř označené HoG: použité APL v těchto stavech HoG nevybírá. Pokud můžeš bezpečně generovat Shardy a žádná vyšší akce nemá přednost, zvaž generátor místo dalšího HoG. Tyranta při 3–4 Shardech toto doporučení nepožaduje. [Důkaz](index.html#evidence-cdd2c291ccd29e58819a35cf1e0f74b4dff06e3065ae274b204a25ea1ce31583)
+- The Lost Explorers · 03:05.345 — Při přípravě Tyranta sleduj dosažení 5 Shardů. Prověř označené HoG: použité APL v těchto stavech HoG nevybírá. Pokud můžeš bezpečně generovat Shardy a žádná vyšší akce nemá přednost, zvaž generátor místo dalšího HoG. Tyranta při 3–4 Shardech toto doporučení nepožaduje. [Důkaz](index.html#evidence-24d27730168f6e42475ac752422f1240f131ee7335f402b0e84b4f73203fe346)
+- Sszorak · 01:00.197 — Při přípravě Tyranta sleduj dosažení 5 Shardů. Prověř označené HoG: použité APL v těchto stavech HoG nevybírá. Pokud můžeš bezpečně generovat Shardy a žádná vyšší akce nemá přednost, zvaž generátor místo dalšího HoG. Tyranta při 3–4 Shardech toto doporučení nepožaduje. [Důkaz](index.html#evidence-6089bc2cf3ffd1b49855cb7a0d12858ae2f4abe4435de666927081096e28772d)
+- Sszorak · 03:28.678 — Při přípravě Tyranta sleduj dosažení 5 Shardů. Prověř označené HoG: použité APL v těchto stavech HoG nevybírá. Pokud můžeš bezpečně generovat Shardy a žádná vyšší akce nemá přednost, zvaž generátor místo dalšího HoG. Tyranta při 3–4 Shardech toto doporučení nepožaduje. [Důkaz](index.html#evidence-2836daf8055d6230a4ca052ad54650eb02bc3c4b7a08f98ad6b8a859cb78f161)
+- Kith'ix · 02:16.331 — Při přípravě Tyranta sleduj dosažení 5 Shardů. Prověř označené HoG: použité APL v těchto stavech HoG nevybírá. Pokud můžeš bezpečně generovat Shardy a žádná vyšší akce nemá přednost, zvaž generátor místo dalšího HoG. Tyranta při 3–4 Shardech toto doporučení nepožaduje. [Důkaz](index.html#evidence-1b724280f396e96554028c15d5f3abb9b3bf68548c11a9292494b7e3a8890cd0)
+
+Cooldown intervaly k samostatnému posouzení: 5.
+
+## Corneilia-Sylvanas-EU
+
+Analyzovaní bossové: The Coiled Altar, Ula'tek, The Lost Explorers, Sszorak, Kith'ix.
+
+Nemáme konkrétní podklad pro změnu rotace.
+
+Cooldown intervaly k samostatnému posouzení: 5.
+
+## Íacek-Drak'thul-EU
+
+Analyzovaní bossové: Ula'tek.
+
+### Lava Burst: zaznamenaný Maelstrom cap
+
+Pozorování k ověření
+
+7 × Lava Burst; propadlo 51 Maelstrom. U 4 je mezi startem a dokončením časový odstup, u 3 stejný timestamp. Mana snapshot není Maelstrom stav. Elemental Blast je vybraný ve všech zde uvedených případech; výběr talentu není potvrzená použitelnost. Počet sledovaných castů, během nichž vznikl Lava Surge: 0. Tento pozdější proc není stav před startem; konkrétní přechody jsou níže. U 6 z 7 případů je již před logovaným startem skutečný Maelstrom snapshot na maximu s nulovou reportovanou cenou. Přesný stav při stisku ani dostupný spender tím nejsou potvrzené; nulový Elemental Blast není automaticky utracení zdroje.
+
+Tento build má Elemental Blast; v připnuté referenci nahrazuje Earth Shock. U těchto Lava Burst proto kontroluj načasování Elemental Blast / Earthquake spolu s Master of the Elements a vyššími prioritami. Samotný cap neprokazuje, že byl spender před Lava Burst dostupný nebo vhodnější.
+
+- Ula'tek · 00:42.270 — Lava Burst: uloženo 0 Maelstrom, propadlo 8. [Důkaz](index.html#evidence-489b2cc57f1932a96ac948ad228d50c39743ac9d90f9cb457cfd6d56cac85778)
+- Ula'tek · 00:44.625 — Lava Burst: uloženo 0 Maelstrom, propadlo 8. [Důkaz](index.html#evidence-208519829c9e3736561eda2073a459fd40bd12a97e902e18681935b0781ab275)
+- Ula'tek · 00:47.656 — Lava Burst: uloženo 0 Maelstrom, propadlo 8. [Důkaz](index.html#evidence-f08c9a004a9eb02b2805cc29f3efd6c4c3d66af7b1c3f72cee1737e641971749)
+- Ula'tek · 01:10.528 — Lava Burst: uloženo 5 Maelstrom, propadlo 3. [Důkaz](index.html#evidence-924dc2382cf3ab37a12af69f71efd31262f13dd2f00c647bc94c6a5d2ad919a5)
+- Ula'tek · 02:31.542 — Lava Burst: uloženo 0 Maelstrom, propadlo 8. [Důkaz](index.html#evidence-44d40bbb3c236e0c94443975e84a86587add8be0992d96e5d3960e6c41b76f8d)
+- Ula'tek · 02:51.056 — Lava Burst: uloženo 0 Maelstrom, propadlo 8. [Důkaz](index.html#evidence-5f23500ea2503dcac5d84cd6fa5f19760a2bd28e94dd9bbd506c11b6958ad0e1)
+- Ula'tek · 08:23.052 — Lava Burst: uloženo 0 Maelstrom, propadlo 8. [Důkaz](index.html#evidence-543a41958e0f0498d9a2755d13b5ce0867a7bb0ecba2b9fafe5d214d381e9247)
+
+Cooldown intervaly k samostatnému posouzení: 2.
 
 
 ## Ula’tek: srdce a přechody mezi platformami
 
 Delší mezeru mezi cooldowny neposuzuj bez průběhu fightu. Načasování na Venomous Heart může dávat smysl; samotný překryv nedokazuje záměr ani správný odklad. Circling Prey označuje přechodovou mechaniku, nikoli přesnou dobu, kdy každý hráč nemohl útočit.
 
-### Kill 5
+### Kill 6
 
-- Venomous Heart: 02:15.504–02:35.500 (konec buffu doložený).
-- Venomous Heart: 04:44.487–05:04.486 (konec buffu doložený).
-- Venomous Heart: 09:33.679–09:52.113 (oříznuto smrtí cíle nebo koncem killu; odstranění buffu nedoložené).
+- Venomous Heart: 02:15.490–02:35.510 (konec buffu doložený).
+- Venomous Heart: 04:44.572–05:04.622 (konec buffu doložený).
 
 **Vejr-Drak'thul-EU**
-- Poslední použití před oknem (nepotvrzuje aktivní buff): Putrefy 02:11.204.
-- Srdce 02:15.504: Putrefy 02:34.909. Poškození srdce: vlastní 2,670,394, petové 2,259,492. Nejde o přínos samotného cooldownu.
-- Poslední použití před oknem (nepotvrzuje aktivní buff): Putrefy 04:35.048.
-- Srdce 04:44.487: Putrefy 04:54.643. Poškození srdce: vlastní 2,868,937, petové 3,434,296. Nejde o přínos samotného cooldownu.
-- Poslední použití před oknem (nepotvrzuje aktivní buff): Putrefy 09:09.853.
-- Srdce 09:33.679: žádné použití ze sledovaného seznamu. Poškození srdce: vlastní 16,860, petové 43,088. Nejde o přínos samotného cooldownu.
-- Putrefy 02:34.909–03:27.205: v mezeře je doložený kontext srdce nebo přechodové mechaniky. Sám neurčuje, zda bylo správné čekat.
+- Poslední použití před oknem (nepotvrzuje aktivní buff): Putrefy 02:12.075.
+- Srdce 02:15.490: Putrefy 02:18.683, Putrefy 02:32.064. Poškození srdce: vlastní 3,094,571, petové 2,419,515. Nejde o přínos samotného cooldownu.
+- Poslední použití před oknem (nepotvrzuje aktivní buff): Putrefy 04:17.584.
+- Srdce 04:44.572: Putrefy 04:49.695. Poškození srdce: vlastní 4,002,316, petové 3,630,156. Nejde o přínos samotného cooldownu.
+- Putrefy 02:32.064–03:23.375: v mezeře je doložený kontext srdce nebo přechodové mechaniky. Sám neurčuje, zda bylo správné čekat.
 
 **Theila-Drak'thul-EU**
-- Poslední použití před oknem (nepotvrzuje aktivní buff): Takedown 00:02.942.
-- Srdce 02:15.504: Takedown 02:16.286. Poškození srdce: vlastní 9,687,268, petové 2,829,579. Nejde o přínos samotného cooldownu.
-- Poslední použití před oknem (nepotvrzuje aktivní buff): Takedown 02:16.286.
-- Srdce 04:44.487: Takedown 04:48.254. Poškození srdce: vlastní 4,687,771, petové 1,010,282. Nejde o přínos samotného cooldownu.
-- Poslední použití před oknem (nepotvrzuje aktivní buff): Takedown 08:12.737.
-- Srdce 09:33.679: Takedown 09:43.060. Poškození srdce: vlastní 8,179,668, petové 1,919,270. Nejde o přínos samotného cooldownu.
-- Takedown 00:02.942–02:16.286: v mezeře je doložený kontext srdce nebo přechodové mechaniky. Sám neurčuje, zda bylo správné čekat.
+- Poslední použití před oknem (nepotvrzuje aktivní buff): Takedown 00:01.919, Boomstick 01:35.321.
+- Srdce 02:15.490: Takedown 02:18.268, Boomstick 02:25.593. Poškození srdce: vlastní 11,201,540, petové 3,637,749. Nejde o přínos samotného cooldownu.
+- Poslední použití před oknem (nepotvrzuje aktivní buff): Takedown 02:18.268, Boomstick 04:26.307.
+- Srdce 04:44.572: Takedown 04:48.214. Poškození srdce: vlastní 6,497,025, petové 2,152,660. Nejde o přínos samotného cooldownu.
+- Takedown 00:01.919–02:18.268: v mezeře je doložený kontext srdce nebo přechodové mechaniky. Sám neurčuje, zda bylo správné čekat.
+- Takedown 02:18.268–04:48.214: v mezeře je doložený kontext srdce nebo přechodové mechaniky. Sám neurčuje, zda bylo správné čekat.
+- Boomstick 04:26.307–05:46.365: v mezeře je doložený kontext srdce nebo přechodové mechaniky. Sám neurčuje, zda bylo správné čekat.
+
+**Krokous-Drak'thul-EU**
+- Poslední použití před oknem (nepotvrzuje aktivní buff): Bestial Wrath 02:08.431.
+- Srdce 02:15.490: žádné použití ze sledovaného seznamu. Poškození srdce: vlastní 3,612,887, petové 3,162,185. Nejde o přínos samotného cooldownu.
+- Poslední použití před oknem (nepotvrzuje aktivní buff): Bestial Wrath 04:20.824.
+- Srdce 04:44.572: Bestial Wrath 04:51.020. Poškození srdce: vlastní 4,448,223, petové 4,888,602. Nejde o přínos samotného cooldownu.
 
 **Micaello-Drak'thul-EU**
-- Poslední použití před oknem (nepotvrzuje aktivní buff): Bestial Wrath 02:03.298.
-- Srdce 02:15.504: Bestial Wrath 02:35.323. Poškození srdce: vlastní 2,093,489, petové 3,174,278. Nejde o přínos samotného cooldownu.
-- Poslední použití před oknem (nepotvrzuje aktivní buff): Bestial Wrath 04:18.251.
-- Srdce 04:44.487: Bestial Wrath 04:48.812. Poškození srdce: vlastní 3,251,787, petové 3,015,527. Nejde o přínos samotného cooldownu.
-- Poslední použití před oknem (nepotvrzuje aktivní buff): Bestial Wrath 09:22.199.
-- Srdce 09:33.679: žádné použití ze sledovaného seznamu. Poškození srdce: vlastní 62,046, petové 328,715. Nejde o přínos samotného cooldownu.
+- Poslední použití před oknem (nepotvrzuje aktivní buff): Bestial Wrath 02:05.545.
+- Srdce 02:15.490: žádné použití ze sledovaného seznamu. Poškození srdce: vlastní 3,444,766, petové 4,396,900. Nejde o přínos samotného cooldownu.
+- Poslední použití před oknem (nepotvrzuje aktivní buff): Bestial Wrath 04:19.952.
+- Srdce 04:44.572: Bestial Wrath 04:49.976. Poškození srdce: vlastní 3,651,504, petové 4,434,804. Nejde o přínos samotného cooldownu.
 
-**Rhínö-Drak'thul-EU**
-- Poslední použití před oknem (nepotvrzuje aktivní buff): nezaznamenané.
-- Srdce 02:15.504: žádné použití ze sledovaného seznamu. Poškození srdce: vlastní 10,647,378, petové 924,007. Nejde o přínos samotného cooldownu.
-- Poslední použití před oknem (nepotvrzuje aktivní buff): nezaznamenané.
-- Srdce 04:44.487: žádné použití ze sledovaného seznamu. Poškození srdce: vlastní 10,598,086, petové 606,721. Nejde o přínos samotného cooldownu.
-- Poslední použití před oknem (nepotvrzuje aktivní buff): nezaznamenané.
-- Srdce 09:33.679: žádné použití ze sledovaného seznamu. Poškození srdce: vlastní 0, petové 0. Nejde o přínos samotného cooldownu.
+**Greenfire-Drak'thul-EU**
+- Poslední použití před oknem (nepotvrzuje aktivní buff): Summon Demonic Tyrant 01:10.865, Grimoire: Imp Lord 02:07.736.
+- Srdce 02:15.490: Summon Demonic Tyrant 02:15.745. Poškození srdce: vlastní 3,965,101, petové 12,100,414. Nejde o přínos samotného cooldownu.
+- Poslední použití před oknem (nepotvrzuje aktivní buff): Summon Demonic Tyrant 03:47.276, Grimoire: Imp Lord 04:40.836.
+- Srdce 04:44.572: Summon Demonic Tyrant 04:48.304. Poškození srdce: vlastní 3,239,264, petové 7,099,867. Nejde o přínos samotného cooldownu.
+- Summon Demonic Tyrant 02:15.745–03:47.276: v mezeře je doložený kontext srdce nebo přechodové mechaniky. Sám neurčuje, zda bylo správné čekat.
+- Summon Demonic Tyrant 04:48.304–06:14.285: v mezeře je doložený kontext srdce nebo přechodové mechaniky. Sám neurčuje, zda bylo správné čekat.
+- Grimoire 02:07.736–04:40.836: v mezeře je doložený kontext srdce nebo přechodové mechaniky. Sám neurčuje, zda bylo správné čekat.
+- Grimoire 04:40.836–06:57.714: v mezeře je doložený kontext srdce nebo přechodové mechaniky. Sám neurčuje, zda bylo správné čekat.
+
+**Këss-Drak'thul-EU**
+- Poslední použití před oknem (nepotvrzuje aktivní buff): Touch of the Magi 01:52.626.
+- Srdce 02:15.490: žádné použití ze sledovaného seznamu. Poškození srdce: vlastní 7,961,225, petové 0. Nejde o přínos samotného cooldownu.
+- Poslední použití před oknem (nepotvrzuje aktivní buff): Touch of the Magi 04:37.368.
+- Srdce 04:44.572: žádné použití ze sledovaného seznamu. Poškození srdce: vlastní 7,617,911, petové 0. Nejde o přínos samotného cooldownu.
 
 **Kirill-Drak'thul-EU**
-- Poslední použití před oknem (nepotvrzuje aktivní buff): Soul Immolation 02:14.346.
-- Srdce 02:15.504: žádné použití ze sledovaného seznamu. Poškození srdce: vlastní 8,359,469, petové 0. Nejde o přínos samotného cooldownu.
-- Poslední použití před oknem (nepotvrzuje aktivní buff): Soul Immolation 04:39.420.
-- Srdce 04:44.487: žádné použití ze sledovaného seznamu. Poškození srdce: vlastní 9,160,398, petové 0. Nejde o přínos samotného cooldownu.
-- Poslední použití před oknem (nepotvrzuje aktivní buff): Soul Immolation 08:07.401.
-- Srdce 09:33.679: Soul Immolation 09:43.512. Poškození srdce: vlastní 8,599,330, petové 0. Nejde o přínos samotného cooldownu.
-- Soul Immolation 02:14.346–03:39.244: v mezeře je doložený kontext srdce nebo přechodové mechaniky. Sám neurčuje, zda bylo správné čekat.
-- Soul Immolation 08:07.401–09:43.512: v mezeře je doložený kontext srdce nebo přechodové mechaniky. Sám neurčuje, zda bylo správné čekat.
+- Poslední použití před oknem (nepotvrzuje aktivní buff): Soul Immolation 02:13.828.
+- Srdce 02:15.490: žádné použití ze sledovaného seznamu. Poškození srdce: vlastní 12,993,958, petové 0. Nejde o přínos samotného cooldownu.
+- Poslední použití před oknem (nepotvrzuje aktivní buff): Soul Immolation 04:30.736.
+- Srdce 04:44.572: Soul Immolation 04:45.253. Poškození srdce: vlastní 8,487,044, petové 0. Nejde o přínos samotného cooldownu.
+
+**Iluneesama-Drak'thul-EU**
+- Poslední použití před oknem (nepotvrzuje aktivní buff): Wake of Ashes 01:43.565, Execution Sentence 01:08.901, Divine Toll 01:10.821.
+- Srdce 02:15.490: Execution Sentence 02:16.716, Wake of Ashes 02:17.476, Divine Toll 02:18.463. Poškození srdce: vlastní 17,899,964, petové 0. Nejde o přínos samotného cooldownu.
+- Poslední použití před oknem (nepotvrzuje aktivní buff): Wake of Ashes 03:56.377, Execution Sentence 02:16.716, Divine Toll 02:18.463.
+- Srdce 04:44.572: Execution Sentence 04:46.079, Wake of Ashes 04:46.778, Divine Toll 04:49.911. Poškození srdce: vlastní 14,343,867, petové 0. Nejde o přínos samotného cooldownu.
+- Execution Sentence 02:16.716–04:46.079: v mezeře je doložený kontext srdce nebo přechodové mechaniky. Sám neurčuje, zda bylo správné čekat.
+- Execution Sentence 04:46.079–06:04.842: v mezeře je doložený kontext srdce nebo přechodové mechaniky. Sám neurčuje, zda bylo správné čekat.
+- Divine Toll 02:18.463–04:49.911: v mezeře je doložený kontext srdce nebo přechodové mechaniky. Sám neurčuje, zda bylo správné čekat.
+- Divine Toll 04:49.911–06:06.679: v mezeře je doložený kontext srdce nebo přechodové mechaniky. Sám neurčuje, zda bylo správné čekat.
+- Wake of Ashes 03:56.377–04:46.778: v mezeře je doložený kontext srdce nebo přechodové mechaniky. Sám neurčuje, zda bylo správné čekat.
+- Wake of Ashes 04:46.778–06:05.610: v mezeře je doložený kontext srdce nebo přechodové mechaniky. Sám neurčuje, zda bylo správné čekat.
+
+**Íacek-Drak'thul-EU**
+- Poslední použití před oknem (nepotvrzuje aktivní buff): Stormkeeper 01:33.429, Ancestral Swiftness 01:52.806.
+- Srdce 02:15.490: Stormkeeper 02:19.975, Ancestral Swiftness 02:25.649. Poškození srdce: vlastní 9,594,827, petové 3,576,592. Nejde o přínos samotného cooldownu.
+- Poslední použití před oknem (nepotvrzuje aktivní buff): Stormkeeper 04:42.593, Ancestral Swiftness 04:22.378.
+- Srdce 04:44.572: Ancestral Swiftness 04:56.064. Poškození srdce: vlastní 8,133,665, petové 3,577,603. Nejde o přínos samotného cooldownu.
+- Ancestral Swiftness 02:25.649–03:06.620: v mezeře je doložený kontext srdce nebo přechodové mechaniky. Sám neurčuje, zda bylo správné čekat.
 
 **Kubéc-Drak'thul-EU**
 - Poslední použití před oknem (nepotvrzuje aktivní buff): nezaznamenané.
-- Srdce 02:15.504: žádné použití ze sledovaného seznamu. Poškození srdce: vlastní 10,800,575, petové 0. Nejde o přínos samotného cooldownu.
+- Srdce 02:15.490: žádné použití ze sledovaného seznamu. Poškození srdce: vlastní 9,013,277, petové 0. Nejde o přínos samotného cooldownu.
 - Poslední použití před oknem (nepotvrzuje aktivní buff): nezaznamenané.
-- Srdce 04:44.487: žádné použití ze sledovaného seznamu. Poškození srdce: vlastní 7,645,384, petové 0. Nejde o přínos samotného cooldownu.
-- Poslední použití před oknem (nepotvrzuje aktivní buff): nezaznamenané.
-- Srdce 09:33.679: žádné použití ze sledovaného seznamu. Poškození srdce: vlastní 0, petové 0. Nejde o přínos samotného cooldownu.
+- Srdce 04:44.572: žádné použití ze sledovaného seznamu. Poškození srdce: vlastní 6,193,236, petové 0. Nejde o přínos samotného cooldownu.
+
+**Shalo-Drak'thul-EU**
+- Poslední použití před oknem (nepotvrzuje aktivní buff): Colossus Smash 01:12.882.
+- Srdce 02:15.490: Colossus Smash 02:16.608. Poškození srdce: vlastní 13,882,850, petové 0. Nejde o přínos samotného cooldownu.
+- Poslední použití před oknem (nepotvrzuje aktivní buff): Colossus Smash 04:38.153.
+- Srdce 04:44.572: žádné použití ze sledovaného seznamu. Poškození srdce: vlastní 9,156,857, petové 0. Nejde o přínos samotného cooldownu.
+- Colossus Smash 01:12.882–02:16.608: v mezeře je doložený kontext srdce nebo přechodové mechaniky. Sám neurčuje, zda bylo správné čekat.
+- Colossus Smash 04:38.153–06:04.355: v mezeře je doložený kontext srdce nebo přechodové mechaniky. Sám neurčuje, zda bylo správné čekat.
 
 **Odmin-Drak'thul-EU**
-- Poslední použití před oknem (nepotvrzuje aktivní buff): Essence Break 01:42.930.
-- Srdce 02:15.504: Essence Break 02:24.507. Poškození srdce: vlastní 11,969,826, petové 0. Nejde o přínos samotného cooldownu.
-- Poslední použití před oknem (nepotvrzuje aktivní buff): Essence Break 03:55.109.
-- Srdce 04:44.487: Essence Break 04:50.150. Poškození srdce: vlastní 10,925,977, petové 0. Nejde o přínos samotného cooldownu.
-- Poslední použití před oknem (nepotvrzuje aktivní buff): Essence Break 08:50.909.
-- Srdce 09:33.679: Essence Break 09:36.160. Poškození srdce: vlastní 9,275,689, petové 0. Nejde o přínos samotného cooldownu.
+- Poslední použití před oknem (nepotvrzuje aktivní buff): Essence Break 01:42.775, The Hunt 01:09.420.
+- Srdce 02:15.490: The Hunt 02:17.137, Essence Break 02:22.620. Poškození srdce: vlastní 15,025,063, petové 0. Nejde o přínos samotného cooldownu.
+- Poslední použití před oknem (nepotvrzuje aktivní buff): Essence Break 03:53.277, The Hunt 03:50.838.
+- Srdce 04:44.572: Essence Break 04:47.187. Poškození srdce: vlastní 9,327,867, petové 0. Nejde o přínos samotného cooldownu.
+- The Hunt 03:50.838–06:06.996: v mezeře je doložený kontext srdce nebo přechodové mechaniky. Sám neurčuje, zda bylo správné čekat.
 
 **Galneryus-Drak'thul-EU**
-- Poslední použití před oknem (nepotvrzuje aktivní buff): Wake of Ashes 01:44.277, Execution Sentence 01:09.565, Divine Toll 01:16.547.
-- Srdce 02:15.504: Execution Sentence 02:16.606, Wake of Ashes 02:18.190, Divine Toll 02:21.193. Poškození srdce: vlastní 21,768,487, petové 0. Nejde o přínos samotného cooldownu.
-- Poslední použití před oknem (nepotvrzuje aktivní buff): Wake of Ashes 04:18.891, Execution Sentence 03:44.254, Divine Toll 03:50.542.
-- Srdce 04:44.487: Execution Sentence 04:45.734, Wake of Ashes 04:49.827, Divine Toll 04:52.093. Poškození srdce: vlastní 15,173,201, petové 0. Nejde o přínos samotného cooldownu.
-- Poslední použití před oknem (nepotvrzuje aktivní buff): Wake of Ashes 08:49.415, Execution Sentence 08:15.741, Divine Toll 08:21.884.
-- Srdce 09:33.679: Execution Sentence 09:38.096, Wake of Ashes 09:40.665, Divine Toll 09:46.835. Poškození srdce: vlastní 12,043,807, petové 0. Nejde o přínos samotného cooldownu.
-- Execution Sentence 02:16.606–03:44.254: v mezeře je doložený kontext srdce nebo přechodové mechaniky. Sám neurčuje, zda bylo správné čekat.
-- Execution Sentence 04:45.734–06:05.322: v mezeře je doložený kontext srdce nebo přechodové mechaniky. Sám neurčuje, zda bylo správné čekat.
-- Execution Sentence 08:15.741–09:38.096: v mezeře je doložený kontext srdce nebo přechodové mechaniky. Sám neurčuje, zda bylo správné čekat.
-- Divine Toll 02:21.193–03:50.542: v mezeře je doložený kontext srdce nebo přechodové mechaniky. Sám neurčuje, zda bylo správné čekat.
-- Divine Toll 04:52.093–06:11.355: v mezeře je doložený kontext srdce nebo přechodové mechaniky. Sám neurčuje, zda bylo správné čekat.
-- Divine Toll 08:21.884–09:46.835: v mezeře je doložený kontext srdce nebo přechodové mechaniky. Sám neurčuje, zda bylo správné čekat.
-- Wake of Ashes 08:49.415–09:40.665: v mezeře je doložený kontext srdce nebo přechodové mechaniky. Sám neurčuje, zda bylo správné čekat.
-
-**Íácekpwn-Drak'thul-EU**
-- Poslední použití před oknem (nepotvrzuje aktivní buff): Halo 01:12.760.
-- Srdce 02:15.504: Halo 02:18.162. Poškození srdce: vlastní 12,679,910, petové 475,085. Nejde o přínos samotného cooldownu.
-- Poslední použití před oknem (nepotvrzuje aktivní buff): Halo 03:55.181.
-- Srdce 04:44.487: Halo 04:56.864. Poškození srdce: vlastní 7,300,398, petové 234,416. Nejde o přínos samotného cooldownu.
-- Poslední použití před oknem (nepotvrzuje aktivní buff): Halo 07:11.379.
-- Srdce 09:33.679: žádné použití ze sledovaného seznamu. Poškození srdce: vlastní 0, petové 0. Nejde o přínos samotného cooldownu.
-- Halo 02:18.162–03:55.181: v mezeře je doložený kontext srdce nebo přechodové mechaniky. Sám neurčuje, zda bylo správné čekat.
-
-**Omniblue-Drak'thul-EU**
-- Poslední použití před oknem (nepotvrzuje aktivní buff): Power Infusion 00:06.089.
-- Srdce 02:15.504: Power Infusion 02:20.062. Poškození srdce: vlastní 9,175,284, petové 556,907. Nejde o přínos samotného cooldownu.
-- Poslední použití před oknem (nepotvrzuje aktivní buff): Power Infusion 02:20.062.
-- Srdce 04:44.487: Power Infusion 04:50.024. Poškození srdce: vlastní 7,769,591, petové 319,221. Nejde o přínos samotného cooldownu.
-- Poslední použití před oknem (nepotvrzuje aktivní buff): Power Infusion 07:23.097.
-- Srdce 09:33.679: žádné použití ze sledovaného seznamu. Poškození srdce: vlastní 0, petové 0. Nejde o přínos samotného cooldownu.
-- Power Infusion 02:20.062–04:50.024: v mezeře je doložený kontext srdce nebo přechodové mechaniky. Sám neurčuje, zda bylo správné čekat.
-- Power Infusion 04:50.024–07:23.097: v mezeře je doložený kontext srdce nebo přechodové mechaniky. Sám neurčuje, zda bylo správné čekat.
+- Poslední použití před oknem (nepotvrzuje aktivní buff): Wake of Ashes 01:41.833, Execution Sentence 01:08.467, Divine Toll 01:13.397.
+- Srdce 02:15.490: Execution Sentence 02:17.286, Wake of Ashes 02:18.877, Divine Toll 02:21.123. Poškození srdce: vlastní 22,203,223, petové 0. Nejde o přínos samotného cooldownu.
+- Poslední použití před oknem (nepotvrzuje aktivní buff): Wake of Ashes 03:42.378, Execution Sentence 03:40.464, Divine Toll 03:45.592.
+- Srdce 04:44.572: Execution Sentence 04:46.657, Wake of Ashes 04:48.548, Divine Toll 04:51.547. Poškození srdce: vlastní 17,090,903, petové 0. Nejde o přínos samotného cooldownu.
+- Execution Sentence 02:17.286–03:40.464: v mezeře je doložený kontext srdce nebo přechodové mechaniky. Sám neurčuje, zda bylo správné čekat.
+- Execution Sentence 04:46.657–06:06.217: v mezeře je doložený kontext srdce nebo přechodové mechaniky. Sám neurčuje, zda bylo správné čekat.
+- Divine Toll 02:21.123–03:45.592: v mezeře je doložený kontext srdce nebo přechodové mechaniky. Sám neurčuje, zda bylo správné čekat.
+- Divine Toll 04:51.547–06:12.480: v mezeře je doložený kontext srdce nebo přechodové mechaniky. Sám neurčuje, zda bylo správné čekat.
+- Wake of Ashes 03:42.378–04:48.548: v mezeře je doložený kontext srdce nebo přechodové mechaniky. Sám neurčuje, zda bylo správné čekat.
 
 **Fobina-Drak'thul-EU**
 - Poslední použití před oknem (nepotvrzuje aktivní buff): nezaznamenané.
-- Srdce 02:15.504: žádné použití ze sledovaného seznamu. Poškození srdce: vlastní 1,323,137, petové 0. Nejde o přínos samotného cooldownu.
+- Srdce 02:15.490: žádné použití ze sledovaného seznamu. Poškození srdce: vlastní 821,327, petové 0. Nejde o přínos samotného cooldownu.
 - Poslední použití před oknem (nepotvrzuje aktivní buff): nezaznamenané.
-- Srdce 04:44.487: žádné použití ze sledovaného seznamu. Poškození srdce: vlastní 1,484,314, petové 287,199. Nejde o přínos samotného cooldownu.
-- Poslední použití před oknem (nepotvrzuje aktivní buff): nezaznamenané.
-- Srdce 09:33.679: žádné použití ze sledovaného seznamu. Poškození srdce: vlastní 371,509, petové 216,801. Nejde o přínos samotného cooldownu.
+- Srdce 04:44.572: žádné použití ze sledovaného seznamu. Poškození srdce: vlastní 1,251,590, petové 244,659. Nejde o přínos samotného cooldownu.
 
 **Nahollou-Drak'thul-EU**
-- Poslední použití před oknem (nepotvrzuje aktivní buff): Summon Demonic Tyrant 01:12.562, Grimoire: Imp Lord 00:04.536.
-- Srdce 02:15.504: Summon Demonic Tyrant 02:22.447, Grimoire: Imp Lord 02:27.196. Poškození srdce: vlastní 1,569,687, petové 3,247,573. Nejde o přínos samotného cooldownu.
-- Poslední použití před oknem (nepotvrzuje aktivní buff): Summon Demonic Tyrant 02:22.447, Grimoire: Imp Lord 02:27.196.
-- Srdce 04:44.487: Summon Demonic Tyrant 04:47.169, Grimoire: Imp Lord 04:49.131. Poškození srdce: vlastní 1,347,552, petové 6,964,816. Nejde o přínos samotného cooldownu.
-- Poslední použití před oknem (nepotvrzuje aktivní buff): Summon Demonic Tyrant 08:26.687, Grimoire: Imp Lord 08:59.584.
-- Srdce 09:33.679: žádné použití ze sledovaného seznamu. Poškození srdce: vlastní 0, petové 151,040. Nejde o přínos samotného cooldownu.
-- Summon Demonic Tyrant 02:22.447–04:47.169: v mezeře je doložený kontext srdce nebo přechodové mechaniky. Sám neurčuje, zda bylo správné čekat.
-- Summon Demonic Tyrant 04:47.169–06:16.635: v mezeře je doložený kontext srdce nebo přechodové mechaniky. Sám neurčuje, zda bylo správné čekat.
-- Grimoire 00:04.536–02:27.196: v mezeře je doložený kontext srdce nebo přechodové mechaniky. Sám neurčuje, zda bylo správné čekat.
-- Grimoire 02:27.196–04:49.131: v mezeře je doložený kontext srdce nebo přechodové mechaniky. Sám neurčuje, zda bylo správné čekat.
+- Poslední použití před oknem (nepotvrzuje aktivní buff): Summon Demonic Tyrant 01:12.485, Grimoire: Imp Lord 00:03.302.
+- Srdce 02:15.490: žádné použití ze sledovaného seznamu. Poškození srdce: vlastní 0, petové 0. Nejde o přínos samotného cooldownu.
+- Poslední použití před oknem (nepotvrzuje aktivní buff): Summon Demonic Tyrant 01:12.485, Grimoire: Imp Lord 00:03.302.
+- Srdce 04:44.572: Summon Demonic Tyrant 04:49.781, Grimoire: Imp Lord 04:56.724. Poškození srdce: vlastní 893,023, petové 3,851,932. Nejde o přínos samotného cooldownu.
+- Summon Demonic Tyrant 04:49.781–06:46.454: v mezeře je doložený kontext srdce nebo přechodové mechaniky. Sám neurčuje, zda bylo správné čekat.
+- Grimoire 04:56.724–07:20.993: v mezeře je doložený kontext srdce nebo přechodové mechaniky. Sám neurčuje, zda bylo správné čekat.
 
 **Johnyhoudini-BurningBlade-EU**
-- Poslední použití před oknem (nepotvrzuje aktivní buff): Touch of the Magi 01:08.927.
-- Srdce 02:15.504: Touch of the Magi 02:17.274. Poškození srdce: vlastní 15,581,415, petové 684,436. Nejde o přínos samotného cooldownu.
-- Poslední použití před oknem (nepotvrzuje aktivní buff): Touch of the Magi 03:06.192.
-- Srdce 04:44.487: Touch of the Magi 04:45.766. Poškození srdce: vlastní 18,949,139, petové 285,350. Nejde o přínos samotného cooldownu.
-- Poslední použití před oknem (nepotvrzuje aktivní buff): Touch of the Magi 09:09.771.
-- Srdce 09:33.679: žádné použití ze sledovaného seznamu. Poškození srdce: vlastní 5,736,037, petové 498,915. Nejde o přínos samotného cooldownu.
-- Touch of the Magi 01:08.927–02:17.274: v mezeře je doložený kontext srdce nebo přechodové mechaniky. Sám neurčuje, zda bylo správné čekat.
-- Touch of the Magi 03:06.192–04:45.766: v mezeře je doložený kontext srdce nebo přechodové mechaniky. Sám neurčuje, zda bylo správné čekat.
-- Touch of the Magi 04:45.766–06:25.539: v mezeře je doložený kontext srdce nebo přechodové mechaniky. Sám neurčuje, zda bylo správné čekat.
-- Touch of the Magi 08:12.055–09:09.771: v mezeře je doložený kontext srdce nebo přechodové mechaniky. Sám neurčuje, zda bylo správné čekat.
-
-**Slejhy-Drak'thul-EU**
-- Poslední použití před oknem (nepotvrzuje aktivní buff): Deathmark 00:08.301, Kingsbane 01:11.559.
-- Srdce 02:15.504: Deathmark 02:16.418, Kingsbane 02:17.541. Poškození srdce: vlastní 15,496,969, petové 0. Nejde o přínos samotného cooldownu.
-- Poslední použití před oknem (nepotvrzuje aktivní buff): Deathmark 02:16.418, Kingsbane 02:17.541.
-- Srdce 04:44.487: Deathmark 04:52.177, Kingsbane 04:53.146. Poškození srdce: vlastní 8,388,257, petové 0. Nejde o přínos samotného cooldownu.
-- Poslední použití před oknem (nepotvrzuje aktivní buff): Deathmark 09:24.354, Kingsbane 09:25.360.
-- Srdce 09:33.679: žádné použití ze sledovaného seznamu. Poškození srdce: vlastní 4,033,888, petové 0. Nejde o přínos samotného cooldownu.
-- Deathmark 02:16.418–04:52.177: v mezeře je doložený kontext srdce nebo přechodové mechaniky. Sám neurčuje, zda bylo správné čekat.
-- Deathmark 04:52.177–07:19.761: v mezeře je doložený kontext srdce nebo přechodové mechaniky. Sám neurčuje, zda bylo správné čekat.
-- Kingsbane 02:17.541–04:53.146: v mezeře je doložený kontext srdce nebo přechodové mechaniky. Sám neurčuje, zda bylo správné čekat.
-- Kingsbane 04:53.146–07:20.732: v mezeře je doložený kontext srdce nebo přechodové mechaniky. Sám neurčuje, zda bylo správné čekat.
+- Poslední použití před oknem (nepotvrzuje aktivní buff): Touch of the Magi 01:10.047.
+- Srdce 02:15.490: Touch of the Magi 02:17.103. Poškození srdce: vlastní 15,289,118, petové 176,432. Nejde o přínos samotného cooldownu.
+- Poslední použití před oknem (nepotvrzuje aktivní buff): Touch of the Magi 03:05.160.
+- Srdce 04:44.572: Touch of the Magi 04:46.082. Poškození srdce: vlastní 10,677,377, petové 186,513. Nejde o přínos samotného cooldownu.
+- Touch of the Magi 01:10.047–02:17.103: v mezeře je doložený kontext srdce nebo přechodové mechaniky. Sám neurčuje, zda bylo správné čekat.
+- Touch of the Magi 03:05.160–04:46.082: v mezeře je doložený kontext srdce nebo přechodové mechaniky. Sám neurčuje, zda bylo správné čekat.
+- Touch of the Magi 04:46.082–06:25.794: v mezeře je doložený kontext srdce nebo přechodové mechaniky. Sám neurčuje, zda bylo správné čekat.
 
 **Corneilia-Sylvanas-EU**
-- Poslední použití před oknem (nepotvrzuje aktivní buff): Touch of the Magi 00:51.750.
-- Srdce 02:15.504: Touch of the Magi 02:17.741. Poškození srdce: vlastní 9,306,385, petové 647,262. Nejde o přínos samotného cooldownu.
-- Poslední použití před oknem (nepotvrzuje aktivní buff): Touch of the Magi 03:03.096.
-- Srdce 04:44.487: Touch of the Magi 04:48.175. Poškození srdce: vlastní 9,960,905, petové 777,108. Nejde o přínos samotného cooldownu.
-- Poslední použití před oknem (nepotvrzuje aktivní buff): Touch of the Magi 08:16.411.
-- Srdce 09:33.679: Touch of the Magi 09:37.337. Poškození srdce: vlastní 4,548,492, petové 0. Nejde o přínos samotného cooldownu.
-- Touch of the Magi 00:51.750–02:17.741: v mezeře je doložený kontext srdce nebo přechodové mechaniky. Sám neurčuje, zda bylo správné čekat.
-- Touch of the Magi 03:03.096–04:48.175: v mezeře je doložený kontext srdce nebo přechodové mechaniky. Sám neurčuje, zda bylo správné čekat.
-- Touch of the Magi 04:48.175–06:25.235: v mezeře je doložený kontext srdce nebo přechodové mechaniky. Sám neurčuje, zda bylo správné čekat.
-- Touch of the Magi 07:16.811–08:16.411: v mezeře je doložený kontext srdce nebo přechodové mechaniky. Sám neurčuje, zda bylo správné čekat.
-- Touch of the Magi 08:16.411–09:37.337: v mezeře je doložený kontext srdce nebo přechodové mechaniky. Sám neurčuje, zda bylo správné čekat.
+- Poslední použití před oknem (nepotvrzuje aktivní buff): Touch of the Magi 00:04.547.
+- Srdce 02:15.490: žádné použití ze sledovaného seznamu. Poškození srdce: vlastní 0, petové 0. Nejde o přínos samotného cooldownu.
+- Poslední použití před oknem (nepotvrzuje aktivní buff): Touch of the Magi 00:04.547.
+- Srdce 04:44.572: Touch of the Magi 04:50.174. Poškození srdce: vlastní 7,246,721, petové 362,673. Nejde o přínos samotného cooldownu.
+- Touch of the Magi 04:50.174–06:37.518: v mezeře je doložený kontext srdce nebo přechodové mechaniky. Sám neurčuje, zda bylo správné čekat.
 
 ## Průběh všech analyzovaných fightů
 
@@ -1468,813 +1568,618 @@ Při Tether of Awakening má Nek'zali imunitu. Přepni na relevantní addy; samo
 
 [Popis mechaniky](https://www.wowhead.com/spell=1289696/tether-of-awakening)
 
-- Změna průběhu: Ritual of Awakening · Nek'zali the Soulcoiler · 01:57.389–03:13.350.
-- Imunita cíle: Tether of Awakening · Nek'zali the Soulcoiler · 01:57.389–03:13.350.
-- Změna průběhu: Uncoiling · Nek'zali the Soulcoiler · 03:13.355–03:18.368.
+- Změna průběhu: Ritual of Awakening · Nek'zali the Soulcoiler · 01:29.599–02:21.610.
+- Imunita cíle: Tether of Awakening · Nek'zali the Soulcoiler · 01:29.622–02:21.610.
+- Změna průběhu: Uncoiling · Nek'zali the Soulcoiler · 02:21.615–02:26.618.
 
 **Vejr-Drak'thul-EU**
 - Posouzených původních příkladů: 0; mezer mezi cooldowny: 0. Žádný překryv sám nezvyšuje jistotu výtky.
-- Essence Rend 00:54.491–00:59.483: záznamů dokončených vlastních schopností včetně automatických 4. Nejde o počet ručních stisků; celý efekt není automaticky doba bez možnosti útočit.
-- Essence Rend 01:00.002–01:09.742: záznamů dokončených vlastních schopností včetně automatických 2. Nejde o počet ručních stisků; celý efekt není automaticky doba bez možnosti útočit.
-- Essence Rend 04:08.630–04:13.627: záznamů dokončených vlastních schopností včetně automatických 6. Nejde o počet ručních stisků; celý efekt není automaticky doba bez možnosti útočit.
-- Essence Rend 04:14.127–04:23.872: záznamů dokončených vlastních schopností včetně automatických 4. Nejde o počet ručních stisků; celý efekt není automaticky doba bez možnosti útočit.
+- Essence Rend 00:54.487–00:59.499: záznamů dokončených vlastních schopností včetně automatických 5. Nejde o počet ručních stisků; celý efekt není automaticky doba bez možnosti útočit.
+- Essence Rend 01:00.000–01:09.761: záznamů dokončených vlastních schopností včetně automatických 4. Nejde o počet ručních stisků; celý efekt není automaticky doba bez možnosti útočit.
+- Latent Cultist 02:49.167–02:50.597: záznamů dokončených vlastních schopností včetně automatických 1. Nejde o počet ručních stisků; celý efekt není automaticky doba bez možnosti útočit.
+- Latent Cultist 03:36.653–03:37.292: záznamů dokončených vlastních schopností včetně automatických 0. Nejde o počet ručních stisků; celý efekt není automaticky doba bez možnosti útočit.
 
 **Theila-Drak'thul-EU**
-- Posouzených původních příkladů: 22; mezer mezi cooldowny: 0. Žádný překryv sám nezvyšuje jistotu výtky.
-- Essence Rend 00:54.491–00:59.483: záznamů dokončených vlastních schopností včetně automatických 3. Nejde o počet ručních stisků; celý efekt není automaticky doba bez možnosti útočit.
-- Essence Rend 01:00.002–01:09.776: záznamů dokončených vlastních schopností včetně automatických 0. Nejde o počet ručních stisků; celý efekt není automaticky doba bez možnosti útočit.
-- Latent Cultist 02:02.224–02:03.511: záznamů dokončených vlastních schopností včetně automatických 1. Nejde o počet ručních stisků; celý efekt není automaticky doba bez možnosti útočit.
-- Essence Rend 04:08.630–04:13.627: záznamů dokončených vlastních schopností včetně automatických 3. Nejde o počet ručních stisků; celý efekt není automaticky doba bez možnosti útočit.
-- Essence Rend 04:14.127–04:20.754: záznamů dokončených vlastních schopností včetně automatických 0. Nejde o počet ručních stisků; celý efekt není automaticky doba bez možnosti útočit.
+- Posouzených původních příkladů: 16; mezer mezi cooldowny: 1. Žádný překryv sám nezvyšuje jistotu výtky.
+- Essence Rend 00:54.487–00:59.499: záznamů dokončených vlastních schopností včetně automatických 3. Nejde o počet ručních stisků; celý efekt není automaticky doba bez možnosti útočit.
+- Essence Rend 01:00.000–01:01.644: záznamů dokončených vlastních schopností včetně automatických 0. Nejde o počet ručních stisků; celý efekt není automaticky doba bez možnosti útočit.
+- Essence Rend 03:16.192–03:21.191: záznamů dokončených vlastních schopností včetně automatických 5. Nejde o počet ručních stisků; celý efekt není automaticky doba bez možnosti útočit.
+- Essence Rend 03:21.686–03:32.257: záznamů dokončených vlastních schopností včetně automatických 8. Nejde o počet ručních stisků; celý efekt není automaticky doba bez možnosti útočit.
+- Latent Cultist 03:36.225–03:36.901: záznamů dokončených vlastních schopností včetně automatických 1. Nejde o počet ručních stisků; celý efekt není automaticky doba bez možnosti útočit.
+- Takedown 01:36.438–03:19.493: Ritual of Awakening, Tether of Awakening, Uncoiling, Essence Rend. Nejde o potvrzený důvod odkladu ani zapomenuté použití.
+
+**Krokous-Drak'thul-EU**
+- Posouzených původních příkladů: 0; mezer mezi cooldowny: 0. Žádný překryv sám nezvyšuje jistotu výtky.
+- Slithering Flame 01:44.515–01:52.506: záznamů dokončených vlastních schopností včetně automatických 6. Nejde o počet ručních stisků; celý efekt není automaticky doba bez možnosti útočit.
+- Slithering Flame 02:16.579–02:24.565: záznamů dokončených vlastních schopností včetně automatických 2. Nejde o počet ručních stisků; celý efekt není automaticky doba bez možnosti útočit.
+- Latent Cultist 02:54.019–02:54.107: záznamů dokončených vlastních schopností včetně automatických 0. Nejde o počet ručních stisků; celý efekt není automaticky doba bez možnosti útočit.
+- Latent Cultist 03:37.095–03:37.752: záznamů dokončených vlastních schopností včetně automatických 0. Nejde o počet ručních stisků; celý efekt není automaticky doba bez možnosti útočit.
 
 **Hrbaty-Drak'thul-EU**
-- Posouzených původních příkladů: 3; mezer mezi cooldowny: 0. Žádný překryv sám nezvyšuje jistotu výtky.
-- Essence Rend 00:14.468–00:19.484: záznamů dokončených vlastních schopností včetně automatických 6. Nejde o počet ručních stisků; celý efekt není automaticky doba bez možnosti útočit.
-- Essence Rend 00:19.987–00:31.854: záznamů dokončených vlastních schopností včetně automatických 9. Nejde o počet ručních stisků; celý efekt není automaticky doba bez možnosti útočit.
-- Slithering Flame 02:12.412–02:20.416: záznamů dokončených vlastních schopností včetně automatických 5. Nejde o počet ručních stisků; celý efekt není automaticky doba bez možnosti útočit.
-- Slithering Flame 02:53.543–03:01.557: záznamů dokončených vlastních schopností včetně automatických 5. Nejde o počet ručních stisků; celý efekt není automaticky doba bez možnosti útočit.
-- Latent Cultist 04:29.993–04:30.873: záznamů dokončených vlastních schopností včetně automatických 1. Nejde o počet ručních stisků; celý efekt není automaticky doba bez možnosti útočit.
+- Posouzených původních příkladů: 6; mezer mezi cooldowny: 1. Žádný překryv sám nezvyšuje jistotu výtky.
+- Essence Rend 00:54.487–00:59.499: záznamů dokončených vlastních schopností včetně automatických 5. Nejde o počet ručních stisků; celý efekt není automaticky doba bez možnosti útočit.
+- Essence Rend 01:00.000–01:08.194: záznamů dokončených vlastních schopností včetně automatických 5. Nejde o počet ručních stisků; celý efekt není automaticky doba bez možnosti útočit.
+- Latent Cultist 01:18.905–01:19.554: záznamů dokončených vlastních schopností včetně automatických 0. Nejde o počet ručních stisků; celý efekt není automaticky doba bez možnosti útočit.
+- Slithering Flame 01:44.393–01:52.385: záznamů dokončených vlastních schopností včetně automatických 2. Nejde o počet ručních stisků; celý efekt není automaticky doba bez možnosti útočit.
+- Slithering Flame 02:15.538–02:23.529: záznamů dokončených vlastních schopností včetně automatických 0. Nejde o počet ručních stisků; celý efekt není automaticky doba bez možnosti útočit.
+- Ancestral Swiftness 02:13.541–02:59.531: Ritual of Awakening, Tether of Awakening, Slithering Flame, Uncoiling. Nejde o potvrzený důvod odkladu ani zapomenuté použití.
 
 **Micaello-Drak'thul-EU**
 - Posouzených původních příkladů: 0; mezer mezi cooldowny: 0. Žádný překryv sám nezvyšuje jistotu výtky.
-- Essence Rend 00:14.468–00:19.484: záznamů dokončených vlastních schopností včetně automatických 4. Nejde o počet ručních stisků; celý efekt není automaticky doba bez možnosti útočit.
-- Essence Rend 00:19.986–00:26.863: záznamů dokončených vlastních schopností včetně automatických 6. Nejde o počet ručních stisků; celý efekt není automaticky doba bez možnosti útočit.
-- Slithering Flame 02:12.742–02:20.748: záznamů dokončených vlastních schopností včetně automatických 3. Nejde o počet ručních stisků; celý efekt není automaticky doba bez možnosti útočit.
-- Slithering Flame 02:53.368–03:01.372: záznamů dokončených vlastních schopností včetně automatických 6. Nejde o počet ručních stisků; celý efekt není automaticky doba bez možnosti útočit.
-- Latent Cultist 03:00.489–03:01.507: záznamů dokončených vlastních schopností včetně automatických 1. Nejde o počet ručních stisků; celý efekt není automaticky doba bez možnosti útočit.
-- Latent Cultist 03:01.534–03:01.643: záznamů dokončených vlastních schopností včetně automatických 0. Nejde o počet ručních stisků; celý efekt není automaticky doba bez možnosti útočit.
+- Essence Rend 00:14.507–00:19.509: záznamů dokončených vlastních schopností včetně automatických 6. Nejde o počet ručních stisků; celý efekt není automaticky doba bez možnosti útočit.
+- Essence Rend 00:20.010–00:25.259: záznamů dokončených vlastních schopností včetně automatických 2. Nejde o počet ručních stisků; celý efekt není automaticky doba bez možnosti útočit.
+- Slithering Flame 01:44.977–01:52.980: záznamů dokončených vlastních schopností včetně automatických 5. Nejde o počet ručních stisků; celý efekt není automaticky doba bez možnosti útočit.
+- Slithering Flame 02:15.820–02:23.819: záznamů dokončených vlastních schopností včetně automatických 5. Nejde o počet ručních stisků; celý efekt není automaticky doba bez možnosti útočit.
 
-**Rhínö-Drak'thul-EU**
-- Posouzených původních příkladů: 2; mezer mezi cooldowny: 0. Žádný překryv sám nezvyšuje jistotu výtky.
-- Slithering Flame 02:12.134–02:20.151: záznamů dokončených vlastních schopností včetně automatických 7. Nejde o počet ručních stisků; celý efekt není automaticky doba bez možnosti útočit.
-- Slithering Flame 02:53.736–03:01.729: záznamů dokončených vlastních schopností včetně automatických 7. Nejde o počet ručních stisků; celý efekt není automaticky doba bez možnosti útočit.
+**Greenfire-Drak'thul-EU**
+- Posouzených původních příkladů: 16; mezer mezi cooldowny: 1. Žádný překryv sám nezvyšuje jistotu výtky.
+- Essence Rend 00:14.507–00:19.509: záznamů dokončených vlastních schopností včetně automatických 6. Nejde o počet ručních stisků; celý efekt není automaticky doba bez možnosti útočit.
+- Essence Rend 00:20.011–00:25.236: záznamů dokončených vlastních schopností včetně automatických 2. Nejde o počet ručních stisků; celý efekt není automaticky doba bez možnosti útočit.
+- Slithering Flame 01:44.817–01:52.830: záznamů dokončených vlastních schopností včetně automatických 3. Nejde o počet ručních stisků; celý efekt není automaticky doba bez možnosti útočit.
+- Slithering Flame 02:15.294–02:23.266: záznamů dokončených vlastních schopností včetně automatických 6. Nejde o počet ručních stisků; celý efekt není automaticky doba bez možnosti útočit.
+- Grimoire 00:03.054–02:24.084: Essence Rend, Ritual of Awakening, Tether of Awakening, Slithering Flame, Uncoiling. Nejde o potvrzený důvod odkladu ani zapomenuté použití.
 
-**Luminos-BurningBlade-EU**
-- Posouzených původních příkladů: 2; mezer mezi cooldowny: 0. Žádný překryv sám nezvyšuje jistotu výtky.
-- Slithering Flame 02:13.320–02:21.320: záznamů dokončených vlastních schopností včetně automatických 2. Nejde o počet ručních stisků; celý efekt není automaticky doba bez možnosti útočit.
-- Latent Cultist 02:19.109–02:23.103: záznamů dokončených vlastních schopností včetně automatických 0. Nejde o počet ručních stisků; celý efekt není automaticky doba bez možnosti útočit.
-- Slithering Flame 02:52.967–03:00.980: záznamů dokončených vlastních schopností včetně automatických 7. Nejde o počet ručních stisků; celý efekt není automaticky doba bez možnosti útočit.
-- Latent Cultist 03:02.334–03:02.827: záznamů dokončených vlastních schopností včetně automatických 0. Nejde o počet ručních stisků; celý efekt není automaticky doba bez možnosti útočit.
-- Latent Cultist 03:43.238–03:44.350: záznamů dokončených vlastních schopností včetně automatických 1. Nejde o počet ručních stisků; celý efekt není automaticky doba bez možnosti útočit.
-- Essence Rend 04:08.630–04:13.627: záznamů dokončených vlastních schopností včetně automatických 5. Nejde o počet ručních stisků; celý efekt není automaticky doba bez možnosti útočit.
-- Essence Rend 04:14.128–04:18.984: záznamů dokončených vlastních schopností včetně automatických 2. Nejde o počet ručních stisků; celý efekt není automaticky doba bez možnosti útočit.
+**Këss-Drak'thul-EU**
+- Posouzených původních příkladů: 0; mezer mezi cooldowny: 0. Žádný překryv sám nezvyšuje jistotu výtky.
+- Essence Rend 00:54.487–00:59.499: záznamů dokončených vlastních schopností včetně automatických 3. Nejde o počet ručních stisků; celý efekt není automaticky doba bez možnosti útočit.
+- Essence Rend 01:00.000–01:12.744: záznamů dokončených vlastních schopností včetně automatických 11. Nejde o počet ručních stisků; celý efekt není automaticky doba bez možnosti útočit.
+- Slithering Flame 01:45.571–01:53.555: záznamů dokončených vlastních schopností včetně automatických 4. Nejde o počet ručních stisků; celý efekt není automaticky doba bez možnosti útočit.
+- Slithering Flame 02:16.364–02:24.374: záznamů dokončených vlastních schopností včetně automatických 8. Nejde o počet ručních stisků; celý efekt není automaticky doba bez možnosti útočit.
+- Essence Rend 03:16.192–03:21.191: záznamů dokončených vlastních schopností včetně automatických 5. Nejde o počet ručních stisků; celý efekt není automaticky doba bez možnosti útočit.
+- Essence Rend 03:21.686–03:36.695: záznamů dokončených vlastních schopností včetně automatických 12. Nejde o počet ručních stisků; celý efekt není automaticky doba bez možnosti útočit.
+
+**Kirill-Drak'thul-EU**
+- Posouzených původních příkladů: 0; mezer mezi cooldowny: 0. Žádný překryv sám nezvyšuje jistotu výtky.
+- Essence Rend 00:14.507–00:19.509: záznamů dokončených vlastních schopností včetně automatických 15. Nejde o počet ručních stisků; celý efekt není automaticky doba bez možnosti útočit.
+- Essence Rend 00:20.011–00:23.209: záznamů dokončených vlastních schopností včetně automatických 14. Nejde o počet ručních stisků; celý efekt není automaticky doba bez možnosti útočit.
+
+**Iluneesama-Drak'thul-EU**
+- Posouzených původních příkladů: 5; mezer mezi cooldowny: 0. Žádný překryv sám nezvyšuje jistotu výtky.
+- Essence Rend 00:14.507–00:19.509: záznamů dokončených vlastních schopností včetně automatických 6. Nejde o počet ručních stisků; celý efekt není automaticky doba bez možnosti útočit.
+- Essence Rend 00:20.010–00:30.199: záznamů dokončených vlastních schopností včetně automatických 2. Nejde o počet ručních stisků; celý efekt není automaticky doba bez možnosti útočit.
+- Latent Cultist 02:00.687–02:03.648: záznamů dokončených vlastních schopností včetně automatických 2. Nejde o počet ručních stisků; celý efekt není automaticky doba bez možnosti útočit.
+- Latent Cultist 02:05.390–02:05.484: záznamů dokončených vlastních schopností včetně automatických 0. Nejde o počet ručních stisků; celý efekt není automaticky doba bez možnosti útočit.
+- Latent Cultist 02:50.464–02:50.519: záznamů dokončených vlastních schopností včetně automatických 0. Nejde o počet ručních stisků; celý efekt není automaticky doba bez možnosti útočit.
+- Latent Cultist 02:50.671–02:51.156: záznamů dokončených vlastních schopností včetně automatických 1. Nejde o počet ručních stisků; celý efekt není automaticky doba bez možnosti útočit.
+- Latent Cultist 03:36.382–03:37.752: záznamů dokončených vlastních schopností včetně automatických 3. Nejde o počet ručních stisků; celý efekt není automaticky doba bez možnosti útočit.
 
 **Kubéc-Drak'thul-EU**
-- Posouzených původních příkladů: 9; mezer mezi cooldowny: 0. Žádný překryv sám nezvyšuje jistotu výtky.
-- Latent Cultist 01:53.738–01:54.137: záznamů dokončených vlastních schopností včetně automatických 0. Nejde o počet ručních stisků; celý efekt není automaticky doba bez možnosti útočit.
-- Latent Cultist 02:00.079–02:00.265: záznamů dokončených vlastních schopností včetně automatických 0. Nejde o počet ručních stisků; celý efekt není automaticky doba bez možnosti útočit.
-- Latent Cultist 02:03.460–02:03.705: záznamů dokončených vlastních schopností včetně automatických 0. Nejde o počet ručních stisků; celý efekt není automaticky doba bez možnosti útočit.
-- Latent Cultist 02:33.291–02:35.779: záznamů dokončených vlastních schopností včetně automatických 1. Nejde o počet ručních stisků; celý efekt není automaticky doba bez možnosti útočit.
-- Latent Cultist 03:43.150–03:43.334: záznamů dokončených vlastních schopností včetně automatických 0. Nejde o počet ručních stisků; celý efekt není automaticky doba bez možnosti útočit.
+- Posouzených původních příkladů: 3; mezer mezi cooldowny: 0. Žádný překryv sám nezvyšuje jistotu výtky.
+- Latent Cultist 01:57.699–01:58.025: záznamů dokončených vlastních schopností včetně automatických 0. Nejde o počet ručních stisků; celý efekt není automaticky doba bez možnosti útočit.
+- Essence Rend 03:16.192–03:21.191: záznamů dokončených vlastních schopností včetně automatických 6. Nejde o počet ručních stisků; celý efekt není automaticky doba bez možnosti útočit.
+- Essence Rend 03:21.686–03:30.815: záznamů dokončených vlastních schopností včetně automatických 1. Nejde o počet ručních stisků; celý efekt není automaticky doba bez možnosti útočit.
+- Latent Cultist 03:36.382–03:37.752: záznamů dokončených vlastních schopností včetně automatických 2. Nejde o počet ručních stisků; celý efekt není automaticky doba bez možnosti útočit.
+
+**Shalo-Drak'thul-EU**
+- Posouzených původních příkladů: 0; mezer mezi cooldowny: 0. Žádný překryv sám nezvyšuje jistotu výtky.
+- Latent Cultist 01:53.141–01:53.415: záznamů dokončených vlastních schopností včetně automatických 0. Nejde o počet ručních stisků; celý efekt není automaticky doba bez možnosti útočit.
+- Latent Cultist 01:58.386–01:59.484: záznamů dokončených vlastních schopností včetně automatických 1. Nejde o počet ručních stisků; celý efekt není automaticky doba bez možnosti útočit.
+- Latent Cultist 02:49.793–02:51.041: záznamů dokončených vlastních schopností včetně automatických 1. Nejde o počet ručních stisků; celý efekt není automaticky doba bez možnosti útočit.
+- Latent Cultist 03:36.484–03:37.455: záznamů dokončených vlastních schopností včetně automatických 1. Nejde o počet ručních stisků; celý efekt není automaticky doba bez možnosti útočit.
+
+**Odmin-Drak'thul-EU**
+- Posouzených původních příkladů: 4; mezer mezi cooldowny: 1. Žádný překryv sám nezvyšuje jistotu výtky.
+- Latent Cultist 01:59.095–02:02.448: záznamů dokončených vlastních schopností včetně automatických 3. Nejde o počet ručních stisků; celý efekt není automaticky doba bez možnosti útočit.
+- Latent Cultist 02:04.364–02:04.404: záznamů dokončených vlastních schopností včetně automatických 0. Nejde o počet ručních stisků; celý efekt není automaticky doba bez možnosti útočit.
+- Latent Cultist 02:04.723–02:04.724: záznamů dokončených vlastních schopností včetně automatických 0. Nejde o počet ručních stisků; celý efekt není automaticky doba bez možnosti útočit.
+- Essence Break 01:07.789–02:13.979: Ritual of Awakening, Tether of Awakening, Latent Cultist. Nejde o potvrzený důvod odkladu ani zapomenuté použití.
 
 **Galneryus-Drak'thul-EU**
-- Posouzených původních příkladů: 6; mezer mezi cooldowny: 0. Žádný překryv sám nezvyšuje jistotu výtky.
-- Essence Rend 01:25.513–01:30.514: záznamů dokončených vlastních schopností včetně automatických 8. Nejde o počet ručních stisků; celý efekt není automaticky doba bez možnosti útočit.
-- Essence Rend 01:31.014–01:36.540: záznamů dokončených vlastních schopností včetně automatických 5. Nejde o počet ručních stisků; celý efekt není automaticky doba bez možnosti útočit.
-- Latent Cultist 02:00.484–02:00.698: záznamů dokončených vlastních schopností včetně automatických 1. Nejde o počet ručních stisků; celý efekt není automaticky doba bez možnosti útočit.
-- Latent Cultist 02:02.412–02:03.808: záznamů dokončených vlastních schopností včetně automatických 2. Nejde o počet ručních stisků; celý efekt není automaticky doba bez možnosti útočit.
-- Latent Cultist 02:30.531–02:30.862: záznamů dokončených vlastních schopností včetně automatických 0. Nejde o počet ručních stisků; celý efekt není automaticky doba bez možnosti útočit.
-- Latent Cultist 02:33.850–02:34.962: záznamů dokončených vlastních schopností včetně automatických 1. Nejde o počet ručních stisků; celý efekt není automaticky doba bez možnosti útočit.
-- Latent Cultist 02:39.898–02:39.996: záznamů dokončených vlastních schopností včetně automatických 0. Nejde o počet ručních stisků; celý efekt není automaticky doba bez možnosti útočit.
-- Latent Cultist 02:40.017–02:40.379: záznamů dokončených vlastních schopností včetně automatických 0. Nejde o počet ručních stisků; celý efekt není automaticky doba bez možnosti útočit.
-- Latent Cultist 02:40.510–02:40.584: záznamů dokončených vlastních schopností včetně automatických 0. Nejde o počet ručních stisků; celý efekt není automaticky doba bez možnosti útočit.
-- Latent Cultist 02:40.603–02:40.961: záznamů dokončených vlastních schopností včetně automatických 0. Nejde o počet ručních stisků; celý efekt není automaticky doba bez možnosti útočit.
-- Latent Cultist 02:43.496–02:43.587: záznamů dokončených vlastních schopností včetně automatických 0. Nejde o počet ručních stisků; celý efekt není automaticky doba bez možnosti útočit.
+- Posouzených původních příkladů: 0; mezer mezi cooldowny: 0. Žádný překryv sám nezvyšuje jistotu výtky.
+- Latent Cultist 02:00.112–02:00.750: záznamů dokončených vlastních schopností včetně automatických 1. Nejde o počet ručních stisků; celý efekt není automaticky doba bez možnosti útočit.
+- Latent Cultist 02:49.037–02:50.464: záznamů dokončených vlastních schopností včetně automatických 2. Nejde o počet ručních stisků; celý efekt není automaticky doba bez možnosti útočit.
+- Latent Cultist 03:36.105–03:36.977: záznamů dokončených vlastních schopností včetně automatických 1. Nejde o počet ručních stisků; celý efekt není automaticky doba bez možnosti útočit.
 
-**Omniblue-Drak'thul-EU**
+**Íácekpwn-Drak'thul-EU**
 - Posouzených původních příkladů: 1; mezer mezi cooldowny: 1. Žádný překryv sám nezvyšuje jistotu výtky.
-- Slithering Flame 02:11.927–02:19.934: záznamů dokončených vlastních schopností včetně automatických 10. Nejde o počet ručních stisků; celý efekt není automaticky doba bez možnosti útočit.
-- Latent Cultist 04:29.543–04:29.972: záznamů dokončených vlastních schopností včetně automatických 1. Nejde o počet ručních stisků; celý efekt není automaticky doba bez možnosti útočit.
-- Power Infusion 00:05.518–02:37.128: Ritual of Awakening, Tether of Awakening, Slithering Flame. Nejde o potvrzený důvod odkladu ani zapomenuté použití.
+- Slithering Flame 01:45.366–01:53.365: záznamů dokončených vlastních schopností včetně automatických 4. Nejde o počet ručních stisků; celý efekt není automaticky doba bez možnosti útočit.
+- Slithering Flame 02:16.194–02:24.182: záznamů dokončených vlastních schopností včetně automatických 8. Nejde o počet ručních stisků; celý efekt není automaticky doba bez možnosti útočit.
+- Essence Rend 03:16.192–03:21.191: záznamů dokončených vlastních schopností včetně automatických 6. Nejde o počet ručních stisků; celý efekt není automaticky doba bez možnosti útočit.
+- Essence Rend 03:21.686–03:32.171: záznamů dokončených vlastních schopností včetně automatických 15. Nejde o počet ručních stisků; celý efekt není automaticky doba bez možnosti útočit.
+- Halo 01:06.380–02:25.203: Ritual of Awakening, Tether of Awakening, Slithering Flame, Uncoiling. Nejde o potvrzený důvod odkladu ani zapomenuté použití.
 
 **Fobina-Drak'thul-EU**
 - Posouzených původních příkladů: 0; mezer mezi cooldowny: 0. Žádný překryv sám nezvyšuje jistotu výtky.
-- Essence Rend 00:14.468–00:19.484: záznamů dokončených vlastních schopností včetně automatických 4. Nejde o počet ručních stisků; celý efekt není automaticky doba bez možnosti útočit.
-- Essence Rend 00:19.986–00:25.533: záznamů dokončených vlastních schopností včetně automatických 3. Nejde o počet ručních stisků; celý efekt není automaticky doba bez možnosti útočit.
-- Latent Cultist 01:25.008–01:25.891: záznamů dokončených vlastních schopností včetně automatických 0. Nejde o počet ručních stisků; celý efekt není automaticky doba bez možnosti útočit.
-- Slithering Flame 02:13.117–02:21.111: záznamů dokončených vlastních schopností včetně automatických 0. Nejde o počet ručních stisků; celý efekt není automaticky doba bez možnosti útočit.
-- Latent Cultist 02:16.048–02:21.190: záznamů dokončených vlastních schopností včetně automatických 0. Nejde o počet ručních stisků; celý efekt není automaticky doba bez možnosti útočit.
-- Slithering Flame 02:52.863–03:00.864: záznamů dokončených vlastních schopností včetně automatických 3. Nejde o počet ručních stisků; celý efekt není automaticky doba bez možnosti útočit.
+- Slithering Flame 01:44.182–01:52.185: záznamů dokončených vlastních schopností včetně automatických 3. Nejde o počet ručních stisků; celý efekt není automaticky doba bez možnosti útočit.
+- Slithering Flame 02:15.187–02:23.156: záznamů dokončených vlastních schopností včetně automatických 5. Nejde o počet ručních stisků; celý efekt není automaticky doba bez možnosti útočit.
+- Latent Cultist 02:54.977–02:56.876: záznamů dokončených vlastních schopností včetně automatických 2. Nejde o počet ručních stisků; celý efekt není automaticky doba bez možnosti útočit.
 
 **Johnyhoudini-BurningBlade-EU**
-- Posouzených původních příkladů: 0; mezer mezi cooldowny: 0. Žádný překryv sám nezvyšuje jistotu výtky.
-- Essence Rend 00:14.468–00:19.484: záznamů dokončených vlastních schopností včetně automatických 6. Nejde o počet ručních stisků; celý efekt není automaticky doba bez možnosti útočit.
-- Essence Rend 00:19.986–00:31.231: záznamů dokončených vlastních schopností včetně automatických 13. Nejde o počet ručních stisků; celý efekt není automaticky doba bez možnosti útočit.
-- Essence Rend 01:25.513–01:30.514: záznamů dokončených vlastních schopností včetně automatických 4. Nejde o počet ručních stisků; celý efekt není automaticky doba bez možnosti útočit.
-- Essence Rend 01:31.014–01:46.013: záznamů dokončených vlastních schopností včetně automatických 13. Nejde o počet ručních stisků; celý efekt není automaticky doba bez možnosti útočit.
-- Slithering Flame 02:12.916–02:20.937: záznamů dokončených vlastních schopností včetně automatických 5. Nejde o počet ručních stisků; celý efekt není automaticky doba bez možnosti útočit.
-- Slithering Flame 02:53.084–03:01.100: záznamů dokončených vlastních schopností včetně automatických 7. Nejde o počet ručních stisků; celý efekt není automaticky doba bez možnosti útočit.
-- Latent Cultist 03:05.013–03:06.401: záznamů dokončených vlastních schopností včetně automatických 2. Nejde o počet ručních stisků; celý efekt není automaticky doba bez možnosti útočit.
-
-**Slejhy-Drak'thul-EU**
-- Posouzených původních příkladů: 7; mezer mezi cooldowny: 2. Žádný překryv sám nezvyšuje jistotu výtky.
-- Essence Rend 01:25.513–01:30.515: záznamů dokončených vlastních schopností včetně automatických 0. Nejde o počet ručních stisků; celý efekt není automaticky doba bez možnosti útočit.
-- Essence Rend 01:31.014–01:31.382: záznamů dokončených vlastních schopností včetně automatických 0. Nejde o počet ručních stisků; celý efekt není automaticky doba bez možnosti útočit.
-- Latent Cultist 02:02.299–02:03.103: záznamů dokončených vlastních schopností včetně automatických 2. Nejde o počet ručních stisků; celý efekt není automaticky doba bez možnosti útočit.
-- Latent Cultist 02:31.429–02:31.558: záznamů dokončených vlastních schopností včetně automatických 0. Nejde o počet ručních stisků; celý efekt není automaticky doba bez možnosti útočit.
-- Deathmark 00:09.100–03:22.958: Essence Rend, Ritual of Awakening, Tether of Awakening, Latent Cultist, Uncoiling. Nejde o potvrzený důvod odkladu ani zapomenuté použití.
-- Kingsbane 00:08.081–03:21.960: Essence Rend, Ritual of Awakening, Tether of Awakening, Latent Cultist, Uncoiling. Nejde o potvrzený důvod odkladu ani zapomenuté použití.
-
-**Corneilia-Sylvanas-EU**
 - Posouzených původních příkladů: 1; mezer mezi cooldowny: 1. Žádný překryv sám nezvyšuje jistotu výtky.
-- Essence Rend 01:25.513–01:30.515: záznamů dokončených vlastních schopností včetně automatických 3. Nejde o počet ručních stisků; celý efekt není automaticky doba bez možnosti útočit.
-- Essence Rend 01:31.014–01:42.279: záznamů dokončených vlastních schopností včetně automatických 1. Nejde o počet ručních stisků; celý efekt není automaticky doba bez možnosti útočit.
-- Latent Cultist 01:37.711–01:38.408: záznamů dokončených vlastních schopností včetně automatických 0. Nejde o počet ručních stisků; celý efekt není automaticky doba bez možnosti útočit.
-- Slithering Flame 02:12.274–02:20.283: záznamů dokončených vlastních schopností včetně automatických 3. Nejde o počet ručních stisků; celý efekt není automaticky doba bez možnosti útočit.
-- Slithering Flame 02:53.920–03:01.927: záznamů dokončených vlastních schopností včetně automatických 4. Nejde o počet ručních stisků; celý efekt není automaticky doba bez možnosti útočit.
-- Essence Rend 04:08.630–04:13.627: záznamů dokončených vlastních schopností včetně automatických 2. Nejde o počet ručních stisků; celý efekt není automaticky doba bez možnosti útočit.
-- Latent Cultist 04:11.784–04:12.663: záznamů dokončených vlastních schopností včetně automatických 0. Nejde o počet ručních stisků; celý efekt není automaticky doba bez možnosti útočit.
-- Essence Rend 04:14.128–04:17.978: záznamů dokončených vlastních schopností včetně automatických 1. Nejde o počet ručních stisků; celý efekt není automaticky doba bez možnosti útočit.
-- Latent Cultist 04:24.142–04:25.449: záznamů dokončených vlastních schopností včetně automatických 1. Nejde o počet ručních stisků; celý efekt není automaticky doba bez možnosti útočit.
-- Touch of the Magi 00:51.476–01:50.059: Essence Rend, Latent Cultist. Nejde o potvrzený důvod odkladu ani zapomenuté použití.
+- Slithering Flame 01:45.178–01:53.182: záznamů dokončených vlastních schopností včetně automatických 5. Nejde o počet ručních stisků; celý efekt není automaticky doba bez možnosti útočit.
+- Slithering Flame 02:15.985–02:23.993: záznamů dokončených vlastních schopností včetně automatických 5. Nejde o počet ručních stisků; celý efekt není automaticky doba bez možnosti útočit.
+- Touch of the Magi 02:26.403–03:26.073: Uncoiling. Nejde o potvrzený důvod odkladu ani zapomenuté použití.
 ### The Coiled Altar · kill 4
 
 Odděluj Zul'jan, Malacrass a Soulbinding. Při Ghastly Regeneration je Zul'jan zranitelnější, zatímco Deathguard omezuje poškození do Malacrasse. Veil of Twilight je štít k prolomení. Krátké označení Guillotine je jiné než dlouhá zranitelnost po zásahu; tu nevydáváme za dobu plnění mechaniky.
 
 [Popis mechaniky](https://www.wowhead.com/guide/midnight/raids/venomous-abyss-coiled-altar-boss-strategy-abilities)
 
-- Štít cíle: Veil of Twilight · Hex Lord Malacrass · 03:06.258–03:16.049.
-- Snížené poškození do cíle: Deathguard · Hex Lord Malacrass · 03:21.637–03:59.197.
-- Změna průběhu: Soulbinding · Hex Lord Malacrass · 03:24.178–03:59.197.
-- Změna průběhu: Soulbinding · Hex Lord Malacrass · 03:24.179–03:59.197.
-- Změna průběhu: Soulbinding · Zul'jan · 03:24.322–03:59.196.
-- Změna průběhu: Ghastly Regeneration · Zul'jan · 03:24.322–03:59.196.
-- Změna průběhu: Ghastly Regeneration · Zul'jan · 03:24.322–03:47.329.
-- Změna průběhu: Soulbound · Zul'jan · 03:59.196–07:18.120.
-- Změna průběhu: Soulbound · Hex Lord Malacrass · 03:59.197–07:18.121.
-- Štít cíle: Veil of Twilight · Hex Lord Malacrass · 04:41.365–04:50.633.
-- Štít cíle: Veil of Twilight · Hex Lord Malacrass · 06:21.344–06:27.982.
+- Štít cíle: Veil of Twilight · Hex Lord Malacrass · 02:47.200–02:59.320.
+- Snížené poškození do cíle: Deathguard · Hex Lord Malacrass · 02:59.322–03:36.949.
+- Změna průběhu: Soulbinding · Hex Lord Malacrass · 03:01.926–03:36.949.
+- Změna průběhu: Soulbinding · Hex Lord Malacrass · 03:01.929–03:36.949.
+- Změna průběhu: Soulbinding · Zul'jan · 03:02.093–03:36.949.
+- Změna průběhu: Ghastly Regeneration · Zul'jan · 03:02.093–03:36.949.
+- Změna průběhu: Ghastly Regeneration · Zul'jan · 03:02.093–03:25.111.
+- Změna průběhu: Soulbound · Hex Lord Malacrass · 03:36.949–05:47.648.
+- Změna průběhu: Soulbound · Zul'jan · 03:36.949–05:47.648.
+- Štít cíle: Veil of Twilight · Hex Lord Malacrass · 04:18.716–04:25.495.
 
 **Vejr-Drak'thul-EU**
-- Posouzených původních příkladů: 0; mezer mezi cooldowny: 0. Žádný překryv sám nezvyšuje jistotu výtky.
-- Guillotine 00:42.994–00:47.988: záznamů dokončených vlastních schopností včetně automatických 6. Nejde o počet ručních stisků; celý efekt není automaticky doba bez možnosti útočit.
-- Unnerving Fixation 02:10.459–02:34.222: záznamů dokončených vlastních schopností včetně automatických 13. Nejde o počet ručních stisků; celý efekt není automaticky doba bez možnosti útočit.
-- Gloombomb 07:01.311–07:06.318: záznamů dokončených vlastních schopností včetně automatických 1. Nejde o počet ručních stisků; celý efekt není automaticky doba bez možnosti útočit.
-- Gravebound 07:06.319–07:06.848: záznamů dokončených vlastních schopností včetně automatických 0. Nejde o počet ručních stisků; celý efekt není automaticky doba bez možnosti útočit.
+- Posouzených původních příkladů: 1; mezer mezi cooldowny: 1. Žádný překryv sám nezvyšuje jistotu výtky.
+- Dreadmarch 04:43.188–04:44.935: záznamů dokončených vlastních schopností včetně automatických 0. Nejde o počet ručních stisků; celý efekt není automaticky doba bez možnosti útočit.
+- Unnerving Fixation 04:50.186–05:22.724: záznamů dokončených vlastních schopností včetně automatických 21. Nejde o počet ručních stisků; celý efekt není automaticky doba bez možnosti útočit.
+- Putrefy 01:02.770–01:46.780: žádná sledovaná fáze nebo osobní mechanika. Nejde o potvrzený důvod odkladu ani zapomenuté použití.
 
 **Theila-Drak'thul-EU**
-- Posouzených původních příkladů: 16; mezer mezi cooldowny: 0. Žádný překryv sám nezvyšuje jistotu výtky.
-- Unnerving Fixation 02:08.826–02:34.222: záznamů dokončených vlastních schopností včetně automatických 15. Nejde o počet ručních stisků; celý efekt není automaticky doba bez možnosti útočit.
-- Dreadmarch 02:40.813–02:42.514: záznamů dokončených vlastních schopností včetně automatických 0. Nejde o počet ručních stisků; celý efekt není automaticky doba bez možnosti útočit.
-- Dreadmarch 05:05.822–05:07.672: záznamů dokončených vlastních schopností včetně automatických 0. Nejde o počet ručních stisků; celý efekt není automaticky doba bez možnosti útočit.
-- Unnerving Fixation 06:52.856–07:18.186: záznamů dokončených vlastních schopností včetně automatických 18. Nejde o počet ručních stisků; celý efekt není automaticky doba bez možnosti útočit.
+- Posouzených původních příkladů: 17; mezer mezi cooldowny: 2. Žádný překryv sám nezvyšuje jistotu výtky.
+- Dreadmarch 01:45.272–01:46.916: záznamů dokončených vlastních schopností včetně automatických 0. Nejde o počet ručních stisků; celý efekt není automaticky doba bez možnosti útočit.
+- Unnerving Fixation 04:49.375–05:22.724: záznamů dokončených vlastních schopností včetně automatických 19. Nejde o počet ručních stisků; celý efekt není automaticky doba bez možnosti útočit.
+- Takedown 00:01.919–03:06.434: Dreadmarch, Veil of Twilight, Deathguard, Soulbinding, Ghastly Regeneration. Nejde o potvrzený důvod odkladu ani zapomenuté použití.
+- Boomstick 01:41.500–03:11.645: Dreadmarch, Veil of Twilight, Deathguard, Soulbinding, Ghastly Regeneration. Nejde o potvrzený důvod odkladu ani zapomenuté použití.
+
+**Krokous-Drak'thul-EU**
+- Posouzených původních příkladů: 0; mezer mezi cooldowny: 0. Žádný překryv sám nezvyšuje jistotu výtky.
+- Unnerving Fixation 01:50.650–02:15.268: záznamů dokončených vlastních schopností včetně automatických 20. Nejde o počet ručních stisků; celý efekt není automaticky doba bez možnosti útočit.
+- Gloombomb 02:39.244–02:44.239: záznamů dokončených vlastních schopností včetně automatických 1. Nejde o počet ručních stisků; celý efekt není automaticky doba bez možnosti útočit.
+- Gravebound 02:44.259–02:48.581: záznamů dokončených vlastních schopností včetně automatických 1. Nejde o počet ručních stisků; celý efekt není automaticky doba bez možnosti útočit.
+- Gloombomb 04:08.131–04:13.153: záznamů dokončených vlastních schopností včetně automatických 6. Nejde o počet ručních stisků; celý efekt není automaticky doba bez možnosti útočit.
+- Gravebound 04:13.154–04:20.962: záznamů dokončených vlastních schopností včetně automatických 6. Nejde o počet ručních stisků; celý efekt není automaticky doba bez možnosti útočit.
+- Unnerving Fixation 04:48.986–05:22.724: záznamů dokončených vlastních schopností včetně automatických 30. Nejde o počet ručních stisků; celý efekt není automaticky doba bez možnosti útočit.
 
 **Micaello-Drak'thul-EU**
 - Posouzených původních příkladů: 0; mezer mezi cooldowny: 0. Žádný překryv sám nezvyšuje jistotu výtky.
-- Volatile Venom 00:05.933–00:10.943: záznamů dokončených vlastních schopností včetně automatických 4. Nejde o počet ručních stisků; celý efekt není automaticky doba bez možnosti útočit.
-- Volatile Venom 00:28.623–00:33.622: záznamů dokončených vlastních schopností včetně automatických 4. Nejde o počet ručních stisků; celý efekt není automaticky doba bez možnosti útočit.
-- Volatile Venom 00:54.796–00:59.814: záznamů dokončených vlastních schopností včetně automatických 4. Nejde o počet ručních stisků; celý efekt není automaticky doba bez možnosti útočit.
-- Volatile Venom 01:04.236–01:09.251: záznamů dokončených vlastních schopností včetně automatických 4. Nejde o počet ručních stisků; celý efekt není automaticky doba bez možnosti útočit.
-- Gloombomb 02:20.243–02:25.229: záznamů dokončených vlastních schopností včetně automatických 5. Nejde o počet ručních stisků; celý efekt není automaticky doba bez možnosti útočit.
-- Gravebound 02:25.248–02:31.863: záznamů dokončených vlastních schopností včetně automatických 0. Nejde o počet ručních stisků; celý efekt není automaticky doba bez možnosti útočit.
-- Grim Guillotine 04:19.505–04:24.505: záznamů dokončených vlastních schopností včetně automatických 2. Nejde o počet ručních stisků; celý efekt není automaticky doba bez možnosti útočit.
-- Dreadmarch 06:46.929–06:48.614: záznamů dokončených vlastních schopností včetně automatických 0. Nejde o počet ručních stisků; celý efekt není automaticky doba bez možnosti útočit.
-- Unnerving Fixation 06:54.051–07:03.553: záznamů dokončených vlastních schopností včetně automatických 7. Nejde o počet ručních stisků; celý efekt není automaticky doba bez možnosti útočit.
-- Dreadmarch 07:03.552–07:15.967: záznamů dokončených vlastních schopností včetně automatických 0. Nejde o počet ručních stisků; celý efekt není automaticky doba bez možnosti útočit.
+- Volatile Venom 00:07.452–00:10.899: záznamů dokončených vlastních schopností včetně automatických 2. Nejde o počet ručních stisků; celý efekt není automaticky doba bez možnosti útočit.
+- Volatile Venom 00:10.900–00:15.912: záznamů dokončených vlastních schopností včetně automatických 4. Nejde o počet ručních stisků; celý efekt není automaticky doba bez možnosti útočit.
+- Volatile Venom 00:25.855–00:30.873: záznamů dokončených vlastních schopností včetně automatických 5. Nejde o počet ručních stisků; celý efekt není automaticky doba bez možnosti útočit.
+- Dreadmarch 02:21.832–02:23.361: záznamů dokončených vlastních schopností včetně automatických 0. Nejde o počet ručních stisků; celý efekt není automaticky doba bez možnosti útočit.
+- Unnerving Fixation 02:26.324–02:46.222: záznamů dokončených vlastních schopností včetně automatických 14. Nejde o počet ručních stisků; celý efekt není automaticky doba bez možnosti útočit.
+- Gloombomb 04:08.131–04:13.153: záznamů dokončených vlastních schopností včetně automatických 5. Nejde o počet ručních stisků; celý efekt není automaticky doba bez možnosti útočit.
+- Gravebound 04:13.154–04:17.751: záznamů dokončených vlastních schopností včetně automatických 1. Nejde o počet ručních stisků; celý efekt není automaticky doba bez možnosti útočit.
+- Gloombomb 05:32.008–05:37.016: záznamů dokončených vlastních schopností včetně automatických 4. Nejde o počet ručních stisků; celý efekt není automaticky doba bez možnosti útočit.
+- Gravebound 05:37.017–05:44.205: záznamů dokončených vlastních schopností včetně automatických 4. Nejde o počet ručních stisků; celý efekt není automaticky doba bez možnosti útočit.
 
-**Rhínö-Drak'thul-EU**
-- Posouzených původních příkladů: 6; mezer mezi cooldowny: 0. Žádný překryv sám nezvyšuje jistotu výtky.
-- Dreadmarch 02:04.271–02:05.657: záznamů dokončených vlastních schopností včetně automatických 0. Nejde o počet ručních stisků; celý efekt není automaticky doba bez možnosti útočit.
-- Unnerving Fixation 02:08.826–02:34.222: záznamů dokončených vlastních schopností včetně automatických 25. Nejde o počet ručních stisků; celý efekt není automaticky doba bez možnosti útočit.
-- Gloombomb 04:30.709–04:35.711: záznamů dokončených vlastních schopností včetně automatických 5. Nejde o počet ručních stisků; celý efekt není automaticky doba bez možnosti útočit.
-- Gravebound 04:35.712–04:39.516: záznamů dokončených vlastních schopností včetně automatických 3. Nejde o počet ručních stisků; celý efekt není automaticky doba bez možnosti útočit.
-- Volatile Venom 04:57.983–05:03.004: záznamů dokončených vlastních schopností včetně automatických 5. Nejde o počet ručních stisků; celý efekt není automaticky doba bez možnosti útočit.
-- Volatile Venom 05:04.050–05:09.096: záznamů dokončených vlastních schopností včetně automatických 3. Nejde o počet ručních stisků; celý efekt není automaticky doba bez možnosti útočit.
+**Greenfire-Drak'thul-EU**
+- Posouzených původních příkladů: 26; mezer mezi cooldowny: 0. Žádný překryv sám nezvyšuje jistotu výtky.
+- Dreadmarch 01:45.272–01:46.424: záznamů dokončených vlastních schopností včetně automatických 0. Nejde o počet ručních stisků; celý efekt není automaticky doba bez možnosti útočit.
+- Unnerving Fixation 02:26.753–02:46.222: záznamů dokončených vlastních schopností včetně automatických 7. Nejde o počet ručních stisků; celý efekt není automaticky doba bez možnosti útočit.
+- Gloombomb 05:32.008–05:37.016: záznamů dokončených vlastních schopností včetně automatických 3. Nejde o počet ručních stisků; celý efekt není automaticky doba bez možnosti útočit.
+- Gravebound 05:37.017–05:43.025: záznamů dokončených vlastních schopností včetně automatických 6. Nejde o počet ručních stisků; celý efekt není automaticky doba bez možnosti útočit.
+
+**Këss-Drak'thul-EU**
+- Posouzených původních příkladů: 0; mezer mezi cooldowny: 0. Žádný překryv sám nezvyšuje jistotu výtky.
+- Unnerving Fixation 01:49.860–02:15.267: záznamů dokončených vlastních schopností včetně automatických 19. Nejde o počet ručních stisků; celý efekt není automaticky doba bez možnosti útočit.
+- Gloombomb 05:32.008–05:37.016: záznamů dokončených vlastních schopností včetně automatických 4. Nejde o počet ručních stisků; celý efekt není automaticky doba bez možnosti útočit.
+- Gravebound 05:37.017–05:42.299: záznamů dokončených vlastních schopností včetně automatických 5. Nejde o počet ručních stisků; celý efekt není automaticky doba bez možnosti útočit.
 
 **Kirill-Drak'thul-EU**
-- Posouzených původních příkladů: 1; mezer mezi cooldowny: 1. Žádný překryv sám nezvyšuje jistotu výtky.
-- Volatile Venom 01:06.276–01:11.284: záznamů dokončených vlastních schopností včetně automatických 15. Nejde o počet ručních stisků; celý efekt není automaticky doba bez možnosti útočit.
-- Dreadmarch 02:04.271–02:07.984: záznamů dokončených vlastních schopností včetně automatických 0. Nejde o počet ručních stisků; celý efekt není automaticky doba bez možnosti útočit.
-- Unnerving Fixation 02:12.078–02:34.222: záznamů dokončených vlastních schopností včetně automatických 59. Nejde o počet ručních stisků; celý efekt není automaticky doba bez možnosti útočit.
-- Dreadmarch 05:05.822–05:07.935: záznamů dokončených vlastních schopností včetně automatických 0. Nejde o počet ručních stisků; celý efekt není automaticky doba bez možnosti útočit.
-- Gloombomb 05:21.280–05:26.296: záznamů dokončených vlastních schopností včetně automatických 9. Nejde o počet ručních stisků; celý efekt není automaticky doba bez možnosti útočit.
-- Gravebound 05:26.296–05:31.299: záznamů dokončených vlastních schopností včetně automatických 2. Nejde o počet ručních stisků; celý efekt není automaticky doba bez možnosti útočit.
-- Volatile Venom 05:46.593–05:51.586: záznamů dokončených vlastních schopností včetně automatických 12. Nejde o počet ručních stisků; celý efekt není automaticky doba bez možnosti útočit.
-- Unnerving Fixation 06:52.856–07:18.186: záznamů dokončených vlastních schopností včetně automatických 54. Nejde o počet ručních stisků; celý efekt není automaticky doba bez možnosti útočit.
-- Soul Immolation 03:05.923–04:17.154: Veil of Twilight, Deathguard, Soulbinding, Ghastly Regeneration, Soulbound. Nejde o potvrzený důvod odkladu ani zapomenuté použití.
+- Posouzených původních příkladů: 0; mezer mezi cooldowny: 0. Žádný překryv sám nezvyšuje jistotu výtky.
+- Gloombomb 02:01.261–02:06.247: záznamů dokončených vlastních schopností včetně automatických 14. Nejde o počet ručních stisků; celý efekt není automaticky doba bez možnosti útočit.
+- Gravebound 02:06.249–02:14.956: záznamů dokončených vlastních schopností včetně automatických 9. Nejde o počet ručních stisků; celý efekt není automaticky doba bez možnosti útočit.
+- Unnerving Fixation 02:15.797–02:46.223: záznamů dokončených vlastních schopností včetně automatických 67. Nejde o počet ručních stisků; celý efekt není automaticky doba bez možnosti útočit.
+- Unnerving Fixation 04:48.146–05:22.724: záznamů dokončených vlastních schopností včetně automatických 91. Nejde o počet ručních stisků; celý efekt není automaticky doba bez možnosti útočit.
+
+**Iluneesama-Drak'thul-EU**
+- Posouzených původních příkladů: 14; mezer mezi cooldowny: 3. Žádný překryv sám nezvyšuje jistotu výtky.
+- Guillotine 00:43.033–00:48.037: záznamů dokončených vlastních schopností včetně automatických 7. Nejde o počet ručních stisků; celý efekt není automaticky doba bez možnosti útočit.
+- Unnerving Fixation 02:30.390–02:46.223: záznamů dokončených vlastních schopností včetně automatických 19. Nejde o počet ručních stisků; celý efekt není automaticky doba bez možnosti útočit.
+- Unnerving Fixation 04:49.789–05:22.724: záznamů dokončených vlastních schopností včetně automatických 60. Nejde o počet ručních stisků; celý efekt není automaticky doba bez možnosti útočit.
+- Divine Toll 01:14.659–03:07.591: Unnerving Fixation, Veil of Twilight, Deathguard, Soulbinding, Ghastly Regeneration. Nejde o potvrzený důvod odkladu ani zapomenuté použití.
+- Wake of Ashes 01:03.058–01:47.487: žádná sledovaná fáze nebo osobní mechanika. Nejde o potvrzený důvod odkladu ani zapomenuté použití.
+- Wake of Ashes 02:22.484–03:05.885: Unnerving Fixation, Veil of Twilight, Deathguard, Soulbinding, Ghastly Regeneration. Nejde o potvrzený důvod odkladu ani zapomenuté použití.
 
 **Kubéc-Drak'thul-EU**
-- Posouzených původních příkladů: 12; mezer mezi cooldowny: 0. Žádný překryv sám nezvyšuje jistotu výtky.
-- Volatile Venom 00:52.104–00:57.109: záznamů dokončených vlastních schopností včetně automatických 2. Nejde o počet ručních stisků; celý efekt není automaticky doba bez možnosti útočit.
-- Gloombomb 02:20.243–02:25.248: záznamů dokončených vlastních schopností včetně automatických 1. Nejde o počet ručních stisků; celý efekt není automaticky doba bez možnosti útočit.
-- Gravebound 02:25.249–02:30.234: záznamů dokončených vlastních schopností včetně automatických 3. Nejde o počet ručních stisků; celý efekt není automaticky doba bez možnosti útočit.
-- Dreadmarch 02:40.813–02:42.475: záznamů dokončených vlastních schopností včetně automatických 0. Nejde o počet ručních stisků; celý efekt není automaticky doba bez možnosti útočit.
-- Dreadmarch 05:05.821–05:08.232: záznamů dokončených vlastních schopností včetně automatických 0. Nejde o počet ručních stisků; celý efekt není automaticky doba bez možnosti útočit.
-- Gloombomb 05:54.637–05:59.661: záznamů dokončených vlastních schopností včetně automatických 1. Nejde o počet ručních stisků; celý efekt není automaticky doba bez možnosti útočit.
-- Gravebound 05:59.662–06:05.712: záznamů dokončených vlastních schopností včetně automatických 1. Nejde o počet ručních stisků; celý efekt není automaticky doba bez možnosti útočit.
-- Volatile Venom 06:27.314–06:32.308: záznamů dokončených vlastních schopností včetně automatických 2. Nejde o počet ručních stisků; celý efekt není automaticky doba bez možnosti útočit.
-- Unnerving Fixation 06:52.856–07:14.672: záznamů dokončených vlastních schopností včetně automatických 14. Nejde o počet ručních stisků; celý efekt není automaticky doba bez možnosti útočit.
+- Posouzených původních příkladů: 6; mezer mezi cooldowny: 0. Žádný překryv sám nezvyšuje jistotu výtky.
+- Unnerving Fixation 02:26.753–02:46.223: záznamů dokončených vlastních schopností včetně automatických 13. Nejde o počet ručních stisků; celý efekt není automaticky doba bez možnosti útočit.
+- Unnerving Fixation 04:49.375–05:22.724: záznamů dokončených vlastních schopností včetně automatických 24. Nejde o počet ručních stisků; celý efekt není automaticky doba bez možnosti útočit.
+
+**Shalo-Drak'thul-EU**
+- Posouzených původních příkladů: 0; mezer mezi cooldowny: 0. Žádný překryv sám nezvyšuje jistotu výtky.
+- Unnerving Fixation 02:29.993–02:46.223: záznamů dokončených vlastních schopností včetně automatických 13. Nejde o počet ručních stisků; celý efekt není automaticky doba bez možnosti útočit.
+- Gloombomb 04:58.688–05:03.695: záznamů dokončených vlastních schopností včetně automatických 2. Nejde o počet ručních stisků; celý efekt není automaticky doba bez možnosti útočit.
+- Gravebound 05:03.696–05:07.803: záznamů dokončených vlastních schopností včetně automatických 0. Nejde o počet ručních stisků; celý efekt není automaticky doba bez možnosti útočit.
 
 **Odmin-Drak'thul-EU**
-- Posouzených původních příkladů: 2; mezer mezi cooldowny: 0. Žádný překryv sám nezvyšuje jistotu výtky.
-- Dreadmarch 02:40.813–02:42.826: záznamů dokončených vlastních schopností včetně automatických 0. Nejde o počet ručních stisků; celý efekt není automaticky doba bez možnosti útočit.
-- Unnerving Fixation 02:47.332–03:05.232: záznamů dokončených vlastních schopností včetně automatických 16. Nejde o počet ručních stisků; celý efekt není automaticky doba bez možnosti útočit.
-- Gravebound 04:35.713–04:51.732: záznamů dokončených vlastních schopností včetně automatických 15. Nejde o počet ručních stisků; celý efekt není automaticky doba bez možnosti útočit.
-- Unnerving Fixation 05:12.398–05:45.327: záznamů dokončených vlastních schopností včetně automatických 33. Nejde o počet ručních stisků; celý efekt není automaticky doba bez možnosti útočit.
-- Dreadmarch 06:46.929–06:49.228: záznamů dokončených vlastních schopností včetně automatických 0. Nejde o počet ručních stisků; celý efekt není automaticky doba bez možnosti útočit.
-- Volatile Venom 06:52.167–06:57.171: záznamů dokončených vlastních schopností včetně automatických 2. Nejde o počet ručních stisků; celý efekt není automaticky doba bez možnosti útočit.
+- Posouzených původních příkladů: 3; mezer mezi cooldowny: 2. Žádný překryv sám nezvyšuje jistotu výtky.
+- Unnerving Fixation 02:27.547–02:46.223: záznamů dokončených vlastních schopností včetně automatických 20. Nejde o počet ručních stisků; celý efekt není automaticky doba bez možnosti útočit.
+- Essence Break 01:43.927–03:08.006: Unnerving Fixation, Veil of Twilight, Deathguard, Soulbinding, Ghastly Regeneration. Nejde o potvrzený důvod odkladu ani zapomenuté použití.
+- The Hunt 01:10.595–03:26.673: Unnerving Fixation, Veil of Twilight, Deathguard, Soulbinding, Ghastly Regeneration. Nejde o potvrzený důvod odkladu ani zapomenuté použití.
 
 **Galneryus-Drak'thul-EU**
-- Posouzených původních příkladů: 1; mezer mezi cooldowny: 0. Žádný překryv sám nezvyšuje jistotu výtky.
-- Unnerving Fixation 02:10.460–02:34.222: záznamů dokončených vlastních schopností včetně automatických 46. Nejde o počet ručních stisků; celý efekt není automaticky doba bez možnosti útočit.
-- Volatile Venom 04:23.084–04:28.093: záznamů dokončených vlastních schopností včetně automatických 5. Nejde o počet ručních stisků; celý efekt není automaticky doba bez možnosti útočit.
-- Gloombomb 04:30.709–04:35.712: záznamů dokončených vlastních schopností včetně automatických 10. Nejde o počet ručních stisků; celý efekt není automaticky doba bez možnosti útočit.
-- Gravebound 04:35.713–04:39.112: záznamů dokončených vlastních schopností včetně automatických 1. Nejde o počet ručních stisků; celý efekt není automaticky doba bez možnosti útočit.
-- Dreadmarch 06:46.930–06:48.614: záznamů dokončených vlastních schopností včetně automatických 0. Nejde o počet ručních stisků; celý efekt není automaticky doba bez možnosti útočit.
-- Unnerving Fixation 06:52.856–07:18.186: záznamů dokončených vlastních schopností včetně automatických 50. Nejde o počet ručních stisků; celý efekt není automaticky doba bez možnosti útočit.
+- Posouzených původních příkladů: 2; mezer mezi cooldowny: 1. Žádný překryv sám nezvyšuje jistotu výtky.
+- Unnerving Fixation 01:49.437–02:46.223: záznamů dokončených vlastních schopností včetně automatických 84. Nejde o počet ručních stisků; celý efekt není automaticky doba bez možnosti útočit.
+- Unnerving Fixation 04:48.986–05:22.724: záznamů dokončených vlastních schopností včetně automatických 60. Nejde o počet ručních stisků; celý efekt není automaticky doba bez možnosti útočit.
+- Wake of Ashes 02:10.629–03:07.886: Unnerving Fixation, Veil of Twilight, Deathguard, Soulbinding, Ghastly Regeneration. Nejde o potvrzený důvod odkladu ani zapomenuté použití.
 
 **Íácekpwn-Drak'thul-EU**
-- Posouzených původních příkladů: 1; mezer mezi cooldowny: 1. Žádný překryv sám nezvyšuje jistotu výtky.
-- Unnerving Fixation 02:46.107–03:05.232: záznamů dokončených vlastních schopností včetně automatických 24. Nejde o počet ručních stisků; celý efekt není automaticky doba bez možnosti útočit.
-- Unnerving Fixation 06:52.467–07:18.186: záznamů dokončených vlastních schopností včetně automatických 35. Nejde o počet ručních stisků; celý efekt není automaticky doba bez možnosti útočit.
-- Halo 02:07.389–03:30.807: Unnerving Fixation, Veil of Twilight, Deathguard, Soulbinding, Ghastly Regeneration. Nejde o potvrzený důvod odkladu ani zapomenuté použití.
-
-**Omniblue-Drak'thul-EU**
-- Posouzených původních příkladů: 0; mezer mezi cooldowny: 0. Žádný překryv sám nezvyšuje jistotu výtky.
-- Dreadmarch 02:04.272–02:05.560: záznamů dokončených vlastních schopností včetně automatických 1. Nejde o počet ručních stisků; celý efekt není automaticky doba bez možnosti útočit.
-- Unnerving Fixation 02:09.646–02:34.222: záznamů dokončených vlastních schopností včetně automatických 29. Nejde o počet ručních stisků; celý efekt není automaticky doba bez možnosti útočit.
-- Gloombomb 02:58.232–03:03.236: záznamů dokončených vlastních schopností včetně automatických 3. Nejde o počet ručních stisků; celý efekt není automaticky doba bez možnosti útočit.
-- Gravebound 03:03.237–03:07.996: záznamů dokončených vlastních schopností včetně automatických 9. Nejde o počet ručních stisků; celý efekt není automaticky doba bez možnosti útočit.
-- Dreadmarch 05:05.821–05:07.865: záznamů dokončených vlastních schopností včetně automatických 1. Nejde o počet ručních stisků; celý efekt není automaticky doba bez možnosti útočit.
-- Gloombomb 07:01.311–07:06.319: záznamů dokončených vlastních schopností včetně automatických 6. Nejde o počet ručních stisků; celý efekt není automaticky doba bez možnosti útočit.
-- Gravebound 07:06.319–07:10.854: záznamů dokončených vlastních schopností včetně automatických 3. Nejde o počet ručních stisků; celý efekt není automaticky doba bez možnosti útočit.
+- Posouzených původních příkladů: 2; mezer mezi cooldowny: 2. Žádný překryv sám nezvyšuje jistotu výtky.
+- Dreadmarch 01:45.272–01:46.530: záznamů dokončených vlastních schopností včetně automatických 0. Nejde o počet ručních stisků; celý efekt není automaticky doba bez možnosti útočit.
+- Unnerving Fixation 02:27.964–03:08.867: záznamů dokončených vlastních schopností včetně automatických 49. Nejde o počet ručních stisků; celý efekt není automaticky doba bez možnosti útočit.
+- Dreadmarch 03:08.867–03:11.181: záznamů dokončených vlastních schopností včetně automatických 0. Nejde o počet ručních stisků; celý efekt není automaticky doba bez možnosti útočit.
+- Halo 00:05.369–01:40.608: žádná sledovaná fáze nebo osobní mechanika. Nejde o potvrzený důvod odkladu ani zapomenuté použití.
+- Halo 01:40.608–03:06.505: Dreadmarch, Unnerving Fixation, Veil of Twilight, Deathguard, Soulbinding, Ghastly Regeneration. Nejde o potvrzený důvod odkladu ani zapomenuté použití.
 
 **Fobina-Drak'thul-EU**
 - Posouzených původních příkladů: 0; mezer mezi cooldowny: 0. Žádný překryv sám nezvyšuje jistotu výtky.
-- Unnerving Fixation 02:46.107–03:05.232: záznamů dokončených vlastních schopností včetně automatických 8. Nejde o počet ručních stisků; celý efekt není automaticky doba bez možnosti útočit.
-- Unnerving Fixation 05:12.398–05:45.327: záznamů dokončených vlastních schopností včetně automatických 22. Nejde o počet ručních stisků; celý efekt není automaticky doba bez možnosti útočit.
+- Unnerving Fixation 01:51.477–02:15.268: záznamů dokončených vlastních schopností včetně automatických 15. Nejde o počet ručních stisků; celý efekt není automaticky doba bez možnosti útočit.
+- Gloombomb 02:39.244–02:44.239: záznamů dokončených vlastních schopností včetně automatických 1. Nejde o počet ručních stisků; celý efekt není automaticky doba bez možnosti útočit.
+- Gravebound 02:44.259–02:49.800: záznamů dokončených vlastních schopností včetně automatických 0. Nejde o počet ručních stisků; celý efekt není automaticky doba bez možnosti útočit.
+- Dreadmarch 04:43.188–04:45.279: záznamů dokončených vlastních schopností včetně automatických 0. Nejde o počet ručních stisků; celý efekt není automaticky doba bez možnosti útočit.
 
 **Nahollou-Drak'thul-EU**
-- Posouzených původních příkladů: 19; mezer mezi cooldowny: 1. Žádný překryv sám nezvyšuje jistotu výtky.
-- Gloombomb 02:58.232–03:03.236: záznamů dokončených vlastních schopností včetně automatických 3. Nejde o počet ručních stisků; celý efekt není automaticky doba bez možnosti útočit.
-- Gravebound 03:03.237–03:08.825: záznamů dokončených vlastních schopností včetně automatických 2. Nejde o počet ručních stisků; celý efekt není automaticky doba bez možnosti útočit.
-- Unnerving Fixation 05:11.970–05:45.327: záznamů dokončených vlastních schopností včetně automatických 25. Nejde o počet ručních stisků; celý efekt není automaticky doba bez možnosti útočit.
-- Gloombomb 05:54.637–05:59.661: záznamů dokončených vlastních schopností včetně automatických 5. Nejde o počet ručních stisků; celý efekt není automaticky doba bez možnosti útočit.
-- Gravebound 05:59.662–06:05.334: záznamů dokončených vlastních schopností včetně automatických 1. Nejde o počet ručních stisků; celý efekt není automaticky doba bez možnosti útočit.
-- Summon Demonic Tyrant 02:11.229–03:28.971: Gloombomb, Gravebound, Veil of Twilight, Deathguard, Soulbinding, Ghastly Regeneration. Nejde o potvrzený důvod odkladu ani zapomenuté použití.
+- Posouzených původních příkladů: 7; mezer mezi cooldowny: 0. Žádný překryv sám nezvyšuje jistotu výtky.
+- Unnerving Fixation 01:49.860–02:06.494: záznamů dokončených vlastních schopností včetně automatických 8. Nejde o počet ručních stisků; celý efekt není automaticky doba bez možnosti útočit.
+- Dreadmarch 02:06.494–02:11.287: záznamů dokončených vlastních schopností včetně automatických 0. Nejde o počet ručních stisků; celý efekt není automaticky doba bez možnosti útočit.
+- Dreadmarch 02:21.831–02:22.880: záznamů dokončených vlastních schopností včetně automatických 0. Nejde o počet ručních stisků; celý efekt není automaticky doba bez možnosti útočit.
+- Gloombomb 02:39.244–02:44.239: záznamů dokončených vlastních schopností včetně automatických 4. Nejde o počet ručních stisků; celý efekt není automaticky doba bez možnosti útočit.
+- Gravebound 02:44.259–02:44.261: záznamů dokončených vlastních schopností včetně automatických 0. Nejde o počet ručních stisků; celý efekt není automaticky doba bez možnosti útočit.
 
 **Johnyhoudini-BurningBlade-EU**
-- Posouzených původních příkladů: 2; mezer mezi cooldowny: 2. Žádný překryv sám nezvyšuje jistotu výtky.
-- Volatile Venom 00:07.301–00:12.303: záznamů dokončených vlastních schopností včetně automatických 4. Nejde o počet ručních stisků; celý efekt není automaticky doba bez možnosti útočit.
-- Volatile Venom 00:51.259–00:56.261: záznamů dokončených vlastních schopností včetně automatických 3. Nejde o počet ručních stisků; celý efekt není automaticky doba bez možnosti útočit.
-- Volatile Venom 01:01.200–01:06.203: záznamů dokončených vlastních schopností včetně automatických 3. Nejde o počet ručních stisků; celý efekt není automaticky doba bez možnosti útočit.
-- Volatile Venom 01:35.596–01:40.603: záznamů dokončených vlastních schopností včetně automatických 5. Nejde o počet ručních stisků; celý efekt není automaticky doba bez možnosti útočit.
-- Dreadmarch 02:40.814–02:42.666: záznamů dokončených vlastních schopností včetně automatických 0. Nejde o počet ručních stisků; celý efekt není automaticky doba bez možnosti útočit.
-- Gloombomb 02:58.232–03:03.237: záznamů dokončených vlastních schopností včetně automatických 3. Nejde o počet ručních stisků; celý efekt není automaticky doba bez možnosti útočit.
-- Gravebound 03:03.237–03:09.645: záznamů dokončených vlastních schopností včetně automatických 4. Nejde o počet ručních stisků; celý efekt není automaticky doba bez možnosti útočit.
-- Volatile Venom 04:08.711–04:13.716: záznamů dokončených vlastních schopností včetně automatických 4. Nejde o počet ručních stisků; celý efekt není automaticky doba bez možnosti útočit.
-- Volatile Venom 04:55.621–05:00.612: záznamů dokončených vlastních schopností včetně automatických 5. Nejde o počet ručních stisků; celý efekt není automaticky doba bez možnosti útočit.
-- Volatile Venom 05:07.605–05:12.598: záznamů dokončených vlastních schopností včetně automatických 3. Nejde o počet ručních stisků; celý efekt není automaticky doba bez možnosti útočit.
-- Unnerving Fixation 05:11.164–05:45.328: záznamů dokončených vlastních schopností včetně automatických 24. Nejde o počet ručních stisků; celý efekt není automaticky doba bez možnosti útočit.
-- Volatile Venom 05:53.289–05:58.302: záznamů dokončených vlastních schopností včetně automatických 3. Nejde o počet ručních stisků; celý efekt není automaticky doba bez možnosti útočit.
-- Volatile Venom 06:18.162–06:19.749: záznamů dokončených vlastních schopností včetně automatických 2. Nejde o počet ručních stisků; celý efekt není automaticky doba bez možnosti útočit.
-- Volatile Venom 06:19.749–06:24.769: záznamů dokončených vlastních schopností včetně automatických 3. Nejde o počet ručních stisků; celý efekt není automaticky doba bez možnosti útočit.
-- Volatile Venom 06:35.037–06:40.050: záznamů dokončených vlastních schopností včetně automatických 3. Nejde o počet ručních stisků; celý efekt není automaticky doba bez možnosti útočit.
-- Unnerving Fixation 07:15.078–07:18.186: záznamů dokončených vlastních schopností včetně automatických 2. Nejde o počet ručních stisků; celý efekt není automaticky doba bez možnosti útočit.
-- Touch of the Magi 00:06.468–01:06.358: Volatile Venom. Nejde o potvrzený důvod odkladu ani zapomenuté použití.
-- Touch of the Magi 04:30.953–05:27.181: Soulbound, Veil of Twilight, Volatile Venom, Unnerving Fixation. Nejde o potvrzený důvod odkladu ani zapomenuté použití.
-
-**Slejhy-Drak'thul-EU**
-- Posouzených původních příkladů: 5; mezer mezi cooldowny: 3. Žádný překryv sám nezvyšuje jistotu výtky.
-- Volatile Venom 00:11.853–00:16.868: záznamů dokončených vlastních schopností včetně automatických 12. Nejde o počet ručních stisků; celý efekt není automaticky doba bez možnosti útočit.
-- Dreadmarch 02:04.272–02:05.560: záznamů dokončených vlastních schopností včetně automatických 0. Nejde o počet ručních stisků; celý efekt není automaticky doba bez možnosti útočit.
-- Unnerving Fixation 02:46.107–03:05.232: záznamů dokončených vlastních schopností včetně automatických 19. Nejde o počet ručních stisků; celý efekt není automaticky doba bez možnosti útočit.
-- Volatile Venom 04:09.160–04:14.173: záznamů dokončených vlastních schopností včetně automatických 3. Nejde o počet ručních stisků; celý efekt není automaticky doba bez možnosti útočit.
-- Volatile Venom 04:26.404–04:31.421: záznamů dokončených vlastních schopností včetně automatických 0. Nejde o počet ručních stisků; celý efekt není automaticky doba bez možnosti útočit.
-- Unnerving Fixation 05:11.164–05:45.327: záznamů dokončených vlastních schopností včetně automatických 37. Nejde o počet ručních stisků; celý efekt není automaticky doba bez možnosti útočit.
-- Unnerving Fixation 06:52.467–07:12.936: záznamů dokončených vlastních schopností včetně automatických 20. Nejde o počet ručních stisků; celý efekt není automaticky doba bez možnosti útočit.
-- Dreadmarch 07:12.936–07:14.872: záznamů dokončených vlastních schopností včetně automatických 0. Nejde o počet ručních stisků; celý efekt není automaticky doba bez možnosti útočit.
-- Deathmark 00:11.433–03:29.560: Volatile Venom, Dreadmarch, Unnerving Fixation, Veil of Twilight, Deathguard, Soulbinding, Ghastly Regeneration. Nejde o potvrzený důvod odkladu ani zapomenuté použití.
-- Deathmark 03:29.560–05:46.721: Deathguard, Soulbinding, Ghastly Regeneration, Soulbound, Volatile Venom, Veil of Twilight, Unnerving Fixation. Nejde o potvrzený důvod odkladu ani zapomenuté použití.
-- Kingsbane 01:13.208–02:28.881: Dreadmarch. Nejde o potvrzený důvod odkladu ani zapomenuté použití.
+- Posouzených původních příkladů: 0; mezer mezi cooldowny: 0. Žádný překryv sám nezvyšuje jistotu výtky.
+- Volatile Venom 00:05.131–00:10.166: záznamů dokončených vlastních schopností včetně automatických 5. Nejde o počet ručních stisků; celý efekt není automaticky doba bez možnosti útočit.
+- Volatile Venom 00:12.806–00:17.809: záznamů dokončených vlastních schopností včetně automatických 2. Nejde o počet ručních stisků; celý efekt není automaticky doba bez možnosti útočit.
+- Volatile Venom 00:49.379–00:54.379: záznamů dokončených vlastních schopností včetně automatických 7. Nejde o počet ručních stisků; celý efekt není automaticky doba bez možnosti útočit.
+- Volatile Venom 00:58.492–01:03.490: záznamů dokončených vlastních schopností včetně automatických 3. Nejde o počet ručních stisků; celý efekt není automaticky doba bez možnosti útočit.
+- Volatile Venom 01:14.150–01:19.175: záznamů dokončených vlastních schopností včetně automatických 4. Nejde o počet ručních stisků; celý efekt není automaticky doba bez možnosti útočit.
+- Gloombomb 02:01.261–02:06.247: záznamů dokončených vlastních schopností včetně automatických 4. Nejde o počet ručních stisků; celý efekt není automaticky doba bez možnosti útočit.
+- Gravebound 02:06.249–02:10.426: záznamů dokončených vlastních schopností včetně automatických 4. Nejde o počet ručních stisků; celý efekt není automaticky doba bez možnosti útočit.
+- Dreadmarch 02:21.831–02:23.361: záznamů dokončených vlastních schopností včetně automatických 0. Nejde o počet ručních stisků; celý efekt není automaticky doba bez možnosti útočit.
+- Volatile Venom 03:46.983–03:51.989: záznamů dokončených vlastních schopností včetně automatických 3. Nejde o počet ručních stisků; celý efekt není automaticky doba bez možnosti útočit.
+- Volatile Venom 04:06.161–04:11.174: záznamů dokončených vlastních schopností včetně automatických 3. Nejde o počet ručních stisků; celý efekt není automaticky doba bez možnosti útočit.
+- Volatile Venom 04:14.886–04:19.893: záznamů dokončených vlastních schopností včetně automatických 2. Nejde o počet ručních stisků; celý efekt není automaticky doba bez možnosti útočit.
+- Volatile Venom 04:35.042–04:40.056: záznamů dokončených vlastních schopností včetně automatických 2. Nejde o počet ručních stisků; celý efekt není automaticky doba bez možnosti útočit.
+- Gloombomb 04:58.688–05:03.696: záznamů dokončených vlastních schopností včetně automatických 3. Nejde o počet ručních stisků; celý efekt není automaticky doba bez možnosti útočit.
+- Volatile Venom 04:59.950–05:04.954: záznamů dokončených vlastních schopností včetně automatických 3. Nejde o počet ručních stisků; celý efekt není automaticky doba bez možnosti útočit.
+- Gravebound 05:03.696–05:09.995: záznamů dokončených vlastních schopností včetně automatických 5. Nejde o počet ručních stisků; celý efekt není automaticky doba bez možnosti útočit.
+- Volatile Venom 05:11.969–05:16.989: záznamů dokončených vlastních schopností včetně automatických 4. Nejde o počet ručních stisků; celý efekt není automaticky doba bez možnosti útočit.
+- Volatile Venom 05:20.777–05:25.786: záznamů dokončených vlastních schopností včetně automatických 1. Nejde o počet ručních stisků; celý efekt není automaticky doba bez možnosti útočit.
+- Volatile Venom 05:29.682–05:34.698: záznamů dokončených vlastních schopností včetně automatických 4. Nejde o počet ručních stisků; celý efekt není automaticky doba bez možnosti útočit.
 
 **Corneilia-Sylvanas-EU**
-- Posouzených původních příkladů: 3; mezer mezi cooldowny: 2. Žádný překryv sám nezvyšuje jistotu výtky.
-- Volatile Venom 00:06.182–00:11.179: záznamů dokončených vlastních schopností včetně automatických 2. Nejde o počet ručních stisků; celý efekt není automaticky doba bez možnosti útočit.
-- Gloombomb 02:20.243–02:25.229: záznamů dokončených vlastních schopností včetně automatických 2. Nejde o počet ručních stisků; celý efekt není automaticky doba bez možnosti útočit.
-- Gravebound 02:25.248–02:30.264: záznamů dokončených vlastních schopností včetně automatických 2. Nejde o počet ručních stisků; celý efekt není automaticky doba bez možnosti útočit.
-- Unnerving Fixation 02:47.332–03:05.232: záznamů dokončených vlastních schopností včetně automatických 8. Nejde o počet ručních stisků; celý efekt není automaticky doba bez možnosti útočit.
-- Gloombomb 04:30.709–04:35.711: záznamů dokončených vlastních schopností včetně automatických 3. Nejde o počet ručních stisků; celý efekt není automaticky doba bez možnosti útočit.
-- Gravebound 04:35.713–04:40.739: záznamů dokončených vlastních schopností včetně automatických 3. Nejde o počet ručních stisků; celý efekt není automaticky doba bez možnosti útočit.
-- Unnerving Fixation 05:11.569–05:45.327: záznamů dokončených vlastních schopností včetně automatických 21. Nejde o počet ručních stisků; celý efekt není automaticky doba bez možnosti útočit.
-- Gloombomb 07:01.311–07:06.319: záznamů dokončených vlastních schopností včetně automatických 0. Nejde o počet ručních stisků; celý efekt není automaticky doba bez možnosti útočit.
-- Gravebound 07:06.319–07:10.421: záznamů dokončených vlastních schopností včetně automatických 1. Nejde o počet ručních stisků; celý efekt není automaticky doba bez možnosti útočit.
-- Unnerving Fixation 07:14.671–07:18.186: záznamů dokončených vlastních schopností včetně automatických 2. Nejde o počet ručních stisků; celý efekt není automaticky doba bez možnosti útočit.
-- Touch of the Magi 00:49.394–02:02.258: žádná sledovaná fáze nebo osobní mechanika. Nejde o potvrzený důvod odkladu ani zapomenuté použití.
-- Touch of the Magi 03:38.412–04:45.566: Deathguard, Soulbinding, Ghastly Regeneration, Soulbound, Gloombomb, Gravebound, Veil of Twilight. Nejde o potvrzený důvod odkladu ani zapomenuté použití.
-### Ula'tek · kill 5
+- Posouzených původních příkladů: 2; mezer mezi cooldowny: 2. Žádný překryv sám nezvyšuje jistotu výtky.
+- Volatile Venom 00:08.984–00:10.899: záznamů dokončených vlastních schopností včetně automatických 1. Nejde o počet ručních stisků; celý efekt není automaticky doba bez možnosti útočit.
+- Volatile Venom 00:10.900–00:15.911: záznamů dokončených vlastních schopností včetně automatických 4. Nejde o počet ručních stisků; celý efekt není automaticky doba bez možnosti útočit.
+- Dreadmarch 01:45.272–01:46.115: záznamů dokončených vlastních schopností včetně automatických 0. Nejde o počet ručních stisků; celý efekt není automaticky doba bez možnosti útočit.
+- Gloombomb 02:01.261–02:06.247: záznamů dokončených vlastních schopností včetně automatických 1. Nejde o počet ručních stisků; celý efekt není automaticky doba bez možnosti útočit.
+- Gravebound 02:06.249–02:12.239: záznamů dokončených vlastních schopností včetně automatických 2. Nejde o počet ručních stisků; celý efekt není automaticky doba bez možnosti útočit.
+- Unnerving Fixation 02:27.160–02:46.223: záznamů dokončených vlastních schopností včetně automatických 2. Nejde o počet ručních stisků; celý efekt není automaticky doba bez možnosti útočit.
+- Gloombomb 04:08.131–04:13.153: záznamů dokončených vlastních schopností včetně automatických 3. Nejde o počet ručních stisků; celý efekt není automaticky doba bez možnosti útočit.
+- Gravebound 04:13.154–04:18.970: záznamů dokončených vlastních schopností včetně automatických 2. Nejde o počet ručních stisků; celý efekt není automaticky doba bez možnosti útočit.
+- Touch of the Magi 01:51.975–03:06.717: Gloombomb, Gravebound, Unnerving Fixation, Veil of Twilight, Deathguard, Soulbinding, Ghastly Regeneration. Nejde o potvrzený důvod odkladu ani zapomenuté použití.
+- Touch of the Magi 03:06.717–04:22.377: Deathguard, Soulbinding, Ghastly Regeneration, Soulbound, Gloombomb, Gravebound, Veil of Twilight. Nejde o potvrzený důvod odkladu ani zapomenuté použití.
+### Ula'tek · kill 6
 
 Porovnej burst s Venomous Heart a se svým přenášením Malignant Shell / Doomscale Shell nebo Grasping Fangs. Na bočních částech fightu jsou zaznamenané útoky na Wardens a další addy. Circling Prey označuje mechaniku platformy, nikoli přesnou délku tvého běhu.
 
 [Popis mechaniky](https://www.wowhead.com/ptr/guide/midnight/raids/venomous-abyss-ulatek-boss-strategy-abilities)
 
-- Změna průběhu: Caustic Waves · Ula'tek · 00:47.981–00:59.991.
-- Změna průběhu: Caustic Waves · Ula'tek · 01:40.001–01:52.006.
-- Změna průběhu: Rage of the Shackled · Ula'tek · 02:15.501–02:35.498.
-- Okno pro burst: Venomous Heart · Venomous Heart · 02:15.504–02:35.500.
-- Okno pro burst: Defect: Weakened · Weakened Doomscale · 03:49.239–04:34.375.
-- Okno pro burst: Defect: Weakened · Weakened Doomscale · 04:05.434–04:40.097.
-- Změna průběhu: Rage of the Shackled · Ula'tek · 04:44.483–05:04.481.
-- Okno pro burst: Venomous Heart · Venomous Heart · 04:44.487–05:04.486.
-- Změna průběhu: Rage of the Shackled · Ula'tek · 09:33.675–09:52.107.
-- Okno pro burst: Venomous Heart · Venomous Heart · 09:33.679–09:52.113. Odstranění nezaznamenané, konec oříznutý.
+- Změna průběhu: Caustic Waves · Ula'tek · 00:48.005–01:00.022.
+- Změna průběhu: Caustic Waves · Ula'tek · 01:40.007–01:52.021.
+- Změna průběhu: Rage of the Shackled · Ula'tek · 02:15.486–02:35.507.
+- Okno pro burst: Venomous Heart · Venomous Heart · 02:15.490–02:35.510.
+- Okno pro burst: Defect: Weakened · Weakened Doomscale · 03:49.588–04:29.480.
+- Okno pro burst: Defect: Weakened · Weakened Doomscale · 03:50.411–04:30.607.
+- Změna průběhu: Rage of the Shackled · Ula'tek · 04:44.569–05:04.573.
+- Okno pro burst: Venomous Heart · Venomous Heart · 04:44.572–05:04.622.
 
 **Vejr-Drak'thul-EU**
-- Posouzených původních příkladů: 1; mezer mezi cooldowny: 1. Žádný překryv sám nezvyšuje jistotu výtky.
-- Malignant Shell 00:01.394–00:30.538: záznamů dokončených vlastních schopností včetně automatických 23. Nejde o počet ručních stisků; celý efekt není automaticky doba bez možnosti útočit.
-- Malignant Shell 05:21.564–05:29.415: záznamů dokončených vlastních schopností včetně automatických 1. Nejde o počet ručních stisků; celý efekt není automaticky doba bez možnosti útočit.
-- Putrefy 02:34.909–03:27.205: Rage of the Shackled, Venomous Heart. Nejde o potvrzený důvod odkladu ani zapomenuté použití.
+- Posouzených původních příkladů: 2; mezer mezi cooldowny: 2. Žádný překryv sám nezvyšuje jistotu výtky.
+- Malignant Shell 01:23.189–02:05.987: záznamů dokončených vlastních schopností včetně automatických 34. Nejde o počet ručních stisků; celý efekt není automaticky doba bez možnosti útočit.
+- Serpent's Bite 06:32.765–06:40.756: záznamů dokončených vlastních schopností včetně automatických 6. Nejde o počet ručních stisků; celý efekt není automaticky doba bez možnosti útočit.
+- Putrefy 01:13.744–02:12.075: Malignant Shell, Caustic Waves. Nejde o potvrzený důvod odkladu ani zapomenuté použití.
+- Putrefy 02:32.064–03:23.375: Rage of the Shackled, Venomous Heart. Nejde o potvrzený důvod odkladu ani zapomenuté použití.
 
 **Theila-Drak'thul-EU**
-- Posouzených původních příkladů: 34; mezer mezi cooldowny: 1. Žádný překryv sám nezvyšuje jistotu výtky.
-- Malignant Shell 00:01.139–00:27.276: záznamů dokončených vlastních schopností včetně automatických 22. Nejde o počet ručních stisků; celý efekt není automaticky doba bez možnosti útočit.
-- Malignant Shell 03:38.046–03:45.821: záznamů dokončených vlastních schopností včetně automatických 3. Nejde o počet ručních stisků; celý efekt není automaticky doba bez možnosti útočit.
-- Malignant Shell 05:19.598–05:26.588: záznamů dokončených vlastních schopností včetně automatických 0. Nejde o počet ručních stisků; celý efekt není automaticky doba bez možnosti útočit.
-- Serpent's Bite 06:32.665–06:42.680: záznamů dokončených vlastních schopností včetně automatických 6. Nejde o počet ručních stisků; celý efekt není automaticky doba bez možnosti útočit.
-- Takedown 00:02.942–02:16.286: Malignant Shell, Caustic Waves, Rage of the Shackled, Venomous Heart. Nejde o potvrzený důvod odkladu ani zapomenuté použití.
+- Posouzených původních příkladů: 40; mezer mezi cooldowny: 3. Žádný překryv sám nezvyšuje jistotu výtky.
+- Malignant Shell 03:37.088–03:44.589: záznamů dokončených vlastních schopností včetně automatických 1. Nejde o počet ručních stisků; celý efekt není automaticky doba bez možnosti útočit.
+- Malignant Shell 05:20.717–05:29.723: záznamů dokončených vlastních schopností včetně automatických 3. Nejde o počet ručních stisků; celý efekt není automaticky doba bez možnosti útočit.
+- Serpent's Bite 08:20.772–08:28.756: záznamů dokončených vlastních schopností včetně automatických 6. Nejde o počet ručních stisků; celý efekt není automaticky doba bez možnosti útočit.
+- Takedown 00:01.919–02:18.268: Caustic Waves, Rage of the Shackled, Venomous Heart. Nejde o potvrzený důvod odkladu ani zapomenuté použití.
+- Takedown 02:18.268–04:48.214: Rage of the Shackled, Venomous Heart, Malignant Shell, Defect: Weakened. Nejde o potvrzený důvod odkladu ani zapomenuté použití.
+- Boomstick 04:26.307–05:46.365: Defect: Weakened, Rage of the Shackled, Venomous Heart, Malignant Shell. Nejde o potvrzený důvod odkladu ani zapomenuté použití.
+
+**Krokous-Drak'thul-EU**
+- Posouzených původních příkladů: 0; mezer mezi cooldowny: 0. Žádný překryv sám nezvyšuje jistotu výtky.
+- Malignant Shell 01:22.784–02:05.987: záznamů dokončených vlastních schopností včetně automatických 30. Nejde o počet ručních stisků; celý efekt není automaticky doba bez možnosti útočit.
+- Malignant Shell 03:34.156–03:44.589: záznamů dokončených vlastních schopností včetně automatických 5. Nejde o počet ručních stisků; celý efekt není automaticky doba bez možnosti útočit.
 
 **Micaello-Drak'thul-EU**
 - Posouzených původních příkladů: 0; mezer mezi cooldowny: 0. Žádný překryv sám nezvyšuje jistotu výtky.
-- Grasping Fangs 03:14.084–03:21.346: záznamů dokončených vlastních schopností včetně automatických 5. Nejde o počet ručních stisků; celý efekt není automaticky doba bez možnosti útočit.
-- Malignant Shell 03:35.968–03:47.645: záznamů dokončených vlastních schopností včetně automatických 7. Nejde o počet ručních stisků; celý efekt není automaticky doba bez možnosti útočit.
-- Serpent's Bite 08:20.689–08:30.679: záznamů dokončených vlastních schopností včetně automatických 9. Nejde o počet ručních stisků; celý efekt není automaticky doba bez možnosti útočit.
+- Malignant Shell 01:22.970–02:02.344: záznamů dokončených vlastních schopností včetně automatických 34. Nejde o počet ručních stisků; celý efekt není automaticky doba bez možnosti útočit.
+- Malignant Shell 03:39.454–03:48.694: záznamů dokončených vlastních schopností včetně automatických 2. Nejde o počet ručních stisků; celý efekt není automaticky doba bez možnosti útočit.
 
-**Rhínö-Drak'thul-EU**
-- Posouzených původních příkladů: 2; mezer mezi cooldowny: 0. Žádný překryv sám nezvyšuje jistotu výtky.
-- Malignant Shell 01:24.997–02:02.417: záznamů dokončených vlastních schopností včetně automatických 28. Nejde o počet ručních stisků; celý efekt není automaticky doba bez možnosti útočit.
-- Malignant Shell 03:32.532–03:45.632: záznamů dokončených vlastních schopností včetně automatických 5. Nejde o počet ručních stisků; celý efekt není automaticky doba bez možnosti útočit.
-- Serpent's Bite 09:20.672–09:28.661: záznamů dokončených vlastních schopností včetně automatických 8. Nejde o počet ručních stisků; celý efekt není automaticky doba bez možnosti útočit.
+**Greenfire-Drak'thul-EU**
+- Posouzených původních příkladů: 33; mezer mezi cooldowny: 4. Žádný překryv sám nezvyšuje jistotu výtky.
+- Malignant Shell 01:23.189–02:02.344: záznamů dokončených vlastních schopností včetně automatických 27. Nejde o počet ručních stisků; celý efekt není automaticky doba bez možnosti útočit.
+- Grasping Fangs 03:11.636–03:30.367: záznamů dokončených vlastních schopností včetně automatických 14. Nejde o počet ručních stisků; celý efekt není automaticky doba bez možnosti útočit.
+- Malignant Shell 03:34.535–03:43.110: záznamů dokončených vlastních schopností včetně automatických 1. Nejde o počet ručních stisků; celý efekt není automaticky doba bez možnosti útočit.
+- Serpent's Bite 08:20.772–08:30.760: záznamů dokončených vlastních schopností včetně automatických 8. Nejde o počet ručních stisků; celý efekt není automaticky doba bez možnosti útočit.
+- Summon Demonic Tyrant 02:15.745–03:47.276: Rage of the Shackled, Venomous Heart, Grasping Fangs, Malignant Shell. Nejde o potvrzený důvod odkladu ani zapomenuté použití.
+- Summon Demonic Tyrant 04:48.304–06:14.285: Rage of the Shackled, Venomous Heart. Nejde o potvrzený důvod odkladu ani zapomenuté použití.
+- Grimoire 02:07.736–04:40.836: Rage of the Shackled, Venomous Heart, Grasping Fangs, Malignant Shell, Defect: Weakened. Nejde o potvrzený důvod odkladu ani zapomenuté použití.
+- Grimoire 04:40.836–06:57.714: Rage of the Shackled, Venomous Heart. Nejde o potvrzený důvod odkladu ani zapomenuté použití.
+
+**Këss-Drak'thul-EU**
+- Posouzených původních příkladů: 1; mezer mezi cooldowny: 1. Žádný překryv sám nezvyšuje jistotu výtky.
+- Malignant Shell 00:04.326–00:27.961: záznamů dokončených vlastních schopností včetně automatických 19. Nejde o počet ručních stisků; celý efekt není automaticky doba bez možnosti útočit.
+- Malignant Shell 01:26.588–02:02.344: záznamů dokončených vlastních schopností včetně automatických 25. Nejde o počet ručních stisků; celý efekt není automaticky doba bez možnosti útočit.
+- Malignant Shell 03:38.388–03:47.784: záznamů dokončených vlastních schopností včetně automatických 5. Nejde o počet ručních stisků; celý efekt není automaticky doba bez možnosti útočit.
+- Touch of the Magi 00:49.321–01:52.626: Caustic Waves, Malignant Shell. Nejde o potvrzený důvod odkladu ani zapomenuté použití.
 
 **Kirill-Drak'thul-EU**
-- Posouzených původních příkladů: 2; mezer mezi cooldowny: 2. Žádný překryv sám nezvyšuje jistotu výtky.
-- Malignant Shell 01:25.890–02:02.417: záznamů dokončených vlastních schopností včetně automatických 91. Nejde o počet ručních stisků; celý efekt není automaticky doba bez možnosti útočit.
-- Malignant Shell 03:33.834–03:47.012: záznamů dokončených vlastních schopností včetně automatických 34. Nejde o počet ručních stisků; celý efekt není automaticky doba bez možnosti útočit.
-- Soul Immolation 02:14.346–03:39.244: Rage of the Shackled, Venomous Heart, Malignant Shell. Nejde o potvrzený důvod odkladu ani zapomenuté použití.
-- Soul Immolation 08:07.401–09:43.512: Rage of the Shackled, Venomous Heart. Nejde o potvrzený důvod odkladu ani zapomenuté použití.
+- Posouzených původních příkladů: 0; mezer mezi cooldowny: 0. Žádný překryv sám nezvyšuje jistotu výtky.
+- Malignant Shell 01:23.334–02:02.344: záznamů dokončených vlastních schopností včetně automatických 106. Nejde o počet ručních stisků; celý efekt není automaticky doba bez možnosti útočit.
+- Malignant Shell 03:34.816–03:43.617: záznamů dokončených vlastních schopností včetně automatických 6. Nejde o počet ručních stisků; celý efekt není automaticky doba bez možnosti útočit.
+- Malignant Shell 05:22.223–05:26.484: záznamů dokončených vlastních schopností včetně automatických 1. Nejde o počet ručních stisků; celý efekt není automaticky doba bez možnosti útočit.
+
+**Iluneesama-Drak'thul-EU**
+- Posouzených původních příkladů: 11; mezer mezi cooldowny: 7. Žádný překryv sám nezvyšuje jistotu výtky.
+- Doomscale Shell 03:40.911–03:48.605: záznamů dokončených vlastních schopností včetně automatických 1. Nejde o počet ručních stisků; celý efekt není automaticky doba bez možnosti útočit.
+- Malignant Shell 05:19.763–05:29.723: záznamů dokončených vlastních schopností včetně automatických 2. Nejde o počet ručních stisků; celý efekt není automaticky doba bez možnosti útočit.
+- Malignant Shell 05:31.956–05:37.036: záznamů dokončených vlastních schopností včetně automatických 4. Nejde o počet ručních stisků; celý efekt není automaticky doba bez možnosti útočit.
+- Serpent's Bite 07:43.752–07:54.776: záznamů dokončených vlastních schopností včetně automatických 16. Nejde o počet ručních stisků; celý efekt není automaticky doba bez možnosti útočit.
+- Execution Sentence 02:16.716–04:46.079: Rage of the Shackled, Venomous Heart, Doomscale Shell, Defect: Weakened. Nejde o potvrzený důvod odkladu ani zapomenuté použití.
+- Execution Sentence 04:46.079–06:04.842: Rage of the Shackled, Venomous Heart, Malignant Shell. Nejde o potvrzený důvod odkladu ani zapomenuté použití.
+- Divine Toll 02:18.463–04:49.911: Rage of the Shackled, Venomous Heart, Doomscale Shell, Defect: Weakened. Nejde o potvrzený důvod odkladu ani zapomenuté použití.
+- Divine Toll 04:49.911–06:06.679: Rage of the Shackled, Venomous Heart, Malignant Shell. Nejde o potvrzený důvod odkladu ani zapomenuté použití.
+- Wake of Ashes 02:53.846–03:56.377: Doomscale Shell, Defect: Weakened. Nejde o potvrzený důvod odkladu ani zapomenuté použití.
+- Wake of Ashes 03:56.377–04:46.778: Defect: Weakened, Rage of the Shackled, Venomous Heart. Nejde o potvrzený důvod odkladu ani zapomenuté použití.
+- Wake of Ashes 04:46.778–06:05.610: Rage of the Shackled, Venomous Heart, Malignant Shell. Nejde o potvrzený důvod odkladu ani zapomenuté použití.
+
+**Íacek-Drak'thul-EU**
+- Posouzených původních příkladů: 9; mezer mezi cooldowny: 2. Žádný překryv sám nezvyšuje jistotu výtky.
+- Malignant Shell 01:27.178–02:05.987: záznamů dokončených vlastních schopností včetně automatických 27. Nejde o počet ručních stisků; celý efekt není automaticky doba bez možnosti útočit.
+- Grasping Fangs 03:08.344–03:14.104: záznamů dokončených vlastních schopností včetně automatických 5. Nejde o počet ručních stisků; celý efekt není automaticky doba bez možnosti útočit.
+- Malignant Shell 03:27.196–03:41.230: záznamů dokončených vlastních schopností včetně automatických 9. Nejde o počet ručních stisků; celý efekt není automaticky doba bez možnosti útočit.
+- Malignant Shell 05:19.356–05:29.723: záznamů dokončených vlastních schopností včetně automatických 6. Nejde o počet ručních stisků; celý efekt není automaticky doba bez možnosti útočit.
+- Serpent's Bite 07:43.752–07:52.741: záznamů dokončených vlastních schopností včetně automatických 8. Nejde o počet ručních stisků; celý efekt není automaticky doba bez možnosti útočit.
+- Stormkeeper 03:21.115–04:42.593: Malignant Shell, Defect: Weakened. Nejde o potvrzený důvod odkladu ani zapomenuté použití.
+- Ancestral Swiftness 02:25.649–03:06.620: Rage of the Shackled, Venomous Heart. Nejde o potvrzený důvod odkladu ani zapomenuté použití.
 
 **Kubéc-Drak'thul-EU**
-- Posouzených původních příkladů: 10; mezer mezi cooldowny: 0. Žádný překryv sám nezvyšuje jistotu výtky.
-- Grasping Fangs 03:11.279–03:17.034: záznamů dokončených vlastních schopností včetně automatických 5. Nejde o počet ručních stisků; celý efekt není automaticky doba bez možnosti útočit.
-- Malignant Shell 03:38.845–03:44.099: záznamů dokončených vlastních schopností včetně automatických 2. Nejde o počet ručních stisků; celý efekt není automaticky doba bez možnosti útočit.
-- Malignant Shell 05:20.782–05:29.416: záznamů dokončených vlastních schopností včetně automatických 1. Nejde o počet ručních stisků; celý efekt není automaticky doba bez možnosti útočit.
+- Posouzených původních příkladů: 12; mezer mezi cooldowny: 0. Žádný překryv sám nezvyšuje jistotu výtky.
+- Malignant Shell 03:38.193–03:43.197: záznamů dokončených vlastních schopností včetně automatických 2. Nejde o počet ručních stisků; celý efekt není automaticky doba bez možnosti útočit.
+
+**Shalo-Drak'thul-EU**
+- Posouzených původních příkladů: 2; mezer mezi cooldowny: 2. Žádný překryv sám nezvyšuje jistotu výtky.
+- Malignant Shell 03:39.014–03:43.977: záznamů dokončených vlastních schopností včetně automatických 3. Nejde o počet ručních stisků; celý efekt není automaticky doba bez možnosti útočit.
+- Malignant Shell 05:20.570–05:29.723: záznamů dokončených vlastních schopností včetně automatických 3. Nejde o počet ručních stisků; celý efekt není automaticky doba bez možnosti útočit.
+- Colossus Smash 01:12.882–02:16.608: Caustic Waves, Rage of the Shackled, Venomous Heart. Nejde o potvrzený důvod odkladu ani zapomenuté použití.
+- Colossus Smash 04:38.153–06:04.355: Rage of the Shackled, Venomous Heart, Malignant Shell. Nejde o potvrzený důvod odkladu ani zapomenuté použití.
 
 **Odmin-Drak'thul-EU**
-- Posouzených původních příkladů: 11; mezer mezi cooldowny: 0. Žádný překryv sám nezvyšuje jistotu výtky.
-- Malignant Shell 01:28.388–02:05.255: záznamů dokončených vlastních schopností včetně automatických 36. Nejde o počet ručních stisků; celý efekt není automaticky doba bez možnosti útočit.
-- Malignant Shell 03:35.765–03:47.498: záznamů dokončených vlastních schopností včetně automatických 6. Nejde o počet ručních stisků; celý efekt není automaticky doba bez možnosti útočit.
-- Malignant Shell 05:20.633–05:29.416: záznamů dokončených vlastních schopností včetně automatických 2. Nejde o počet ručních stisků; celý efekt není automaticky doba bez možnosti útočit.
-- Serpent's Bite 09:20.672–09:29.664: záznamů dokončených vlastních schopností včetně automatických 11. Nejde o počet ručních stisků; celý efekt není automaticky doba bez možnosti útočit.
+- Posouzených původních příkladů: 10; mezer mezi cooldowny: 1. Žádný překryv sám nezvyšuje jistotu výtky.
+- Grasping Fangs 03:08.344–03:16.601: záznamů dokončených vlastních schopností včetně automatických 9. Nejde o počet ručních stisků; celý efekt není automaticky doba bez možnosti útočit.
+- Malignant Shell 03:36.312–03:41.231: záznamů dokončených vlastních schopností včetně automatických 3. Nejde o počet ručních stisků; celý efekt není automaticky doba bez možnosti útočit.
+- The Hunt 03:50.838–06:06.996: Defect: Weakened, Rage of the Shackled, Venomous Heart. Nejde o potvrzený důvod odkladu ani zapomenuté použití.
 
 **Galneryus-Drak'thul-EU**
-- Posouzených původních příkladů: 13; mezer mezi cooldowny: 8. Žádný překryv sám nezvyšuje jistotu výtky.
-- Malignant Shell 03:30.024–03:40.708: záznamů dokončených vlastních schopností včetně automatických 5. Nejde o počet ručních stisků; celý efekt není automaticky doba bez možnosti útočit.
-- Execution Sentence 02:16.606–03:44.254: Rage of the Shackled, Venomous Heart, Malignant Shell. Nejde o potvrzený důvod odkladu ani zapomenuté použití.
-- Execution Sentence 04:45.734–06:05.322: Rage of the Shackled, Venomous Heart. Nejde o potvrzený důvod odkladu ani zapomenuté použití.
-- Execution Sentence 08:15.741–09:38.096: Rage of the Shackled, Venomous Heart. Nejde o potvrzený důvod odkladu ani zapomenuté použití.
-- Divine Toll 02:21.193–03:50.542: Rage of the Shackled, Venomous Heart, Malignant Shell, Defect: Weakened. Nejde o potvrzený důvod odkladu ani zapomenuté použití.
-- Divine Toll 04:52.093–06:11.355: Rage of the Shackled, Venomous Heart. Nejde o potvrzený důvod odkladu ani zapomenuté použití.
-- Divine Toll 08:21.884–09:46.835: Rage of the Shackled, Venomous Heart. Nejde o potvrzený důvod odkladu ani zapomenuté použití.
-- Wake of Ashes 02:57.149–03:46.424: Malignant Shell. Nejde o potvrzený důvod odkladu ani zapomenuté použití.
-- Wake of Ashes 08:49.415–09:40.665: Rage of the Shackled, Venomous Heart. Nejde o potvrzený důvod odkladu ani zapomenuté použití.
-
-**Íácekpwn-Drak'thul-EU**
-- Posouzených původních příkladů: 2; mezer mezi cooldowny: 1. Žádný překryv sám nezvyšuje jistotu výtky.
-- Malignant Shell 01:22.028–02:05.255: záznamů dokončených vlastních schopností včetně automatických 51. Nejde o počet ručních stisků; celý efekt není automaticky doba bez možnosti útočit.
-- Serpent's Bite 06:32.665–06:38.665: záznamů dokončených vlastních schopností včetně automatických 11. Nejde o počet ručních stisků; celý efekt není automaticky doba bez možnosti útočit.
-- Halo 02:18.162–03:55.181: Rage of the Shackled, Venomous Heart, Defect: Weakened. Nejde o potvrzený důvod odkladu ani zapomenuté použití.
-
-**Omniblue-Drak'thul-EU**
-- Posouzených původních příkladů: 3; mezer mezi cooldowny: 2. Žádný překryv sám nezvyšuje jistotu výtky.
-- Grasping Fangs 03:14.084–03:28.852: záznamů dokončených vlastních schopností včetně automatických 15. Nejde o počet ručních stisků; celý efekt není automaticky doba bez možnosti útočit.
-- Power Infusion 02:20.062–04:50.024: Rage of the Shackled, Venomous Heart, Grasping Fangs, Defect: Weakened. Nejde o potvrzený důvod odkladu ani zapomenuté použití.
-- Power Infusion 04:50.024–07:23.097: Rage of the Shackled, Venomous Heart. Nejde o potvrzený důvod odkladu ani zapomenuté použití.
+- Posouzených původních příkladů: 6; mezer mezi cooldowny: 6. Žádný překryv sám nezvyšuje jistotu výtky.
+- Grasping Fangs 03:11.636–03:24.360: záznamů dokončených vlastních schopností včetně automatických 15. Nejde o počet ručních stisků; celý efekt není automaticky doba bez možnosti útočit.
+- Malignant Shell 03:29.414–03:38.687: záznamů dokončených vlastních schopností včetně automatických 5. Nejde o počet ručních stisků; celý efekt není automaticky doba bez možnosti útočit.
+- Execution Sentence 02:17.286–03:40.464: Rage of the Shackled, Venomous Heart, Grasping Fangs, Malignant Shell. Nejde o potvrzený důvod odkladu ani zapomenuté použití.
+- Execution Sentence 04:46.657–06:06.217: Rage of the Shackled, Venomous Heart. Nejde o potvrzený důvod odkladu ani zapomenuté použití.
+- Divine Toll 02:21.123–03:45.592: Rage of the Shackled, Venomous Heart, Grasping Fangs, Malignant Shell. Nejde o potvrzený důvod odkladu ani zapomenuté použití.
+- Divine Toll 04:51.547–06:12.480: Rage of the Shackled, Venomous Heart. Nejde o potvrzený důvod odkladu ani zapomenuté použití.
+- Wake of Ashes 02:51.768–03:42.378: Grasping Fangs, Malignant Shell. Nejde o potvrzený důvod odkladu ani zapomenuté použití.
+- Wake of Ashes 03:42.378–04:48.548: Defect: Weakened, Rage of the Shackled, Venomous Heart. Nejde o potvrzený důvod odkladu ani zapomenuté použití.
 
 **Fobina-Drak'thul-EU**
 - Posouzených původních příkladů: 0; mezer mezi cooldowny: 0. Žádný překryv sám nezvyšuje jistotu výtky.
-- Doomscale Shell 03:40.466–03:48.233: záznamů dokončených vlastních schopností včetně automatických 2. Nejde o počet ručních stisků; celý efekt není automaticky doba bez možnosti útočit.
-- Malignant Shell 05:21.136–05:29.415: záznamů dokončených vlastních schopností včetně automatických 1. Nejde o počet ručních stisků; celý efekt není automaticky doba bez možnosti útočit.
+- Malignant Shell 01:23.961–02:02.344: záznamů dokončených vlastních schopností včetně automatických 21. Nejde o počet ručních stisků; celý efekt není automaticky doba bez možnosti útočit.
+- Grasping Fangs 03:11.636–03:24.867: záznamů dokončených vlastních schopností včetně automatických 9. Nejde o počet ručních stisků; celý efekt není automaticky doba bez možnosti útočit.
+- Malignant Shell 03:38.251–03:45.593: záznamů dokončených vlastních schopností včetně automatických 4. Nejde o počet ručních stisků; celý efekt není automaticky doba bez možnosti útočit.
+- Malignant Shell 05:20.839–05:26.484: záznamů dokončených vlastních schopností včetně automatických 2. Nejde o počet ručních stisků; celý efekt není automaticky doba bez možnosti útočit.
 
 **Nahollou-Drak'thul-EU**
-- Posouzených původních příkladů: 33; mezer mezi cooldowny: 4. Žádný překryv sám nezvyšuje jistotu výtky.
-- Malignant Shell 01:27.230–02:05.255: záznamů dokončených vlastních schopností včetně automatických 20. Nejde o počet ručních stisků; celý efekt není automaticky doba bez možnosti útočit.
-- Grasping Fangs 03:11.279–03:18.772: záznamů dokončených vlastních schopností včetně automatických 5. Nejde o počet ručních stisků; celý efekt není automaticky doba bez možnosti útočit.
-- Malignant Shell 03:31.042–03:37.876: záznamů dokončených vlastních schopností včetně automatických 1. Nejde o počet ručních stisků; celý efekt není automaticky doba bez možnosti útočit.
-- Summon Demonic Tyrant 02:22.447–04:47.169: Rage of the Shackled, Venomous Heart, Grasping Fangs, Malignant Shell, Defect: Weakened. Nejde o potvrzený důvod odkladu ani zapomenuté použití.
-- Summon Demonic Tyrant 04:47.169–06:16.635: Rage of the Shackled, Venomous Heart. Nejde o potvrzený důvod odkladu ani zapomenuté použití.
-- Grimoire 00:04.536–02:27.196: Caustic Waves, Malignant Shell, Rage of the Shackled, Venomous Heart. Nejde o potvrzený důvod odkladu ani zapomenuté použití.
-- Grimoire 02:27.196–04:49.131: Rage of the Shackled, Venomous Heart, Grasping Fangs, Malignant Shell, Defect: Weakened. Nejde o potvrzený důvod odkladu ani zapomenuté použití.
+- Posouzených původních příkladů: 28; mezer mezi cooldowny: 2. Žádný překryv sám nezvyšuje jistotu výtky.
+- Serpent's Bite 06:32.765–06:39.748: záznamů dokončených vlastních schopností včetně automatických 5. Nejde o počet ručních stisků; celý efekt není automaticky doba bez možnosti útočit.
+- Summon Demonic Tyrant 04:49.781–06:46.454: Rage of the Shackled, Venomous Heart, Serpent's Bite. Nejde o potvrzený důvod odkladu ani zapomenuté použití.
+- Grimoire 04:56.724–07:20.993: Rage of the Shackled, Venomous Heart, Serpent's Bite. Nejde o potvrzený důvod odkladu ani zapomenuté použití.
 
 **Johnyhoudini-BurningBlade-EU**
-- Posouzených původních příkladů: 4; mezer mezi cooldowny: 4. Žádný překryv sám nezvyšuje jistotu výtky.
-- Malignant Shell 00:02.635–00:30.538: záznamů dokončených vlastních schopností včetně automatických 23. Nejde o počet ručních stisků; celý efekt není automaticky doba bez možnosti útočit.
-- Malignant Shell 01:23.802–02:05.255: záznamů dokončených vlastních schopností včetně automatických 31. Nejde o počet ručních stisků; celý efekt není automaticky doba bez možnosti útočit.
-- Malignant Shell 03:28.952–03:34.904: záznamů dokončených vlastních schopností včetně automatických 3. Nejde o počet ručních stisků; celý efekt není automaticky doba bez možnosti útočit.
-- Doomscale Shell 03:59.889–04:04.411: záznamů dokončených vlastních schopností včetně automatických 2. Nejde o počet ručních stisků; celý efekt není automaticky doba bez možnosti útočit.
-- Malignant Shell 05:18.837–05:26.588: záznamů dokončených vlastních schopností včetně automatických 1. Nejde o počet ručních stisků; celý efekt není automaticky doba bez možnosti útočit.
-- Malignant Shell 05:29.194–05:33.864: záznamů dokončených vlastních schopností včetně automatických 4. Nejde o počet ručních stisků; celý efekt není automaticky doba bez možnosti útočit.
-- Malignant Shell 05:37.275–05:41.967: záznamů dokončených vlastních schopností včetně automatických 1. Nejde o počet ručních stisků; celý efekt není automaticky doba bez možnosti útočit.
-- Serpent's Bite 07:43.665–07:51.680: záznamů dokončených vlastních schopností včetně automatických 4. Nejde o počet ručních stisků; celý efekt není automaticky doba bez možnosti útočit.
-- Touch of the Magi 01:08.927–02:17.274: Malignant Shell, Caustic Waves, Rage of the Shackled, Venomous Heart. Nejde o potvrzený důvod odkladu ani zapomenuté použití.
-- Touch of the Magi 03:06.192–04:45.766: Malignant Shell, Defect: Weakened, Doomscale Shell, Rage of the Shackled, Venomous Heart. Nejde o potvrzený důvod odkladu ani zapomenuté použití.
-- Touch of the Magi 04:45.766–06:25.539: Rage of the Shackled, Venomous Heart, Malignant Shell. Nejde o potvrzený důvod odkladu ani zapomenuté použití.
-- Touch of the Magi 08:12.055–09:09.771: žádná sledovaná fáze nebo osobní mechanika. Nejde o potvrzený důvod odkladu ani zapomenuté použití.
-
-**Slejhy-Drak'thul-EU**
-- Posouzených původních příkladů: 12; mezer mezi cooldowny: 4. Žádný překryv sám nezvyšuje jistotu výtky.
-- Malignant Shell 03:36.148–03:44.218: záznamů dokončených vlastních schopností včetně automatických 1. Nejde o počet ručních stisků; celý efekt není automaticky doba bez možnosti útočit.
-- Malignant Shell 05:20.705–05:29.416: záznamů dokončených vlastních schopností včetně automatických 3. Nejde o počet ručních stisků; celý efekt není automaticky doba bez možnosti útočit.
-- Malignant Shell 05:30.530–05:37.094: záznamů dokončených vlastních schopností včetně automatických 2. Nejde o počet ručních stisků; celý efekt není automaticky doba bez možnosti útočit.
-- Malignant Shell 05:41.221–05:44.387: záznamů dokončených vlastních schopností včetně automatických 1. Nejde o počet ručních stisků; celý efekt není automaticky doba bez možnosti útočit.
-- Serpent's Bite 07:43.665–07:51.680: záznamů dokončených vlastních schopností včetně automatických 10. Nejde o počet ručních stisků; celý efekt není automaticky doba bez možnosti útočit.
-- Serpent's Bite 08:20.689–08:27.683: záznamů dokončených vlastních schopností včetně automatických 10. Nejde o počet ručních stisků; celý efekt není automaticky doba bez možnosti útočit.
-- Deathmark 02:16.418–04:52.177: Rage of the Shackled, Venomous Heart, Malignant Shell, Defect: Weakened. Nejde o potvrzený důvod odkladu ani zapomenuté použití.
-- Deathmark 04:52.177–07:19.761: Rage of the Shackled, Venomous Heart, Malignant Shell. Nejde o potvrzený důvod odkladu ani zapomenuté použití.
-- Kingsbane 02:17.541–04:53.146: Rage of the Shackled, Venomous Heart, Malignant Shell, Defect: Weakened. Nejde o potvrzený důvod odkladu ani zapomenuté použití.
-- Kingsbane 04:53.146–07:20.732: Rage of the Shackled, Venomous Heart, Malignant Shell. Nejde o potvrzený důvod odkladu ani zapomenuté použití.
+- Posouzených původních příkladů: 4; mezer mezi cooldowny: 3. Žádný překryv sám nezvyšuje jistotu výtky.
+- Malignant Shell 00:00.149–00:31.212: záznamů dokončených vlastních schopností včetně automatických 25. Nejde o počet ručních stisků; celý efekt není automaticky doba bez možnosti útočit.
+- Malignant Shell 01:22.681–02:05.987: záznamů dokončených vlastních schopností včetně automatických 31. Nejde o počet ručních stisků; celý efekt není automaticky doba bez možnosti útočit.
+- Malignant Shell 03:28.517–03:31.675: záznamů dokončených vlastních schopností včetně automatických 2. Nejde o počet ručních stisků; celý efekt není automaticky doba bez možnosti útočit.
+- Doomscale Shell 03:42.040–03:49.386: záznamů dokončených vlastních schopností včetně automatických 2. Nejde o počet ručních stisků; celý efekt není automaticky doba bez možnosti útočit.
+- Malignant Shell 05:20.065–05:26.484: záznamů dokončených vlastních schopností včetně automatických 2. Nejde o počet ručních stisků; celý efekt není automaticky doba bez možnosti útočit.
+- Malignant Shell 05:29.369–05:34.192: záznamů dokončených vlastních schopností včetně automatických 3. Nejde o počet ručních stisků; celý efekt není automaticky doba bez možnosti útočit.
+- Malignant Shell 05:36.045–05:41.497: záznamů dokončených vlastních schopností včetně automatických 4. Nejde o počet ručních stisků; celý efekt není automaticky doba bez možnosti útočit.
+- Touch of the Magi 01:10.047–02:17.103: Malignant Shell, Caustic Waves, Rage of the Shackled, Venomous Heart. Nejde o potvrzený důvod odkladu ani zapomenuté použití.
+- Touch of the Magi 03:05.160–04:46.082: Malignant Shell, Doomscale Shell, Defect: Weakened, Rage of the Shackled, Venomous Heart. Nejde o potvrzený důvod odkladu ani zapomenuté použití.
+- Touch of the Magi 04:46.082–06:25.794: Rage of the Shackled, Venomous Heart, Malignant Shell. Nejde o potvrzený důvod odkladu ani zapomenuté použití.
 
 **Corneilia-Sylvanas-EU**
-- Posouzených původních příkladů: 5; mezer mezi cooldowny: 5. Žádný překryv sám nezvyšuje jistotu výtky.
-- Malignant Shell 01:23.988–02:05.255: záznamů dokončených vlastních schopností včetně automatických 24. Nejde o počet ručních stisků; celý efekt není automaticky doba bez možnosti útočit.
-- Grasping Fangs 03:11.279–03:17.529: záznamů dokončených vlastních schopností včetně automatických 2. Nejde o počet ručních stisků; celý efekt není automaticky doba bez možnosti útočit.
-- Malignant Shell 05:20.450–05:29.415: záznamů dokončených vlastních schopností včetně automatických 2. Nejde o počet ručních stisků; celý efekt není automaticky doba bez možnosti útočit.
-- Touch of the Magi 00:51.750–02:17.741: Caustic Waves, Malignant Shell, Rage of the Shackled, Venomous Heart. Nejde o potvrzený důvod odkladu ani zapomenuté použití.
-- Touch of the Magi 03:03.096–04:48.175: Grasping Fangs, Defect: Weakened, Rage of the Shackled, Venomous Heart. Nejde o potvrzený důvod odkladu ani zapomenuté použití.
-- Touch of the Magi 04:48.175–06:25.235: Rage of the Shackled, Venomous Heart, Malignant Shell. Nejde o potvrzený důvod odkladu ani zapomenuté použití.
-- Touch of the Magi 07:16.811–08:16.411: žádná sledovaná fáze nebo osobní mechanika. Nejde o potvrzený důvod odkladu ani zapomenuté použití.
-- Touch of the Magi 08:16.411–09:37.337: Rage of the Shackled, Venomous Heart. Nejde o potvrzený důvod odkladu ani zapomenuté použití.
-### Kith'ix · kill 9
+- Posouzených původních příkladů: 1; mezer mezi cooldowny: 1. Žádný překryv sám nezvyšuje jistotu výtky.
+- Malignant Shell 05:20.207–05:26.484: záznamů dokončených vlastních schopností včetně automatických 1. Nejde o počet ručních stisků; celý efekt není automaticky doba bez možnosti útočit.
+- Touch of the Magi 04:50.174–06:37.518: Rage of the Shackled, Venomous Heart, Malignant Shell. Nejde o potvrzený důvod odkladu ani zapomenuté použití.
+### Kith'ix · kill 10
 
 Burst porovnej s addy a vlastní Luminous Grace. U Unspeakable Horrors, Abyssal Grasp nebo Null Gate zohledni svoji mechaniku. Útok peta nebo DoT během mechaniky nedokazuje, že jsi mohl stát a castovat. Podrobné Kith'ix rady zůstávají níže samostatně.
 
 [Popis mechaniky](https://www.wowhead.com/npc=267861/kithix/normal-encounter-journal)
 
-- Změna průběhu: Voidswarm · Kith'ix · 00:05.000–00:11.014.
-- Změna průběhu: Voidswarm · Kith'ix · 01:53.985–01:59.998.
+- Změna průběhu: Voidswarm · Kith'ix · 00:05.002–00:10.985.
+- Změna průběhu: Voidswarm · Kith'ix · 01:54.012–02:00.018.
 
 **Vejr-Drak'thul-EU**
-- Posouzených původních příkladů: 2; mezer mezi cooldowny: 1. Žádný překryv sám nezvyšuje jistotu výtky.
-- Abyssal Grasp 01:02.009–01:07.335: záznamů dokončených vlastních schopností včetně automatických 5. Nejde o počet ručních stisků; celý efekt není automaticky doba bez možnosti útočit.
-- Unspeakable Horrors 02:58.973–03:04.968: záznamů dokončených vlastních schopností včetně automatických 2. Nejde o počet ručních stisků; celý efekt není automaticky doba bez možnosti útočit.
-- Overwhelming Fear 03:04.968–03:08.887: záznamů dokončených vlastních schopností včetně automatických 0. Nejde o počet ručních stisků; celý efekt není automaticky doba bez možnosti útočit.
-- Abyssal Grasp 03:17.976–03:23.941: záznamů dokončených vlastních schopností včetně automatických 4. Nejde o počet ručních stisků; celý efekt není automaticky doba bez možnosti útočit.
-- Luminous Grace 03:47.698–04:28.411: záznamů dokončených vlastních schopností včetně automatických 31. Nejde o počet ručních stisků; celý efekt není automaticky doba bez možnosti útočit.
-- Null Gate 04:11.700–04:16.716: záznamů dokončených vlastních schopností včetně automatických 4. Nejde o počet ručních stisků; celý efekt není automaticky doba bez možnosti útočit.
-- Putrefy 02:36.427–03:20.478: Unspeakable Horrors, Overwhelming Fear, Abyssal Grasp. Nejde o potvrzený důvod odkladu ani zapomenuté použití.
+- Posouzených původních příkladů: 1; mezer mezi cooldowny: 1. Žádný překryv sám nezvyšuje jistotu výtky.
+- Abyssal Grasp 01:02.000–01:03.620: záznamů dokončených vlastních schopností včetně automatických 1. Nejde o počet ručních stisků; celý efekt není automaticky doba bez možnosti útočit.
+- Unspeakable Horrors 02:58.982–03:04.983: záznamů dokončených vlastních schopností včetně automatických 4. Nejde o počet ručních stisků; celý efekt není automaticky doba bez možnosti útočit.
+- Overwhelming Fear 03:04.984–03:06.937: záznamů dokončených vlastních schopností včetně automatických 0. Nejde o počet ručních stisků; celý efekt není automaticky doba bez možnosti útočit.
+- Abyssal Grasp 03:18.015–03:21.390: záznamů dokončených vlastních schopností včetně automatických 3. Nejde o počet ručních stisků; celý efekt není automaticky doba bez možnosti útočit.
+- Luminous Grace 03:35.639–04:18.208: záznamů dokončených vlastních schopností včetně automatických 31. Nejde o počet ručních stisků; celý efekt není automaticky doba bez možnosti útočit.
+- Putrefy 00:05.955–00:59.412: Voidswarm. Nejde o potvrzený důvod odkladu ani zapomenuté použití.
 
 **Theila-Drak'thul-EU**
-- Posouzených původních příkladů: 16; mezer mezi cooldowny: 0. Žádný překryv sám nezvyšuje jistotu výtky.
-- Abyssal Grasp 01:02.009–01:06.848: záznamů dokončených vlastních schopností včetně automatických 4. Nejde o počet ručních stisků; celý efekt není automaticky doba bez možnosti útočit.
-- Unspeakable Horrors 02:26.007–02:32.007: záznamů dokončených vlastních schopností včetně automatických 3. Nejde o počet ručních stisků; celý efekt není automaticky doba bez možnosti útočit.
-- Overwhelming Fear 02:32.008–02:35.425: záznamů dokončených vlastních schopností včetně automatických 0. Nejde o počet ručních stisků; celý efekt není automaticky doba bez možnosti útočit.
-- Abyssal Grasp 02:50.990–02:54.403: záznamů dokončených vlastních schopností včetně automatických 3. Nejde o počet ručních stisků; celý efekt není automaticky doba bez možnosti útočit.
-- Luminous Grace 03:47.697–04:28.411: záznamů dokončených vlastních schopností včetně automatických 28. Nejde o počet ručních stisků; celý efekt není automaticky doba bez možnosti útočit.
+- Posouzených původních příkladů: 23; mezer mezi cooldowny: 0. Žádný překryv sám nezvyšuje jistotu výtky.
+- Luminous Grace 03:35.640–04:19.717: záznamů dokončených vlastních schopností včetně automatických 29. Nejde o počet ručních stisků; celý efekt není automaticky doba bez možnosti útočit.
+- Null Gate 04:09.664–04:14.659: záznamů dokončených vlastních schopností včetně automatických 4. Nejde o počet ručních stisků; celý efekt není automaticky doba bez možnosti útočit.
+
+**Krokous-Drak'thul-EU**
+- Posouzených původních příkladů: 0; mezer mezi cooldowny: 0. Žádný překryv sám nezvyšuje jistotu výtky.
+- Abyssal Grasp 01:02.000–01:08.269: záznamů dokončených vlastních schopností včetně automatických 6. Nejde o počet ručních stisků; celý efekt není automaticky doba bez možnosti útočit.
+- Abyssal Grasp 03:18.016–03:22.341: záznamů dokončených vlastních schopností včetně automatických 3. Nejde o počet ručních stisků; celý efekt není automaticky doba bez možnosti útočit.
+- Luminous Grace 03:35.640–04:15.752: záznamů dokončených vlastních schopností včetně automatických 38. Nejde o počet ručních stisků; celý efekt není automaticky doba bez možnosti útočit.
+- Null Gate 03:39.676–03:44.670: záznamů dokončených vlastních schopností včetně automatických 3. Nejde o počet ručních stisků; celý efekt není automaticky doba bez možnosti útočit.
 
 **Micaello-Drak'thul-EU**
 - Posouzených původních příkladů: 0; mezer mezi cooldowny: 0. Žádný překryv sám nezvyšuje jistotu výtky.
-- Unspeakable Horrors 01:10.004–01:16.010: záznamů dokončených vlastních schopností včetně automatických 2. Nejde o počet ručních stisků; celý efekt není automaticky doba bez možnosti útočit.
-- Overwhelming Fear 01:16.012–01:17.809: záznamů dokončených vlastních schopností včetně automatických 0. Nejde o počet ručních stisků; celý efekt není automaticky doba bez možnosti útočit.
-- Abyssal Grasp 03:17.976–03:24.516: záznamů dokončených vlastních schopností včetně automatických 4. Nejde o počet ručních stisků; celý efekt není automaticky doba bez možnosti útočit.
-- Luminous Grace 03:47.698–04:28.411: záznamů dokončených vlastních schopností včetně automatických 32. Nejde o počet ručních stisků; celý efekt není automaticky doba bez možnosti útočit.
-- Null Gate 04:11.700–04:16.717: záznamů dokončených vlastních schopností včetně automatických 5. Nejde o počet ručních stisků; celý efekt není automaticky doba bez možnosti útočit.
+- Abyssal Grasp 01:29.023–01:33.138: záznamů dokončených vlastních schopností včetně automatických 3. Nejde o počet ručních stisků; celý efekt není automaticky doba bez možnosti útočit.
+- Luminous Grace 03:35.640–04:19.717: záznamů dokončených vlastních schopností včetně automatických 0. Nejde o počet ručních stisků; celý efekt není automaticky doba bez možnosti útočit.
 
-**Rhínö-Drak'thul-EU**
+**Këss-Drak'thul-EU**
 - Posouzených původních příkladů: 0; mezer mezi cooldowny: 0. Žádný překryv sám nezvyšuje jistotu výtky.
-- Abyssal Grasp 01:28.995–01:32.968: záznamů dokončených vlastních schopností včetně automatických 4. Nejde o počet ručních stisků; celý efekt není automaticky doba bez možnosti útočit.
-- Luminous Grace 03:47.698–04:28.411: záznamů dokončených vlastních schopností včetně automatických 35. Nejde o počet ručních stisků; celý efekt není automaticky doba bez možnosti útočit.
+- Unspeakable Horrors 00:37.037–00:43.029: záznamů dokončených vlastních schopností včetně automatických 4. Nejde o počet ručních stisků; celý efekt není automaticky doba bez možnosti útočit.
+- Overwhelming Fear 00:43.031–00:49.024: záznamů dokončených vlastních schopností včetně automatických 0. Nejde o počet ručních stisků; celý efekt není automaticky doba bez možnosti útočit.
+- Abyssal Grasp 02:51.003–02:55.923: záznamů dokončených vlastních schopností včetně automatických 4. Nejde o počet ručních stisků; celý efekt není automaticky doba bez možnosti útočit.
+- Luminous Grace 03:35.640–04:09.071: záznamů dokončených vlastních schopností včetně automatických 22. Nejde o počet ručních stisků; celý efekt není automaticky doba bez možnosti útočit.
 
 **Kirill-Drak'thul-EU**
-- Posouzených původních příkladů: 0; mezer mezi cooldowny: 0. Žádný překryv sám nezvyšuje jistotu výtky.
-- Abyssal Grasp 01:28.995–01:32.315: záznamů dokončených vlastních schopností včetně automatických 5. Nejde o počet ručních stisků; celý efekt není automaticky doba bez možnosti útočit.
-- Luminous Grace 03:47.698–04:28.411: záznamů dokončených vlastních schopností včetně automatických 91. Nejde o počet ručních stisků; celý efekt není automaticky doba bez možnosti útočit.
-- Null Gate 04:01.721–04:06.718: záznamů dokončených vlastních schopností včetně automatických 12. Nejde o počet ručních stisků; celý efekt není automaticky doba bez možnosti útočit.
+- Posouzených původních příkladů: 1; mezer mezi cooldowny: 1. Žádný překryv sám nezvyšuje jistotu výtky.
+- Abyssal Grasp 01:02.000–01:04.228: záznamů dokončených vlastních schopností včetně automatických 7. Nejde o počet ručních stisků; celý efekt není automaticky doba bez možnosti útočit.
+- Unspeakable Horrors 01:09.995–01:15.985: záznamů dokončených vlastních schopností včetně automatických 15. Nejde o počet ručních stisků; celý efekt není automaticky doba bez možnosti útočit.
+- Overwhelming Fear 01:16.001–01:22.004: záznamů dokončených vlastních schopností včetně automatických 0. Nejde o počet ručních stisků; celý efekt není automaticky doba bez možnosti útočit.
+- Unspeakable Horrors 02:26.054–02:32.028: záznamů dokončených vlastních schopností včetně automatických 5. Nejde o počet ručních stisků; celý efekt není automaticky doba bez možnosti útočit.
+- Overwhelming Fear 02:32.029–02:36.956: záznamů dokončených vlastních schopností včetně automatických 2. Nejde o počet ručních stisků; celý efekt není automaticky doba bez možnosti útočit.
+- Abyssal Grasp 03:18.016–03:21.726: záznamů dokončených vlastních schopností včetně automatických 10. Nejde o počet ručních stisků; celý efekt není automaticky doba bez možnosti útočit.
+- Luminous Grace 03:35.640–04:19.717: záznamů dokončených vlastních schopností včetně automatických 114. Nejde o počet ručních stisků; celý efekt není automaticky doba bez možnosti útočit.
+- Null Gate 04:19.669–04:19.717: záznamů dokončených vlastních schopností včetně automatických 0. Nejde o počet ručních stisků; celý efekt není automaticky doba bez možnosti útočit.
+- Soul Immolation 00:58.656–02:30.407: Abyssal Grasp, Unspeakable Horrors, Overwhelming Fear, Voidswarm. Nejde o potvrzený důvod odkladu ani zapomenuté použití.
+
+**Iluneesama-Drak'thul-EU**
+- Posouzených původních příkladů: 9; mezer mezi cooldowny: 4. Žádný překryv sám nezvyšuje jistotu výtky.
+- Abyssal Grasp 01:29.023–01:35.198: záznamů dokončených vlastních schopností včetně automatických 10. Nejde o počet ručních stisků; celý efekt není automaticky doba bez možnosti útočit.
+- Abyssal Grasp 03:18.016–03:19.989: záznamů dokončených vlastních schopností včetně automatických 2. Nejde o počet ručních stisků; celý efekt není automaticky doba bez možnosti útočit.
+- Luminous Grace 03:35.639–04:18.493: záznamů dokončených vlastních schopností včetně automatických 66. Nejde o počet ručních stisků; celý efekt není automaticky doba bez možnosti útočit.
+- Null Gate 03:49.669–03:54.677: záznamů dokončených vlastních schopností včetně automatických 5. Nejde o počet ručních stisků; celý efekt není automaticky doba bez možnosti útočit.
+- Execution Sentence 02:11.650–03:36.677: Abyssal Grasp, Luminous Grace. Nejde o potvrzený důvod odkladu ani zapomenuté použití.
+- Divine Toll 02:13.526–03:58.305: Abyssal Grasp, Luminous Grace, Null Gate. Nejde o potvrzený důvod odkladu ani zapomenuté použití.
+- Wake of Ashes 01:13.952–02:12.368: Abyssal Grasp, Voidswarm. Nejde o potvrzený důvod odkladu ani zapomenuté použití.
+- Wake of Ashes 02:45.841–03:37.423: Abyssal Grasp, Luminous Grace. Nejde o potvrzený důvod odkladu ani zapomenuté použití.
 
 **Kubéc-Drak'thul-EU**
-- Posouzených původních příkladů: 5; mezer mezi cooldowny: 0. Žádný překryv sám nezvyšuje jistotu výtky.
-- Unspeakable Horrors 00:37.012–00:43.007: záznamů dokončených vlastních schopností včetně automatických 5. Nejde o počet ručních stisků; celý efekt není automaticky doba bez možnosti útočit.
-- Overwhelming Fear 00:43.007–00:44.272: záznamů dokončených vlastních schopností včetně automatických 0. Nejde o počet ručních stisků; celý efekt není automaticky doba bez možnosti útočit.
-- Luminous Grace 03:47.697–04:28.411: záznamů dokončených vlastních schopností včetně automatických 34. Nejde o počet ručních stisků; celý efekt není automaticky doba bez možnosti útočit.
-- Null Gate 04:01.721–04:06.718: záznamů dokončených vlastních schopností včetně automatických 1. Nejde o počet ručních stisků; celý efekt není automaticky doba bez možnosti útočit.
-
-**Odmin-Drak'thul-EU**
-- Posouzených původních příkladů: 3; mezer mezi cooldowny: 1. Žádný překryv sám nezvyšuje jistotu výtky.
-- Abyssal Grasp 01:28.995–01:33.271: záznamů dokončených vlastních schopností včetně automatických 6. Nejde o počet ručních stisků; celý efekt není automaticky doba bez možnosti útočit.
-- Abyssal Grasp 02:50.990–02:53.779: záznamů dokončených vlastních schopností včetně automatických 3. Nejde o počet ručních stisků; celý efekt není automaticky doba bez možnosti útočit.
-- Luminous Grace 03:47.698–04:28.411: záznamů dokončených vlastních schopností včetně automatických 40. Nejde o počet ručních stisků; celý efekt není automaticky doba bez možnosti útočit.
-- Null Gate 04:21.735–04:26.741: záznamů dokončených vlastních schopností včetně automatických 6. Nejde o počet ručních stisků; celý efekt není automaticky doba bez možnosti útočit.
-- Essence Break 00:41.968–01:35.334: Abyssal Grasp. Nejde o potvrzený důvod odkladu ani zapomenuté použití.
-
-**Galneryus-Drak'thul-EU**
-- Posouzených původních příkladů: 2; mezer mezi cooldowny: 0. Žádný překryv sám nezvyšuje jistotu výtky.
-- Abyssal Grasp 02:50.990–02:54.268: záznamů dokončených vlastních schopností včetně automatických 6. Nejde o počet ručních stisků; celý efekt není automaticky doba bez možnosti útočit.
-- Luminous Grace 03:47.698–04:28.411: záznamů dokončených vlastních schopností včetně automatických 69. Nejde o počet ručních stisků; celý efekt není automaticky doba bez možnosti útočit.
-- Null Gate 03:51.698–03:56.697: záznamů dokončených vlastních schopností včetně automatických 8. Nejde o počet ručních stisků; celý efekt není automaticky doba bez možnosti útočit.
-
-**Omniblue-Drak'thul-EU**
-- Posouzených původních příkladů: 1; mezer mezi cooldowny: 0. Žádný překryv sám nezvyšuje jistotu výtky.
-- Unspeakable Horrors 00:37.012–00:43.007: záznamů dokončených vlastních schopností včetně automatických 5. Nejde o počet ručních stisků; celý efekt není automaticky doba bez možnosti útočit.
-- Overwhelming Fear 00:43.007–00:44.709: záznamů dokončených vlastních schopností včetně automatických 0. Nejde o počet ručních stisků; celý efekt není automaticky doba bez možnosti útočit.
-- Abyssal Grasp 01:02.009–01:03.712: záznamů dokončených vlastních schopností včetně automatických 6. Nejde o počet ručních stisků; celý efekt není automaticky doba bez možnosti útočit.
-- Abyssal Grasp 03:17.976–03:25.977: záznamů dokončených vlastních schopností včetně automatických 10. Nejde o počet ručních stisků; celý efekt není automaticky doba bez možnosti útočit.
-- Luminous Grace 03:47.698–04:28.411: záznamů dokončených vlastních schopností včetně automatických 58. Nejde o počet ručních stisků; celý efekt není automaticky doba bez možnosti útočit.
-
-**Fobina-Drak'thul-EU**
-- Posouzených původních příkladů: 0; mezer mezi cooldowny: 0. Žádný překryv sám nezvyšuje jistotu výtky.
-- Abyssal Grasp 01:28.995–01:32.673: záznamů dokončených vlastních schopností včetně automatických 2. Nejde o počet ručních stisků; celý efekt není automaticky doba bez možnosti útočit.
-- Abyssal Grasp 02:50.990–02:53.305: záznamů dokončených vlastních schopností včetně automatických 2. Nejde o počet ručních stisků; celý efekt není automaticky doba bez možnosti útočit.
-- Luminous Grace 03:47.698–04:28.411: záznamů dokončených vlastních schopností včetně automatických 18. Nejde o počet ručních stisků; celý efekt není automaticky doba bez možnosti útočit.
-- Null Gate 04:21.734–04:26.742: záznamů dokončených vlastních schopností včetně automatických 0. Nejde o počet ručních stisků; celý efekt není automaticky doba bez možnosti útočit.
-
-**Nahollou-Drak'thul-EU**
-- Posouzených původních příkladů: 18; mezer mezi cooldowny: 1. Žádný překryv sám nezvyšuje jistotu výtky.
-- Abyssal Grasp 03:17.976–03:20.831: záznamů dokončených vlastních schopností včetně automatických 0. Nejde o počet ručních stisků; celý efekt není automaticky doba bez možnosti útočit.
-- Luminous Grace 03:47.698–04:22.454: záznamů dokončených vlastních schopností včetně automatických 19. Nejde o počet ručních stisků; celý efekt není automaticky doba bez možnosti útočit.
-- Grimoire 00:05.931–02:36.728: Voidswarm. Nejde o potvrzený důvod odkladu ani zapomenuté použití.
-
-**Iacek-Drak'thul-EU**
-- Posouzených původních příkladů: 0; mezer mezi cooldowny: 0. Žádný překryv sám nezvyšuje jistotu výtky.
-- Abyssal Grasp 01:28.995–01:35.176: záznamů dokončených vlastních schopností včetně automatických 4. Nejde o počet ručních stisků; celý efekt není automaticky doba bez možnosti útočit.
-- Unspeakable Horrors 02:26.007–02:32.007: záznamů dokončených vlastních schopností včetně automatických 2. Nejde o počet ručních stisků; celý efekt není automaticky doba bez možnosti útočit.
-- Overwhelming Fear 02:32.008–02:34.629: záznamů dokončených vlastních schopností včetně automatických 0. Nejde o počet ručních stisků; celý efekt není automaticky doba bez možnosti útočit.
-- Abyssal Grasp 02:50.990–02:53.305: záznamů dokončených vlastních schopností včetně automatických 2. Nejde o počet ručních stisků; celý efekt není automaticky doba bez možnosti útočit.
-- Luminous Grace 03:47.697–04:28.411: záznamů dokončených vlastních schopností včetně automatických 29. Nejde o počet ručních stisků; celý efekt není automaticky doba bez možnosti útočit.
-
-**Johnyhoudini-BurningBlade-EU**
-- Posouzených původních příkladů: 1; mezer mezi cooldowny: 0. Žádný překryv sám nezvyšuje jistotu výtky.
-- Luminous Grace 03:47.698–04:28.411: záznamů dokončených vlastních schopností včetně automatických 31. Nejde o počet ručních stisků; celý efekt není automaticky doba bez možnosti útočit.
-- Null Gate 03:51.698–03:56.698: záznamů dokončených vlastních schopností včetně automatických 4. Nejde o počet ručních stisků; celý efekt není automaticky doba bez možnosti útočit.
-
-**Slejhy-Drak'thul-EU**
-- Posouzených původních příkladů: 6; mezer mezi cooldowny: 2. Žádný překryv sám nezvyšuje jistotu výtky.
-- Unspeakable Horrors 01:10.004–01:16.010: záznamů dokončených vlastních schopností včetně automatických 3. Nejde o počet ručních stisků; celý efekt není automaticky doba bez možnosti útočit.
-- Abyssal Grasp 01:28.995–01:32.733: záznamů dokončených vlastních schopností včetně automatických 7. Nejde o počet ručních stisků; celý efekt není automaticky doba bez možnosti útočit.
-- Luminous Grace 03:47.698–04:28.411: záznamů dokončených vlastních schopností včetně automatických 61. Nejde o počet ručních stisků; celý efekt není automaticky doba bez možnosti útočit.
-- Deathmark 00:11.659–02:42.710: Unspeakable Horrors, Abyssal Grasp, Voidswarm. Nejde o potvrzený důvod odkladu ani zapomenuté použití.
-- Kingsbane 01:09.918–02:41.692: Unspeakable Horrors, Abyssal Grasp, Voidswarm. Nejde o potvrzený důvod odkladu ani zapomenuté použití.
-
-**Corneilia-Sylvanas-EU**
-- Posouzených původních příkladů: 1; mezer mezi cooldowny: 0. Žádný překryv sám nezvyšuje jistotu výtky.
-- Abyssal Grasp 01:02.009–01:05.334: záznamů dokončených vlastních schopností včetně automatických 1. Nejde o počet ručních stisků; celý efekt není automaticky doba bez možnosti útočit.
-- Unspeakable Horrors 02:58.973–03:04.968: záznamů dokončených vlastních schopností včetně automatických 2. Nejde o počet ručních stisků; celý efekt není automaticky doba bez možnosti útočit.
-- Overwhelming Fear 03:04.968–03:06.844: záznamů dokončených vlastních schopností včetně automatických 0. Nejde o počet ručních stisků; celý efekt není automaticky doba bez možnosti útočit.
-- Abyssal Grasp 03:17.976–03:22.846: záznamů dokončených vlastních schopností včetně automatických 1. Nejde o počet ručních stisků; celý efekt není automaticky doba bez možnosti útočit.
-- Luminous Grace 03:47.698–04:28.411: záznamů dokončených vlastních schopností včetně automatických 27. Nejde o počet ručních stisků; celý efekt není automaticky doba bez možnosti útočit.
-### Entombed Sentinels · kill 11
-
-Dva bossové neznamenají dva cíle ve tvém dosahu. Během Vitriolic Stasis mají Sentinels výrazně snížené přijaté poškození; Ula'tek's Dominance je další omezení konkrétního cíle. Mark of Acid / Blood sám nepotvrzuje odbíhání. Pozorované zásahy do Venom Coagulation ukazujeme odděleně.
-
-[Popis mechaniky](https://www.wowhead.com/npc=258558/blood-of-ulatek/normal-encounter-journal)
-
-- Snížené poškození do cíle: Vitriolic Stasis · Breath of Ula'tek · 00:46.206–00:59.213.
-- Snížené poškození do cíle: Vitriolic Stasis · Blood of Ula'tek · 00:46.207–00:59.217.
-- Snížené poškození do cíle: Vitriolic Stasis · Breath of Ula'tek · 02:30.222–02:43.201.
-- Snížené poškození do cíle: Vitriolic Stasis · Blood of Ula'tek · 02:30.223–02:43.197.
-- Snížené poškození do cíle: Ula'tek's Dominance · Breath of Ula'tek · 02:48.215–02:51.222.
-- Snížené poškození do cíle: Ula'tek's Dominance · Blood of Ula'tek · 02:48.215–02:51.222.
-- Snížené poškození do cíle: Vitriolic Stasis · Breath of Ula'tek · 04:14.212–04:27.202.
-- Snížené poškození do cíle: Vitriolic Stasis · Blood of Ula'tek · 04:14.213–04:27.206.
-
-**Vejr-Drak'thul-EU**
-- Posouzených původních příkladů: 0; mezer mezi cooldowny: 0. Žádný překryv sám nezvyšuje jistotu výtky.
-- Helical Toxins 00:46.256–00:59.052: záznamů dokončených vlastních schopností včetně automatických 0. Nejde o počet ručních stisků; celý efekt není automaticky doba bez možnosti útočit.
-- Helical Toxins 02:30.410–02:34.695: záznamů dokončených vlastních schopností včetně automatických 0. Nejde o počet ručních stisků; celý efekt není automaticky doba bez možnosti útočit.
-- Helical Toxins 04:14.237–04:16.372: záznamů dokončených vlastních schopností včetně automatických 0. Nejde o počet ručních stisků; celý efekt není automaticky doba bez možnosti útočit.
-
-**Theila-Drak'thul-EU**
-- Posouzených původních příkladů: 16; mezer mezi cooldowny: 0. Žádný překryv sám nezvyšuje jistotu výtky.
-- Helical Toxins 02:30.266–02:42.473: záznamů dokončených vlastních schopností včetně automatických 3. Nejde o počet ručních stisků; celý efekt není automaticky doba bez možnosti útočit.
-- Helical Toxins 04:14.389–04:18.149: záznamů dokončených vlastních schopností včetně automatických 2. Nejde o počet ručních stisků; celý efekt není automaticky doba bez možnosti útočit.
-
-**Hrbaty-Drak'thul-EU**
-- Posouzených původních příkladů: 0; mezer mezi cooldowny: 0. Žádný překryv sám nezvyšuje jistotu výtky.
-- Helical Toxins 00:46.208–00:48.803: záznamů dokončených vlastních schopností včetně automatických 1. Nejde o počet ručních stisků; celý efekt není automaticky doba bez možnosti útočit.
-- Helical Toxins 02:30.377–02:41.516: záznamů dokončených vlastních schopností včetně automatických 2. Nejde o počet ručních stisků; celý efekt není automaticky doba bez možnosti útočit.
-- Helical Toxins 04:14.239–04:22.210: záznamů dokončených vlastních schopností včetně automatických 3. Nejde o počet ručních stisků; celý efekt není automaticky doba bez možnosti útočit.
-
-**Micaello-Drak'thul-EU**
-- Posouzených původních příkladů: 0; mezer mezi cooldowny: 0. Žádný překryv sám nezvyšuje jistotu výtky.
-- Helical Toxins 00:46.372–00:55.334: záznamů dokončených vlastních schopností včetně automatických 5. Nejde o počet ručních stisků; celý efekt není automaticky doba bez možnosti útočit.
-- Helical Toxins 02:30.378–02:32.947: záznamů dokončených vlastních schopností včetně automatických 1. Nejde o počet ručních stisků; celý efekt není automaticky doba bez možnosti útočit.
-- Unstable Miasma 03:01.806–03:09.826: záznamů dokončených vlastních schopností včetně automatických 6. Nejde o počet ručních stisků; celý efekt není automaticky doba bez možnosti útočit.
-
-**Rhínö-Drak'thul-EU**
 - Posouzených původních příkladů: 4; mezer mezi cooldowny: 0. Žádný překryv sám nezvyšuje jistotu výtky.
-- Helical Toxins 00:46.400–00:52.395: záznamů dokončených vlastních schopností včetně automatických 3. Nejde o počet ručních stisků; celý efekt není automaticky doba bez možnosti útočit.
-- Unstable Miasma 01:59.414–02:07.418: záznamů dokončených vlastních schopností včetně automatických 7. Nejde o počet ručních stisků; celý efekt není automaticky doba bez možnosti útočit.
-- Helical Toxins 02:30.224–02:42.473: záznamů dokončených vlastních schopností včetně automatických 9. Nejde o počet ručních stisků; celý efekt není automaticky doba bez možnosti útočit.
-- Helical Toxins 04:14.304–04:22.210: záznamů dokončených vlastních schopností včetně automatických 5. Nejde o počet ručních stisků; celý efekt není automaticky doba bez možnosti útočit.
+- Unspeakable Horrors 02:26.054–02:32.028: záznamů dokončených vlastních schopností včetně automatických 2. Nejde o počet ručních stisků; celý efekt není automaticky doba bez možnosti útočit.
+- Overwhelming Fear 02:32.029–02:33.533: záznamů dokončených vlastních schopností včetně automatických 0. Nejde o počet ručních stisků; celý efekt není automaticky doba bez možnosti útočit.
+- Abyssal Grasp 02:51.003–02:55.181: záznamů dokončených vlastních schopností včetně automatických 3. Nejde o počet ručních stisků; celý efekt není automaticky doba bez možnosti útočit.
+- Luminous Grace 03:35.640–04:16.000: záznamů dokončených vlastních schopností včetně automatických 39. Nejde o počet ručních stisků; celý efekt není automaticky doba bez možnosti útočit.
 
-**Kirill-Drak'thul-EU**
+**Shalo-Drak'thul-EU**
 - Posouzených původních příkladů: 0; mezer mezi cooldowny: 0. Žádný překryv sám nezvyšuje jistotu výtky.
-- Helical Toxins 00:46.396–00:52.395: záznamů dokončených vlastních schopností včetně automatických 10. Nejde o počet ručních stisků; celý efekt není automaticky doba bez možnosti útočit.
-- Helical Toxins 02:30.298–02:58.290: záznamů dokončených vlastních schopností včetně automatických 46. Nejde o počet ručních stisků; celý efekt není automaticky doba bez možnosti útočit.
-- Helical Toxins 04:14.359–04:20.890: záznamů dokončených vlastních schopností včetně automatických 12. Nejde o počet ručních stisků; celý efekt není automaticky doba bez možnosti útočit.
-
-**Kubéc-Drak'thul-EU**
-- Posouzených původních příkladů: 18; mezer mezi cooldowny: 0. Žádný překryv sám nezvyšuje jistotu výtky.
-- Helical Toxins 00:46.401–00:49.214: záznamů dokončených vlastních schopností včetně automatických 0. Nejde o počet ručních stisků; celý efekt není automaticky doba bez možnosti útočit.
-- Helical Toxins 02:30.299–02:34.068: záznamů dokončených vlastních schopností včetně automatických 0. Nejde o počet ručních stisků; celý efekt není automaticky doba bez možnosti útočit.
-- Helical Toxins 04:14.272–04:17.586: záznamů dokončených vlastních schopností včetně automatických 0. Nejde o počet ručních stisků; celý efekt není automaticky doba bez možnosti útočit.
+- Unspeakable Horrors 01:09.995–01:16.001: záznamů dokončených vlastních schopností včetně automatických 4. Nejde o počet ručních stisků; celý efekt není automaticky doba bez možnosti útočit.
+- Overwhelming Fear 01:16.018–01:17.309: záznamů dokončených vlastních schopností včetně automatických 0. Nejde o počet ručních stisků; celý efekt není automaticky doba bez možnosti útočit.
+- Luminous Grace 03:35.640–04:19.717: záznamů dokončených vlastních schopností včetně automatických 0. Nejde o počet ručních stisků; celý efekt není automaticky doba bez možnosti útočit.
 
 **Odmin-Drak'thul-EU**
-- Posouzených původních příkladů: 3; mezer mezi cooldowny: 0. Žádný překryv sám nezvyšuje jistotu výtky.
-- Unstable Miasma 00:18.225–00:26.225: záznamů dokončených vlastních schopností včetně automatických 10. Nejde o počet ručních stisků; celý efekt není automaticky doba bez možnosti útočit.
-- Helical Toxins 00:46.345–00:49.215: záznamů dokončených vlastních schopností včetně automatických 0. Nejde o počet ručních stisků; celý efekt není automaticky doba bez možnosti útočit.
-- Helical Toxins 02:30.336–02:39.317: záznamů dokončených vlastních schopností včetně automatických 0. Nejde o počet ručních stisků; celý efekt není automaticky doba bez možnosti útočit.
-- Helical Toxins 04:14.303–04:20.890: záznamů dokončených vlastních schopností včetně automatických 1. Nejde o počet ručních stisků; celý efekt není automaticky doba bez možnosti útočit.
+- Posouzených původních příkladů: 4; mezer mezi cooldowny: 1. Žádný překryv sám nezvyšuje jistotu výtky.
+- Luminous Grace 03:35.640–04:07.822: záznamů dokončených vlastních schopností včetně automatických 31. Nejde o počet ručních stisků; celý efekt není automaticky doba bez možnosti útočit.
+- Null Gate 03:39.676–03:44.669: záznamů dokončených vlastních schopností včetně automatických 2. Nejde o počet ručních stisků; celý efekt není automaticky doba bez možnosti útočit.
+- Essence Break 01:12.762–02:04.917: Voidswarm. Nejde o potvrzený důvod odkladu ani zapomenuté použití.
 
 **Galneryus-Drak'thul-EU**
-- Posouzených původních příkladů: 5; mezer mezi cooldowny: 3. Žádný překryv sám nezvyšuje jistotu výtky.
-- Helical Toxins 00:46.344–00:53.492: záznamů dokončených vlastních schopností včetně automatických 0. Nejde o počet ručních stisků; celý efekt není automaticky doba bez možnosti útočit.
-- Helical Toxins 02:30.378–02:41.516: záznamů dokončených vlastních schopností včetně automatických 3. Nejde o počet ručních stisků; celý efekt není automaticky doba bez možnosti útočit.
-- Helical Toxins 04:14.360–04:18.150: záznamů dokončených vlastních schopností včetně automatických 1. Nejde o počet ručních stisků; celý efekt není automaticky doba bez možnosti útočit.
-- Execution Sentence 03:07.796–04:28.307: Vitriolic Stasis, Helical Toxins. Nejde o potvrzený důvod odkladu ani zapomenuté použití.
-- Divine Toll 03:13.814–04:32.952: Vitriolic Stasis, Helical Toxins. Nejde o potvrzený důvod odkladu ani zapomenuté použití.
-- Wake of Ashes 03:48.406–04:30.212: Vitriolic Stasis, Helical Toxins. Nejde o potvrzený důvod odkladu ani zapomenuté použití.
+- Posouzených původních příkladů: 1; mezer mezi cooldowny: 0. Žádný překryv sám nezvyšuje jistotu výtky.
+- Abyssal Grasp 01:29.023–01:37.018: záznamů dokončených vlastních schopností včetně automatických 14. Nejde o počet ručních stisků; celý efekt není automaticky doba bez možnosti útočit.
+- Abyssal Grasp 02:51.003–02:53.875: záznamů dokončených vlastních schopností včetně automatických 3. Nejde o počet ručních stisků; celý efekt není automaticky doba bez možnosti útočit.
+- Luminous Grace 03:35.640–04:19.717: záznamů dokončených vlastních schopností včetně automatických 70. Nejde o počet ručních stisků; celý efekt není automaticky doba bez možnosti útočit.
+- Null Gate 03:59.658–04:04.670: záznamů dokončených vlastních schopností včetně automatických 6. Nejde o počet ručních stisků; celý efekt není automaticky doba bez možnosti útočit.
 
 **Íácekpwn-Drak'thul-EU**
 - Posouzených původních příkladů: 0; mezer mezi cooldowny: 0. Žádný překryv sám nezvyšuje jistotu výtky.
-- Helical Toxins 00:46.317–00:56.192: záznamů dokončených vlastních schopností včetně automatických 2. Nejde o počet ručních stisků; celý efekt není automaticky doba bez možnosti útočit.
-- Helical Toxins 02:30.410–02:32.947: záznamů dokončených vlastních schopností včetně automatických 2. Nejde o počet ručních stisků; celý efekt není automaticky doba bez možnosti útočit.
-- Helical Toxins 04:14.241–04:16.085: záznamů dokončených vlastních schopností včetně automatických 1. Nejde o počet ručních stisků; celý efekt není automaticky doba bez možnosti útočit.
-
-**Omniblue-Drak'thul-EU**
-- Posouzených původních příkladů: 3; mezer mezi cooldowny: 1. Žádný překryv sám nezvyšuje jistotu výtky.
-- Helical Toxins 00:46.317–00:50.635: záznamů dokončených vlastních schopností včetně automatických 3. Nejde o počet ručních stisků; celý efekt není automaticky doba bez možnosti útočit.
-- Helical Toxins 02:30.265–02:58.287: záznamů dokončených vlastních schopností včetně automatických 27. Nejde o počet ručních stisků; celý efekt není automaticky doba bez možnosti útočit.
-- Helical Toxins 04:14.273–04:24.805: záznamů dokončených vlastních schopností včetně automatických 4. Nejde o počet ručních stisků; celý efekt není automaticky doba bez možnosti útočit.
-- Power Infusion 00:06.227–02:59.807: Vitriolic Stasis, Helical Toxins, Ula'tek's Dominance. Nejde o potvrzený důvod odkladu ani zapomenuté použití.
+- Abyssal Grasp 01:29.023–01:30.539: záznamů dokončených vlastních schopností včetně automatických 3. Nejde o počet ručních stisků; celý efekt není automaticky doba bez možnosti útočit.
+- Luminous Grace 03:35.640–04:19.717: záznamů dokončených vlastních schopností včetně automatických 61. Nejde o počet ručních stisků; celý efekt není automaticky doba bez možnosti útočit.
+- Null Gate 03:49.669–03:54.676: záznamů dokončených vlastních schopností včetně automatických 8. Nejde o počet ručních stisků; celý efekt není automaticky doba bez možnosti útočit.
+- Null Gate 04:19.669–04:19.717: záznamů dokončených vlastních schopností včetně automatických 0. Nejde o počet ručních stisků; celý efekt není automaticky doba bez možnosti útočit.
 
 **Fobina-Drak'thul-EU**
 - Posouzených původních příkladů: 0; mezer mezi cooldowny: 0. Žádný překryv sám nezvyšuje jistotu výtky.
-- Helical Toxins 00:46.283–00:59.052: záznamů dokončených vlastních schopností včetně automatických 5. Nejde o počet ručních stisků; celý efekt není automaticky doba bez možnosti útočit.
-- Helical Toxins 04:14.305–04:16.085: záznamů dokončených vlastních schopností včetně automatických 1. Nejde o počet ručních stisků; celý efekt není automaticky doba bez možnosti útočit.
+- Abyssal Grasp 01:29.023–01:35.609: záznamů dokončených vlastních schopností včetně automatických 1. Nejde o počet ručních stisků; celý efekt není automaticky doba bez možnosti útočit.
+- Abyssal Grasp 03:18.016–03:21.879: záznamů dokončených vlastních schopností včetně automatických 0. Nejde o počet ručních stisků; celý efekt není automaticky doba bez možnosti útočit.
+- Luminous Grace 03:35.639–04:19.717: záznamů dokončených vlastních schopností včetně automatických 25. Nejde o počet ručních stisků; celý efekt není automaticky doba bez možnosti útočit.
+- Null Gate 04:19.669–04:19.717: záznamů dokončených vlastních schopností včetně automatických 0. Nejde o počet ručních stisků; celý efekt není automaticky doba bez možnosti útočit.
 
 **Nahollou-Drak'thul-EU**
-- Posouzených původních příkladů: 24; mezer mezi cooldowny: 2. Žádný překryv sám nezvyšuje jistotu výtky.
-- Helical Toxins 00:46.342–00:50.266: záznamů dokončených vlastních schopností včetně automatických 1. Nejde o počet ručních stisků; celý efekt není automaticky doba bez možnosti útočit.
-- Helical Toxins 02:30.378–02:34.695: záznamů dokončených vlastních schopností včetně automatických 2. Nejde o počet ručních stisků; celý efekt není automaticky doba bez možnosti útočit.
-- Helical Toxins 04:14.388–04:25.169: záznamů dokončených vlastních schopností včetně automatických 5. Nejde o počet ručních stisků; celý efekt není automaticky doba bez možnosti útočit.
-- Summon Demonic Tyrant 03:16.415–04:30.878: Vitriolic Stasis, Helical Toxins. Nejde o potvrzený důvod odkladu ani zapomenuté použití.
-- Grimoire 02:13.043–04:33.264: Vitriolic Stasis, Helical Toxins, Ula'tek's Dominance. Nejde o potvrzený důvod odkladu ani zapomenuté použití.
-
-**Johnyhoudini-BurningBlade-EU**
-- Posouzených původních příkladů: 1; mezer mezi cooldowny: 1. Žádný překryv sám nezvyšuje jistotu výtky.
-- Helical Toxins 00:46.255–00:56.192: záznamů dokončených vlastních schopností včetně automatických 6. Nejde o počet ručních stisků; celý efekt není automaticky doba bez možnosti útočit.
-- Helical Toxins 02:30.297–02:39.733: záznamů dokončených vlastních schopností včetně automatických 6. Nejde o počet ručních stisků; celý efekt není automaticky doba bez možnosti útočit.
-- Helical Toxins 04:14.361–04:25.169: záznamů dokončených vlastních schopností včetně automatických 6. Nejde o počet ručních stisků; celý efekt není automaticky doba bez možnosti útočit.
-- Touch of the Magi 03:30.358–04:27.342: Vitriolic Stasis, Helical Toxins. Nejde o potvrzený důvod odkladu ani zapomenuté použití.
-
-**Slejhy-Drak'thul-EU**
-- Posouzených původních příkladů: 7; mezer mezi cooldowny: 2. Žádný překryv sám nezvyšuje jistotu výtky.
-- Helical Toxins 00:46.231–00:49.997: záznamů dokončených vlastních schopností včetně automatických 0. Nejde o počet ručních stisků; celý efekt není automaticky doba bez možnosti útočit.
-- Helical Toxins 02:30.299–02:34.068: záznamů dokončených vlastních schopností včetně automatických 0. Nejde o počet ručních stisků; celý efekt není automaticky doba bez možnosti útočit.
-- Unstable Miasma 03:43.934–03:51.939: záznamů dokončených vlastních schopností včetně automatických 16. Nejde o počet ručních stisků; celý efekt není automaticky doba bez možnosti útočit.
-- Helical Toxins 04:14.239–04:17.586: záznamů dokončených vlastních schopností včetně automatických 0. Nejde o počet ručních stisků; celý efekt není automaticky doba bez možnosti útočit.
-- Deathmark 02:12.054–04:32.771: Vitriolic Stasis, Helical Toxins, Ula'tek's Dominance, Unstable Miasma. Nejde o potvrzený důvod odkladu ani zapomenuté použití.
-- Kingsbane 03:13.566–04:31.523: Unstable Miasma, Vitriolic Stasis, Helical Toxins. Nejde o potvrzený důvod odkladu ani zapomenuté použití.
-
-**Corneilia-Sylvanas-EU**
-- Posouzených původních příkladů: 1; mezer mezi cooldowny: 1. Žádný překryv sám nezvyšuje jistotu výtky.
-- Helical Toxins 00:46.257–00:49.997: záznamů dokončených vlastních schopností včetně automatických 0. Nejde o počet ručních stisků; celý efekt není automaticky doba bez možnosti útočit.
-- Helical Toxins 02:30.268–02:35.068: záznamů dokončených vlastních schopností včetně automatických 0. Nejde o počet ručních stisků; celý efekt není automaticky doba bez možnosti útočit.
-- Helical Toxins 04:14.359–04:24.805: záznamů dokončených vlastních schopností včetně automatických 0. Nejde o počet ručních stisků; celý efekt není automaticky doba bez možnosti útočit.
-- Touch of the Magi 00:03.058–01:05.802: Vitriolic Stasis, Helical Toxins. Nejde o potvrzený důvod odkladu ani zapomenuté použití.
-### Vashnik the Malignant · kill 12
-
-Imbibe přivolává living venoms a mění infuze; porovnej s ním přepnutí na Burning Venom / Shrouded Venom. Samotný cast Imbibe neznamená, že jsi musel běžet. Caustic Surge ani Exploding Infection automaticky nepočítáme jako čas bez možnosti útočit.
-
-[Popis mechaniky](https://www.wowhead.com/spell=1284663/imbibe)
-
-- Štít cíle: Miasmic Coating · Shrouded Venom · 00:24.042–00:29.148.
-- Štít cíle: Miasmic Coating · Shrouded Venom · 00:24.042–00:28.555.
-- Štít cíle: Miasmic Coating · Shrouded Venom · 00:24.043–00:27.601.
-- Štít cíle: Miasmic Coating · Shrouded Venom · 00:24.043–00:29.058.
-- Štít cíle: Miasmic Coating · Shrouded Venom · 00:24.043–00:26.741.
-- Změna průběhu: Shadow Infusion · Vashnik · 00:24.246–03:57.797.
-- Změna průběhu: Flame Infusion · Vashnik · 00:24.246–03:57.796.
-- Štít cíle: Miasmic Coating · Shrouded Venom · 01:48.089–01:52.467.
-- Štít cíle: Miasmic Coating · Shrouded Venom · 01:48.089–01:52.981.
-- Štít cíle: Miasmic Coating · Shrouded Venom · 01:48.089–01:52.906.
-- Štít cíle: Miasmic Coating · Shrouded Venom · 01:48.089–01:54.587.
-- Štít cíle: Miasmic Coating · Shrouded Venom · 01:48.089–01:52.543.
-- Štít cíle: Miasmic Coating · Shrouded Venom · 03:12.116–03:24.338.
-- Štít cíle: Miasmic Coating · Shrouded Venom · 03:12.117–03:20.078.
-- Štít cíle: Miasmic Coating · Shrouded Venom · 03:12.117–03:23.271.
-- Štít cíle: Miasmic Coating · Shrouded Venom · 03:12.117–03:21.375.
-- Štít cíle: Miasmic Coating · Shrouded Venom · 03:12.117–03:21.412.
-
-**Vejr-Drak'thul-EU**
-- Posouzených původních příkladů: 0; mezer mezi cooldowny: 0. Žádný překryv sám nezvyšuje jistotu výtky.
-- Plague Froth 00:54.081–01:02.084: záznamů dokončených vlastních schopností včetně automatických 5. Nejde o počet ručních stisků; celý efekt není automaticky doba bez možnosti útočit.
-- Plague Froth 00:54.081–00:54.082: záznamů dokončených vlastních schopností včetně automatických 0. Nejde o počet ručních stisků; celý efekt není automaticky doba bez možnosti útočit.
-- Plague Froth 02:18.090–02:26.101: záznamů dokončených vlastních schopností včetně automatických 6. Nejde o počet ručních stisků; celý efekt není automaticky doba bez možnosti útočit.
-- Plague Froth 02:18.090–02:18.091: záznamů dokončených vlastních schopností včetně automatických 0. Nejde o počet ručních stisků; celý efekt není automaticky doba bez možnosti útočit.
-
-**Theila-Drak'thul-EU**
-- Posouzených původních příkladů: 13; mezer mezi cooldowny: 0. Žádný překryv sám nezvyšuje jistotu výtky.
-
-**Hrbaty-Drak'thul-EU**
-- Posouzených původních příkladů: 1; mezer mezi cooldowny: 0. Žádný překryv sám nezvyšuje jistotu výtky.
-- Plague Froth 00:54.080–01:02.083: záznamů dokončených vlastních schopností včetně automatických 6. Nejde o počet ručních stisků; celý efekt není automaticky doba bez možnosti útočit.
-- Plague Froth 00:54.081–00:54.081: záznamů dokončených vlastních schopností včetně automatických 0. Nejde o počet ručních stisků; celý efekt není automaticky doba bez možnosti útočit.
-
-**Micaello-Drak'thul-EU**
-- Posouzených původních příkladů: 0; mezer mezi cooldowny: 0. Žádný překryv sám nezvyšuje jistotu výtky.
-- Plague Froth 01:27.059–01:35.060: záznamů dokončených vlastních schopností včetně automatických 7. Nejde o počet ručních stisků; celý efekt není automaticky doba bez možnosti útočit.
-- Plague Froth 01:27.059–01:27.059: záznamů dokončených vlastních schopností včetně automatických 0. Nejde o počet ručních stisků; celý efekt není automaticky doba bez možnosti útočit.
-- Plague Froth 02:18.090–02:26.102: záznamů dokončených vlastních schopností včetně automatických 5. Nejde o počet ručních stisků; celý efekt není automaticky doba bez možnosti útočit.
-- Plague Froth 02:18.090–02:18.090: záznamů dokončených vlastních schopností včetně automatických 0. Nejde o počet ručních stisků; celý efekt není automaticky doba bez možnosti útočit.
-- Plague Froth 03:42.129–03:50.111: záznamů dokončených vlastních schopností včetně automatických 7. Nejde o počet ručních stisků; celý efekt není automaticky doba bez možnosti útočit.
-- Plague Froth 03:42.129–03:42.130: záznamů dokončených vlastních schopností včetně automatických 0. Nejde o počet ručních stisků; celý efekt není automaticky doba bez možnosti útočit.
-
-**Rhínö-Drak'thul-EU**
-- Posouzených původních příkladů: 7; mezer mezi cooldowny: 0. Žádný překryv sám nezvyšuje jistotu výtky.
-- Plague Froth 00:54.082–01:02.082: záznamů dokončených vlastních schopností včetně automatických 5. Nejde o počet ručních stisků; celý efekt není automaticky doba bez možnosti útočit.
-- Plague Froth 00:54.082–00:54.082: záznamů dokončených vlastních schopností včetně automatických 0. Nejde o počet ručních stisků; celý efekt není automaticky doba bez možnosti útočit.
-- Plague Froth 02:51.056–02:59.078: záznamů dokončených vlastních schopností včetně automatických 7. Nejde o počet ručních stisků; celý efekt není automaticky doba bez možnosti útočit.
-- Plague Froth 02:51.056–02:51.056: záznamů dokončených vlastních schopností včetně automatických 0. Nejde o počet ručních stisků; celý efekt není automaticky doba bez možnosti útočit.
-- Plague Froth 03:42.130–03:50.112: záznamů dokončených vlastních schopností včetně automatických 5. Nejde o počet ručních stisků; celý efekt není automaticky doba bez možnosti útočit.
-- Plague Froth 03:42.130–03:42.130: záznamů dokončených vlastních schopností včetně automatických 0. Nejde o počet ručních stisků; celý efekt není automaticky doba bez možnosti útočit.
-
-**Kirill-Drak'thul-EU**
-- Posouzených původních příkladů: 0; mezer mezi cooldowny: 0. Žádný překryv sám nezvyšuje jistotu výtky.
-- Plague Froth 00:54.081–01:02.083: záznamů dokončených vlastních schopností včetně automatických 24. Nejde o počet ručních stisků; celý efekt není automaticky doba bez možnosti útočit.
-- Plague Froth 00:54.081–00:54.081: záznamů dokončených vlastních schopností včetně automatických 0. Nejde o počet ručních stisků; celý efekt není automaticky doba bez možnosti útočit.
-- Plague Froth 02:18.090–02:26.100: záznamů dokončených vlastních schopností včetně automatických 28. Nejde o počet ručních stisků; celý efekt není automaticky doba bez možnosti útočit.
-- Plague Froth 02:18.090–02:18.090: záznamů dokončených vlastních schopností včetně automatických 0. Nejde o počet ručních stisků; celý efekt není automaticky doba bez možnosti útočit.
-- Plague Froth 02:51.055–02:59.076: záznamů dokončených vlastních schopností včetně automatických 24. Nejde o počet ručních stisků; celý efekt není automaticky doba bez možnosti útočit.
-- Plague Froth 02:51.056–02:51.056: záznamů dokončených vlastních schopností včetně automatických 0. Nejde o počet ručních stisků; celý efekt není automaticky doba bez možnosti útočit.
-- Plague Froth 03:42.130–03:50.112: záznamů dokončených vlastních schopností včetně automatických 20. Nejde o počet ručních stisků; celý efekt není automaticky doba bez možnosti útočit.
-- Plague Froth 03:42.130–03:42.130: záznamů dokončených vlastních schopností včetně automatických 0. Nejde o počet ručních stisků; celý efekt není automaticky doba bez možnosti útočit.
-
-**Kubéc-Drak'thul-EU**
-- Posouzených původních příkladů: 2; mezer mezi cooldowny: 0. Žádný překryv sám nezvyšuje jistotu výtky.
-
-**Odmin-Drak'thul-EU**
-- Posouzených původních příkladů: 1; mezer mezi cooldowny: 1. Žádný překryv sám nezvyšuje jistotu výtky.
-- Plague Froth 01:27.059–01:35.058: záznamů dokončených vlastních schopností včetně automatických 5. Nejde o počet ručních stisků; celý efekt není automaticky doba bez možnosti útočit.
-- Plague Froth 01:27.059–01:27.059: záznamů dokončených vlastních schopností včetně automatických 0. Nejde o počet ručních stisků; celý efekt není automaticky doba bez možnosti útočit.
-- Plague Froth 02:18.091–02:26.103: záznamů dokončených vlastních schopností včetně automatických 6. Nejde o počet ručních stisků; celý efekt není automaticky doba bez možnosti útočit.
-- Plague Froth 02:18.091–02:20.085: záznamů dokončených vlastních schopností včetně automatických 3. Nejde o počet ručních stisků; celý efekt není automaticky doba bez možnosti útočit.
-- Essence Break 00:44.007–01:52.227: Shadow Infusion, Flame Infusion, Plague Froth, Miasmic Coating. Nejde o potvrzený důvod odkladu ani zapomenuté použití.
-
-**Galneryus-Drak'thul-EU**
-- Posouzených původních příkladů: 0; mezer mezi cooldowny: 0. Žádný překryv sám nezvyšuje jistotu výtky.
-- Plague Froth 00:13.054–00:21.062: záznamů dokončených vlastních schopností včetně automatických 21. Nejde o počet ručních stisků; celý efekt není automaticky doba bez možnosti útočit.
-- Plague Froth 00:13.054–00:13.055: záznamů dokončených vlastních schopností včetně automatických 0. Nejde o počet ručních stisků; celý efekt není automaticky doba bez možnosti útočit.
-- Plague Froth 00:54.082–01:02.082: záznamů dokončených vlastních schopností včetně automatických 12. Nejde o počet ručních stisků; celý efekt není automaticky doba bez možnosti útočit.
-- Plague Froth 00:54.082–00:56.076: záznamů dokončených vlastních schopností včetně automatických 2. Nejde o počet ručních stisků; celý efekt není automaticky doba bez možnosti útočit.
-- Plague Froth 01:27.059–01:35.059: záznamů dokončených vlastních schopností včetně automatických 12. Nejde o počet ručních stisků; celý efekt není automaticky doba bez možnosti útočit.
-- Plague Froth 01:27.059–01:29.041: záznamů dokončených vlastních schopností včetně automatických 3. Nejde o počet ručních stisků; celý efekt není automaticky doba bez možnosti útočit.
-- Plague Froth 03:42.129–03:50.110: záznamů dokončených vlastních schopností včetně automatických 16. Nejde o počet ručních stisků; celý efekt není automaticky doba bez možnosti útočit.
-- Plague Froth 03:42.130–03:42.130: záznamů dokončených vlastních schopností včetně automatických 0. Nejde o počet ručních stisků; celý efekt není automaticky doba bez možnosti útočit.
-
-**Íácekpwn-Drak'thul-EU**
-- Posouzených původních příkladů: 0; mezer mezi cooldowny: 0. Žádný překryv sám nezvyšuje jistotu výtky.
-- Plague Froth 01:27.059–01:35.058: záznamů dokončených vlastních schopností včetně automatických 12. Nejde o počet ručních stisků; celý efekt není automaticky doba bez možnosti útočit.
-- Plague Froth 01:27.059–01:27.059: záznamů dokončených vlastních schopností včetně automatických 0. Nejde o počet ručních stisků; celý efekt není automaticky doba bez možnosti útočit.
-
-**Omniblue-Drak'thul-EU**
-- Posouzených původních příkladů: 1; mezer mezi cooldowny: 0. Žádný překryv sám nezvyšuje jistotu výtky.
-- Plague Froth 00:13.055–00:21.063: záznamů dokončených vlastních schopností včetně automatických 20. Nejde o počet ručních stisků; celý efekt není automaticky doba bez možnosti útočit.
-- Plague Froth 00:13.055–00:15.049: záznamů dokončených vlastních schopností včetně automatických 7. Nejde o počet ručních stisků; celý efekt není automaticky doba bez možnosti útočit.
-- Plague Froth 02:51.055–02:59.077: záznamů dokončených vlastních schopností včetně automatických 9. Nejde o počet ručních stisků; celý efekt není automaticky doba bez možnosti útočit.
-- Plague Froth 02:51.055–02:51.056: záznamů dokončených vlastních schopností včetně automatických 0. Nejde o počet ručních stisků; celý efekt není automaticky doba bez možnosti útočit.
-
-**Fobina-Drak'thul-EU**
-- Posouzených původních příkladů: 0; mezer mezi cooldowny: 0. Žádný překryv sám nezvyšuje jistotu výtky.
-- Plague Froth 00:13.055–00:21.060: záznamů dokončených vlastních schopností včetně automatických 7. Nejde o počet ručních stisků; celý efekt není automaticky doba bez možnosti útočit.
-- Plague Froth 00:13.055–00:13.055: záznamů dokončených vlastních schopností včetně automatických 0. Nejde o počet ručních stisků; celý efekt není automaticky doba bez možnosti útočit.
-- Plague Froth 01:27.059–01:35.059: záznamů dokončených vlastních schopností včetně automatických 7. Nejde o počet ručních stisků; celý efekt není automaticky doba bez možnosti útočit.
-- Plague Froth 01:27.059–01:27.059: záznamů dokončených vlastních schopností včetně automatických 0. Nejde o počet ručních stisků; celý efekt není automaticky doba bez možnosti útočit.
-- Plague Froth 02:51.056–02:59.076: záznamů dokončených vlastních schopností včetně automatických 4. Nejde o počet ručních stisků; celý efekt není automaticky doba bez možnosti útočit.
-- Plague Froth 02:51.056–02:51.056: záznamů dokončených vlastních schopností včetně automatických 0. Nejde o počet ručních stisků; celý efekt není automaticky doba bez možnosti útočit.
-
-**Nahollou-Drak'thul-EU**
-- Posouzených původních příkladů: 17; mezer mezi cooldowny: 0. Žádný překryv sám nezvyšuje jistotu výtky.
-- Plague Froth 02:18.090–02:26.099: záznamů dokončených vlastních schopností včetně automatických 2. Nejde o počet ručních stisků; celý efekt není automaticky doba bez možnosti útočit.
-- Plague Froth 02:18.090–02:18.090: záznamů dokončených vlastních schopností včetně automatických 0. Nejde o počet ručních stisků; celý efekt není automaticky doba bez možnosti útočit.
+- Posouzených původních příkladů: 14; mezer mezi cooldowny: 2. Žádný překryv sám nezvyšuje jistotu výtky.
+- Abyssal Grasp 01:02.000–01:07.630: záznamů dokončených vlastních schopností včetně automatických 1. Nejde o počet ručních stisků; celý efekt není automaticky doba bez možnosti útočit.
+- Abyssal Grasp 02:51.003–02:56.386: záznamů dokončených vlastních schopností včetně automatických 2. Nejde o počet ručních stisků; celý efekt není automaticky doba bez možnosti útočit.
+- Unspeakable Horrors 02:58.981–03:04.983: záznamů dokončených vlastních schopností včetně automatických 3. Nejde o počet ručních stisků; celý efekt není automaticky doba bez možnosti útočit.
+- Overwhelming Fear 03:04.984–03:11.004: záznamů dokončených vlastních schopností včetně automatických 1. Nejde o počet ručních stisků; celý efekt není automaticky doba bez možnosti útočit.
+- Luminous Grace 03:35.639–04:19.717: záznamů dokončených vlastních schopností včetně automatických 28. Nejde o počet ručních stisků; celý efekt není automaticky doba bez možnosti útočit.
+- Null Gate 03:59.658–04:04.670: záznamů dokončených vlastních schopností včetně automatických 1. Nejde o počet ručních stisků; celý efekt není automaticky doba bez možnosti útočit.
+- Summon Demonic Tyrant 01:11.739–02:33.855: Voidswarm. Nejde o potvrzený důvod odkladu ani zapomenuté použití.
+- Grimoire 00:14.299–02:34.975: Abyssal Grasp, Voidswarm. Nejde o potvrzený důvod odkladu ani zapomenuté použití.
 
 **Johnyhoudini-BurningBlade-EU**
 - Posouzených původních příkladů: 0; mezer mezi cooldowny: 0. Žádný překryv sám nezvyšuje jistotu výtky.
-- Plague Froth 00:13.055–00:21.061: záznamů dokončených vlastních schopností včetně automatických 7. Nejde o počet ručních stisků; celý efekt není automaticky doba bez možnosti útočit.
-- Plague Froth 00:13.055–00:13.055: záznamů dokončených vlastních schopností včetně automatických 0. Nejde o počet ručních stisků; celý efekt není automaticky doba bez možnosti útočit.
-
-**Slejhy-Drak'thul-EU**
-- Posouzených původních příkladů: 0; mezer mezi cooldowny: 0. Žádný překryv sám nezvyšuje jistotu výtky.
-- Plague Froth 00:13.055–00:21.062: záznamů dokončených vlastních schopností včetně automatických 16. Nejde o počet ručních stisků; celý efekt není automaticky doba bez možnosti útočit.
-- Plague Froth 00:13.055–00:13.055: záznamů dokončených vlastních schopností včetně automatických 0. Nejde o počet ručních stisků; celý efekt není automaticky doba bez možnosti útočit.
-- Plague Froth 02:51.056–02:59.077: záznamů dokončených vlastních schopností včetně automatických 10. Nejde o počet ručních stisků; celý efekt není automaticky doba bez možnosti útočit.
-- Plague Froth 02:51.056–02:51.056: záznamů dokončených vlastních schopností včetně automatických 0. Nejde o počet ručních stisků; celý efekt není automaticky doba bez možnosti útočit.
+- Abyssal Grasp 01:29.023–01:37.019: záznamů dokončených vlastních schopností včetně automatických 5. Nejde o počet ručních stisků; celý efekt není automaticky doba bez možnosti útočit.
+- Luminous Grace 03:35.640–04:19.717: záznamů dokončených vlastních schopností včetně automatických 0. Nejde o počet ručních stisků; celý efekt není automaticky doba bez možnosti útočit.
 
 **Corneilia-Sylvanas-EU**
 - Posouzených původních příkladů: 0; mezer mezi cooldowny: 0. Žádný překryv sám nezvyšuje jistotu výtky.
-- Plague Froth 03:42.130–03:50.111: záznamů dokončených vlastních schopností včetně automatických 4. Nejde o počet ručních stisků; celý efekt není automaticky doba bez možnosti útočit.
-- Plague Froth 03:42.130–03:44.117: záznamů dokončených vlastních schopností včetně automatických 1. Nejde o počet ručních stisků; celý efekt není automaticky doba bez možnosti útočit.
+- Abyssal Grasp 01:29.023–01:36.166: záznamů dokončených vlastních schopností včetně automatických 4. Nejde o počet ručních stisků; celý efekt není automaticky doba bez možnosti útočit.
+- Luminous Grace 03:35.640–04:17.203: záznamů dokončených vlastních schopností včetně automatických 24. Nejde o počet ručních stisků; celý efekt není automaticky doba bez možnosti útočit.
+- Null Gate 04:09.664–04:14.660: záznamů dokončených vlastních schopností včetně automatických 1. Nejde o počet ručních stisků; celý efekt není automaticky doba bez možnosti útočit.
 
 ## Začátek souboje a první burst
 
 Časy od pullu; záporný čas je příprava před ním. Porovnání neprokazuje připravené cooldowny ani správnost celé rotace.
+
+### Greenfire-Drak'thul-EU — Nek'zali the Soulcoiler
+
+Před prvním Tyrantem si připrav démony. Pokud jsou připravení Dreadstalkers a Grimoire: Imp Lord, přivolej je před ním; u Diabolist si připrav také 5 Soul Shards. Pak využij burst na své silné útoky.
+
+Guide a doporučené priority se v pořadí některých přípravných summonů liší. Důležitá je příprava před Tyrantem. Tato kontrola nepotvrzuje počet Soul Shards při začátku jeho castu. Záznam pozdějšího démona sám neprokazuje, že byl jeho cooldown připravený dříve; starší pet může existovat už před sledovaným úsekem.
+
+- Připrav Dreadstalkers před Tyrantem, pokud jsou připravení. **Stejné pořadí jako v doporučeném začátku**: Call Dreadstalkers +1.829 s; Summon Demonic Tyrant +9.999 s. Reign of Tyranny při vyvolání Tyranta prodlužuje právě přítomné Dreadstalkers. Psi přivolaní až potom se tohoto prodloužení při vyvolání neúčastní.
+- Pokud máš Grimoire: Imp Lord připravený, přivolej ho před prvním Tyrantem. **Stejné pořadí jako v doporučeném začátku**: Grimoire: Imp Lord +3.054 s; Summon Demonic Tyrant +9.999 s. Doporučený opener pro Diabolist řadí Imp Lord před Tyranta. Další kouzla pak navazují na připravený burst; konkrétní přínos změny pořadí z logu nepočítáme.
+
+[Guide](https://www.method.gg/guides/demonology-warlock/playstyle-and-rotation) · [Připnutá verze SimulationCraft](https://github.com/simulationcraft/simc/tree/76f8118cf3f7f41dad20708e8328e1f4ab2deebc)
+
+### Greenfire-Drak'thul-EU — The Coiled Altar
+
+Před prvním Tyrantem si připrav démony. Pokud jsou připravení Dreadstalkers a Grimoire: Imp Lord, přivolej je před ním; u Diabolist si připrav také 5 Soul Shards. Pak využij burst na své silné útoky.
+
+Guide a doporučené priority se v pořadí některých přípravných summonů liší. Důležitá je příprava před Tyrantem. Tato kontrola nepotvrzuje počet Soul Shards při začátku jeho castu. Záznam pozdějšího démona sám neprokazuje, že byl jeho cooldown připravený dříve; starší pet může existovat už před sledovaným úsekem.
+
+- Připrav Dreadstalkers před Tyrantem, pokud jsou připravení. **Stejné pořadí jako v doporučeném začátku**: Call Dreadstalkers +1.123 s; Summon Demonic Tyrant +4.419 s. Reign of Tyranny při vyvolání Tyranta prodlužuje právě přítomné Dreadstalkers. Psi přivolaní až potom se tohoto prodloužení při vyvolání neúčastní.
+- Pokud máš Grimoire: Imp Lord připravený, přivolej ho před prvním Tyrantem. **Stejné pořadí jako v doporučeném začátku**: Grimoire: Imp Lord +2.304 s; Summon Demonic Tyrant +4.419 s. Doporučený opener pro Diabolist řadí Imp Lord před Tyranta. Další kouzla pak navazují na připravený burst; konkrétní přínos změny pořadí z logu nepočítáme.
+
+[Guide](https://www.method.gg/guides/demonology-warlock/playstyle-and-rotation) · [Připnutá verze SimulationCraft](https://github.com/simulationcraft/simc/tree/76f8118cf3f7f41dad20708e8328e1f4ab2deebc)
+
+### Greenfire-Drak'thul-EU — Ula'tek
+
+Před prvním Tyrantem si připrav démony. Pokud jsou připravení Dreadstalkers a Grimoire: Imp Lord, přivolej je před ním; u Diabolist si připrav také 5 Soul Shards. Pak využij burst na své silné útoky.
+
+Guide a doporučené priority se v pořadí některých přípravných summonů liší. Důležitá je příprava před Tyrantem. Tato kontrola nepotvrzuje počet Soul Shards při začátku jeho castu. Záznam pozdějšího démona sám neprokazuje, že byl jeho cooldown připravený dříve; starší pet může existovat už před sledovaným úsekem.
+
+- Připrav Dreadstalkers před Tyrantem, pokud jsou připravení. **Jiné pořadí — zkontroluj přípravu burstu**: Call Dreadstalkers +4.736 s; Summon Demonic Tyrant +2.997 s. Reign of Tyranny při vyvolání Tyranta prodlužuje právě přítomné Dreadstalkers. Psi přivolaní až potom se tohoto prodloužení při vyvolání neúčastní.
+- Pokud máš Grimoire: Imp Lord připravený, přivolej ho před prvním Tyrantem. **Jiné pořadí — zkontroluj přípravu burstu**: Grimoire: Imp Lord +3.758 s; Summon Demonic Tyrant +2.997 s. Doporučený opener pro Diabolist řadí Imp Lord před Tyranta. Další kouzla pak navazují na připravený burst; konkrétní přínos změny pořadí z logu nepočítáme.
+
+[Guide](https://www.method.gg/guides/demonology-warlock/playstyle-and-rotation) · [Připnutá verze SimulationCraft](https://github.com/simulationcraft/simc/tree/76f8118cf3f7f41dad20708e8328e1f4ab2deebc)
+
+### Greenfire-Drak'thul-EU — The Lost Explorers
+
+Před prvním Tyrantem si připrav démony. Pokud jsou připravení Dreadstalkers a Grimoire: Imp Lord, přivolej je před ním; u Diabolist si připrav také 5 Soul Shards. Pak využij burst na své silné útoky.
+
+Guide a doporučené priority se v pořadí některých přípravných summonů liší. Důležitá je příprava před Tyrantem. Tato kontrola nepotvrzuje počet Soul Shards při začátku jeho castu. Záznam pozdějšího démona sám neprokazuje, že byl jeho cooldown připravený dříve; starší pet může existovat už před sledovaným úsekem.
+
+- Připrav Dreadstalkers před Tyrantem, pokud jsou připravení. **Stejné pořadí jako v doporučeném začátku**: Call Dreadstalkers +1.619 s; Summon Demonic Tyrant +3.708 s. Reign of Tyranny při vyvolání Tyranta prodlužuje právě přítomné Dreadstalkers. Psi přivolaní až potom se tohoto prodloužení při vyvolání neúčastní.
+- Pokud máš Grimoire: Imp Lord připravený, přivolej ho před prvním Tyrantem. **Jiné pořadí — zkontroluj přípravu burstu**: Grimoire: Imp Lord +4.080 s; Summon Demonic Tyrant +3.708 s. Doporučený opener pro Diabolist řadí Imp Lord před Tyranta. Další kouzla pak navazují na připravený burst; konkrétní přínos změny pořadí z logu nepočítáme.
+
+[Guide](https://www.method.gg/guides/demonology-warlock/playstyle-and-rotation) · [Připnutá verze SimulationCraft](https://github.com/simulationcraft/simc/tree/76f8118cf3f7f41dad20708e8328e1f4ab2deebc)
+
+### Greenfire-Drak'thul-EU — Sszorak
+
+Před prvním Tyrantem si připrav démony. Pokud jsou připravení Dreadstalkers a Grimoire: Imp Lord, přivolej je před ním; u Diabolist si připrav také 5 Soul Shards. Pak využij burst na své silné útoky.
+
+Guide a doporučené priority se v pořadí některých přípravných summonů liší. Důležitá je příprava před Tyrantem. Tato kontrola nepotvrzuje počet Soul Shards při začátku jeho castu. Záznam pozdějšího démona sám neprokazuje, že byl jeho cooldown připravený dříve; starší pet může existovat už před sledovaným úsekem.
+
+- Připrav Dreadstalkers před Tyrantem, pokud jsou připravení. **Jiné pořadí — zkontroluj přípravu burstu**: Call Dreadstalkers +2.836 s; Summon Demonic Tyrant +2.408 s. Reign of Tyranny při vyvolání Tyranta prodlužuje právě přítomné Dreadstalkers. Psi přivolaní až potom se tohoto prodloužení při vyvolání neúčastní.
+- Pokud máš Grimoire: Imp Lord připravený, přivolej ho před prvním Tyrantem. **Jiné pořadí — zkontroluj přípravu burstu**: Grimoire: Imp Lord +3.970 s; Summon Demonic Tyrant +2.408 s. Doporučený opener pro Diabolist řadí Imp Lord před Tyranta. Další kouzla pak navazují na připravený burst; konkrétní přínos změny pořadí z logu nepočítáme.
+
+[Guide](https://www.method.gg/guides/demonology-warlock/playstyle-and-rotation) · [Připnutá verze SimulationCraft](https://github.com/simulationcraft/simc/tree/76f8118cf3f7f41dad20708e8328e1f4ab2deebc)
 
 ### Nahollou-Drak'thul-EU — The Coiled Altar
 
@@ -2282,8 +2187,8 @@ Před prvním Tyrantem si připrav démony. Pokud jsou připravení Dreadstalker
 
 Guide a doporučené priority se v pořadí některých přípravných summonů liší. Důležitá je příprava před Tyrantem. Tato kontrola nepotvrzuje počet Soul Shards při začátku jeho castu. Záznam pozdějšího démona sám neprokazuje, že byl jeho cooldown připravený dříve; starší pet může existovat už před sledovaným úsekem.
 
-- Připrav Dreadstalkers před Tyrantem, pokud jsou připravení. **Stejné pořadí jako v doporučeném začátku**: Call Dreadstalkers +2.006 s; Summon Demonic Tyrant +4.431 s. Reign of Tyranny při vyvolání Tyranta prodlužuje právě přítomné Dreadstalkers. Psi přivolaní až potom se tohoto prodloužení při vyvolání neúčastní.
-- Pokud máš Grimoire: Imp Lord připravený, přivolej ho před prvním Tyrantem. **Jiné pořadí — zkontroluj přípravu burstu**: Grimoire: Imp Lord +4.798 s; Summon Demonic Tyrant +4.431 s. Doporučený opener pro Diabolist řadí Imp Lord před Tyranta. Další kouzla pak navazují na připravený burst; konkrétní přínos změny pořadí z logu nepočítáme.
+- Připrav Dreadstalkers před Tyrantem, pokud jsou připravení. **Stejné pořadí jako v doporučeném začátku**: Call Dreadstalkers +0.386 s; Summon Demonic Tyrant +2.764 s. Reign of Tyranny při vyvolání Tyranta prodlužuje právě přítomné Dreadstalkers. Psi přivolaní až potom se tohoto prodloužení při vyvolání neúčastní.
+- Pokud máš Grimoire: Imp Lord připravený, přivolej ho před prvním Tyrantem. **Jiné pořadí — zkontroluj přípravu burstu**: Grimoire: Imp Lord +3.790 s; Summon Demonic Tyrant +2.764 s. Doporučený opener pro Diabolist řadí Imp Lord před Tyranta. Další kouzla pak navazují na připravený burst; konkrétní přínos změny pořadí z logu nepočítáme.
 
 [Guide](https://www.method.gg/guides/demonology-warlock/playstyle-and-rotation) · [Připnutá verze SimulationCraft](https://github.com/simulationcraft/simc/tree/76f8118cf3f7f41dad20708e8328e1f4ab2deebc)
 
@@ -2293,8 +2198,30 @@ Před prvním Tyrantem si připrav démony. Pokud jsou připravení Dreadstalker
 
 Guide a doporučené priority se v pořadí některých přípravných summonů liší. Důležitá je příprava před Tyrantem. Tato kontrola nepotvrzuje počet Soul Shards při začátku jeho castu. Záznam pozdějšího démona sám neprokazuje, že byl jeho cooldown připravený dříve; starší pet může existovat už před sledovaným úsekem.
 
-- Připrav Dreadstalkers před Tyrantem, pokud jsou připravení. **Stejné pořadí jako v doporučeném začátku**: Call Dreadstalkers +1.229 s; Summon Demonic Tyrant +3.675 s. Reign of Tyranny při vyvolání Tyranta prodlužuje právě přítomné Dreadstalkers. Psi přivolaní až potom se tohoto prodloužení při vyvolání neúčastní.
-- Pokud máš Grimoire: Imp Lord připravený, přivolej ho před prvním Tyrantem. **Jiné pořadí — zkontroluj přípravu burstu**: Grimoire: Imp Lord +4.536 s; Summon Demonic Tyrant +3.675 s. Doporučený opener pro Diabolist řadí Imp Lord před Tyranta. Další kouzla pak navazují na připravený burst; konkrétní přínos změny pořadí z logu nepočítáme.
+- Připrav Dreadstalkers před Tyrantem, pokud jsou připravení. **Stejné pořadí jako v doporučeném začátku**: Call Dreadstalkers +0.040 s; Summon Demonic Tyrant +2.371 s. Reign of Tyranny při vyvolání Tyranta prodlužuje právě přítomné Dreadstalkers. Psi přivolaní až potom se tohoto prodloužení při vyvolání neúčastní.
+- Pokud máš Grimoire: Imp Lord připravený, přivolej ho před prvním Tyrantem. **Jiné pořadí — zkontroluj přípravu burstu**: Grimoire: Imp Lord +3.302 s; Summon Demonic Tyrant +2.371 s. Doporučený opener pro Diabolist řadí Imp Lord před Tyranta. Další kouzla pak navazují na připravený burst; konkrétní přínos změny pořadí z logu nepočítáme.
+
+[Guide](https://www.method.gg/guides/demonology-warlock/playstyle-and-rotation) · [Připnutá verze SimulationCraft](https://github.com/simulationcraft/simc/tree/76f8118cf3f7f41dad20708e8328e1f4ab2deebc)
+
+### Nahollou-Drak'thul-EU — The Lost Explorers
+
+Před prvním Tyrantem si připrav démony. Pokud jsou připravení Dreadstalkers a Grimoire: Imp Lord, přivolej je před ním; u Diabolist si připrav také 5 Soul Shards. Pak využij burst na své silné útoky.
+
+Guide a doporučené priority se v pořadí některých přípravných summonů liší. Důležitá je příprava před Tyrantem. Tato kontrola nepotvrzuje počet Soul Shards při začátku jeho castu. Záznam pozdějšího démona sám neprokazuje, že byl jeho cooldown připravený dříve; starší pet může existovat už před sledovaným úsekem.
+
+- Připrav Dreadstalkers před Tyrantem, pokud jsou připravení. **Stejné pořadí jako v doporučeném začátku**: Call Dreadstalkers +0.485 s; Summon Demonic Tyrant +2.861 s. Reign of Tyranny při vyvolání Tyranta prodlužuje právě přítomné Dreadstalkers. Psi přivolaní až potom se tohoto prodloužení při vyvolání neúčastní.
+- Pokud máš Grimoire: Imp Lord připravený, přivolej ho před prvním Tyrantem. **Jiné pořadí — zkontroluj přípravu burstu**: Grimoire: Imp Lord +4.274 s; Summon Demonic Tyrant +2.861 s. Doporučený opener pro Diabolist řadí Imp Lord před Tyranta. Další kouzla pak navazují na připravený burst; konkrétní přínos změny pořadí z logu nepočítáme.
+
+[Guide](https://www.method.gg/guides/demonology-warlock/playstyle-and-rotation) · [Připnutá verze SimulationCraft](https://github.com/simulationcraft/simc/tree/76f8118cf3f7f41dad20708e8328e1f4ab2deebc)
+
+### Nahollou-Drak'thul-EU — Sszorak
+
+Před prvním Tyrantem si připrav démony. Pokud jsou připravení Dreadstalkers a Grimoire: Imp Lord, přivolej je před ním; u Diabolist si připrav také 5 Soul Shards. Pak využij burst na své silné útoky.
+
+Guide a doporučené priority se v pořadí některých přípravných summonů liší. Důležitá je příprava před Tyrantem. Tato kontrola nepotvrzuje počet Soul Shards při začátku jeho castu. Záznam pozdějšího démona sám neprokazuje, že byl jeho cooldown připravený dříve; starší pet může existovat už před sledovaným úsekem.
+
+- Připrav Dreadstalkers před Tyrantem, pokud jsou připravení. **Stejné pořadí jako v doporučeném začátku**: Call Dreadstalkers +0.293 s; Summon Demonic Tyrant +2.665 s. Reign of Tyranny při vyvolání Tyranta prodlužuje právě přítomné Dreadstalkers. Psi přivolaní až potom se tohoto prodloužení při vyvolání neúčastní.
+- Pokud máš Grimoire: Imp Lord připravený, přivolej ho před prvním Tyrantem. **Jiné pořadí — zkontroluj přípravu burstu**: Grimoire: Imp Lord +4.369 s; Summon Demonic Tyrant +2.665 s. Doporučený opener pro Diabolist řadí Imp Lord před Tyranta. Další kouzla pak navazují na připravený burst; konkrétní přínos změny pořadí z logu nepočítáme.
 
 [Guide](https://www.method.gg/guides/demonology-warlock/playstyle-and-rotation) · [Připnutá verze SimulationCraft](https://github.com/simulationcraft/simc/tree/76f8118cf3f7f41dad20708e8328e1f4ab2deebc)
 
@@ -2304,42 +2231,10 @@ Před prvním Tyrantem si připrav démony. Pokud jsou připravení Dreadstalker
 
 Guide a doporučené priority se v pořadí některých přípravných summonů liší. Důležitá je příprava před Tyrantem. Tato kontrola nepotvrzuje počet Soul Shards při začátku jeho castu. Záznam pozdějšího démona sám neprokazuje, že byl jeho cooldown připravený dříve; starší pet může existovat už před sledovaným úsekem.
 
-- Připrav Dreadstalkers před Tyrantem, pokud jsou připravení. **Jiné pořadí — zkontroluj přípravu burstu**: Call Dreadstalkers +3.958 s; Summon Demonic Tyrant +3.713 s. Reign of Tyranny při vyvolání Tyranta prodlužuje právě přítomné Dreadstalkers. Psi přivolaní až potom se tohoto prodloužení při vyvolání neúčastní.
-- Pokud máš Grimoire: Imp Lord připravený, přivolej ho před prvním Tyrantem. **Jiné pořadí — zkontroluj přípravu burstu**: Grimoire: Imp Lord +5.931 s; Summon Demonic Tyrant +3.713 s. Doporučený opener pro Diabolist řadí Imp Lord před Tyranta. Další kouzla pak navazují na připravený burst; konkrétní přínos změny pořadí z logu nepočítáme.
+- Připrav Dreadstalkers před Tyrantem, pokud jsou připravení. **Stejné pořadí jako v doporučeném začátku**: Call Dreadstalkers +1.897 s; Summon Demonic Tyrant +3.990 s. Reign of Tyranny při vyvolání Tyranta prodlužuje právě přítomné Dreadstalkers. Psi přivolaní až potom se tohoto prodloužení při vyvolání neúčastní.
+- Pokud máš Grimoire: Imp Lord připravený, přivolej ho před prvním Tyrantem. **Jiné pořadí — zkontroluj přípravu burstu**: Grimoire: Imp Lord +14.299 s; Summon Demonic Tyrant +3.990 s. Doporučený opener pro Diabolist řadí Imp Lord před Tyranta. Další kouzla pak navazují na připravený burst; konkrétní přínos změny pořadí z logu nepočítáme.
 
 [Guide](https://www.method.gg/guides/demonology-warlock/playstyle-and-rotation) · [Připnutá verze SimulationCraft](https://github.com/simulationcraft/simc/tree/76f8118cf3f7f41dad20708e8328e1f4ab2deebc)
-
-### Nahollou-Drak'thul-EU — Entombed Sentinels
-
-Před prvním Tyrantem si připrav démony. Pokud jsou připravení Dreadstalkers a Grimoire: Imp Lord, přivolej je před ním; u Diabolist si připrav také 5 Soul Shards. Pak využij burst na své silné útoky.
-
-Guide a doporučené priority se v pořadí některých přípravných summonů liší. Důležitá je příprava před Tyrantem. Tato kontrola nepotvrzuje počet Soul Shards při začátku jeho castu. Záznam pozdějšího démona sám neprokazuje, že byl jeho cooldown připravený dříve; starší pet může existovat už před sledovaným úsekem.
-
-- Připrav Dreadstalkers před Tyrantem, pokud jsou připravení. **Jiné pořadí — zkontroluj přípravu burstu**: Call Dreadstalkers +7.155 s; Summon Demonic Tyrant +3.548 s. Reign of Tyranny při vyvolání Tyranta prodlužuje právě přítomné Dreadstalkers. Psi přivolaní až potom se tohoto prodloužení při vyvolání neúčastní.
-- Pokud máš Grimoire: Imp Lord připravený, přivolej ho před prvním Tyrantem. **Jiné pořadí — zkontroluj přípravu burstu**: Grimoire: Imp Lord +10.338 s; Summon Demonic Tyrant +3.548 s. Doporučený opener pro Diabolist řadí Imp Lord před Tyranta. Další kouzla pak navazují na připravený burst; konkrétní přínos změny pořadí z logu nepočítáme.
-
-[Guide](https://www.method.gg/guides/demonology-warlock/playstyle-and-rotation) · [Připnutá verze SimulationCraft](https://github.com/simulationcraft/simc/tree/76f8118cf3f7f41dad20708e8328e1f4ab2deebc)
-
-### Nahollou-Drak'thul-EU — Vashnik the Malignant
-
-Před prvním Tyrantem si připrav démony. Pokud jsou připravení Dreadstalkers a Grimoire: Imp Lord, přivolej je před ním; u Diabolist si připrav také 5 Soul Shards. Pak využij burst na své silné útoky.
-
-Guide a doporučené priority se v pořadí některých přípravných summonů liší. Důležitá je příprava před Tyrantem. Tato kontrola nepotvrzuje počet Soul Shards při začátku jeho castu. Záznam pozdějšího démona sám neprokazuje, že byl jeho cooldown připravený dříve; starší pet může existovat už před sledovaným úsekem.
-
-- Připrav Dreadstalkers před Tyrantem, pokud jsou připravení. **Stejné pořadí jako v doporučeném začátku**: Call Dreadstalkers +0.219 s; Summon Demonic Tyrant +2.348 s. Reign of Tyranny při vyvolání Tyranta prodlužuje právě přítomné Dreadstalkers. Psi přivolaní až potom se tohoto prodloužení při vyvolání neúčastní.
-- Pokud máš Grimoire: Imp Lord připravený, přivolej ho před prvním Tyrantem. **Jiné pořadí — zkontroluj přípravu burstu**: Grimoire: Imp Lord +3.120 s; Summon Demonic Tyrant +2.348 s. Doporučený opener pro Diabolist řadí Imp Lord před Tyranta. Další kouzla pak navazují na připravený burst; konkrétní přínos změny pořadí z logu nepočítáme.
-
-[Guide](https://www.method.gg/guides/demonology-warlock/playstyle-and-rotation) · [Připnutá verze SimulationCraft](https://github.com/simulationcraft/simc/tree/76f8118cf3f7f41dad20708e8328e1f4ab2deebc)
-
-### Corneilia-Sylvanas-EU — Nek'zali the Soulcoiler
-
-První Arcane Surge plánuj s navazujícím Touch of the Magi. Připrav si jeho začátek tak, aby burst nevyplnila zbytečná příprava mimo silné okno.
-
-Guide má mezi Surge a Touch také Missiles a Barrage; samotný kratší či delší odstup neříká, zda byly splněné všechny procy, charges a priority. Nepředepisujeme vždy stejný počet castů.
-
-- První Touch of the Magi připrav k Arcane Surge. **Stejné pořadí jako v doporučeném začátku**: Arcane Surge +2.808 s; Touch of the Magi +5.282 s. Guide obou hero variant začíná Surge a navazuje Touch. Kontrola porovnává jen první doložené casty.
-
-[Guide](https://www.method.gg/guides/arcane-mage/playstyle-and-rotation) · [Připnutá verze SimulationCraft](https://github.com/simulationcraft/simc/tree/76f8118cf3f7f41dad20708e8328e1f4ab2deebc)
 
 ### Corneilia-Sylvanas-EU — The Coiled Altar
 
@@ -2347,7 +2242,7 @@ První Arcane Surge plánuj s navazujícím Touch of the Magi. Připrav si jeho 
 
 Guide má mezi Surge a Touch také Missiles a Barrage; samotný kratší či delší odstup neříká, zda byly splněné všechny procy, charges a priority. Nepředepisujeme vždy stejný počet castů.
 
-- První Touch of the Magi připrav k Arcane Surge. **Stejné pořadí jako v doporučeném začátku**: Arcane Surge +1.801 s; Touch of the Magi +4.277 s. Guide obou hero variant začíná Surge a navazuje Touch. Kontrola porovnává jen první doložené casty.
+- První Touch of the Magi připrav k Arcane Surge. **Stejné pořadí jako v doporučeném začátku**: Arcane Surge +1.329 s; Touch of the Magi +3.344 s. Guide obou hero variant začíná Surge a navazuje Touch. Kontrola porovnává jen první doložené casty.
 
 [Guide](https://www.method.gg/guides/arcane-mage/playstyle-and-rotation) · [Připnutá verze SimulationCraft](https://github.com/simulationcraft/simc/tree/76f8118cf3f7f41dad20708e8328e1f4ab2deebc)
 
@@ -2357,7 +2252,27 @@ První Arcane Surge plánuj s navazujícím Touch of the Magi. Připrav si jeho 
 
 Guide má mezi Surge a Touch také Missiles a Barrage; samotný kratší či delší odstup neříká, zda byly splněné všechny procy, charges a priority. Nepředepisujeme vždy stejný počet castů.
 
-- První Touch of the Magi připrav k Arcane Surge. **Stejné pořadí jako v doporučeném začátku**: Arcane Surge +2.087 s; Touch of the Magi +3.973 s. Guide obou hero variant začíná Surge a navazuje Touch. Kontrola porovnává jen první doložené casty.
+- První Touch of the Magi připrav k Arcane Surge. **Stejné pořadí jako v doporučeném začátku**: Arcane Surge +2.446 s; Touch of the Magi +4.547 s. Guide obou hero variant začíná Surge a navazuje Touch. Kontrola porovnává jen první doložené casty.
+
+[Guide](https://www.method.gg/guides/arcane-mage/playstyle-and-rotation) · [Připnutá verze SimulationCraft](https://github.com/simulationcraft/simc/tree/76f8118cf3f7f41dad20708e8328e1f4ab2deebc)
+
+### Corneilia-Sylvanas-EU — The Lost Explorers
+
+První Arcane Surge plánuj s navazujícím Touch of the Magi. Připrav si jeho začátek tak, aby burst nevyplnila zbytečná příprava mimo silné okno.
+
+Guide má mezi Surge a Touch také Missiles a Barrage; samotný kratší či delší odstup neříká, zda byly splněné všechny procy, charges a priority. Nepředepisujeme vždy stejný počet castů.
+
+- První Touch of the Magi připrav k Arcane Surge. **Stejné pořadí jako v doporučeném začátku**: Arcane Surge +3.481 s; Touch of the Magi +5.148 s. Guide obou hero variant začíná Surge a navazuje Touch. Kontrola porovnává jen první doložené casty.
+
+[Guide](https://www.method.gg/guides/arcane-mage/playstyle-and-rotation) · [Připnutá verze SimulationCraft](https://github.com/simulationcraft/simc/tree/76f8118cf3f7f41dad20708e8328e1f4ab2deebc)
+
+### Corneilia-Sylvanas-EU — Sszorak
+
+První Arcane Surge plánuj s navazujícím Touch of the Magi. Připrav si jeho začátek tak, aby burst nevyplnila zbytečná příprava mimo silné okno.
+
+Guide má mezi Surge a Touch také Missiles a Barrage; samotný kratší či delší odstup neříká, zda byly splněné všechny procy, charges a priority. Nepředepisujeme vždy stejný počet castů.
+
+- První Touch of the Magi připrav k Arcane Surge. **Stejné pořadí jako v doporučeném začátku**: Arcane Surge +1.848 s; Touch of the Magi +5.485 s. Guide obou hero variant začíná Surge a navazuje Touch. Kontrola porovnává jen první doložené casty.
 
 [Guide](https://www.method.gg/guides/arcane-mage/playstyle-and-rotation) · [Připnutá verze SimulationCraft](https://github.com/simulationcraft/simc/tree/76f8118cf3f7f41dad20708e8328e1f4ab2deebc)
 
@@ -2367,37 +2282,7 @@ První Arcane Surge plánuj s navazujícím Touch of the Magi. Připrav si jeho 
 
 Guide má mezi Surge a Touch také Missiles a Barrage; samotný kratší či delší odstup neříká, zda byly splněné všechny procy, charges a priority. Nepředepisujeme vždy stejný počet castů.
 
-- První Touch of the Magi připrav k Arcane Surge. **Stejné pořadí jako v doporučeném začátku**: Arcane Surge +0.671 s; Touch of the Magi +2.378 s. Guide obou hero variant začíná Surge a navazuje Touch. Kontrola porovnává jen první doložené casty.
-
-[Guide](https://www.method.gg/guides/arcane-mage/playstyle-and-rotation) · [Připnutá verze SimulationCraft](https://github.com/simulationcraft/simc/tree/76f8118cf3f7f41dad20708e8328e1f4ab2deebc)
-
-### Corneilia-Sylvanas-EU — Entombed Sentinels
-
-První Arcane Surge plánuj s navazujícím Touch of the Magi. Připrav si jeho začátek tak, aby burst nevyplnila zbytečná příprava mimo silné okno.
-
-Guide má mezi Surge a Touch také Missiles a Barrage; samotný kratší či delší odstup neříká, zda byly splněné všechny procy, charges a priority. Nepředepisujeme vždy stejný počet castů.
-
-- První Touch of the Magi připrav k Arcane Surge. **Stejné pořadí jako v doporučeném začátku**: Arcane Surge +1.072 s; Touch of the Magi +3.058 s. Guide obou hero variant začíná Surge a navazuje Touch. Kontrola porovnává jen první doložené casty.
-
-[Guide](https://www.method.gg/guides/arcane-mage/playstyle-and-rotation) · [Připnutá verze SimulationCraft](https://github.com/simulationcraft/simc/tree/76f8118cf3f7f41dad20708e8328e1f4ab2deebc)
-
-### Corneilia-Sylvanas-EU — Vashnik the Malignant
-
-První Arcane Surge plánuj s navazujícím Touch of the Magi. Připrav si jeho začátek tak, aby burst nevyplnila zbytečná příprava mimo silné okno.
-
-Guide má mezi Surge a Touch také Missiles a Barrage; samotný kratší či delší odstup neříká, zda byly splněné všechny procy, charges a priority. Nepředepisujeme vždy stejný počet castů.
-
-- První Touch of the Magi připrav k Arcane Surge. **Stejné pořadí jako v doporučeném začátku**: Arcane Surge +0.220 s; Touch of the Magi +3.538 s. Guide obou hero variant začíná Surge a navazuje Touch. Kontrola porovnává jen první doložené casty.
-
-[Guide](https://www.method.gg/guides/arcane-mage/playstyle-and-rotation) · [Připnutá verze SimulationCraft](https://github.com/simulationcraft/simc/tree/76f8118cf3f7f41dad20708e8328e1f4ab2deebc)
-
-### Iacek-Drak'thul-EU — Kith'ix
-
-První Arcane Surge plánuj s navazujícím Touch of the Magi. Připrav si jeho začátek tak, aby burst nevyplnila zbytečná příprava mimo silné okno.
-
-Guide má mezi Surge a Touch také Missiles a Barrage; samotný kratší či delší odstup neříká, zda byly splněné všechny procy, charges a priority. Nepředepisujeme vždy stejný počet castů.
-
-- První Touch of the Magi připrav k Arcane Surge. **Stejné pořadí jako v doporučeném začátku**: Arcane Surge +10.093 s; Touch of the Magi +12.811 s. Guide obou hero variant začíná Surge a navazuje Touch. Kontrola porovnává jen první doložené casty.
+- První Touch of the Magi připrav k Arcane Surge. **Stejné pořadí jako v doporučeném začátku**: Arcane Surge +3.101 s; Touch of the Magi +7.244 s. Guide obou hero variant začíná Surge a navazuje Touch. Kontrola porovnává jen první doložené casty.
 
 [Guide](https://www.method.gg/guides/arcane-mage/playstyle-and-rotation) · [Připnutá verze SimulationCraft](https://github.com/simulationcraft/simc/tree/76f8118cf3f7f41dad20708e8328e1f4ab2deebc)
 
@@ -2407,7 +2292,7 @@ První Arcane Surge plánuj s navazujícím Touch of the Magi. Připrav si jeho 
 
 Guide má mezi Surge a Touch také Missiles a Barrage; samotný kratší či delší odstup neříká, zda byly splněné všechny procy, charges a priority. Nepředepisujeme vždy stejný počet castů.
 
-- První Touch of the Magi připrav k Arcane Surge. **Stejné pořadí jako v doporučeném začátku**: Arcane Surge +3.298 s; Touch of the Magi +5.490 s. Guide obou hero variant začíná Surge a navazuje Touch. Kontrola porovnává jen první doložené casty.
+- První Touch of the Magi připrav k Arcane Surge. **Stejné pořadí jako v doporučeném začátku**: Arcane Surge +4.733 s; Touch of the Magi +7.670 s. Guide obou hero variant začíná Surge a navazuje Touch. Kontrola porovnává jen první doložené casty.
 
 [Guide](https://www.method.gg/guides/arcane-mage/playstyle-and-rotation) · [Připnutá verze SimulationCraft](https://github.com/simulationcraft/simc/tree/76f8118cf3f7f41dad20708e8328e1f4ab2deebc)
 
@@ -2417,7 +2302,7 @@ První Arcane Surge plánuj s navazujícím Touch of the Magi. Připrav si jeho 
 
 Guide má mezi Surge a Touch také Missiles a Barrage; samotný kratší či delší odstup neříká, zda byly splněné všechny procy, charges a priority. Nepředepisujeme vždy stejný počet castů.
 
-- První Touch of the Magi připrav k Arcane Surge. **Stejné pořadí jako v doporučeném začátku**: Arcane Surge +4.134 s; Touch of the Magi +6.468 s. Guide obou hero variant začíná Surge a navazuje Touch. Kontrola porovnává jen první doložené casty.
+- První Touch of the Magi připrav k Arcane Surge. **Stejné pořadí jako v doporučeném začátku**: Arcane Surge +3.469 s; Touch of the Magi +5.793 s. Guide obou hero variant začíná Surge a navazuje Touch. Kontrola porovnává jen první doložené casty.
 
 [Guide](https://www.method.gg/guides/arcane-mage/playstyle-and-rotation) · [Připnutá verze SimulationCraft](https://github.com/simulationcraft/simc/tree/76f8118cf3f7f41dad20708e8328e1f4ab2deebc)
 
@@ -2427,7 +2312,27 @@ První Arcane Surge plánuj s navazujícím Touch of the Magi. Připrav si jeho 
 
 Guide má mezi Surge a Touch také Missiles a Barrage; samotný kratší či delší odstup neříká, zda byly splněné všechny procy, charges a priority. Nepředepisujeme vždy stejný počet castů.
 
-- První Touch of the Magi připrav k Arcane Surge. **Stejné pořadí jako v doporučeném začátku**: Arcane Surge +2.376 s; Touch of the Magi +5.178 s. Guide obou hero variant začíná Surge a navazuje Touch. Kontrola porovnává jen první doložené casty.
+- První Touch of the Magi připrav k Arcane Surge. **Stejné pořadí jako v doporučeném začátku**: Arcane Surge +3.401 s; Touch of the Magi +9.827 s. Guide obou hero variant začíná Surge a navazuje Touch. Kontrola porovnává jen první doložené casty.
+
+[Guide](https://www.method.gg/guides/arcane-mage/playstyle-and-rotation) · [Připnutá verze SimulationCraft](https://github.com/simulationcraft/simc/tree/76f8118cf3f7f41dad20708e8328e1f4ab2deebc)
+
+### Johnyhoudini-BurningBlade-EU — The Lost Explorers
+
+První Arcane Surge plánuj s navazujícím Touch of the Magi. Připrav si jeho začátek tak, aby burst nevyplnila zbytečná příprava mimo silné okno.
+
+Guide má mezi Surge a Touch také Missiles a Barrage; samotný kratší či delší odstup neříká, zda byly splněné všechny procy, charges a priority. Nepředepisujeme vždy stejný počet castů.
+
+- První Touch of the Magi připrav k Arcane Surge. **Stejné pořadí jako v doporučeném začátku**: Arcane Surge +4.320 s; Touch of the Magi +6.528 s. Guide obou hero variant začíná Surge a navazuje Touch. Kontrola porovnává jen první doložené casty.
+
+[Guide](https://www.method.gg/guides/arcane-mage/playstyle-and-rotation) · [Připnutá verze SimulationCraft](https://github.com/simulationcraft/simc/tree/76f8118cf3f7f41dad20708e8328e1f4ab2deebc)
+
+### Johnyhoudini-BurningBlade-EU — Sszorak
+
+První Arcane Surge plánuj s navazujícím Touch of the Magi. Připrav si jeho začátek tak, aby burst nevyplnila zbytečná příprava mimo silné okno.
+
+Guide má mezi Surge a Touch také Missiles a Barrage; samotný kratší či delší odstup neříká, zda byly splněné všechny procy, charges a priority. Nepředepisujeme vždy stejný počet castů.
+
+- První Touch of the Magi připrav k Arcane Surge. **Stejné pořadí jako v doporučeném začátku**: Arcane Surge +3.312 s; Touch of the Magi +6.625 s. Guide obou hero variant začíná Surge a navazuje Touch. Kontrola porovnává jen první doložené casty.
 
 [Guide](https://www.method.gg/guides/arcane-mage/playstyle-and-rotation) · [Připnutá verze SimulationCraft](https://github.com/simulationcraft/simc/tree/76f8118cf3f7f41dad20708e8328e1f4ab2deebc)
 
@@ -2437,27 +2342,67 @@ První Arcane Surge plánuj s navazujícím Touch of the Magi. Připrav si jeho 
 
 Guide má mezi Surge a Touch také Missiles a Barrage; samotný kratší či delší odstup neříká, zda byly splněné všechny procy, charges a priority. Nepředepisujeme vždy stejný počet castů.
 
-- První Touch of the Magi připrav k Arcane Surge. **Stejné pořadí jako v doporučeném začátku**: Arcane Surge +3.546 s; Touch of the Magi +5.515 s. Guide obou hero variant začíná Surge a navazuje Touch. Kontrola porovnává jen první doložené casty.
+- První Touch of the Magi připrav k Arcane Surge. **Stejné pořadí jako v doporučeném začátku**: Arcane Surge +4.265 s; Touch of the Magi +6.091 s. Guide obou hero variant začíná Surge a navazuje Touch. Kontrola porovnává jen první doložené casty.
 
 [Guide](https://www.method.gg/guides/arcane-mage/playstyle-and-rotation) · [Připnutá verze SimulationCraft](https://github.com/simulationcraft/simc/tree/76f8118cf3f7f41dad20708e8328e1f4ab2deebc)
 
-### Johnyhoudini-BurningBlade-EU — Entombed Sentinels
+### Këss-Drak'thul-EU — Nek'zali the Soulcoiler
 
 První Arcane Surge plánuj s navazujícím Touch of the Magi. Připrav si jeho začátek tak, aby burst nevyplnila zbytečná příprava mimo silné okno.
 
 Guide má mezi Surge a Touch také Missiles a Barrage; samotný kratší či delší odstup neříká, zda byly splněné všechny procy, charges a priority. Nepředepisujeme vždy stejný počet castů.
 
-- První Touch of the Magi připrav k Arcane Surge. **Stejné pořadí jako v doporučeném začátku**: Arcane Surge +3.503 s; Touch of the Magi +5.428 s. Guide obou hero variant začíná Surge a navazuje Touch. Kontrola porovnává jen první doložené casty.
+- První Touch of the Magi připrav k Arcane Surge. **Stejné pořadí jako v doporučeném začátku**: Arcane Surge +0.620 s; Touch of the Magi +6.099 s. Guide obou hero variant začíná Surge a navazuje Touch. Kontrola porovnává jen první doložené casty.
 
 [Guide](https://www.method.gg/guides/arcane-mage/playstyle-and-rotation) · [Připnutá verze SimulationCraft](https://github.com/simulationcraft/simc/tree/76f8118cf3f7f41dad20708e8328e1f4ab2deebc)
 
-### Johnyhoudini-BurningBlade-EU — Vashnik the Malignant
+### Këss-Drak'thul-EU — The Coiled Altar
 
 První Arcane Surge plánuj s navazujícím Touch of the Magi. Připrav si jeho začátek tak, aby burst nevyplnila zbytečná příprava mimo silné okno.
 
 Guide má mezi Surge a Touch také Missiles a Barrage; samotný kratší či delší odstup neříká, zda byly splněné všechny procy, charges a priority. Nepředepisujeme vždy stejný počet castů.
 
-- První Touch of the Magi připrav k Arcane Surge. **Stejné pořadí jako v doporučeném začátku**: Arcane Surge +3.681 s; Touch of the Magi +5.645 s. Guide obou hero variant začíná Surge a navazuje Touch. Kontrola porovnává jen první doložené casty.
+- První Touch of the Magi připrav k Arcane Surge. **Stejné pořadí jako v doporučeném začátku**: Arcane Surge +0.034 s; Touch of the Magi +3.437 s. Guide obou hero variant začíná Surge a navazuje Touch. Kontrola porovnává jen první doložené casty.
+
+[Guide](https://www.method.gg/guides/arcane-mage/playstyle-and-rotation) · [Připnutá verze SimulationCraft](https://github.com/simulationcraft/simc/tree/76f8118cf3f7f41dad20708e8328e1f4ab2deebc)
+
+### Këss-Drak'thul-EU — Ula'tek
+
+První Arcane Surge plánuj s navazujícím Touch of the Magi. Připrav si jeho začátek tak, aby burst nevyplnila zbytečná příprava mimo silné okno.
+
+Guide má mezi Surge a Touch také Missiles a Barrage; samotný kratší či delší odstup neříká, zda byly splněné všechny procy, charges a priority. Nepředepisujeme vždy stejný počet castů.
+
+- První Touch of the Magi připrav k Arcane Surge. **Stejné pořadí jako v doporučeném začátku**: Arcane Surge +0.472 s; Touch of the Magi +2.562 s. Guide obou hero variant začíná Surge a navazuje Touch. Kontrola porovnává jen první doložené casty.
+
+[Guide](https://www.method.gg/guides/arcane-mage/playstyle-and-rotation) · [Připnutá verze SimulationCraft](https://github.com/simulationcraft/simc/tree/76f8118cf3f7f41dad20708e8328e1f4ab2deebc)
+
+### Këss-Drak'thul-EU — The Lost Explorers
+
+První Arcane Surge plánuj s navazujícím Touch of the Magi. Připrav si jeho začátek tak, aby burst nevyplnila zbytečná příprava mimo silné okno.
+
+Guide má mezi Surge a Touch také Missiles a Barrage; samotný kratší či delší odstup neříká, zda byly splněné všechny procy, charges a priority. Nepředepisujeme vždy stejný počet castů.
+
+- První Touch of the Magi připrav k Arcane Surge. **Stejné pořadí jako v doporučeném začátku**: Arcane Surge +1.041 s; Touch of the Magi +2.820 s. Guide obou hero variant začíná Surge a navazuje Touch. Kontrola porovnává jen první doložené casty.
+
+[Guide](https://www.method.gg/guides/arcane-mage/playstyle-and-rotation) · [Připnutá verze SimulationCraft](https://github.com/simulationcraft/simc/tree/76f8118cf3f7f41dad20708e8328e1f4ab2deebc)
+
+### Këss-Drak'thul-EU — Sszorak
+
+První Arcane Surge plánuj s navazujícím Touch of the Magi. Připrav si jeho začátek tak, aby burst nevyplnila zbytečná příprava mimo silné okno.
+
+Guide má mezi Surge a Touch také Missiles a Barrage; samotný kratší či delší odstup neříká, zda byly splněné všechny procy, charges a priority. Nepředepisujeme vždy stejný počet castů.
+
+- První Touch of the Magi připrav k Arcane Surge. **Stejné pořadí jako v doporučeném začátku**: Arcane Surge +1.103 s; Touch of the Magi +7.222 s. Guide obou hero variant začíná Surge a navazuje Touch. Kontrola porovnává jen první doložené casty.
+
+[Guide](https://www.method.gg/guides/arcane-mage/playstyle-and-rotation) · [Připnutá verze SimulationCraft](https://github.com/simulationcraft/simc/tree/76f8118cf3f7f41dad20708e8328e1f4ab2deebc)
+
+### Këss-Drak'thul-EU — Kith'ix
+
+První Arcane Surge plánuj s navazujícím Touch of the Magi. Připrav si jeho začátek tak, aby burst nevyplnila zbytečná příprava mimo silné okno.
+
+Guide má mezi Surge a Touch také Missiles a Barrage; samotný kratší či delší odstup neříká, zda byly splněné všechny procy, charges a priority. Nepředepisujeme vždy stejný počet castů.
+
+- První Touch of the Magi připrav k Arcane Surge. **Stejné pořadí jako v doporučeném začátku**: Arcane Surge -0.050 s; Touch of the Magi +1.916 s. Guide obou hero variant začíná Surge a navazuje Touch. Kontrola porovnává jen první doložené casty.
 
 [Guide](https://www.method.gg/guides/arcane-mage/playstyle-and-rotation) · [Připnutá verze SimulationCraft](https://github.com/simulationcraft/simc/tree/76f8118cf3f7f41dad20708e8328e1f4ab2deebc)
 
@@ -2467,8 +2412,7 @@ Pokud hraješ Execution Sentence, připrav do něj Wake of Ashes a navazující 
 
 Výjimky podle Holy Power, proců, Hammer of Light a Radiant Glory mají přednost před pevnou šablonou. Z času samotného nevyvozujeme připravený cooldown ani počet promarněných použití.
 
-- Při společném burstu použij Execution Sentence před Wake of Ashes. **Stejné pořadí jako v doporučeném začátku**: Execution Sentence +1.604 s; Wake of Ashes +2.392 s. Obě hero varianty v guide staví Execution Sentence před hlavní burst; pravidlo platí jen při tomto talentu.
-- U Templar využij Hammer of Light navazující na Wake of Ashes. **Stejné pořadí jako v doporučeném začátku**: Wake of Ashes +2.392 s; Hammer of Light +3.231 s. Sledujeme první dvojici v openeru, nikoli další Hammer of Light z proců.
+- Při společném burstu použij Execution Sentence před Wake of Ashes. **Stejné pořadí jako v doporučeném začátku**: Execution Sentence +1.920 s; Wake of Ashes +4.005 s. Obě hero varianty v guide staví Execution Sentence před hlavní burst; pravidlo platí jen při tomto talentu.
 
 [Guide](https://www.method.gg/guides/retribution-paladin/playstyle-and-rotation) · [Připnutá verze SimulationCraft](https://github.com/simulationcraft/simc/tree/76f8118cf3f7f41dad20708e8328e1f4ab2deebc)
 
@@ -2478,7 +2422,7 @@ Pokud hraješ Execution Sentence, připrav do něj Wake of Ashes a navazující 
 
 Výjimky podle Holy Power, proců, Hammer of Light a Radiant Glory mají přednost před pevnou šablonou. Z času samotného nevyvozujeme připravený cooldown ani počet promarněných použití.
 
-- Při společném burstu použij Execution Sentence před Wake of Ashes. **Stejné pořadí jako v doporučeném začátku**: Execution Sentence +1.660 s; Wake of Ashes +3.395 s. Obě hero varianty v guide staví Execution Sentence před hlavní burst; pravidlo platí jen při tomto talentu.
+- Při společném burstu použij Execution Sentence před Wake of Ashes. **Stejné pořadí jako v doporučeném začátku**: Execution Sentence +1.792 s; Wake of Ashes +3.498 s. Obě hero varianty v guide staví Execution Sentence před hlavní burst; pravidlo platí jen při tomto talentu.
 
 [Guide](https://www.method.gg/guides/retribution-paladin/playstyle-and-rotation) · [Připnutá verze SimulationCraft](https://github.com/simulationcraft/simc/tree/76f8118cf3f7f41dad20708e8328e1f4ab2deebc)
 
@@ -2488,7 +2432,27 @@ Pokud hraješ Execution Sentence, připrav do něj Wake of Ashes a navazující 
 
 Výjimky podle Holy Power, proců, Hammer of Light a Radiant Glory mají přednost před pevnou šablonou. Z času samotného nevyvozujeme připravený cooldown ani počet promarněných použití.
 
-- Při společném burstu použij Execution Sentence před Wake of Ashes. **Stejné pořadí jako v doporučeném začátku**: Execution Sentence +1.809 s; Wake of Ashes +3.728 s. Obě hero varianty v guide staví Execution Sentence před hlavní burst; pravidlo platí jen při tomto talentu.
+- Při společném burstu použij Execution Sentence před Wake of Ashes. **Stejné pořadí jako v doporučeném začátku**: Execution Sentence +1.834 s; Wake of Ashes +3.568 s. Obě hero varianty v guide staví Execution Sentence před hlavní burst; pravidlo platí jen při tomto talentu.
+
+[Guide](https://www.method.gg/guides/retribution-paladin/playstyle-and-rotation) · [Připnutá verze SimulationCraft](https://github.com/simulationcraft/simc/tree/76f8118cf3f7f41dad20708e8328e1f4ab2deebc)
+
+### Galneryus-Drak'thul-EU — The Lost Explorers
+
+Pokud hraješ Execution Sentence, připrav do něj Wake of Ashes a navazující silné útoky za zdroje. U Templar sleduj Hammer of Light; u Herald nepřebírej Templar pořadí. Radiant Glory mění použití wings.
+
+Výjimky podle Holy Power, proců, Hammer of Light a Radiant Glory mají přednost před pevnou šablonou. Z času samotného nevyvozujeme připravený cooldown ani počet promarněných použití.
+
+- Při společném burstu použij Execution Sentence před Wake of Ashes. **Stejné pořadí jako v doporučeném začátku**: Execution Sentence +3.968 s; Wake of Ashes +5.627 s. Obě hero varianty v guide staví Execution Sentence před hlavní burst; pravidlo platí jen při tomto talentu.
+
+[Guide](https://www.method.gg/guides/retribution-paladin/playstyle-and-rotation) · [Připnutá verze SimulationCraft](https://github.com/simulationcraft/simc/tree/76f8118cf3f7f41dad20708e8328e1f4ab2deebc)
+
+### Galneryus-Drak'thul-EU — Sszorak
+
+Pokud hraješ Execution Sentence, připrav do něj Wake of Ashes a navazující silné útoky za zdroje. U Templar sleduj Hammer of Light; u Herald nepřebírej Templar pořadí. Radiant Glory mění použití wings.
+
+Výjimky podle Holy Power, proců, Hammer of Light a Radiant Glory mají přednost před pevnou šablonou. Z času samotného nevyvozujeme připravený cooldown ani počet promarněných použití.
+
+- Při společném burstu použij Execution Sentence před Wake of Ashes. **Stejné pořadí jako v doporučeném začátku**: Execution Sentence +2.134 s; Wake of Ashes +4.062 s. Obě hero varianty v guide staví Execution Sentence před hlavní burst; pravidlo platí jen při tomto talentu.
 
 [Guide](https://www.method.gg/guides/retribution-paladin/playstyle-and-rotation) · [Připnutá verze SimulationCraft](https://github.com/simulationcraft/simc/tree/76f8118cf3f7f41dad20708e8328e1f4ab2deebc)
 
@@ -2498,90 +2462,69 @@ Pokud hraješ Execution Sentence, připrav do něj Wake of Ashes a navazující 
 
 Výjimky podle Holy Power, proců, Hammer of Light a Radiant Glory mají přednost před pevnou šablonou. Z času samotného nevyvozujeme připravený cooldown ani počet promarněných použití.
 
-- Při společném burstu použij Execution Sentence před Wake of Ashes. **Stejné pořadí jako v doporučeném začátku**: Execution Sentence +2.530 s; Wake of Ashes +3.408 s. Obě hero varianty v guide staví Execution Sentence před hlavní burst; pravidlo platí jen při tomto talentu.
+- Při společném burstu použij Execution Sentence před Wake of Ashes. **Stejné pořadí jako v doporučeném začátku**: Execution Sentence +2.013 s; Wake of Ashes +3.671 s. Obě hero varianty v guide staví Execution Sentence před hlavní burst; pravidlo platí jen při tomto talentu.
 
 [Guide](https://www.method.gg/guides/retribution-paladin/playstyle-and-rotation) · [Připnutá verze SimulationCraft](https://github.com/simulationcraft/simc/tree/76f8118cf3f7f41dad20708e8328e1f4ab2deebc)
 
-### Galneryus-Drak'thul-EU — Entombed Sentinels
+### Iluneesama-Drak'thul-EU — Nek'zali the Soulcoiler
 
 Pokud hraješ Execution Sentence, připrav do něj Wake of Ashes a navazující silné útoky za zdroje. U Templar sleduj Hammer of Light; u Herald nepřebírej Templar pořadí. Radiant Glory mění použití wings.
 
 Výjimky podle Holy Power, proců, Hammer of Light a Radiant Glory mají přednost před pevnou šablonou. Z času samotného nevyvozujeme připravený cooldown ani počet promarněných použití.
 
-- Při společném burstu použij Execution Sentence před Wake of Ashes. **Stejné pořadí jako v doporučeném začátku**: Execution Sentence +1.793 s; Wake of Ashes +3.502 s. Obě hero varianty v guide staví Execution Sentence před hlavní burst; pravidlo platí jen při tomto talentu.
+- Při společném burstu použij Execution Sentence před Wake of Ashes. **Stejné pořadí jako v doporučeném začátku**: Execution Sentence +1.629 s; Wake of Ashes +2.366 s. Obě hero varianty v guide staví Execution Sentence před hlavní burst; pravidlo platí jen při tomto talentu.
 
 [Guide](https://www.method.gg/guides/retribution-paladin/playstyle-and-rotation) · [Připnutá verze SimulationCraft](https://github.com/simulationcraft/simc/tree/76f8118cf3f7f41dad20708e8328e1f4ab2deebc)
 
-### Galneryus-Drak'thul-EU — Vashnik the Malignant
+### Iluneesama-Drak'thul-EU — The Coiled Altar
 
 Pokud hraješ Execution Sentence, připrav do něj Wake of Ashes a navazující silné útoky za zdroje. U Templar sleduj Hammer of Light; u Herald nepřebírej Templar pořadí. Radiant Glory mění použití wings.
 
 Výjimky podle Holy Power, proců, Hammer of Light a Radiant Glory mají přednost před pevnou šablonou. Z času samotného nevyvozujeme připravený cooldown ani počet promarněných použití.
 
-- Při společném burstu použij Execution Sentence před Wake of Ashes. **Stejné pořadí jako v doporučeném začátku**: Execution Sentence +2.783 s; Wake of Ashes +3.884 s. Obě hero varianty v guide staví Execution Sentence před hlavní burst; pravidlo platí jen při tomto talentu.
-- U Templar využij Hammer of Light navazující na Wake of Ashes. **Stejné pořadí jako v doporučeném začátku**: Wake of Ashes +3.884 s; Hammer of Light +4.788 s. Sledujeme první dvojici v openeru, nikoli další Hammer of Light z proců.
+- Při společném burstu použij Execution Sentence před Wake of Ashes. **Stejné pořadí jako v doporučeném začátku**: Execution Sentence +0.505 s; Wake of Ashes +1.505 s. Obě hero varianty v guide staví Execution Sentence před hlavní burst; pravidlo platí jen při tomto talentu.
 
 [Guide](https://www.method.gg/guides/retribution-paladin/playstyle-and-rotation) · [Připnutá verze SimulationCraft](https://github.com/simulationcraft/simc/tree/76f8118cf3f7f41dad20708e8328e1f4ab2deebc)
 
-### Rhínö-Drak'thul-EU — Nek'zali the Soulcoiler
+### Iluneesama-Drak'thul-EU — Ula'tek
 
-U Elune’s Chosen připrav DoTy a Lunar Eclipse pro první silné okno s Fury of Elune a Incarnation. Dávej pozor na skutečný počet cílů a zásobu Astral Power.
+Pokud hraješ Execution Sentence, připrav do něj Wake of Ashes a navazující silné útoky za zdroje. U Templar sleduj Hammer of Light; u Herald nepřebírej Templar pořadí. Radiant Glory mění použití wings.
 
-Priority Incarnation a Fury of Elune mají podmínky a guide opener se může lišit od běžné priority. Neoznačujeme opačné pořadí této dvojice automaticky za chybu.
+Výjimky podle Holy Power, proců, Hammer of Light a Radiant Glory mají přednost před pevnou šablonou. Z času samotného nevyvozujeme připravený cooldown ani počet promarněných použití.
 
-- Připrav Sunfire před prvním Incarnation, pokud cíl bude žít dost dlouho. **Stejné pořadí jako v doporučeném začátku**: Sunfire +0.014 s; Incarnation: Chosen of Elune +4.453 s. V guide openeru předchází DoTy hlavnímu oknu; kontrolujeme pouze stejný zaznamenaný cíl, pokud je u obou známý.
+- Při společném burstu použij Execution Sentence před Wake of Ashes. **Stejné pořadí jako v doporučeném začátku**: Execution Sentence +1.008 s; Wake of Ashes +1.746 s. Obě hero varianty v guide staví Execution Sentence před hlavní burst; pravidlo platí jen při tomto talentu.
 
-[Guide](https://www.method.gg/guides/balance-druid/playstyle-and-rotation) · [Připnutá verze SimulationCraft](https://github.com/simulationcraft/simc/tree/76f8118cf3f7f41dad20708e8328e1f4ab2deebc)
+[Guide](https://www.method.gg/guides/retribution-paladin/playstyle-and-rotation) · [Připnutá verze SimulationCraft](https://github.com/simulationcraft/simc/tree/76f8118cf3f7f41dad20708e8328e1f4ab2deebc)
 
-### Rhínö-Drak'thul-EU — The Coiled Altar
+### Iluneesama-Drak'thul-EU — The Lost Explorers
 
-U Elune’s Chosen připrav DoTy a Lunar Eclipse pro první silné okno s Fury of Elune a Incarnation. Dávej pozor na skutečný počet cílů a zásobu Astral Power.
+Pokud hraješ Execution Sentence, připrav do něj Wake of Ashes a navazující silné útoky za zdroje. U Templar sleduj Hammer of Light; u Herald nepřebírej Templar pořadí. Radiant Glory mění použití wings.
 
-Priority Incarnation a Fury of Elune mají podmínky a guide opener se může lišit od běžné priority. Neoznačujeme opačné pořadí této dvojice automaticky za chybu.
+Výjimky podle Holy Power, proců, Hammer of Light a Radiant Glory mají přednost před pevnou šablonou. Z času samotného nevyvozujeme připravený cooldown ani počet promarněných použití.
 
-- Připrav Sunfire před prvním Incarnation, pokud cíl bude žít dost dlouho. **Stejné pořadí jako v doporučeném začátku**: Sunfire +0.100 s; Incarnation: Chosen of Elune +5.029 s. V guide openeru předchází DoTy hlavnímu oknu; kontrolujeme pouze stejný zaznamenaný cíl, pokud je u obou známý.
+- Při společném burstu použij Execution Sentence před Wake of Ashes. **Stejné pořadí jako v doporučeném začátku**: Execution Sentence +1.898 s; Wake of Ashes +2.652 s. Obě hero varianty v guide staví Execution Sentence před hlavní burst; pravidlo platí jen při tomto talentu.
 
-[Guide](https://www.method.gg/guides/balance-druid/playstyle-and-rotation) · [Připnutá verze SimulationCraft](https://github.com/simulationcraft/simc/tree/76f8118cf3f7f41dad20708e8328e1f4ab2deebc)
+[Guide](https://www.method.gg/guides/retribution-paladin/playstyle-and-rotation) · [Připnutá verze SimulationCraft](https://github.com/simulationcraft/simc/tree/76f8118cf3f7f41dad20708e8328e1f4ab2deebc)
 
-### Rhínö-Drak'thul-EU — Ula'tek
+### Iluneesama-Drak'thul-EU — Sszorak
 
-U Elune’s Chosen připrav DoTy a Lunar Eclipse pro první silné okno s Fury of Elune a Incarnation. Dávej pozor na skutečný počet cílů a zásobu Astral Power.
+Pokud hraješ Execution Sentence, připrav do něj Wake of Ashes a navazující silné útoky za zdroje. U Templar sleduj Hammer of Light; u Herald nepřebírej Templar pořadí. Radiant Glory mění použití wings.
 
-Priority Incarnation a Fury of Elune mají podmínky a guide opener se může lišit od běžné priority. Neoznačujeme opačné pořadí této dvojice automaticky za chybu.
+Výjimky podle Holy Power, proců, Hammer of Light a Radiant Glory mají přednost před pevnou šablonou. Z času samotného nevyvozujeme připravený cooldown ani počet promarněných použití.
 
-- Připrav Sunfire před prvním Incarnation, pokud cíl bude žít dost dlouho. **Stejné pořadí jako v doporučeném začátku**: Sunfire -0.054 s; Incarnation: Chosen of Elune +5.093 s. V guide openeru předchází DoTy hlavnímu oknu; kontrolujeme pouze stejný zaznamenaný cíl, pokud je u obou známý.
+- Při společném burstu použij Execution Sentence před Wake of Ashes. **Stejné pořadí jako v doporučeném začátku**: Execution Sentence +1.971 s; Wake of Ashes +2.725 s. Obě hero varianty v guide staví Execution Sentence před hlavní burst; pravidlo platí jen při tomto talentu.
 
-[Guide](https://www.method.gg/guides/balance-druid/playstyle-and-rotation) · [Připnutá verze SimulationCraft](https://github.com/simulationcraft/simc/tree/76f8118cf3f7f41dad20708e8328e1f4ab2deebc)
+[Guide](https://www.method.gg/guides/retribution-paladin/playstyle-and-rotation) · [Připnutá verze SimulationCraft](https://github.com/simulationcraft/simc/tree/76f8118cf3f7f41dad20708e8328e1f4ab2deebc)
 
-### Rhínö-Drak'thul-EU — Kith'ix
+### Iluneesama-Drak'thul-EU — Kith'ix
 
-U Elune’s Chosen připrav DoTy a Lunar Eclipse pro první silné okno s Fury of Elune a Incarnation. Dávej pozor na skutečný počet cílů a zásobu Astral Power.
+Pokud hraješ Execution Sentence, připrav do něj Wake of Ashes a navazující silné útoky za zdroje. U Templar sleduj Hammer of Light; u Herald nepřebírej Templar pořadí. Radiant Glory mění použití wings.
 
-Priority Incarnation a Fury of Elune mají podmínky a guide opener se může lišit od běžné priority. Neoznačujeme opačné pořadí této dvojice automaticky za chybu.
+Výjimky podle Holy Power, proců, Hammer of Light a Radiant Glory mají přednost před pevnou šablonou. Z času samotného nevyvozujeme připravený cooldown ani počet promarněných použití.
 
-- Připrav Sunfire před prvním Incarnation, pokud cíl bude žít dost dlouho. **Stejné pořadí jako v doporučeném začátku**: Sunfire +0.184 s; Incarnation: Chosen of Elune +4.520 s. V guide openeru předchází DoTy hlavnímu oknu; kontrolujeme pouze stejný zaznamenaný cíl, pokud je u obou známý.
+- Při společném burstu použij Execution Sentence před Wake of Ashes. **Stejné pořadí jako v doporučeném začátku**: Execution Sentence +2.217 s; Wake of Ashes +2.975 s. Obě hero varianty v guide staví Execution Sentence před hlavní burst; pravidlo platí jen při tomto talentu.
 
-[Guide](https://www.method.gg/guides/balance-druid/playstyle-and-rotation) · [Připnutá verze SimulationCraft](https://github.com/simulationcraft/simc/tree/76f8118cf3f7f41dad20708e8328e1f4ab2deebc)
-
-### Rhínö-Drak'thul-EU — Entombed Sentinels
-
-U Elune’s Chosen připrav DoTy a Lunar Eclipse pro první silné okno s Fury of Elune a Incarnation. Dávej pozor na skutečný počet cílů a zásobu Astral Power.
-
-Priority Incarnation a Fury of Elune mají podmínky a guide opener se může lišit od běžné priority. Neoznačujeme opačné pořadí této dvojice automaticky za chybu.
-
-- Připrav Sunfire před prvním Incarnation, pokud cíl bude žít dost dlouho. **Stejné pořadí jako v doporučeném začátku**: Sunfire +0.131 s; Incarnation: Chosen of Elune +4.761 s. V guide openeru předchází DoTy hlavnímu oknu; kontrolujeme pouze stejný zaznamenaný cíl, pokud je u obou známý.
-
-[Guide](https://www.method.gg/guides/balance-druid/playstyle-and-rotation) · [Připnutá verze SimulationCraft](https://github.com/simulationcraft/simc/tree/76f8118cf3f7f41dad20708e8328e1f4ab2deebc)
-
-### Rhínö-Drak'thul-EU — Vashnik the Malignant
-
-U Elune’s Chosen připrav DoTy a Lunar Eclipse pro první silné okno s Fury of Elune a Incarnation. Dávej pozor na skutečný počet cílů a zásobu Astral Power.
-
-Priority Incarnation a Fury of Elune mají podmínky a guide opener se může lišit od běžné priority. Neoznačujeme opačné pořadí této dvojice automaticky za chybu.
-
-- Připrav Sunfire před prvním Incarnation, pokud cíl bude žít dost dlouho. **Stejné pořadí jako v doporučeném začátku**: Sunfire +0.220 s; Incarnation: Chosen of Elune +4.492 s. V guide openeru předchází DoTy hlavnímu oknu; kontrolujeme pouze stejný zaznamenaný cíl, pokud je u obou známý.
-
-[Guide](https://www.method.gg/guides/balance-druid/playstyle-and-rotation) · [Připnutá verze SimulationCraft](https://github.com/simulationcraft/simc/tree/76f8118cf3f7f41dad20708e8328e1f4ab2deebc)
+[Guide](https://www.method.gg/guides/retribution-paladin/playstyle-and-rotation) · [Připnutá verze SimulationCraft](https://github.com/simulationcraft/simc/tree/76f8118cf3f7f41dad20708e8328e1f4ab2deebc)
 
 ### Vejr-Drak'thul-EU — Nek'zali the Soulcoiler
 
@@ -2589,7 +2532,7 @@ Připrav první Army of the Dead a Dark Transformation jako společný burst. P�
 
 Neměníme odložené posouzení Putrefy. Runes, procy a talenty mění přípravu; přítomnost schopnosti před cooldownem není úplná kontrola zdrojů ani potvrzení celé rotace.
 
-- První Army of the Dead a Dark Transformation plánuj společně. **Stejné pořadí jako v doporučeném začátku**: Army of the Dead +3.747 s; Dark Transformation +3.938 s. Rider opener v guide má Army před Dark Transformation; samotné obrácené pořadí ještě nepotvrzuje ztrátu.
+- První Army of the Dead a Dark Transformation plánuj společně. **Stejné pořadí jako v doporučeném začátku**: Army of the Dead +3.057 s; Dark Transformation +3.231 s. Rider opener v guide má Army před Dark Transformation; samotné obrácené pořadí ještě nepotvrzuje ztrátu.
 
 [Guide](https://www.method.gg/guides/unholy-death-knight/playstyle-and-rotation) · [Připnutá verze SimulationCraft](https://github.com/simulationcraft/simc/tree/76f8118cf3f7f41dad20708e8328e1f4ab2deebc)
 
@@ -2599,7 +2542,7 @@ Připrav první Army of the Dead a Dark Transformation jako společný burst. P�
 
 Neměníme odložené posouzení Putrefy. Runes, procy a talenty mění přípravu; přítomnost schopnosti před cooldownem není úplná kontrola zdrojů ani potvrzení celé rotace.
 
-- První Army of the Dead a Dark Transformation plánuj společně. **Stejné pořadí jako v doporučeném začátku**: Army of the Dead +2.059 s; Dark Transformation +2.351 s. Rider opener v guide má Army před Dark Transformation; samotné obrácené pořadí ještě nepotvrzuje ztrátu.
+- První Army of the Dead a Dark Transformation plánuj společně. **Stejné pořadí jako v doporučeném začátku**: Army of the Dead +1.988 s; Dark Transformation +2.150 s. Rider opener v guide má Army před Dark Transformation; samotné obrácené pořadí ještě nepotvrzuje ztrátu.
 
 [Guide](https://www.method.gg/guides/unholy-death-knight/playstyle-and-rotation) · [Připnutá verze SimulationCraft](https://github.com/simulationcraft/simc/tree/76f8118cf3f7f41dad20708e8328e1f4ab2deebc)
 
@@ -2609,7 +2552,27 @@ Připrav první Army of the Dead a Dark Transformation jako společný burst. P�
 
 Neměníme odložené posouzení Putrefy. Runes, procy a talenty mění přípravu; přítomnost schopnosti před cooldownem není úplná kontrola zdrojů ani potvrzení celé rotace.
 
-- První Army of the Dead a Dark Transformation plánuj společně. **Stejné pořadí jako v doporučeném začátku**: Army of the Dead +6.327 s; Dark Transformation +6.474 s. Rider opener v guide má Army před Dark Transformation; samotné obrácené pořadí ještě nepotvrzuje ztrátu.
+- První Army of the Dead a Dark Transformation plánuj společně. **Stejné pořadí jako v doporučeném začátku**: Army of the Dead +3.221 s; Dark Transformation +3.430 s. Rider opener v guide má Army před Dark Transformation; samotné obrácené pořadí ještě nepotvrzuje ztrátu.
+
+[Guide](https://www.method.gg/guides/unholy-death-knight/playstyle-and-rotation) · [Připnutá verze SimulationCraft](https://github.com/simulationcraft/simc/tree/76f8118cf3f7f41dad20708e8328e1f4ab2deebc)
+
+### Vejr-Drak'thul-EU — The Lost Explorers
+
+Připrav první Army of the Dead a Dark Transformation jako společný burst. Před ním měj připravený cíl a zdroje pro navazující útoky.
+
+Neměníme odložené posouzení Putrefy. Runes, procy a talenty mění přípravu; přítomnost schopnosti před cooldownem není úplná kontrola zdrojů ani potvrzení celé rotace.
+
+- První Army of the Dead a Dark Transformation plánuj společně. **Stejné pořadí jako v doporučeném začátku**: Army of the Dead +3.908 s; Dark Transformation +4.109 s. Rider opener v guide má Army před Dark Transformation; samotné obrácené pořadí ještě nepotvrzuje ztrátu.
+
+[Guide](https://www.method.gg/guides/unholy-death-knight/playstyle-and-rotation) · [Připnutá verze SimulationCraft](https://github.com/simulationcraft/simc/tree/76f8118cf3f7f41dad20708e8328e1f4ab2deebc)
+
+### Vejr-Drak'thul-EU — Sszorak
+
+Připrav první Army of the Dead a Dark Transformation jako společný burst. Před ním měj připravený cíl a zdroje pro navazující útoky.
+
+Neměníme odložené posouzení Putrefy. Runes, procy a talenty mění přípravu; přítomnost schopnosti před cooldownem není úplná kontrola zdrojů ani potvrzení celé rotace.
+
+- První Army of the Dead a Dark Transformation plánuj společně. **Stejné pořadí jako v doporučeném začátku**: Army of the Dead +5.757 s; Dark Transformation +5.936 s. Rider opener v guide má Army před Dark Transformation; samotné obrácené pořadí ještě nepotvrzuje ztrátu.
 
 [Guide](https://www.method.gg/guides/unholy-death-knight/playstyle-and-rotation) · [Připnutá verze SimulationCraft](https://github.com/simulationcraft/simc/tree/76f8118cf3f7f41dad20708e8328e1f4ab2deebc)
 
@@ -2619,29 +2582,75 @@ Připrav první Army of the Dead a Dark Transformation jako společný burst. P�
 
 Neměníme odložené posouzení Putrefy. Runes, procy a talenty mění přípravu; přítomnost schopnosti před cooldownem není úplná kontrola zdrojů ani potvrzení celé rotace.
 
-- První Army of the Dead a Dark Transformation plánuj společně. **Stejné pořadí jako v doporučeném začátku**: Army of the Dead +3.310 s; Dark Transformation +3.585 s. Rider opener v guide má Army před Dark Transformation; samotné obrácené pořadí ještě nepotvrzuje ztrátu.
+- První Army of the Dead a Dark Transformation plánuj společně. **Stejné pořadí jako v doporučeném začátku**: Army of the Dead +2.279 s; Dark Transformation +2.428 s. Rider opener v guide má Army před Dark Transformation; samotné obrácené pořadí ještě nepotvrzuje ztrátu.
 
 [Guide](https://www.method.gg/guides/unholy-death-knight/playstyle-and-rotation) · [Připnutá verze SimulationCraft](https://github.com/simulationcraft/simc/tree/76f8118cf3f7f41dad20708e8328e1f4ab2deebc)
 
-### Vejr-Drak'thul-EU — Entombed Sentinels
+### Krokous-Drak'thul-EU — Nek'zali the Soulcoiler
 
-Připrav první Army of the Dead a Dark Transformation jako společný burst. Před ním měj připravený cíl a zdroje pro navazující útoky.
+Připrav Barbed Shot do prvního Bestial Wrath a potom využij burst na Kill Command. Nenech začátek souboje pohltit přípravou peta; před pullem zkontroluj, že ho máš.
 
-Neměníme odložené posouzení Putrefy. Runes, procy a talenty mění přípravu; přítomnost schopnosti před cooldownem není úplná kontrola zdrojů ani potvrzení celé rotace.
+Nepožadujeme vždy přesně dva Barbed Shot: doporučené priority počítají s nabíjením, talenty a počtem cílů. Z této kontroly nevyvozujeme ztracené charges ani úplnou prioritu Kill Command.
 
-- První Army of the Dead a Dark Transformation plánuj společně. **Stejné pořadí jako v doporučeném začátku**: Army of the Dead +5.124 s; Dark Transformation +5.311 s. Rider opener v guide má Army před Dark Transformation; samotné obrácené pořadí ještě nepotvrzuje ztrátu.
+- Před Bestial Wrath si připrav Barbed Shot podle dostupných charges. **Stejné pořadí jako v doporučeném začátku**: Barbed Shot +0.568 s; Bestial Wrath +2.014 s. Guide i jednocílové priority mají přípravný Barbed Shot před Bestial Wrath; přesný počet závisí na podmínkách.
+- Využij Bestial Wrath na Kill Command. **Vlastní buff před použitím doložený**: Kill Command +3.492 s Buff při prvním Kill Command je jen kontrola začátku burstu, ne zákaz Kill Command mimo Bestial Wrath.
 
-[Guide](https://www.method.gg/guides/unholy-death-knight/playstyle-and-rotation) · [Připnutá verze SimulationCraft](https://github.com/simulationcraft/simc/tree/76f8118cf3f7f41dad20708e8328e1f4ab2deebc)
+[Guide](https://www.method.gg/guides/beast-mastery-hunter/playstyle-and-rotation) · [Připnutá verze SimulationCraft](https://github.com/simulationcraft/simc/tree/76f8118cf3f7f41dad20708e8328e1f4ab2deebc)
 
-### Vejr-Drak'thul-EU — Vashnik the Malignant
+### Krokous-Drak'thul-EU — The Coiled Altar
 
-Připrav první Army of the Dead a Dark Transformation jako společný burst. Před ním měj připravený cíl a zdroje pro navazující útoky.
+Připrav Barbed Shot do prvního Bestial Wrath a potom využij burst na Kill Command. Nenech začátek souboje pohltit přípravou peta; před pullem zkontroluj, že ho máš.
 
-Neměníme odložené posouzení Putrefy. Runes, procy a talenty mění přípravu; přítomnost schopnosti před cooldownem není úplná kontrola zdrojů ani potvrzení celé rotace.
+Nepožadujeme vždy přesně dva Barbed Shot: doporučené priority počítají s nabíjením, talenty a počtem cílů. Z této kontroly nevyvozujeme ztracené charges ani úplnou prioritu Kill Command.
 
-- První Army of the Dead a Dark Transformation plánuj společně. **Stejné pořadí jako v doporučeném začátku**: Army of the Dead +4.234 s; Dark Transformation +4.424 s. Rider opener v guide má Army před Dark Transformation; samotné obrácené pořadí ještě nepotvrzuje ztrátu.
+- Před Bestial Wrath si připrav Barbed Shot podle dostupných charges. **Stejné pořadí jako v doporučeném začátku**: Barbed Shot +0.595 s; Bestial Wrath +3.526 s. Guide i jednocílové priority mají přípravný Barbed Shot před Bestial Wrath; přesný počet závisí na podmínkách.
+- Využij Bestial Wrath na Kill Command. **Vlastní buff před použitím doložený**: Kill Command +4.997 s Buff při prvním Kill Command je jen kontrola začátku burstu, ne zákaz Kill Command mimo Bestial Wrath.
 
-[Guide](https://www.method.gg/guides/unholy-death-knight/playstyle-and-rotation) · [Připnutá verze SimulationCraft](https://github.com/simulationcraft/simc/tree/76f8118cf3f7f41dad20708e8328e1f4ab2deebc)
+[Guide](https://www.method.gg/guides/beast-mastery-hunter/playstyle-and-rotation) · [Připnutá verze SimulationCraft](https://github.com/simulationcraft/simc/tree/76f8118cf3f7f41dad20708e8328e1f4ab2deebc)
+
+### Krokous-Drak'thul-EU — Ula'tek
+
+Připrav Barbed Shot do prvního Bestial Wrath a potom využij burst na Kill Command. Nenech začátek souboje pohltit přípravou peta; před pullem zkontroluj, že ho máš.
+
+Nepožadujeme vždy přesně dva Barbed Shot: doporučené priority počítají s nabíjením, talenty a počtem cílů. Z této kontroly nevyvozujeme ztracené charges ani úplnou prioritu Kill Command.
+
+- Před Bestial Wrath si připrav Barbed Shot podle dostupných charges. **Stejné pořadí jako v doporučeném začátku**: Barbed Shot +0.515 s; Bestial Wrath +3.375 s. Guide i jednocílové priority mají přípravný Barbed Shot před Bestial Wrath; přesný počet závisí na podmínkách.
+- Využij Bestial Wrath na Kill Command. **Vlastní buff před použitím doložený**: Kill Command +4.765 s Buff při prvním Kill Command je jen kontrola začátku burstu, ne zákaz Kill Command mimo Bestial Wrath.
+
+[Guide](https://www.method.gg/guides/beast-mastery-hunter/playstyle-and-rotation) · [Připnutá verze SimulationCraft](https://github.com/simulationcraft/simc/tree/76f8118cf3f7f41dad20708e8328e1f4ab2deebc)
+
+### Krokous-Drak'thul-EU — The Lost Explorers
+
+Připrav Barbed Shot do prvního Bestial Wrath a potom využij burst na Kill Command. Nenech začátek souboje pohltit přípravou peta; před pullem zkontroluj, že ho máš.
+
+Nepožadujeme vždy přesně dva Barbed Shot: doporučené priority počítají s nabíjením, talenty a počtem cílů. Z této kontroly nevyvozujeme ztracené charges ani úplnou prioritu Kill Command.
+
+- Před Bestial Wrath si připrav Barbed Shot podle dostupných charges. **Stejné pořadí jako v doporučeném začátku**: Barbed Shot +3.432 s; Bestial Wrath +5.599 s. Guide i jednocílové priority mají přípravný Barbed Shot před Bestial Wrath; přesný počet závisí na podmínkách.
+- Využij Bestial Wrath na Kill Command. **Přítomnost vlastního buffu při použití není jistá**: Kill Command +2.370 s Buff při prvním Kill Command je jen kontrola začátku burstu, ne zákaz Kill Command mimo Bestial Wrath.
+
+[Guide](https://www.method.gg/guides/beast-mastery-hunter/playstyle-and-rotation) · [Připnutá verze SimulationCraft](https://github.com/simulationcraft/simc/tree/76f8118cf3f7f41dad20708e8328e1f4ab2deebc)
+
+### Krokous-Drak'thul-EU — Sszorak
+
+Připrav Barbed Shot do prvního Bestial Wrath a potom využij burst na Kill Command. Nenech začátek souboje pohltit přípravou peta; před pullem zkontroluj, že ho máš.
+
+Nepožadujeme vždy přesně dva Barbed Shot: doporučené priority počítají s nabíjením, talenty a počtem cílů. Z této kontroly nevyvozujeme ztracené charges ani úplnou prioritu Kill Command.
+
+- Před Bestial Wrath si připrav Barbed Shot podle dostupných charges. **Stejné pořadí jako v doporučeném začátku**: Barbed Shot +0.490 s; Bestial Wrath +3.444 s. Guide i jednocílové priority mají přípravný Barbed Shot před Bestial Wrath; přesný počet závisí na podmínkách.
+- Využij Bestial Wrath na Kill Command. **Vlastní buff před použitím doložený**: Kill Command +4.905 s Buff při prvním Kill Command je jen kontrola začátku burstu, ne zákaz Kill Command mimo Bestial Wrath.
+
+[Guide](https://www.method.gg/guides/beast-mastery-hunter/playstyle-and-rotation) · [Připnutá verze SimulationCraft](https://github.com/simulationcraft/simc/tree/76f8118cf3f7f41dad20708e8328e1f4ab2deebc)
+
+### Krokous-Drak'thul-EU — Kith'ix
+
+Připrav Barbed Shot do prvního Bestial Wrath a potom využij burst na Kill Command. Nenech začátek souboje pohltit přípravou peta; před pullem zkontroluj, že ho máš.
+
+Nepožadujeme vždy přesně dva Barbed Shot: doporučené priority počítají s nabíjením, talenty a počtem cílů. Z této kontroly nevyvozujeme ztracené charges ani úplnou prioritu Kill Command.
+
+- Před Bestial Wrath si připrav Barbed Shot podle dostupných charges. **Stejné pořadí jako v doporučeném začátku**: Barbed Shot +2.058 s; Bestial Wrath +4.318 s. Guide i jednocílové priority mají přípravný Barbed Shot před Bestial Wrath; přesný počet závisí na podmínkách.
+- Využij Bestial Wrath na Kill Command. **Přítomnost vlastního buffu při použití není jistá**: Kill Command +0.608 s Buff při prvním Kill Command je jen kontrola začátku burstu, ne zákaz Kill Command mimo Bestial Wrath.
+
+[Guide](https://www.method.gg/guides/beast-mastery-hunter/playstyle-and-rotation) · [Připnutá verze SimulationCraft](https://github.com/simulationcraft/simc/tree/76f8118cf3f7f41dad20708e8328e1f4ab2deebc)
 
 ### Micaello-Drak'thul-EU — Nek'zali the Soulcoiler
 
@@ -2649,8 +2658,8 @@ Připrav Barbed Shot do prvního Bestial Wrath a potom využij burst na Kill Com
 
 Nepožadujeme vždy přesně dva Barbed Shot: doporučené priority počítají s nabíjením, talenty a počtem cílů. Z této kontroly nevyvozujeme ztracené charges ani úplnou prioritu Kill Command.
 
-- Před Bestial Wrath si připrav Barbed Shot podle dostupných charges. **Stejné pořadí jako v doporučeném začátku**: Barbed Shot +0.474 s; Bestial Wrath +2.904 s. Guide i jednocílové priority mají přípravný Barbed Shot před Bestial Wrath; přesný počet závisí na podmínkách.
-- Využij Bestial Wrath na Kill Command. **Vlastní buff před použitím doložený**: Kill Command +4.978 s Buff při prvním Kill Command je jen kontrola začátku burstu, ne zákaz Kill Command mimo Bestial Wrath.
+- Před Bestial Wrath si připrav Barbed Shot podle dostupných charges. **Stejné pořadí jako v doporučeném začátku**: Barbed Shot +0.637 s; Bestial Wrath +4.295 s. Guide i jednocílové priority mají přípravný Barbed Shot před Bestial Wrath; přesný počet závisí na podmínkách.
+- Využij Bestial Wrath na Kill Command. **Přítomnost vlastního buffu při použití není jistá**: Kill Command +1.964 s Buff při prvním Kill Command je jen kontrola začátku burstu, ne zákaz Kill Command mimo Bestial Wrath.
 
 [Guide](https://www.method.gg/guides/beast-mastery-hunter/playstyle-and-rotation) · [Připnutá verze SimulationCraft](https://github.com/simulationcraft/simc/tree/76f8118cf3f7f41dad20708e8328e1f4ab2deebc)
 
@@ -2660,8 +2669,8 @@ Připrav Barbed Shot do prvního Bestial Wrath a potom využij burst na Kill Com
 
 Nepožadujeme vždy přesně dva Barbed Shot: doporučené priority počítají s nabíjením, talenty a počtem cílů. Z této kontroly nevyvozujeme ztracené charges ani úplnou prioritu Kill Command.
 
-- Před Bestial Wrath si připrav Barbed Shot podle dostupných charges. **Stejné pořadí jako v doporučeném začátku**: Barbed Shot +0.440 s; Bestial Wrath +1.837 s. Guide i jednocílové priority mají přípravný Barbed Shot před Bestial Wrath; přesný počet závisí na podmínkách.
-- Využij Bestial Wrath na Kill Command. **Vlastní buff před použitím doložený**: Kill Command +3.207 s Buff při prvním Kill Command je jen kontrola začátku burstu, ne zákaz Kill Command mimo Bestial Wrath.
+- Před Bestial Wrath si připrav Barbed Shot podle dostupných charges. **Stejné pořadí jako v doporučeném začátku**: Barbed Shot +0.634 s; Bestial Wrath +1.941 s. Guide i jednocílové priority mají přípravný Barbed Shot před Bestial Wrath; přesný počet závisí na podmínkách.
+- Využij Bestial Wrath na Kill Command. **Vlastní buff před použitím doložený**: Kill Command +3.288 s Buff při prvním Kill Command je jen kontrola začátku burstu, ne zákaz Kill Command mimo Bestial Wrath.
 
 [Guide](https://www.method.gg/guides/beast-mastery-hunter/playstyle-and-rotation) · [Připnutá verze SimulationCraft](https://github.com/simulationcraft/simc/tree/76f8118cf3f7f41dad20708e8328e1f4ab2deebc)
 
@@ -2671,8 +2680,30 @@ Připrav Barbed Shot do prvního Bestial Wrath a potom využij burst na Kill Com
 
 Nepožadujeme vždy přesně dva Barbed Shot: doporučené priority počítají s nabíjením, talenty a počtem cílů. Z této kontroly nevyvozujeme ztracené charges ani úplnou prioritu Kill Command.
 
-- Před Bestial Wrath si připrav Barbed Shot podle dostupných charges. **Stejné pořadí jako v doporučeném začátku**: Barbed Shot +0.295 s; Bestial Wrath +1.673 s. Guide i jednocílové priority mají přípravný Barbed Shot před Bestial Wrath; přesný počet závisí na podmínkách.
-- Využij Bestial Wrath na Kill Command. **Vlastní buff před použitím doložený**: Kill Command +2.848 s Buff při prvním Kill Command je jen kontrola začátku burstu, ne zákaz Kill Command mimo Bestial Wrath.
+- Před Bestial Wrath si připrav Barbed Shot podle dostupných charges. **Stejné pořadí jako v doporučeném začátku**: Barbed Shot +0.856 s; Bestial Wrath +2.166 s. Guide i jednocílové priority mají přípravný Barbed Shot před Bestial Wrath; přesný počet závisí na podmínkách.
+- Využij Bestial Wrath na Kill Command. **Vlastní buff před použitím doložený**: Kill Command +4.709 s Buff při prvním Kill Command je jen kontrola začátku burstu, ne zákaz Kill Command mimo Bestial Wrath.
+
+[Guide](https://www.method.gg/guides/beast-mastery-hunter/playstyle-and-rotation) · [Připnutá verze SimulationCraft](https://github.com/simulationcraft/simc/tree/76f8118cf3f7f41dad20708e8328e1f4ab2deebc)
+
+### Micaello-Drak'thul-EU — The Lost Explorers
+
+Připrav Barbed Shot do prvního Bestial Wrath a potom využij burst na Kill Command. Nenech začátek souboje pohltit přípravou peta; před pullem zkontroluj, že ho máš.
+
+Nepožadujeme vždy přesně dva Barbed Shot: doporučené priority počítají s nabíjením, talenty a počtem cílů. Z této kontroly nevyvozujeme ztracené charges ani úplnou prioritu Kill Command.
+
+- Před Bestial Wrath si připrav Barbed Shot podle dostupných charges. **Stejné pořadí jako v doporučeném začátku**: Barbed Shot +0.520 s; Bestial Wrath +3.129 s. Guide i jednocílové priority mají přípravný Barbed Shot před Bestial Wrath; přesný počet závisí na podmínkách.
+- Využij Bestial Wrath na Kill Command. **Přítomnost vlastního buffu při použití není jistá**: Kill Command +1.823 s Buff při prvním Kill Command je jen kontrola začátku burstu, ne zákaz Kill Command mimo Bestial Wrath.
+
+[Guide](https://www.method.gg/guides/beast-mastery-hunter/playstyle-and-rotation) · [Připnutá verze SimulationCraft](https://github.com/simulationcraft/simc/tree/76f8118cf3f7f41dad20708e8328e1f4ab2deebc)
+
+### Micaello-Drak'thul-EU — Sszorak
+
+Připrav Barbed Shot do prvního Bestial Wrath a potom využij burst na Kill Command. Nenech začátek souboje pohltit přípravou peta; před pullem zkontroluj, že ho máš.
+
+Nepožadujeme vždy přesně dva Barbed Shot: doporučené priority počítají s nabíjením, talenty a počtem cílů. Z této kontroly nevyvozujeme ztracené charges ani úplnou prioritu Kill Command.
+
+- Před Bestial Wrath si připrav Barbed Shot podle dostupných charges. **Stejné pořadí jako v doporučeném začátku**: Barbed Shot +0.490 s; Bestial Wrath +1.806 s. Guide i jednocílové priority mají přípravný Barbed Shot před Bestial Wrath; přesný počet závisí na podmínkách.
+- Využij Bestial Wrath na Kill Command. **Vlastní buff před použitím doložený**: Kill Command +3.129 s Buff při prvním Kill Command je jen kontrola začátku burstu, ne zákaz Kill Command mimo Bestial Wrath.
 
 [Guide](https://www.method.gg/guides/beast-mastery-hunter/playstyle-and-rotation) · [Připnutá verze SimulationCraft](https://github.com/simulationcraft/simc/tree/76f8118cf3f7f41dad20708e8328e1f4ab2deebc)
 
@@ -2682,30 +2713,8 @@ Připrav Barbed Shot do prvního Bestial Wrath a potom využij burst na Kill Com
 
 Nepožadujeme vždy přesně dva Barbed Shot: doporučené priority počítají s nabíjením, talenty a počtem cílů. Z této kontroly nevyvozujeme ztracené charges ani úplnou prioritu Kill Command.
 
-- Před Bestial Wrath si připrav Barbed Shot podle dostupných charges. **Stejné pořadí jako v doporučeném začátku**: Barbed Shot +0.485 s; Bestial Wrath +1.866 s. Guide i jednocílové priority mají přípravný Barbed Shot před Bestial Wrath; přesný počet závisí na podmínkách.
-- Využij Bestial Wrath na Kill Command. **Vlastní buff před použitím doložený**: Kill Command +2.908 s Buff při prvním Kill Command je jen kontrola začátku burstu, ne zákaz Kill Command mimo Bestial Wrath.
-
-[Guide](https://www.method.gg/guides/beast-mastery-hunter/playstyle-and-rotation) · [Připnutá verze SimulationCraft](https://github.com/simulationcraft/simc/tree/76f8118cf3f7f41dad20708e8328e1f4ab2deebc)
-
-### Micaello-Drak'thul-EU — Entombed Sentinels
-
-Připrav Barbed Shot do prvního Bestial Wrath a potom využij burst na Kill Command. Nenech začátek souboje pohltit přípravou peta; před pullem zkontroluj, že ho máš.
-
-Nepožadujeme vždy přesně dva Barbed Shot: doporučené priority počítají s nabíjením, talenty a počtem cílů. Z této kontroly nevyvozujeme ztracené charges ani úplnou prioritu Kill Command.
-
-- Před Bestial Wrath si připrav Barbed Shot podle dostupných charges. **Stejné pořadí jako v doporučeném začátku**: Barbed Shot +1.929 s; Bestial Wrath +4.029 s. Guide i jednocílové priority mají přípravný Barbed Shot před Bestial Wrath; přesný počet závisí na podmínkách.
-- Využij Bestial Wrath na Kill Command. **Vlastní buff před použitím doložený**: Kill Command +5.059 s Buff při prvním Kill Command je jen kontrola začátku burstu, ne zákaz Kill Command mimo Bestial Wrath.
-
-[Guide](https://www.method.gg/guides/beast-mastery-hunter/playstyle-and-rotation) · [Připnutá verze SimulationCraft](https://github.com/simulationcraft/simc/tree/76f8118cf3f7f41dad20708e8328e1f4ab2deebc)
-
-### Micaello-Drak'thul-EU — Vashnik the Malignant
-
-Připrav Barbed Shot do prvního Bestial Wrath a potom využij burst na Kill Command. Nenech začátek souboje pohltit přípravou peta; před pullem zkontroluj, že ho máš.
-
-Nepožadujeme vždy přesně dva Barbed Shot: doporučené priority počítají s nabíjením, talenty a počtem cílů. Z této kontroly nevyvozujeme ztracené charges ani úplnou prioritu Kill Command.
-
-- Před Bestial Wrath si připrav Barbed Shot podle dostupných charges. **Stejné pořadí jako v doporučeném začátku**: Barbed Shot +1.633 s; Bestial Wrath +2.689 s. Guide i jednocílové priority mají přípravný Barbed Shot před Bestial Wrath; přesný počet závisí na podmínkách.
-- Využij Bestial Wrath na Kill Command. **Vlastní buff před použitím doložený**: Kill Command +4.787 s Buff při prvním Kill Command je jen kontrola začátku burstu, ne zákaz Kill Command mimo Bestial Wrath.
+- Před Bestial Wrath si připrav Barbed Shot podle dostupných charges. **Stejné pořadí jako v doporučeném začátku**: Barbed Shot +1.009 s; Bestial Wrath +2.313 s. Guide i jednocílové priority mají přípravný Barbed Shot před Bestial Wrath; přesný počet závisí na podmínkách.
+- Využij Bestial Wrath na Kill Command. **Vlastní buff před použitím doložený**: Kill Command +3.333 s Buff při prvním Kill Command je jen kontrola začátku burstu, ne zákaz Kill Command mimo Bestial Wrath.
 
 [Guide](https://www.method.gg/guides/beast-mastery-hunter/playstyle-and-rotation) · [Připnutá verze SimulationCraft](https://github.com/simulationcraft/simc/tree/76f8118cf3f7f41dad20708e8328e1f4ab2deebc)
 
@@ -2715,8 +2724,8 @@ První Takedown připrav jako společný burst s Wildfire Bomb a Boomstick. Tip 
 
 Tip of the Spear, Twin Fangs, počet cílů a dostupnost schopností mění priority. Samotný Boomstick před prvním zaznamenaným Takedown není potvrzená chyba.
 
-- Při připraveném Takedown plánuj Boomstick do společného burstu. **Stejné pořadí jako v doporučeném začátku**: Takedown +1.668 s; Boomstick +6.616 s. Doporučený začátek spojuje Takedown, bombu a Boomstick. Příprava se mění podle Tip of the Spear a Twin Fangs.
-- Sleduj, zda silné bomby využívají Takedown. **Vlastní buff před použitím doložený**: Wildfire Bomb +2.723 s Zde ověřujeme jen přítomnost Takedown při první bombě; bomba mimo něj může být správně.
+- Při připraveném Takedown plánuj Boomstick do společného burstu. **Stejné pořadí jako v doporučeném začátku**: Takedown +2.801 s; Boomstick +16.936 s. Doporučený začátek spojuje Takedown, bombu a Boomstick. Příprava se mění podle Tip of the Spear a Twin Fangs.
+- Sleduj, zda silné bomby využívají Takedown. **Přítomnost vlastního buffu při použití není jistá**: Wildfire Bomb +1.477 s Zde ověřujeme jen přítomnost Takedown při první bombě; bomba mimo něj může být správně.
 
 [Guide](https://www.method.gg/guides/survival-hunter/playstyle-and-rotation) · [Připnutá verze SimulationCraft](https://github.com/simulationcraft/simc/tree/76f8118cf3f7f41dad20708e8328e1f4ab2deebc)
 
@@ -2726,8 +2735,8 @@ První Takedown připrav jako společný burst s Wildfire Bomb a Boomstick. Tip 
 
 Tip of the Spear, Twin Fangs, počet cílů a dostupnost schopností mění priority. Samotný Boomstick před prvním zaznamenaným Takedown není potvrzená chyba.
 
-- Při připraveném Takedown plánuj Boomstick do společného burstu. **Stejné pořadí jako v doporučeném začátku**: Takedown +2.465 s; Boomstick +6.532 s. Doporučený začátek spojuje Takedown, bombu a Boomstick. Příprava se mění podle Tip of the Spear a Twin Fangs.
-- Sleduj, zda silné bomby využívají Takedown. **Přítomnost vlastního buffu při použití není jistá**: Wildfire Bomb +1.112 s Zde ověřujeme jen přítomnost Takedown při první bombě; bomba mimo něj může být správně.
+- Při připraveném Takedown plánuj Boomstick do společného burstu. **Stejné pořadí jako v doporučeném začátku**: Takedown +1.919 s; Boomstick +6.029 s. Doporučený začátek spojuje Takedown, bombu a Boomstick. Příprava se mění podle Tip of the Spear a Twin Fangs.
+- Sleduj, zda silné bomby využívají Takedown. **Přítomnost vlastního buffu při použití není jistá**: Wildfire Bomb +0.579 s Zde ověřujeme jen přítomnost Takedown při první bombě; bomba mimo něj může být správně.
 
 [Guide](https://www.method.gg/guides/survival-hunter/playstyle-and-rotation) · [Připnutá verze SimulationCraft](https://github.com/simulationcraft/simc/tree/76f8118cf3f7f41dad20708e8328e1f4ab2deebc)
 
@@ -2737,8 +2746,30 @@ První Takedown připrav jako společný burst s Wildfire Bomb a Boomstick. Tip 
 
 Tip of the Spear, Twin Fangs, počet cílů a dostupnost schopností mění priority. Samotný Boomstick před prvním zaznamenaným Takedown není potvrzená chyba.
 
-- Při připraveném Takedown plánuj Boomstick do společného burstu. **Stejné pořadí jako v doporučeném začátku**: Takedown +2.942 s; Boomstick +15.272 s. Doporučený začátek spojuje Takedown, bombu a Boomstick. Příprava se mění podle Tip of the Spear a Twin Fangs.
-- Sleduj, zda silné bomby využívají Takedown. **Přítomnost vlastního buffu při použití není jistá**: Wildfire Bomb +1.504 s Zde ověřujeme jen přítomnost Takedown při první bombě; bomba mimo něj může být správně.
+- Při připraveném Takedown plánuj Boomstick do společného burstu. **Stejné pořadí jako v doporučeném začátku**: Takedown +1.919 s; Boomstick +4.635 s. Doporučený začátek spojuje Takedown, bombu a Boomstick. Příprava se mění podle Tip of the Spear a Twin Fangs.
+- Sleduj, zda silné bomby využívají Takedown. **Přítomnost vlastního buffu při použití není jistá**: Wildfire Bomb +0.450 s Zde ověřujeme jen přítomnost Takedown při první bombě; bomba mimo něj může být správně.
+
+[Guide](https://www.method.gg/guides/survival-hunter/playstyle-and-rotation) · [Připnutá verze SimulationCraft](https://github.com/simulationcraft/simc/tree/76f8118cf3f7f41dad20708e8328e1f4ab2deebc)
+
+### Theila-Drak'thul-EU — The Lost Explorers
+
+První Takedown připrav jako společný burst s Wildfire Bomb a Boomstick. Tip of the Spear před ním řeš podle Twin Fangs; není správně vždy přidávat Kill Command navíc.
+
+Tip of the Spear, Twin Fangs, počet cílů a dostupnost schopností mění priority. Samotný Boomstick před prvním zaznamenaným Takedown není potvrzená chyba.
+
+- Při připraveném Takedown plánuj Boomstick do společného burstu. **Stejné pořadí jako v doporučeném začátku**: Takedown +1.846 s; Boomstick +5.310 s. Doporučený začátek spojuje Takedown, bombu a Boomstick. Příprava se mění podle Tip of the Spear a Twin Fangs.
+- Sleduj, zda silné bomby využívají Takedown. **Vlastní buff před použitím doložený**: Wildfire Bomb +3.253 s Zde ověřujeme jen přítomnost Takedown při první bombě; bomba mimo něj může být správně.
+
+[Guide](https://www.method.gg/guides/survival-hunter/playstyle-and-rotation) · [Připnutá verze SimulationCraft](https://github.com/simulationcraft/simc/tree/76f8118cf3f7f41dad20708e8328e1f4ab2deebc)
+
+### Theila-Drak'thul-EU — Sszorak
+
+První Takedown připrav jako společný burst s Wildfire Bomb a Boomstick. Tip of the Spear před ním řeš podle Twin Fangs; není správně vždy přidávat Kill Command navíc.
+
+Tip of the Spear, Twin Fangs, počet cílů a dostupnost schopností mění priority. Samotný Boomstick před prvním zaznamenaným Takedown není potvrzená chyba.
+
+- Při připraveném Takedown plánuj Boomstick do společného burstu. **Stejné pořadí jako v doporučeném začátku**: Takedown +2.437 s; Boomstick +5.124 s. Doporučený začátek spojuje Takedown, bombu a Boomstick. Příprava se mění podle Tip of the Spear a Twin Fangs.
+- Sleduj, zda silné bomby využívají Takedown. **Vlastní buff před použitím doložený**: Wildfire Bomb +3.769 s Zde ověřujeme jen přítomnost Takedown při první bombě; bomba mimo něj může být správně.
 
 [Guide](https://www.method.gg/guides/survival-hunter/playstyle-and-rotation) · [Připnutá verze SimulationCraft](https://github.com/simulationcraft/simc/tree/76f8118cf3f7f41dad20708e8328e1f4ab2deebc)
 
@@ -2748,100 +2779,18 @@ První Takedown připrav jako společný burst s Wildfire Bomb a Boomstick. Tip 
 
 Tip of the Spear, Twin Fangs, počet cílů a dostupnost schopností mění priority. Samotný Boomstick před prvním zaznamenaným Takedown není potvrzená chyba.
 
-- Při připraveném Takedown plánuj Boomstick do společného burstu. **Stejné pořadí jako v doporučeném začátku**: Takedown +0.744 s; Boomstick +11.166 s. Doporučený začátek spojuje Takedown, bombu a Boomstick. Příprava se mění podle Tip of the Spear a Twin Fangs.
-- Sleduj, zda silné bomby využívají Takedown. **Vlastní buff před použitím doložený**: Wildfire Bomb +2.080 s Zde ověřujeme jen přítomnost Takedown při první bombě; bomba mimo něj může být správně.
+- Při připraveném Takedown plánuj Boomstick do společného burstu. **Stejné pořadí jako v doporučeném začátku**: Takedown +1.390 s; Boomstick +3.881 s. Doporučený začátek spojuje Takedown, bombu a Boomstick. Příprava se mění podle Tip of the Spear a Twin Fangs.
+- Sleduj, zda silné bomby využívají Takedown. **Vlastní buff před použitím doložený**: Wildfire Bomb +2.717 s Zde ověřujeme jen přítomnost Takedown při první bombě; bomba mimo něj může být správně.
 
 [Guide](https://www.method.gg/guides/survival-hunter/playstyle-and-rotation) · [Připnutá verze SimulationCraft](https://github.com/simulationcraft/simc/tree/76f8118cf3f7f41dad20708e8328e1f4ab2deebc)
 
-### Theila-Drak'thul-EU — Entombed Sentinels
-
-První Takedown připrav jako společný burst s Wildfire Bomb a Boomstick. Tip of the Spear před ním řeš podle Twin Fangs; není správně vždy přidávat Kill Command navíc.
-
-Tip of the Spear, Twin Fangs, počet cílů a dostupnost schopností mění priority. Samotný Boomstick před prvním zaznamenaným Takedown není potvrzená chyba.
-
-- Při připraveném Takedown plánuj Boomstick do společného burstu. **Stejné pořadí jako v doporučeném začátku**: Takedown +2.033 s; Boomstick +5.090 s. Doporučený začátek spojuje Takedown, bombu a Boomstick. Příprava se mění podle Tip of the Spear a Twin Fangs.
-- Sleduj, zda silné bomby využívají Takedown. **Přítomnost vlastního buffu při použití není jistá**: Wildfire Bomb +0.681 s Zde ověřujeme jen přítomnost Takedown při první bombě; bomba mimo něj může být správně.
-
-[Guide](https://www.method.gg/guides/survival-hunter/playstyle-and-rotation) · [Připnutá verze SimulationCraft](https://github.com/simulationcraft/simc/tree/76f8118cf3f7f41dad20708e8328e1f4ab2deebc)
-
-### Theila-Drak'thul-EU — Vashnik the Malignant
-
-První Takedown připrav jako společný burst s Wildfire Bomb a Boomstick. Tip of the Spear před ním řeš podle Twin Fangs; není správně vždy přidávat Kill Command navíc.
-
-Tip of the Spear, Twin Fangs, počet cílů a dostupnost schopností mění priority. Samotný Boomstick před prvním zaznamenaným Takedown není potvrzená chyba.
-
-- Při připraveném Takedown plánuj Boomstick do společného burstu. **Jiné pořadí — zkontroluj přípravu burstu**: Takedown +18.919 s; Boomstick +7.149 s. Doporučený začátek spojuje Takedown, bombu a Boomstick. Příprava se mění podle Tip of the Spear a Twin Fangs.
-- Sleduj, zda silné bomby využívají Takedown. **Přítomnost vlastního buffu při použití není jistá**: Wildfire Bomb +0.479 s Zde ověřujeme jen přítomnost Takedown při první bombě; bomba mimo něj může být správně.
-
-[Guide](https://www.method.gg/guides/survival-hunter/playstyle-and-rotation) · [Připnutá verze SimulationCraft](https://github.com/simulationcraft/simc/tree/76f8118cf3f7f41dad20708e8328e1f4ab2deebc)
-
-### Luminos-BurningBlade-EU — Nek'zali the Soulcoiler
+### Íácekpwn-Drak'thul-EU — Nek'zali the Soulcoiler
 
 Připrav DoTy a první Voidform jako začátek burstu. U Archon k tomu patří Halo; Voidweaver navazuje prací s riftem. Power Infusion posuzuj i podle domluveného spoluhráče.
 
 Twins of the Sun Priestess může dát vlastní kopii PI při podpoře spoluhráče. Samotné pořadí PI a vlastní Voidform proto není výtka. Nový set také mění opener.
 
-- U Voidweaver plánuj první Void Torrent do burstu s Voidform. **Stejné pořadí jako v doporučeném začátku**: Voidform +0.861 s; Void Torrent +7.444 s. První dvojice ukazuje načasování; neověřuje Insanity, charges ani celý rift.
-
-[Guide](https://www.method.gg/guides/shadow-priest/playstyle-and-rotation) · [Připnutá verze SimulationCraft](https://github.com/simulationcraft/simc/tree/76f8118cf3f7f41dad20708e8328e1f4ab2deebc)
-
-### Omniblue-Drak'thul-EU — Nek'zali the Soulcoiler
-
-Připrav DoTy a první Voidform jako začátek burstu. U Archon k tomu patří Halo; Voidweaver navazuje prací s riftem. Power Infusion posuzuj i podle domluveného spoluhráče.
-
-Twins of the Sun Priestess může dát vlastní kopii PI při podpoře spoluhráče. Samotné pořadí PI a vlastní Voidform proto není výtka. Nový set také mění opener.
-
-- U Voidweaver plánuj první Void Torrent do burstu s Voidform. **Stejné pořadí jako v doporučeném začátku**: Voidform +4.429 s; Void Torrent +7.097 s. První dvojice ukazuje načasování; neověřuje Insanity, charges ani celý rift.
-
-[Guide](https://www.method.gg/guides/shadow-priest/playstyle-and-rotation) · [Připnutá verze SimulationCraft](https://github.com/simulationcraft/simc/tree/76f8118cf3f7f41dad20708e8328e1f4ab2deebc)
-
-### Omniblue-Drak'thul-EU — The Coiled Altar
-
-Připrav DoTy a první Voidform jako začátek burstu. U Archon k tomu patří Halo; Voidweaver navazuje prací s riftem. Power Infusion posuzuj i podle domluveného spoluhráče.
-
-Twins of the Sun Priestess může dát vlastní kopii PI při podpoře spoluhráče. Samotné pořadí PI a vlastní Voidform proto není výtka. Nový set také mění opener.
-
-- U Voidweaver plánuj první Void Torrent do burstu s Voidform. **Stejné pořadí jako v doporučeném začátku**: Voidform +5.390 s; Void Torrent +7.893 s. První dvojice ukazuje načasování; neověřuje Insanity, charges ani celý rift.
-
-[Guide](https://www.method.gg/guides/shadow-priest/playstyle-and-rotation) · [Připnutá verze SimulationCraft](https://github.com/simulationcraft/simc/tree/76f8118cf3f7f41dad20708e8328e1f4ab2deebc)
-
-### Omniblue-Drak'thul-EU — Ula'tek
-
-Připrav DoTy a první Voidform jako začátek burstu. U Archon k tomu patří Halo; Voidweaver navazuje prací s riftem. Power Infusion posuzuj i podle domluveného spoluhráče.
-
-Twins of the Sun Priestess může dát vlastní kopii PI při podpoře spoluhráče. Samotné pořadí PI a vlastní Voidform proto není výtka. Nový set také mění opener.
-
-- U Voidweaver plánuj první Void Torrent do burstu s Voidform. **Stejné pořadí jako v doporučeném začátku**: Voidform +5.070 s; Void Torrent +7.669 s. První dvojice ukazuje načasování; neověřuje Insanity, charges ani celý rift.
-
-[Guide](https://www.method.gg/guides/shadow-priest/playstyle-and-rotation) · [Připnutá verze SimulationCraft](https://github.com/simulationcraft/simc/tree/76f8118cf3f7f41dad20708e8328e1f4ab2deebc)
-
-### Omniblue-Drak'thul-EU — Kith'ix
-
-Připrav DoTy a první Voidform jako začátek burstu. U Archon k tomu patří Halo; Voidweaver navazuje prací s riftem. Power Infusion posuzuj i podle domluveného spoluhráče.
-
-Twins of the Sun Priestess může dát vlastní kopii PI při podpoře spoluhráče. Samotné pořadí PI a vlastní Voidform proto není výtka. Nový set také mění opener.
-
-- U Voidweaver plánuj první Void Torrent do burstu s Voidform. **Stejné pořadí jako v doporučeném začátku**: Voidform +4.265 s; Void Torrent +7.010 s. První dvojice ukazuje načasování; neověřuje Insanity, charges ani celý rift.
-
-[Guide](https://www.method.gg/guides/shadow-priest/playstyle-and-rotation) · [Připnutá verze SimulationCraft](https://github.com/simulationcraft/simc/tree/76f8118cf3f7f41dad20708e8328e1f4ab2deebc)
-
-### Omniblue-Drak'thul-EU — Entombed Sentinels
-
-Připrav DoTy a první Voidform jako začátek burstu. U Archon k tomu patří Halo; Voidweaver navazuje prací s riftem. Power Infusion posuzuj i podle domluveného spoluhráče.
-
-Twins of the Sun Priestess může dát vlastní kopii PI při podpoře spoluhráče. Samotné pořadí PI a vlastní Voidform proto není výtka. Nový set také mění opener.
-
-- U Voidweaver plánuj první Void Torrent do burstu s Voidform. **Stejné pořadí jako v doporučeném začátku**: Voidform +5.060 s; Void Torrent +7.801 s. První dvojice ukazuje načasování; neověřuje Insanity, charges ani celý rift.
-
-[Guide](https://www.method.gg/guides/shadow-priest/playstyle-and-rotation) · [Připnutá verze SimulationCraft](https://github.com/simulationcraft/simc/tree/76f8118cf3f7f41dad20708e8328e1f4ab2deebc)
-
-### Omniblue-Drak'thul-EU — Vashnik the Malignant
-
-Připrav DoTy a první Voidform jako začátek burstu. U Archon k tomu patří Halo; Voidweaver navazuje prací s riftem. Power Infusion posuzuj i podle domluveného spoluhráče.
-
-Twins of the Sun Priestess může dát vlastní kopii PI při podpoře spoluhráče. Samotné pořadí PI a vlastní Voidform proto není výtka. Nový set také mění opener.
-
-- U Voidweaver plánuj první Void Torrent do burstu s Voidform. **Stejné pořadí jako v doporučeném začátku**: Voidform +4.914 s; Void Torrent +7.440 s. První dvojice ukazuje načasování; neověřuje Insanity, charges ani celý rift.
+- U Archon připrav Halo před prvním Voidform, pokud je dostupné. **Ve sledovaném úseku chybí část dvojice; nejde o výtku**: Voidform +4.732 s Guide Archon řadí Halo do přípravy; pravidlo se na Voidweaver nepoužije.
 
 [Guide](https://www.method.gg/guides/shadow-priest/playstyle-and-rotation) · [Připnutá verze SimulationCraft](https://github.com/simulationcraft/simc/tree/76f8118cf3f7f41dad20708e8328e1f4ab2deebc)
 
@@ -2851,105 +2800,39 @@ Připrav DoTy a první Voidform jako začátek burstu. U Archon k tomu patří H
 
 Twins of the Sun Priestess může dát vlastní kopii PI při podpoře spoluhráče. Samotné pořadí PI a vlastní Voidform proto není výtka. Nový set také mění opener.
 
-- U Archon připrav Halo před prvním Voidform, pokud je dostupné. **Ve sledovaném úseku chybí část dvojice; nejde o výtku**: Voidform +6.734 s Guide Archon řadí Halo do přípravy; pravidlo se na Voidweaver nepoužije.
+- U Archon připrav Halo před prvním Voidform, pokud je dostupné. **Ve sledovaném úseku chybí část dvojice; nejde o výtku**: Voidform +6.633 s Guide Archon řadí Halo do přípravy; pravidlo se na Voidweaver nepoužije.
 
 [Guide](https://www.method.gg/guides/shadow-priest/playstyle-and-rotation) · [Připnutá verze SimulationCraft](https://github.com/simulationcraft/simc/tree/76f8118cf3f7f41dad20708e8328e1f4ab2deebc)
 
-### Íácekpwn-Drak'thul-EU — Ula'tek
+### Íácekpwn-Drak'thul-EU — The Lost Explorers
 
 Připrav DoTy a první Voidform jako začátek burstu. U Archon k tomu patří Halo; Voidweaver navazuje prací s riftem. Power Infusion posuzuj i podle domluveného spoluhráče.
 
 Twins of the Sun Priestess může dát vlastní kopii PI při podpoře spoluhráče. Samotné pořadí PI a vlastní Voidform proto není výtka. Nový set také mění opener.
 
-- U Archon připrav Halo před prvním Voidform, pokud je dostupné. **Ve sledovaném úseku chybí část dvojice; nejde o výtku**: Voidform +5.836 s Guide Archon řadí Halo do přípravy; pravidlo se na Voidweaver nepoužije.
+- U Archon připrav Halo před prvním Voidform, pokud je dostupné. **Ve sledovaném úseku chybí část dvojice; nejde o výtku**: Voidform +8.891 s Guide Archon řadí Halo do přípravy; pravidlo se na Voidweaver nepoužije.
 
 [Guide](https://www.method.gg/guides/shadow-priest/playstyle-and-rotation) · [Připnutá verze SimulationCraft](https://github.com/simulationcraft/simc/tree/76f8118cf3f7f41dad20708e8328e1f4ab2deebc)
 
-### Íácekpwn-Drak'thul-EU — Entombed Sentinels
+### Íácekpwn-Drak'thul-EU — Sszorak
 
 Připrav DoTy a první Voidform jako začátek burstu. U Archon k tomu patří Halo; Voidweaver navazuje prací s riftem. Power Infusion posuzuj i podle domluveného spoluhráče.
 
 Twins of the Sun Priestess může dát vlastní kopii PI při podpoře spoluhráče. Samotné pořadí PI a vlastní Voidform proto není výtka. Nový set také mění opener.
 
-- U Archon připrav Halo před prvním Voidform, pokud je dostupné. **Ve sledovaném úseku chybí část dvojice; nejde o výtku**: Voidform +8.500 s Guide Archon řadí Halo do přípravy; pravidlo se na Voidweaver nepoužije.
+- U Archon připrav Halo před prvním Voidform, pokud je dostupné. **Ve sledovaném úseku chybí část dvojice; nejde o výtku**: Voidform +5.904 s Guide Archon řadí Halo do přípravy; pravidlo se na Voidweaver nepoužije.
 
 [Guide](https://www.method.gg/guides/shadow-priest/playstyle-and-rotation) · [Připnutá verze SimulationCraft](https://github.com/simulationcraft/simc/tree/76f8118cf3f7f41dad20708e8328e1f4ab2deebc)
 
-### Íácekpwn-Drak'thul-EU — Vashnik the Malignant
+### Íácekpwn-Drak'thul-EU — Kith'ix
 
 Připrav DoTy a první Voidform jako začátek burstu. U Archon k tomu patří Halo; Voidweaver navazuje prací s riftem. Power Infusion posuzuj i podle domluveného spoluhráče.
 
 Twins of the Sun Priestess může dát vlastní kopii PI při podpoře spoluhráče. Samotné pořadí PI a vlastní Voidform proto není výtka. Nový set také mění opener.
 
-- U Archon připrav Halo před prvním Voidform, pokud je dostupné. **Ve sledovaném úseku chybí část dvojice; nejde o výtku**: Voidform +4.146 s Guide Archon řadí Halo do přípravy; pravidlo se na Voidweaver nepoužije.
+- U Archon připrav Halo před prvním Voidform, pokud je dostupné. **Ve sledovaném úseku chybí část dvojice; nejde o výtku**: Voidform +5.463 s Guide Archon řadí Halo do přípravy; pravidlo se na Voidweaver nepoužije.
 
 [Guide](https://www.method.gg/guides/shadow-priest/playstyle-and-rotation) · [Připnutá verze SimulationCraft](https://github.com/simulationcraft/simc/tree/76f8118cf3f7f41dad20708e8328e1f4ab2deebc)
-
-### Slejhy-Drak'thul-EU — Nek'zali the Soulcoiler
-
-Připrav Garrote, Rupture a Envenom pro první Deathmark a Kingsbane. Sleduj, aby hlavní burst nezačal dřív, než máš připravené důležité efekty na cíli.
-
-Vanish, Improved Garrote, combo pointy, životnost cíle a počet cílů mohou změnit pořadí. Obrácená dvojice Deathmark a Kingsbane sama nevyčísluje chybu ani její dopad.
-
-- Spoj první Deathmark a Kingsbane s připravenými DoTy a Envenom. **Jiné pořadí — zkontroluj přípravu burstu**: Deathmark +9.100 s; Kingsbane +8.081 s. Guide má Deathmark před Kingsbane. Ukazujeme odlišné pořadí, ale celý stav debuffů a dostupnost jsou pro verdikt nutné.
-- Připrav Rupture před prvním Deathmark na stejném cíli. **Stejné pořadí jako v doporučeném začátku**: Rupture +3.086 s; Deathmark +9.100 s. Oba cíle musí souhlasit; starší Rupture ani automatické efekty z chybějícího castu nepopíráme.
-
-[Guide](https://www.method.gg/guides/assassination-rogue/playstyle-and-rotation) · [Připnutá verze SimulationCraft](https://github.com/simulationcraft/simc/tree/76f8118cf3f7f41dad20708e8328e1f4ab2deebc)
-
-### Slejhy-Drak'thul-EU — The Coiled Altar
-
-Připrav Garrote, Rupture a Envenom pro první Deathmark a Kingsbane. Sleduj, aby hlavní burst nezačal dřív, než máš připravené důležité efekty na cíli.
-
-Vanish, Improved Garrote, combo pointy, životnost cíle a počet cílů mohou změnit pořadí. Obrácená dvojice Deathmark a Kingsbane sama nevyčísluje chybu ani její dopad.
-
-- Spoj první Deathmark a Kingsbane s připravenými DoTy a Envenom. **Jiné pořadí — zkontroluj přípravu burstu**: Deathmark +11.433 s; Kingsbane +10.451 s. Guide má Deathmark před Kingsbane. Ukazujeme odlišné pořadí, ale celý stav debuffů a dostupnost jsou pro verdikt nutné.
-- Připrav Rupture před prvním Deathmark na stejném cíli. **Stejné pořadí jako v doporučeném začátku**: Rupture +4.276 s; Deathmark +11.433 s. Oba cíle musí souhlasit; starší Rupture ani automatické efekty z chybějícího castu nepopíráme.
-
-[Guide](https://www.method.gg/guides/assassination-rogue/playstyle-and-rotation) · [Připnutá verze SimulationCraft](https://github.com/simulationcraft/simc/tree/76f8118cf3f7f41dad20708e8328e1f4ab2deebc)
-
-### Slejhy-Drak'thul-EU — Ula'tek
-
-Připrav Garrote, Rupture a Envenom pro první Deathmark a Kingsbane. Sleduj, aby hlavní burst nezačal dřív, než máš připravené důležité efekty na cíli.
-
-Vanish, Improved Garrote, combo pointy, životnost cíle a počet cílů mohou změnit pořadí. Obrácená dvojice Deathmark a Kingsbane sama nevyčísluje chybu ani její dopad.
-
-- Spoj první Deathmark a Kingsbane s připravenými DoTy a Envenom. **Jiné pořadí — zkontroluj přípravu burstu**: Deathmark +8.301 s; Kingsbane +7.308 s. Guide má Deathmark před Kingsbane. Ukazujeme odlišné pořadí, ale celý stav debuffů a dostupnost jsou pro verdikt nutné.
-- Připrav Rupture před prvním Deathmark na stejném cíli. **Stejné pořadí jako v doporučeném začátku**: Rupture +2.300 s; Deathmark +8.301 s. Oba cíle musí souhlasit; starší Rupture ani automatické efekty z chybějícího castu nepopíráme.
-
-[Guide](https://www.method.gg/guides/assassination-rogue/playstyle-and-rotation) · [Připnutá verze SimulationCraft](https://github.com/simulationcraft/simc/tree/76f8118cf3f7f41dad20708e8328e1f4ab2deebc)
-
-### Slejhy-Drak'thul-EU — Kith'ix
-
-Připrav Garrote, Rupture a Envenom pro první Deathmark a Kingsbane. Sleduj, aby hlavní burst nezačal dřív, než máš připravené důležité efekty na cíli.
-
-Vanish, Improved Garrote, combo pointy, životnost cíle a počet cílů mohou změnit pořadí. Obrácená dvojice Deathmark a Kingsbane sama nevyčísluje chybu ani její dopad.
-
-- Spoj první Deathmark a Kingsbane s připravenými DoTy a Envenom. **Jiné pořadí — zkontroluj přípravu burstu**: Deathmark +11.659 s; Kingsbane +8.636 s. Guide má Deathmark před Kingsbane. Ukazujeme odlišné pořadí, ale celý stav debuffů a dostupnost jsou pro verdikt nutné.
-- Připrav Rupture před prvním Deathmark na stejném cíli. **Stejné pořadí jako v doporučeném začátku**: Rupture +3.487 s; Deathmark +11.659 s. Oba cíle musí souhlasit; starší Rupture ani automatické efekty z chybějícího castu nepopíráme.
-
-[Guide](https://www.method.gg/guides/assassination-rogue/playstyle-and-rotation) · [Připnutá verze SimulationCraft](https://github.com/simulationcraft/simc/tree/76f8118cf3f7f41dad20708e8328e1f4ab2deebc)
-
-### Slejhy-Drak'thul-EU — Entombed Sentinels
-
-Připrav Garrote, Rupture a Envenom pro první Deathmark a Kingsbane. Sleduj, aby hlavní burst nezačal dřív, než máš připravené důležité efekty na cíli.
-
-Vanish, Improved Garrote, combo pointy, životnost cíle a počet cílů mohou změnit pořadí. Obrácená dvojice Deathmark a Kingsbane sama nevyčísluje chybu ani její dopad.
-
-- Spoj první Deathmark a Kingsbane s připravenými DoTy a Envenom. **Jiné pořadí — zkontroluj přípravu burstu**: Deathmark +7.991 s; Kingsbane +7.009 s. Guide má Deathmark před Kingsbane. Ukazujeme odlišné pořadí, ale celý stav debuffů a dostupnost jsou pro verdikt nutné.
-- Připrav Rupture před prvním Deathmark na stejném cíli. **Stejné pořadí jako v doporučeném začátku**: Rupture +3.000 s; Deathmark +7.991 s. Oba cíle musí souhlasit; starší Rupture ani automatické efekty z chybějícího castu nepopíráme.
-
-[Guide](https://www.method.gg/guides/assassination-rogue/playstyle-and-rotation) · [Připnutá verze SimulationCraft](https://github.com/simulationcraft/simc/tree/76f8118cf3f7f41dad20708e8328e1f4ab2deebc)
-
-### Slejhy-Drak'thul-EU — Vashnik the Malignant
-
-Připrav Garrote, Rupture a Envenom pro první Deathmark a Kingsbane. Sleduj, aby hlavní burst nezačal dřív, než máš připravené důležité efekty na cíli.
-
-Vanish, Improved Garrote, combo pointy, životnost cíle a počet cílů mohou změnit pořadí. Obrácená dvojice Deathmark a Kingsbane sama nevyčísluje chybu ani její dopad.
-
-- Spoj první Deathmark a Kingsbane s připravenými DoTy a Envenom. **Jiné pořadí — zkontroluj přípravu burstu**: Deathmark +8.662 s; Kingsbane +7.660 s. Guide má Deathmark před Kingsbane. Ukazujeme odlišné pořadí, ale celý stav debuffů a dostupnost jsou pro verdikt nutné.
-- Připrav Rupture před prvním Deathmark na stejném cíli. **Stejné pořadí jako v doporučeném začátku**: Rupture +2.463 s; Deathmark +8.662 s. Oba cíle musí souhlasit; starší Rupture ani automatické efekty z chybějícího castu nepopíráme.
-
-[Guide](https://www.method.gg/guides/assassination-rogue/playstyle-and-rotation) · [Připnutá verze SimulationCraft](https://github.com/simulationcraft/simc/tree/76f8118cf3f7f41dad20708e8328e1f4ab2deebc)
 
 ### Hrbaty-Drak'thul-EU — Nek'zali the Soulcoiler
 
@@ -2957,27 +2840,27 @@ Před prvním Ascendance si připrav Stormkeeper. Ancestral Swiftness následně
 
 Stormkeeper může být použitý už před pullem. Nevyžadujeme ho znovu jen proto, že v post-pull seznamu není. Nedopočítáváme dostupnost z nominálního cooldownu.
 
-- Při společném burstu připrav Stormkeeper před Ascendance. **Stejné pořadí jako v doporučeném začátku**: Stormkeeper +0.492 s; Ascendance +4.349 s. Guide výslovně doporučuje synchronizaci Stormkeeper a Ascendance; doporučené priority mají podmínky a výjimky pro další použití.
+- Při společném burstu připrav Stormkeeper před Ascendance. **Stejné pořadí jako v doporučeném začátku**: Stormkeeper -2.137 s; Ascendance +0.999 s. Guide výslovně doporučuje synchronizaci Stormkeeper a Ascendance; doporučené priority mají podmínky a výjimky pro další použití.
 
 [Guide](https://www.method.gg/guides/elemental-shaman/playstyle-and-rotation) · [Připnutá verze SimulationCraft](https://github.com/simulationcraft/simc/tree/76f8118cf3f7f41dad20708e8328e1f4ab2deebc)
 
-### Hrbaty-Drak'thul-EU — Entombed Sentinels
+### Hrbaty-Drak'thul-EU — The Lost Explorers
 
 Před prvním Ascendance si připrav Stormkeeper. Ancestral Swiftness následně využij na vhodný cast; další priority závisí na procích a počtu cílů.
 
 Stormkeeper může být použitý už před pullem. Nevyžadujeme ho znovu jen proto, že v post-pull seznamu není. Nedopočítáváme dostupnost z nominálního cooldownu.
 
-- Při společném burstu připrav Stormkeeper před Ascendance. **Stejné pořadí jako v doporučeném začátku**: Stormkeeper +0.882 s; Ascendance +3.687 s. Guide výslovně doporučuje synchronizaci Stormkeeper a Ascendance; doporučené priority mají podmínky a výjimky pro další použití.
+- Při společném burstu připrav Stormkeeper před Ascendance. **Stejné pořadí jako v doporučeném začátku**: Stormkeeper +2.927 s; Ascendance +3.155 s. Guide výslovně doporučuje synchronizaci Stormkeeper a Ascendance; doporučené priority mají podmínky a výjimky pro další použití.
 
 [Guide](https://www.method.gg/guides/elemental-shaman/playstyle-and-rotation) · [Připnutá verze SimulationCraft](https://github.com/simulationcraft/simc/tree/76f8118cf3f7f41dad20708e8328e1f4ab2deebc)
 
-### Hrbaty-Drak'thul-EU — Vashnik the Malignant
+### Íacek-Drak'thul-EU — Ula'tek
 
 Před prvním Ascendance si připrav Stormkeeper. Ancestral Swiftness následně využij na vhodný cast; další priority závisí na procích a počtu cílů.
 
 Stormkeeper může být použitý už před pullem. Nevyžadujeme ho znovu jen proto, že v post-pull seznamu není. Nedopočítáváme dostupnost z nominálního cooldownu.
 
-- Při společném burstu připrav Stormkeeper před Ascendance. **Stejné pořadí jako v doporučeném začátku**: Stormkeeper -0.949 s; Ascendance +2.685 s. Guide výslovně doporučuje synchronizaci Stormkeeper a Ascendance; doporučené priority mají podmínky a výjimky pro další použití.
+- Při společném burstu připrav Stormkeeper před Ascendance. **Stejné pořadí jako v doporučeném začátku**: Stormkeeper -0.381 s; Ascendance +7.664 s. Guide výslovně doporučuje synchronizaci Stormkeeper a Ascendance; doporučené priority mají podmínky a výjimky pro další použití.
 
 [Guide](https://www.method.gg/guides/elemental-shaman/playstyle-and-rotation) · [Připnutá verze SimulationCraft](https://github.com/simulationcraft/simc/tree/76f8118cf3f7f41dad20708e8328e1f4ab2deebc)
 
@@ -2987,9 +2870,9 @@ U Shado-Pan si připrav Chi na první Zenith a navazující Fists of Fury. Pokud
 
 Reset Fists of Fury, Chi, Bloodlust a počet cílů mění další pořadí. Nevyžadujeme jeden univerzální opener ani nesčítáme automatické efekty jako další stisky.
 
-- Připrav si Chi před prvním Zenith. **Stejné pořadí jako v doporučeném začátku**: Tiger Palm +0.956 s; Zenith +3.366 s. Tiger Palm je přípravný krok v Shado-Pan openeru; přesný potřebný počet závisí na skutečných zdrojích.
-- Když používáš statový potion v openeru, dej ho před Zenith. **Ve sledovaném úseku chybí část dvojice; nejde o výtku**: Zenith +3.366 s Guide doporučuje statové buffy před Zenith kvůli úvodnímu Zenith Stomp. Potion je na farmě rada s nižší prioritou.
-- Připrav Fists of Fury do Zenith. **Vlastní buff před použitím doložený**: Fists of Fury +3.626 s Kontrola ověřuje začátek channelu při pozorovaném Zenith, nikoli jeho dokončení.
+- Připrav si Chi před prvním Zenith. **Stejné pořadí jako v doporučeném začátku**: Tiger Palm +0.660 s; Zenith +2.129 s. Tiger Palm je přípravný krok v Shado-Pan openeru; přesný potřebný počet závisí na skutečných zdrojích.
+- Když používáš statový potion v openeru, dej ho před Zenith. **Jiné pořadí — zkontroluj přípravu burstu**: Potion of Recklessness +3.412 s; Zenith +2.129 s. Guide doporučuje statové buffy před Zenith kvůli úvodnímu Zenith Stomp. Potion je na farmě rada s nižší prioritou.
+- Připrav Fists of Fury do Zenith. **Vlastní buff před použitím doložený**: Fists of Fury +4.812 s Kontrola ověřuje začátek channelu při pozorovaném Zenith, nikoli jeho dokončení.
 
 [Guide](https://www.method.gg/guides/windwalker-monk/playstyle-and-rotation) · [Připnutá verze SimulationCraft](https://github.com/simulationcraft/simc/tree/76f8118cf3f7f41dad20708e8328e1f4ab2deebc)
 
@@ -2999,9 +2882,9 @@ U Shado-Pan si připrav Chi na první Zenith a navazující Fists of Fury. Pokud
 
 Reset Fists of Fury, Chi, Bloodlust a počet cílů mění další pořadí. Nevyžadujeme jeden univerzální opener ani nesčítáme automatické efekty jako další stisky.
 
-- Připrav si Chi před prvním Zenith. **Stejné pořadí jako v doporučeném začátku**: Tiger Palm +0.930 s; Zenith +1.859 s. Tiger Palm je přípravný krok v Shado-Pan openeru; přesný potřebný počet závisí na skutečných zdrojích.
-- Když používáš statový potion v openeru, dej ho před Zenith. **Ve sledovaném úseku chybí část dvojice; nejde o výtku**: Zenith +1.859 s Guide doporučuje statové buffy před Zenith kvůli úvodnímu Zenith Stomp. Potion je na farmě rada s nižší prioritou.
-- Připrav Fists of Fury do Zenith. **Vlastní buff před použitím doložený**: Fists of Fury +2.058 s Kontrola ověřuje začátek channelu při pozorovaném Zenith, nikoli jeho dokončení.
+- Připrav si Chi před prvním Zenith. **Stejné pořadí jako v doporučeném začátku**: Tiger Palm +0.466 s; Zenith +1.712 s. Tiger Palm je přípravný krok v Shado-Pan openeru; přesný potřebný počet závisí na skutečných zdrojích.
+- Když používáš statový potion v openeru, dej ho před Zenith. **Stejné pořadí jako v doporučeném začátku**: Potion of Recklessness +1.505 s; Zenith +1.712 s. Guide doporučuje statové buffy před Zenith kvůli úvodnímu Zenith Stomp. Potion je na farmě rada s nižší prioritou.
+- Připrav Fists of Fury do Zenith. **Vlastní buff před použitím doložený**: Fists of Fury +1.965 s Kontrola ověřuje začátek channelu při pozorovaném Zenith, nikoli jeho dokončení.
 
 [Guide](https://www.method.gg/guides/windwalker-monk/playstyle-and-rotation) · [Připnutá verze SimulationCraft](https://github.com/simulationcraft/simc/tree/76f8118cf3f7f41dad20708e8328e1f4ab2deebc)
 
@@ -3011,9 +2894,33 @@ U Shado-Pan si připrav Chi na první Zenith a navazující Fists of Fury. Pokud
 
 Reset Fists of Fury, Chi, Bloodlust a počet cílů mění další pořadí. Nevyžadujeme jeden univerzální opener ani nesčítáme automatické efekty jako další stisky.
 
-- Připrav si Chi před prvním Zenith. **Stejné pořadí jako v doporučeném začátku**: Tiger Palm +0.502 s; Zenith +1.464 s. Tiger Palm je přípravný krok v Shado-Pan openeru; přesný potřebný počet závisí na skutečných zdrojích.
-- Když používáš statový potion v openeru, dej ho před Zenith. **Ve sledovaném úseku chybí část dvojice; nejde o výtku**: Zenith +1.464 s Guide doporučuje statové buffy před Zenith kvůli úvodnímu Zenith Stomp. Potion je na farmě rada s nižší prioritou.
-- Připrav Fists of Fury do Zenith. **Vlastní buff před použitím doložený**: Fists of Fury +1.694 s Kontrola ověřuje začátek channelu při pozorovaném Zenith, nikoli jeho dokončení.
+- Připrav si Chi před prvním Zenith. **Stejné pořadí jako v doporučeném začátku**: Tiger Palm +1.113 s; Zenith +2.110 s. Tiger Palm je přípravný krok v Shado-Pan openeru; přesný potřebný počet závisí na skutečných zdrojích.
+- Když používáš statový potion v openeru, dej ho před Zenith. **Ve sledovaném úseku chybí část dvojice; nejde o výtku**: Zenith +2.110 s Guide doporučuje statové buffy před Zenith kvůli úvodnímu Zenith Stomp. Potion je na farmě rada s nižší prioritou.
+- Připrav Fists of Fury do Zenith. **Vlastní buff před použitím doložený**: Fists of Fury +2.329 s Kontrola ověřuje začátek channelu při pozorovaném Zenith, nikoli jeho dokončení.
+
+[Guide](https://www.method.gg/guides/windwalker-monk/playstyle-and-rotation) · [Připnutá verze SimulationCraft](https://github.com/simulationcraft/simc/tree/76f8118cf3f7f41dad20708e8328e1f4ab2deebc)
+
+### Kubéc-Drak'thul-EU — The Lost Explorers
+
+U Shado-Pan si připrav Chi na první Zenith a navazující Fists of Fury. Pokud používáš statový potion, zapni ho před Zenith, aby z něj těžil už úvodní úder.
+
+Reset Fists of Fury, Chi, Bloodlust a počet cílů mění další pořadí. Nevyžadujeme jeden univerzální opener ani nesčítáme automatické efekty jako další stisky.
+
+- Připrav si Chi před prvním Zenith. **Stejné pořadí jako v doporučeném začátku**: Tiger Palm +4.358 s; Zenith +6.135 s. Tiger Palm je přípravný krok v Shado-Pan openeru; přesný potřebný počet závisí na skutečných zdrojích.
+- Když používáš statový potion v openeru, dej ho před Zenith. **Stejné pořadí jako v doporučeném začátku**: Potion of Recklessness +5.949 s; Zenith +6.135 s. Guide doporučuje statové buffy před Zenith kvůli úvodnímu Zenith Stomp. Potion je na farmě rada s nižší prioritou.
+- Připrav Fists of Fury do Zenith. **Vlastní buff před použitím doložený**: Fists of Fury +7.566 s Kontrola ověřuje začátek channelu při pozorovaném Zenith, nikoli jeho dokončení.
+
+[Guide](https://www.method.gg/guides/windwalker-monk/playstyle-and-rotation) · [Připnutá verze SimulationCraft](https://github.com/simulationcraft/simc/tree/76f8118cf3f7f41dad20708e8328e1f4ab2deebc)
+
+### Kubéc-Drak'thul-EU — Sszorak
+
+U Shado-Pan si připrav Chi na první Zenith a navazující Fists of Fury. Pokud používáš statový potion, zapni ho před Zenith, aby z něj těžil už úvodní úder.
+
+Reset Fists of Fury, Chi, Bloodlust a počet cílů mění další pořadí. Nevyžadujeme jeden univerzální opener ani nesčítáme automatické efekty jako další stisky.
+
+- Připrav si Chi před prvním Zenith. **Stejné pořadí jako v doporučeném začátku**: Tiger Palm +3.496 s; Zenith +5.484 s. Tiger Palm je přípravný krok v Shado-Pan openeru; přesný potřebný počet závisí na skutečných zdrojích.
+- Když používáš statový potion v openeru, dej ho před Zenith. **Stejné pořadí jako v doporučeném začátku**: Potion of Recklessness +5.217 s; Zenith +5.484 s. Guide doporučuje statové buffy před Zenith kvůli úvodnímu Zenith Stomp. Potion je na farmě rada s nižší prioritou.
+- Připrav Fists of Fury do Zenith. **Vlastní buff před použitím doložený**: Fists of Fury +5.757 s Kontrola ověřuje začátek channelu při pozorovaném Zenith, nikoli jeho dokončení.
 
 [Guide](https://www.method.gg/guides/windwalker-monk/playstyle-and-rotation) · [Připnutá verze SimulationCraft](https://github.com/simulationcraft/simc/tree/76f8118cf3f7f41dad20708e8328e1f4ab2deebc)
 
@@ -3023,35 +2930,22 @@ U Shado-Pan si připrav Chi na první Zenith a navazující Fists of Fury. Pokud
 
 Reset Fists of Fury, Chi, Bloodlust a počet cílů mění další pořadí. Nevyžadujeme jeden univerzální opener ani nesčítáme automatické efekty jako další stisky.
 
-- Připrav si Chi před prvním Zenith. **Stejné pořadí jako v doporučeném začátku**: Tiger Palm +1.376 s; Zenith +2.493 s. Tiger Palm je přípravný krok v Shado-Pan openeru; přesný potřebný počet závisí na skutečných zdrojích.
-- Když používáš statový potion v openeru, dej ho před Zenith. **Ve sledovaném úseku chybí část dvojice; nejde o výtku**: Zenith +2.493 s Guide doporučuje statové buffy před Zenith kvůli úvodnímu Zenith Stomp. Potion je na farmě rada s nižší prioritou.
-- Připrav Fists of Fury do Zenith. **Vlastní buff před použitím doložený**: Fists of Fury +2.842 s Kontrola ověřuje začátek channelu při pozorovaném Zenith, nikoli jeho dokončení.
+- Připrav si Chi před prvním Zenith. **Stejné pořadí jako v doporučeném začátku**: Tiger Palm +0.755 s; Zenith +2.448 s. Tiger Palm je přípravný krok v Shado-Pan openeru; přesný potřebný počet závisí na skutečných zdrojích.
+- Když používáš statový potion v openeru, dej ho před Zenith. **Stejné pořadí jako v doporučeném začátku**: Potion of Recklessness +2.186 s; Zenith +2.448 s. Guide doporučuje statové buffy před Zenith kvůli úvodnímu Zenith Stomp. Potion je na farmě rada s nižší prioritou.
+- Připrav Fists of Fury do Zenith. **Vlastní buff před použitím doložený**: Fists of Fury +3.672 s Kontrola ověřuje začátek channelu při pozorovaném Zenith, nikoli jeho dokončení.
 
 [Guide](https://www.method.gg/guides/windwalker-monk/playstyle-and-rotation) · [Připnutá verze SimulationCraft](https://github.com/simulationcraft/simc/tree/76f8118cf3f7f41dad20708e8328e1f4ab2deebc)
 
-### Kubéc-Drak'thul-EU — Entombed Sentinels
+### Odmin-Drak'thul-EU — Nek'zali the Soulcoiler
 
-U Shado-Pan si připrav Chi na první Zenith a navazující Fists of Fury. Pokud používáš statový potion, zapni ho před Zenith, aby z něj těžil už úvodní úder.
+U Fel-Scarred připrav první Eye Beam před ruční Metamorphosis a využij Essence Break na silné útoky ve formě. Po resetu se k paprsku vrať.
 
-Reset Fists of Fury, Chi, Bloodlust a počet cílů mění další pořadí. Nevyžadujeme jeden univerzální opener ani nesčítáme automatické efekty jako další stisky.
+The Hunt nebo pohybová schopnost může přijít kvůli náběhu dřív. Cast paprsku v logu nepotvrzuje dokončený channel; automatická forma z Demonic není ruční Metamorphosis.
 
-- Připrav si Chi před prvním Zenith. **Stejné pořadí jako v doporučeném začátku**: Tiger Palm +1.378 s; Zenith +2.999 s. Tiger Palm je přípravný krok v Shado-Pan openeru; přesný potřebný počet závisí na skutečných zdrojích.
-- Když používáš statový potion v openeru, dej ho před Zenith. **Jiné pořadí — zkontroluj přípravu burstu**: Potion of Recklessness +6.422 s; Zenith +2.999 s. Guide doporučuje statové buffy před Zenith kvůli úvodnímu Zenith Stomp. Potion je na farmě rada s nižší prioritou.
-- Připrav Fists of Fury do Zenith. **Vlastní buff před použitím doložený**: Fists of Fury +3.734 s Kontrola ověřuje začátek channelu při pozorovaném Zenith, nikoli jeho dokončení.
+- První Eye Beam připrav před ruční Metamorphosis, pokud je dostupný. **Stejné pořadí jako v doporučeném začátku**: Eye Beam +1.477 s; Metamorphosis +8.596 s. Fel-Scarred opener využívá paprsek před Metamorphosis a jeho další použití po resetu.
+- Silné Death Sweep směřuj do Essence Break. **Stejné pořadí jako v doporučeném začátku**: Essence Break +3.116 s; Death Sweep +4.048 s. Porovnáváme první zaznamenané použití obou schopností, ne přesnou délku debuffu ani všechny útoky za zdroje.
 
-[Guide](https://www.method.gg/guides/windwalker-monk/playstyle-and-rotation) · [Připnutá verze SimulationCraft](https://github.com/simulationcraft/simc/tree/76f8118cf3f7f41dad20708e8328e1f4ab2deebc)
-
-### Kubéc-Drak'thul-EU — Vashnik the Malignant
-
-U Shado-Pan si připrav Chi na první Zenith a navazující Fists of Fury. Pokud používáš statový potion, zapni ho před Zenith, aby z něj těžil už úvodní úder.
-
-Reset Fists of Fury, Chi, Bloodlust a počet cílů mění další pořadí. Nevyžadujeme jeden univerzální opener ani nesčítáme automatické efekty jako další stisky.
-
-- Připrav si Chi před prvním Zenith. **Stejné pořadí jako v doporučeném začátku**: Tiger Palm +0.577 s; Zenith +2.137 s. Tiger Palm je přípravný krok v Shado-Pan openeru; přesný potřebný počet závisí na skutečných zdrojích.
-- Když používáš statový potion v openeru, dej ho před Zenith. **Jiné pořadí — zkontroluj přípravu burstu**: Potion of Recklessness +6.682 s; Zenith +2.137 s. Guide doporučuje statové buffy před Zenith kvůli úvodnímu Zenith Stomp. Potion je na farmě rada s nižší prioritou.
-- Připrav Fists of Fury do Zenith. **Vlastní buff před použitím doložený**: Fists of Fury +4.100 s Kontrola ověřuje začátek channelu při pozorovaném Zenith, nikoli jeho dokončení.
-
-[Guide](https://www.method.gg/guides/windwalker-monk/playstyle-and-rotation) · [Připnutá verze SimulationCraft](https://github.com/simulationcraft/simc/tree/76f8118cf3f7f41dad20708e8328e1f4ab2deebc)
+[Guide](https://www.method.gg/guides/havoc-demon-hunter/playstyle-and-rotation) · [Připnutá verze SimulationCraft](https://github.com/simulationcraft/simc/tree/76f8118cf3f7f41dad20708e8328e1f4ab2deebc)
 
 ### Odmin-Drak'thul-EU — The Coiled Altar
 
@@ -3059,8 +2953,8 @@ U Fel-Scarred připrav první Eye Beam před ruční Metamorphosis a využij Ess
 
 The Hunt nebo pohybová schopnost může přijít kvůli náběhu dřív. Cast paprsku v logu nepotvrzuje dokončený channel; automatická forma z Demonic není ruční Metamorphosis.
 
-- První Eye Beam připrav před ruční Metamorphosis, pokud je dostupný. **Stejné pořadí jako v doporučeném začátku**: Eye Beam +1.182 s; Metamorphosis +10.632 s. Fel-Scarred opener využívá paprsek před Metamorphosis a jeho další použití po resetu.
-- Silné Death Sweep směřuj do Essence Break. **Stejné pořadí jako v doporučeném začátku**: Essence Break +2.851 s; Death Sweep +3.827 s. Porovnáváme první zaznamenané použití obou schopností, ne přesnou délku debuffu ani všechny útoky za zdroje.
+- První Eye Beam připrav před ruční Metamorphosis, pokud je dostupný. **Stejné pořadí jako v doporučeném začátku**: Eye Beam +1.817 s; Metamorphosis +11.430 s. Fel-Scarred opener využívá paprsek před Metamorphosis a jeho další použití po resetu.
+- Silné Death Sweep směřuj do Essence Break. **Stejné pořadí jako v doporučeném začátku**: Essence Break +3.438 s; Death Sweep +4.419 s. Porovnáváme první zaznamenané použití obou schopností, ne přesnou délku debuffu ani všechny útoky za zdroje.
 
 [Guide](https://www.method.gg/guides/havoc-demon-hunter/playstyle-and-rotation) · [Připnutá verze SimulationCraft](https://github.com/simulationcraft/simc/tree/76f8118cf3f7f41dad20708e8328e1f4ab2deebc)
 
@@ -3070,8 +2964,30 @@ U Fel-Scarred připrav první Eye Beam před ruční Metamorphosis a využij Ess
 
 The Hunt nebo pohybová schopnost může přijít kvůli náběhu dřív. Cast paprsku v logu nepotvrzuje dokončený channel; automatická forma z Demonic není ruční Metamorphosis.
 
-- První Eye Beam připrav před ruční Metamorphosis, pokud je dostupný. **Stejné pořadí jako v doporučeném začátku**: Eye Beam +1.673 s; Metamorphosis +10.304 s. Fel-Scarred opener využívá paprsek před Metamorphosis a jeho další použití po resetu.
-- Silné Death Sweep směřuj do Essence Break. **Stejné pořadí jako v doporučeném začátku**: Essence Break +3.419 s; Death Sweep +4.404 s. Porovnáváme první zaznamenané použití obou schopností, ne přesnou délku debuffu ani všechny útoky za zdroje.
+- První Eye Beam připrav před ruční Metamorphosis, pokud je dostupný. **Stejné pořadí jako v doporučeném začátku**: Eye Beam +1.767 s; Metamorphosis +10.605 s. Fel-Scarred opener využívá paprsek před Metamorphosis a jeho další použití po resetu.
+- Silné Death Sweep směřuj do Essence Break. **Stejné pořadí jako v doporučeném začátku**: Essence Break +3.329 s; Death Sweep +4.327 s. Porovnáváme první zaznamenané použití obou schopností, ne přesnou délku debuffu ani všechny útoky za zdroje.
+
+[Guide](https://www.method.gg/guides/havoc-demon-hunter/playstyle-and-rotation) · [Připnutá verze SimulationCraft](https://github.com/simulationcraft/simc/tree/76f8118cf3f7f41dad20708e8328e1f4ab2deebc)
+
+### Odmin-Drak'thul-EU — The Lost Explorers
+
+U Fel-Scarred připrav první Eye Beam před ruční Metamorphosis a využij Essence Break na silné útoky ve formě. Po resetu se k paprsku vrať.
+
+The Hunt nebo pohybová schopnost může přijít kvůli náběhu dřív. Cast paprsku v logu nepotvrzuje dokončený channel; automatická forma z Demonic není ruční Metamorphosis.
+
+- První Eye Beam připrav před ruční Metamorphosis, pokud je dostupný. **Stejné pořadí jako v doporučeném začátku**: Eye Beam +3.482 s; Metamorphosis +17.835 s. Fel-Scarred opener využívá paprsek před Metamorphosis a jeho další použití po resetu.
+- Silné Death Sweep směřuj do Essence Break. **Stejné pořadí jako v doporučeném začátku**: Essence Break +5.147 s; Death Sweep +6.775 s. Porovnáváme první zaznamenané použití obou schopností, ne přesnou délku debuffu ani všechny útoky za zdroje.
+
+[Guide](https://www.method.gg/guides/havoc-demon-hunter/playstyle-and-rotation) · [Připnutá verze SimulationCraft](https://github.com/simulationcraft/simc/tree/76f8118cf3f7f41dad20708e8328e1f4ab2deebc)
+
+### Odmin-Drak'thul-EU — Sszorak
+
+U Fel-Scarred připrav první Eye Beam před ruční Metamorphosis a využij Essence Break na silné útoky ve formě. Po resetu se k paprsku vrať.
+
+The Hunt nebo pohybová schopnost může přijít kvůli náběhu dřív. Cast paprsku v logu nepotvrzuje dokončený channel; automatická forma z Demonic není ruční Metamorphosis.
+
+- První Eye Beam připrav před ruční Metamorphosis, pokud je dostupný. **Stejné pořadí jako v doporučeném začátku**: Eye Beam +2.890 s; Metamorphosis +11.417 s. Fel-Scarred opener využívá paprsek před Metamorphosis a jeho další použití po resetu.
+- Silné Death Sweep směřuj do Essence Break. **Stejné pořadí jako v doporučeném začátku**: Essence Break +4.511 s; Death Sweep +5.279 s. Porovnáváme první zaznamenané použití obou schopností, ne přesnou délku debuffu ani všechny útoky za zdroje.
 
 [Guide](https://www.method.gg/guides/havoc-demon-hunter/playstyle-and-rotation) · [Připnutá verze SimulationCraft](https://github.com/simulationcraft/simc/tree/76f8118cf3f7f41dad20708e8328e1f4ab2deebc)
 
@@ -3081,30 +2997,8 @@ U Fel-Scarred připrav první Eye Beam před ruční Metamorphosis a využij Ess
 
 The Hunt nebo pohybová schopnost může přijít kvůli náběhu dřív. Cast paprsku v logu nepotvrzuje dokončený channel; automatická forma z Demonic není ruční Metamorphosis.
 
-- První Eye Beam připrav před ruční Metamorphosis, pokud je dostupný. **Stejné pořadí jako v doporučeném začátku**: Eye Beam +1.347 s; Metamorphosis +12.134 s. Fel-Scarred opener využívá paprsek před Metamorphosis a jeho další použití po resetu.
-- Silné Death Sweep směřuj do Essence Break. **Stejné pořadí jako v doporučeném začátku**: Essence Break +2.872 s; Death Sweep +3.660 s. Porovnáváme první zaznamenané použití obou schopností, ne přesnou délku debuffu ani všechny útoky za zdroje.
-
-[Guide](https://www.method.gg/guides/havoc-demon-hunter/playstyle-and-rotation) · [Připnutá verze SimulationCraft](https://github.com/simulationcraft/simc/tree/76f8118cf3f7f41dad20708e8328e1f4ab2deebc)
-
-### Odmin-Drak'thul-EU — Entombed Sentinels
-
-U Fel-Scarred připrav první Eye Beam před ruční Metamorphosis a využij Essence Break na silné útoky ve formě. Po resetu se k paprsku vrať.
-
-The Hunt nebo pohybová schopnost může přijít kvůli náběhu dřív. Cast paprsku v logu nepotvrzuje dokončený channel; automatická forma z Demonic není ruční Metamorphosis.
-
-- První Eye Beam připrav před ruční Metamorphosis, pokud je dostupný. **Stejné pořadí jako v doporučeném začátku**: Eye Beam +4.514 s; Metamorphosis +11.150 s. Fel-Scarred opener využívá paprsek před Metamorphosis a jeho další použití po resetu.
-- Silné Death Sweep směřuj do Essence Break. **Stejné pořadí jako v doporučeném začátku**: Essence Break +6.002 s; Death Sweep +6.823 s. Porovnáváme první zaznamenané použití obou schopností, ne přesnou délku debuffu ani všechny útoky za zdroje.
-
-[Guide](https://www.method.gg/guides/havoc-demon-hunter/playstyle-and-rotation) · [Připnutá verze SimulationCraft](https://github.com/simulationcraft/simc/tree/76f8118cf3f7f41dad20708e8328e1f4ab2deebc)
-
-### Odmin-Drak'thul-EU — Vashnik the Malignant
-
-U Fel-Scarred připrav první Eye Beam před ruční Metamorphosis a využij Essence Break na silné útoky ve formě. Po resetu se k paprsku vrať.
-
-The Hunt nebo pohybová schopnost může přijít kvůli náběhu dřív. Cast paprsku v logu nepotvrzuje dokončený channel; automatická forma z Demonic není ruční Metamorphosis.
-
-- První Eye Beam připrav před ruční Metamorphosis, pokud je dostupný. **Stejné pořadí jako v doporučeném začátku**: Eye Beam +3.710 s; Metamorphosis +11.775 s. Fel-Scarred opener využívá paprsek před Metamorphosis a jeho další použití po resetu.
-- Silné Death Sweep směřuj do Essence Break. **Stejné pořadí jako v doporučeném začátku**: Essence Break +5.328 s; Death Sweep +6.088 s. Porovnáváme první zaznamenané použití obou schopností, ne přesnou délku debuffu ani všechny útoky za zdroje.
+- První Eye Beam připrav před ruční Metamorphosis, pokud je dostupný. **Stejné pořadí jako v doporučeném začátku**: Eye Beam +1.878 s; Metamorphosis +9.923 s. Fel-Scarred opener využívá paprsek před Metamorphosis a jeho další použití po resetu.
+- Silné Death Sweep směřuj do Essence Break. **Stejné pořadí jako v doporučeném začátku**: Essence Break +3.609 s; Death Sweep +4.366 s. Porovnáváme první zaznamenané použití obou schopností, ne přesnou délku debuffu ani všechny útoky za zdroje.
 
 [Guide](https://www.method.gg/guides/havoc-demon-hunter/playstyle-and-rotation) · [Připnutá verze SimulationCraft](https://github.com/simulationcraft/simc/tree/76f8118cf3f7f41dad20708e8328e1f4ab2deebc)
 
@@ -3114,8 +3008,8 @@ Připrav podporu spoluhráčů pro první Breath of Eons. Fire Breath, Upheaval 
 
 Breath of Eons umí vlastní Ebon Might také aplikovat. Krátká mezera před tímto buffem proto sama neznamená, že máš přidat další Ebon Might. Nejlepší příjemce podpory ani domluvené časy skupiny z pořadí castů neurčujeme.
 
-- Sleduj vlastní Ebon Might kolem první Breath of Eons. **Vlastní buff před použitím doložený**: Breath of Eons +1.951 s Guide doporučuje připravený burst; Breath of Eons ale podle připnuté implementace umí Ebon Might také aplikovat. Samotný chybějící buff těsně před Eons není výtka.
-- Eruption: prodlužuj vlastní Ebon Might a respektuj Afterimage. **Vlastní buff před použitím doložený**: Eruption +8.129 s Běžné Eruption plánuj do vlastního Ebon Might. S Afterimage a plnými stacky Essence Burst může mít Eruption přednost i bez tohoto buffu.
+- Sleduj vlastní Ebon Might kolem první Breath of Eons. **Vlastní buff před použitím doložený**: Breath of Eons +2.709 s Guide doporučuje připravený burst; Breath of Eons ale podle připnuté implementace umí Ebon Might také aplikovat. Samotný chybějící buff těsně před Eons není výtka.
+- Eruption: prodlužuj vlastní Ebon Might a respektuj Afterimage. **Vlastní buff před použitím doložený**: Eruption +9.537 s Běžné Eruption plánuj do vlastního Ebon Might. S Afterimage a plnými stacky Essence Burst může mít Eruption přednost i bez tohoto buffu.
 
 [Guide](https://www.method.gg/guides/augmentation-evoker/playstyle-and-rotation) · [Připnutá verze SimulationCraft](https://github.com/simulationcraft/simc/tree/76f8118cf3f7f41dad20708e8328e1f4ab2deebc)
 
@@ -3125,8 +3019,8 @@ Připrav podporu spoluhráčů pro první Breath of Eons. Fire Breath, Upheaval 
 
 Breath of Eons umí vlastní Ebon Might také aplikovat. Krátká mezera před tímto buffem proto sama neznamená, že máš přidat další Ebon Might. Nejlepší příjemce podpory ani domluvené časy skupiny z pořadí castů neurčujeme.
 
-- Sleduj vlastní Ebon Might kolem první Breath of Eons. **Ebon Might se objevil po Breath of Eons — samotná tato návaznost není výtka**: Breath of Eons +0.156 s Guide doporučuje připravený burst; Breath of Eons ale podle připnuté implementace umí Ebon Might také aplikovat. Samotný chybějící buff těsně před Eons není výtka.
-- Eruption: prodlužuj vlastní Ebon Might a respektuj Afterimage. **Vlastní buff před použitím doložený**: Eruption +7.598 s Běžné Eruption plánuj do vlastního Ebon Might. S Afterimage a plnými stacky Essence Burst může mít Eruption přednost i bez tohoto buffu.
+- Sleduj vlastní Ebon Might kolem první Breath of Eons. **Vlastní buff před použitím doložený**: Breath of Eons +0.673 s Guide doporučuje připravený burst; Breath of Eons ale podle připnuté implementace umí Ebon Might také aplikovat. Samotný chybějící buff těsně před Eons není výtka.
+- Eruption: prodlužuj vlastní Ebon Might a respektuj Afterimage. **Vlastní buff před použitím doložený**: Eruption +7.206 s Běžné Eruption plánuj do vlastního Ebon Might. S Afterimage a plnými stacky Essence Burst může mít Eruption přednost i bez tohoto buffu.
 
 [Guide](https://www.method.gg/guides/augmentation-evoker/playstyle-and-rotation) · [Připnutá verze SimulationCraft](https://github.com/simulationcraft/simc/tree/76f8118cf3f7f41dad20708e8328e1f4ab2deebc)
 
@@ -3136,8 +3030,30 @@ Připrav podporu spoluhráčů pro první Breath of Eons. Fire Breath, Upheaval 
 
 Breath of Eons umí vlastní Ebon Might také aplikovat. Krátká mezera před tímto buffem proto sama neznamená, že máš přidat další Ebon Might. Nejlepší příjemce podpory ani domluvené časy skupiny z pořadí castů neurčujeme.
 
-- Sleduj vlastní Ebon Might kolem první Breath of Eons. **Ebon Might se objevil po Breath of Eons — samotná tato návaznost není výtka**: Breath of Eons +1.278 s Guide doporučuje připravený burst; Breath of Eons ale podle připnuté implementace umí Ebon Might také aplikovat. Samotný chybějící buff těsně před Eons není výtka.
-- Eruption: prodlužuj vlastní Ebon Might a respektuj Afterimage. **Vlastní buff před použitím doložený**: Eruption +6.890 s Běžné Eruption plánuj do vlastního Ebon Might. S Afterimage a plnými stacky Essence Burst může mít Eruption přednost i bez tohoto buffu.
+- Sleduj vlastní Ebon Might kolem první Breath of Eons. **Vlastní buff před použitím doložený**: Breath of Eons +0.322 s Guide doporučuje připravený burst; Breath of Eons ale podle připnuté implementace umí Ebon Might také aplikovat. Samotný chybějící buff těsně před Eons není výtka.
+- Eruption: prodlužuj vlastní Ebon Might a respektuj Afterimage. **Vlastní buff před použitím doložený**: Eruption +5.771 s Běžné Eruption plánuj do vlastního Ebon Might. S Afterimage a plnými stacky Essence Burst může mít Eruption přednost i bez tohoto buffu.
+
+[Guide](https://www.method.gg/guides/augmentation-evoker/playstyle-and-rotation) · [Připnutá verze SimulationCraft](https://github.com/simulationcraft/simc/tree/76f8118cf3f7f41dad20708e8328e1f4ab2deebc)
+
+### Fobina-Drak'thul-EU — The Lost Explorers
+
+Připrav podporu spoluhráčů pro první Breath of Eons. Fire Breath, Upheaval a Eruption pak využij k prodloužení vlastního Ebon Might.
+
+Breath of Eons umí vlastní Ebon Might také aplikovat. Krátká mezera před tímto buffem proto sama neznamená, že máš přidat další Ebon Might. Nejlepší příjemce podpory ani domluvené časy skupiny z pořadí castů neurčujeme.
+
+- Sleduj vlastní Ebon Might kolem první Breath of Eons. **Vlastní buff před použitím doložený**: Breath of Eons +2.570 s Guide doporučuje připravený burst; Breath of Eons ale podle připnuté implementace umí Ebon Might také aplikovat. Samotný chybějící buff těsně před Eons není výtka.
+- Eruption: prodlužuj vlastní Ebon Might a respektuj Afterimage. **Vlastní buff před použitím doložený**: Eruption +10.455 s Běžné Eruption plánuj do vlastního Ebon Might. S Afterimage a plnými stacky Essence Burst může mít Eruption přednost i bez tohoto buffu.
+
+[Guide](https://www.method.gg/guides/augmentation-evoker/playstyle-and-rotation) · [Připnutá verze SimulationCraft](https://github.com/simulationcraft/simc/tree/76f8118cf3f7f41dad20708e8328e1f4ab2deebc)
+
+### Fobina-Drak'thul-EU — Sszorak
+
+Připrav podporu spoluhráčů pro první Breath of Eons. Fire Breath, Upheaval a Eruption pak využij k prodloužení vlastního Ebon Might.
+
+Breath of Eons umí vlastní Ebon Might také aplikovat. Krátká mezera před tímto buffem proto sama neznamená, že máš přidat další Ebon Might. Nejlepší příjemce podpory ani domluvené časy skupiny z pořadí castů neurčujeme.
+
+- Sleduj vlastní Ebon Might kolem první Breath of Eons. **Ebon Might se objevil po Breath of Eons — samotná tato návaznost není výtka**: Breath of Eons +1.076 s Guide doporučuje připravený burst; Breath of Eons ale podle připnuté implementace umí Ebon Might také aplikovat. Samotný chybějící buff těsně před Eons není výtka.
+- Eruption: prodlužuj vlastní Ebon Might a respektuj Afterimage. **Vlastní buff před použitím doložený**: Eruption +13.104 s Běžné Eruption plánuj do vlastního Ebon Might. S Afterimage a plnými stacky Essence Burst může mít Eruption přednost i bez tohoto buffu.
 
 [Guide](https://www.method.gg/guides/augmentation-evoker/playstyle-and-rotation) · [Připnutá verze SimulationCraft](https://github.com/simulationcraft/simc/tree/76f8118cf3f7f41dad20708e8328e1f4ab2deebc)
 
@@ -3147,32 +3063,20 @@ Připrav podporu spoluhráčů pro první Breath of Eons. Fire Breath, Upheaval 
 
 Breath of Eons umí vlastní Ebon Might také aplikovat. Krátká mezera před tímto buffem proto sama neznamená, že máš přidat další Ebon Might. Nejlepší příjemce podpory ani domluvené časy skupiny z pořadí castů neurčujeme.
 
-- Sleduj vlastní Ebon Might kolem první Breath of Eons. **Ebon Might se objevil po Breath of Eons — samotná tato návaznost není výtka**: Breath of Eons +0.371 s Guide doporučuje připravený burst; Breath of Eons ale podle připnuté implementace umí Ebon Might také aplikovat. Samotný chybějící buff těsně před Eons není výtka.
-- Eruption: prodlužuj vlastní Ebon Might a respektuj Afterimage. **Vlastní buff před použitím doložený**: Eruption +7.872 s Běžné Eruption plánuj do vlastního Ebon Might. S Afterimage a plnými stacky Essence Burst může mít Eruption přednost i bez tohoto buffu.
+- Sleduj vlastní Ebon Might kolem první Breath of Eons. **Ebon Might se objevil po Breath of Eons — samotná tato návaznost není výtka**: Breath of Eons +0.168 s Guide doporučuje připravený burst; Breath of Eons ale podle připnuté implementace umí Ebon Might také aplikovat. Samotný chybějící buff těsně před Eons není výtka.
+- Eruption: prodlužuj vlastní Ebon Might a respektuj Afterimage. **Vlastní buff před použitím doložený**: Eruption +5.776 s Běžné Eruption plánuj do vlastního Ebon Might. S Afterimage a plnými stacky Essence Burst může mít Eruption přednost i bez tohoto buffu.
 
 [Guide](https://www.method.gg/guides/augmentation-evoker/playstyle-and-rotation) · [Připnutá verze SimulationCraft](https://github.com/simulationcraft/simc/tree/76f8118cf3f7f41dad20708e8328e1f4ab2deebc)
 
-### Fobina-Drak'thul-EU — Entombed Sentinels
+### Kirill-Drak'thul-EU — Nek'zali the Soulcoiler
 
-Připrav podporu spoluhráčů pro první Breath of Eons. Fire Breath, Upheaval a Eruption pak využij k prodloužení vlastního Ebon Might.
+U Annihilator si připrav první Void Metamorphosis sbíráním soulů a uvnitř plánuj Collapsing Star podle jejich zásoby a zbývající formy.
 
-Breath of Eons umí vlastní Ebon Might také aplikovat. Krátká mezera před tímto buffem proto sama neznamená, že máš přidat další Ebon Might. Nejlepší příjemce podpory ani domluvené časy skupiny z pořadí castů neurčujeme.
+Devourer nemá pevný čas první formy. Počet soulů a Fury zde z času samotného nedopočítáváme; pozdější nástup formy ani samotný čas Collapsing Star není rotační chyba.
 
-- Sleduj vlastní Ebon Might kolem první Breath of Eons. **Ebon Might se objevil po Breath of Eons — samotná tato návaznost není výtka**: Breath of Eons +1.433 s Guide doporučuje připravený burst; Breath of Eons ale podle připnuté implementace umí Ebon Might také aplikovat. Samotný chybějící buff těsně před Eons není výtka.
-- Eruption: prodlužuj vlastní Ebon Might a respektuj Afterimage. **Vlastní buff před použitím doložený**: Eruption +7.217 s Běžné Eruption plánuj do vlastního Ebon Might. S Afterimage a plnými stacky Essence Burst může mít Eruption přednost i bez tohoto buffu.
+- Plánuj Collapsing Star v první Void Metamorphosis podle skutečně nasbíraných soulů. **Vlastní buff před použitím doložený**: Collapsing Star +17.374 s Kontrolujeme pozorovaný buff formy při prvním Collapsing Star. Splnění hranice soulů a nejlepší okamžik jsou samostatné otázky.
 
-[Guide](https://www.method.gg/guides/augmentation-evoker/playstyle-and-rotation) · [Připnutá verze SimulationCraft](https://github.com/simulationcraft/simc/tree/76f8118cf3f7f41dad20708e8328e1f4ab2deebc)
-
-### Fobina-Drak'thul-EU — Vashnik the Malignant
-
-Připrav podporu spoluhráčů pro první Breath of Eons. Fire Breath, Upheaval a Eruption pak využij k prodloužení vlastního Ebon Might.
-
-Breath of Eons umí vlastní Ebon Might také aplikovat. Krátká mezera před tímto buffem proto sama neznamená, že máš přidat další Ebon Might. Nejlepší příjemce podpory ani domluvené časy skupiny z pořadí castů neurčujeme.
-
-- Sleduj vlastní Ebon Might kolem první Breath of Eons. **Ebon Might se objevil po Breath of Eons — samotná tato návaznost není výtka**: Breath of Eons +2.053 s Guide doporučuje připravený burst; Breath of Eons ale podle připnuté implementace umí Ebon Might také aplikovat. Samotný chybějící buff těsně před Eons není výtka.
-- Eruption: prodlužuj vlastní Ebon Might a respektuj Afterimage. **Doložená podmínka Afterimage — samotné chybějící Ebon Might není výtka**: Eruption +10.272 s Před začátkem tohoto Eruption jsou doložené plné stacky Essence Burst a zvolený Afterimage. To je důležitá výjimka: kvůli samotnému chybějícímu Ebon Might tento cast neodkládej. Celé priority tím potvrzené nejsou.
-
-[Guide](https://www.method.gg/guides/augmentation-evoker/playstyle-and-rotation) · [Připnutá verze SimulationCraft](https://github.com/simulationcraft/simc/tree/76f8118cf3f7f41dad20708e8328e1f4ab2deebc)
+[Guide](https://www.method.gg/guides/devourer-demon-hunter/playstyle-and-rotation) · [Připnutá verze SimulationCraft](https://github.com/simulationcraft/simc/tree/76f8118cf3f7f41dad20708e8328e1f4ab2deebc)
 
 ### Kirill-Drak'thul-EU — The Coiled Altar
 
@@ -3180,7 +3084,7 @@ U Annihilator si připrav první Void Metamorphosis sbíráním soulů a uvnitř
 
 Devourer nemá pevný čas první formy. Počet soulů a Fury zde z času samotného nedopočítáváme; pozdější nástup formy ani samotný čas Collapsing Star není rotační chyba.
 
-- Plánuj Collapsing Star v první Void Metamorphosis podle skutečně nasbíraných soulů. **Vlastní buff před použitím doložený**: Collapsing Star +28.138 s Kontrolujeme pozorovaný buff formy při prvním Collapsing Star. Splnění hranice soulů a nejlepší okamžik jsou samostatné otázky.
+- Plánuj Collapsing Star v první Void Metamorphosis podle skutečně nasbíraných soulů. **Vlastní buff před použitím doložený**: Collapsing Star +22.333 s Kontrolujeme pozorovaný buff formy při prvním Collapsing Star. Splnění hranice soulů a nejlepší okamžik jsou samostatné otázky.
 
 [Guide](https://www.method.gg/guides/devourer-demon-hunter/playstyle-and-rotation) · [Připnutá verze SimulationCraft](https://github.com/simulationcraft/simc/tree/76f8118cf3f7f41dad20708e8328e1f4ab2deebc)
 
@@ -3190,7 +3094,27 @@ U Annihilator si připrav první Void Metamorphosis sbíráním soulů a uvnitř
 
 Devourer nemá pevný čas první formy. Počet soulů a Fury zde z času samotného nedopočítáváme; pozdější nástup formy ani samotný čas Collapsing Star není rotační chyba.
 
-- Plánuj Collapsing Star v první Void Metamorphosis podle skutečně nasbíraných soulů. **Vlastní buff před použitím doložený**: Collapsing Star +20.894 s Kontrolujeme pozorovaný buff formy při prvním Collapsing Star. Splnění hranice soulů a nejlepší okamžik jsou samostatné otázky.
+- Plánuj Collapsing Star v první Void Metamorphosis podle skutečně nasbíraných soulů. **Vlastní buff před použitím doložený**: Collapsing Star +23.288 s Kontrolujeme pozorovaný buff formy při prvním Collapsing Star. Splnění hranice soulů a nejlepší okamžik jsou samostatné otázky.
+
+[Guide](https://www.method.gg/guides/devourer-demon-hunter/playstyle-and-rotation) · [Připnutá verze SimulationCraft](https://github.com/simulationcraft/simc/tree/76f8118cf3f7f41dad20708e8328e1f4ab2deebc)
+
+### Kirill-Drak'thul-EU — The Lost Explorers
+
+U Annihilator si připrav první Void Metamorphosis sbíráním soulů a uvnitř plánuj Collapsing Star podle jejich zásoby a zbývající formy.
+
+Devourer nemá pevný čas první formy. Počet soulů a Fury zde z času samotného nedopočítáváme; pozdější nástup formy ani samotný čas Collapsing Star není rotační chyba.
+
+- Plánuj Collapsing Star v první Void Metamorphosis podle skutečně nasbíraných soulů. **Vlastní buff před použitím doložený**: Collapsing Star +23.422 s Kontrolujeme pozorovaný buff formy při prvním Collapsing Star. Splnění hranice soulů a nejlepší okamžik jsou samostatné otázky.
+
+[Guide](https://www.method.gg/guides/devourer-demon-hunter/playstyle-and-rotation) · [Připnutá verze SimulationCraft](https://github.com/simulationcraft/simc/tree/76f8118cf3f7f41dad20708e8328e1f4ab2deebc)
+
+### Kirill-Drak'thul-EU — Sszorak
+
+U Annihilator si připrav první Void Metamorphosis sbíráním soulů a uvnitř plánuj Collapsing Star podle jejich zásoby a zbývající formy.
+
+Devourer nemá pevný čas první formy. Počet soulů a Fury zde z času samotného nedopočítáváme; pozdější nástup formy ani samotný čas Collapsing Star není rotační chyba.
+
+- Plánuj Collapsing Star v první Void Metamorphosis podle skutečně nasbíraných soulů. **Vlastní buff před použitím doložený**: Collapsing Star +24.242 s Kontrolujeme pozorovaný buff formy při prvním Collapsing Star. Splnění hranice soulů a nejlepší okamžik jsou samostatné otázky.
 
 [Guide](https://www.method.gg/guides/devourer-demon-hunter/playstyle-and-rotation) · [Připnutá verze SimulationCraft](https://github.com/simulationcraft/simc/tree/76f8118cf3f7f41dad20708e8328e1f4ab2deebc)
 
@@ -3200,27 +3124,7 @@ U Annihilator si připrav první Void Metamorphosis sbíráním soulů a uvnitř
 
 Devourer nemá pevný čas první formy. Počet soulů a Fury zde z času samotného nedopočítáváme; pozdější nástup formy ani samotný čas Collapsing Star není rotační chyba.
 
-- Plánuj Collapsing Star v první Void Metamorphosis podle skutečně nasbíraných soulů. **Vlastní buff před použitím doložený**: Collapsing Star +20.552 s Kontrolujeme pozorovaný buff formy při prvním Collapsing Star. Splnění hranice soulů a nejlepší okamžik jsou samostatné otázky.
-
-[Guide](https://www.method.gg/guides/devourer-demon-hunter/playstyle-and-rotation) · [Připnutá verze SimulationCraft](https://github.com/simulationcraft/simc/tree/76f8118cf3f7f41dad20708e8328e1f4ab2deebc)
-
-### Kirill-Drak'thul-EU — Entombed Sentinels
-
-U Annihilator si připrav první Void Metamorphosis sbíráním soulů a uvnitř plánuj Collapsing Star podle jejich zásoby a zbývající formy.
-
-Devourer nemá pevný čas první formy. Počet soulů a Fury zde z času samotného nedopočítáváme; pozdější nástup formy ani samotný čas Collapsing Star není rotační chyba.
-
-- Plánuj Collapsing Star v první Void Metamorphosis podle skutečně nasbíraných soulů. **Vlastní buff před použitím doložený**: Collapsing Star +17.508 s Kontrolujeme pozorovaný buff formy při prvním Collapsing Star. Splnění hranice soulů a nejlepší okamžik jsou samostatné otázky.
-
-[Guide](https://www.method.gg/guides/devourer-demon-hunter/playstyle-and-rotation) · [Připnutá verze SimulationCraft](https://github.com/simulationcraft/simc/tree/76f8118cf3f7f41dad20708e8328e1f4ab2deebc)
-
-### Kirill-Drak'thul-EU — Vashnik the Malignant
-
-U Annihilator si připrav první Void Metamorphosis sbíráním soulů a uvnitř plánuj Collapsing Star podle jejich zásoby a zbývající formy.
-
-Devourer nemá pevný čas první formy. Počet soulů a Fury zde z času samotného nedopočítáváme; pozdější nástup formy ani samotný čas Collapsing Star není rotační chyba.
-
-- Plánuj Collapsing Star v první Void Metamorphosis podle skutečně nasbíraných soulů. **Vlastní buff před použitím doložený**: Collapsing Star +24.640 s Kontrolujeme pozorovaný buff formy při prvním Collapsing Star. Splnění hranice soulů a nejlepší okamžik jsou samostatné otázky.
+- Plánuj Collapsing Star v první Void Metamorphosis podle skutečně nasbíraných soulů. **Vlastní buff před použitím doložený**: Collapsing Star +20.917 s Kontrolujeme pozorovaný buff formy při prvním Collapsing Star. Splnění hranice soulů a nejlepší okamžik jsou samostatné otázky.
 
 [Guide](https://www.method.gg/guides/devourer-demon-hunter/playstyle-and-rotation) · [Připnutá verze SimulationCraft](https://github.com/simulationcraft/simc/tree/76f8118cf3f7f41dad20708e8328e1f4ab2deebc)
 
@@ -3229,846 +3133,703 @@ Devourer nemá pevný čas první formy. Počet soulů a Fury zde z času samotn
 
 Měříme úseky alespoň 4 s bez nové sledované hlavní schopnosti po oddělení zaznamenaných castů, channelů a úseků po smrti. Čísla nejsou přesný nevyužitý čas ani vypočtená ztráta DPS. Nejasné konce castů/channelů se mezi tyto mezery nepočítají.
 
+### Kirill-Drak'thul-EU — Nek'zali the Soulcoiler
+
+Delších mezer: 1; celkem 5.2 s, z toho 5.1 s ve společných mezerách většiny DPS. Záznamů použití hlavních schopností: 141. To nejsou počty nezávislých stisků tlačítek.
+
+- 108.009–113.201 s: Void Ray → Consume; jiné vlastní schopnosti: Glide, Soul Fragment. Samotná mezera neprokazuje možnost útočit ani připravenou schopnost.
+
 ### Hrbaty-Drak'thul-EU — Nek'zali the Soulcoiler
 
-Delších mezer: 1; celkem 5.8 s, z toho 0.0 s ve společných mezerách většiny DPS. Záznamů použití hlavních schopností: 198. To nejsou počty nezávislých stisků tlačítek.
+Delších mezer: 1; celkem 7.4 s, z toho 5.0 s ve společných mezerách většiny DPS. Záznamů použití hlavních schopností: 150. To nejsou počty nezávislých stisků tlačítek.
 
-WCL percentil 35; v item-level skupině 56; damage aktivita 99.3 %. Damage aktivita není vlastní castění. [WCL](https://www.warcraftlogs.com/reports/kTKBw7crFD4nydVY?fight=2&source=33&type=damage-done)
+- 105.753–113.141 s: Lava Burst → Flame Shock; jiné vlastní schopnosti: Ghost Wolf. Samotná mezera neprokazuje možnost útočit ani připravenou schopnost.
 
-- 171.284–177.094 s: Lava Burst → Earthquake; jiné vlastní schopnosti: Ghost Wolf. Samotná mezera neprokazuje možnost útočit ani připravenou schopnost.
+### Íácekpwn-Drak'thul-EU — Nek'zali the Soulcoiler
+
+Delších mezer: 1; celkem 6.4 s, z toho 5.6 s ve společných mezerách většiny DPS. Záznamů použití hlavních schopností: 178. To nejsou počty nezávislých stisků tlačítek.
+
+- 108.653–115.050 s: Mind Flay → Tentacle Slam; jiné vlastní schopnosti: Fade. Samotná mezera neprokazuje možnost útočit ani připravenou schopnost.
+
+### Odmin-Drak'thul-EU — Nek'zali the Soulcoiler
+
+Delších mezer: 1; celkem 4.3 s, z toho 0.0 s ve společných mezerách většiny DPS. Záznamů použití hlavních schopností: 201. To nejsou počty nezávislých stisků tlačítek.
+
+- 81.507–85.799 s: Vengeful Retreat → Felblade; jiné vlastní schopnosti: Fel Rush. Samotná mezera neprokazuje možnost útočit ani připravenou schopnost.
 
 ### Fobina-Drak'thul-EU — Nek'zali the Soulcoiler
 
-Delších mezer: 2; celkem 17.1 s, z toho 0.0 s ve společných mezerách většiny DPS. Záznamů použití hlavních schopností: 176. To nejsou počty nezávislých stisků tlačítek.
+Delších mezer: 1; celkem 4.4 s, z toho 0.0 s ve společných mezerách většiny DPS. Záznamů použití hlavních schopností: 149. To nejsou počty nezávislých stisků tlačítek.
 
-WCL percentil 32; v item-level skupině 29; damage aktivita 99.8 %. Damage aktivita není vlastní castění. [WCL](https://www.warcraftlogs.com/reports/kTKBw7crFD4nydVY?fight=2&source=3&type=damage-done)
+- 181.638–186.076 s: Chrono Flames → Chrono Flames; jiné vlastní schopnosti: Obsidian Scales, Zephyr. Samotná mezera neprokazuje možnost útočit ani připravenou schopnost.
 
-- 131.400–143.582 s: Prescience → Prescience; jiné vlastní schopnosti: Verdant Embrace. Samotná mezera neprokazuje možnost útočit ani připravenou schopnost.
-- 81.135–86.070 s: Prescience → Prescience; jiné vlastní schopnosti: Hover. Samotná mezera neprokazuje možnost útočit ani připravenou schopnost.
+### Krokous-Drak'thul-EU — Nek'zali the Soulcoiler
 
-### Slejhy-Drak'thul-EU — Nek'zali the Soulcoiler
+Delších mezer: 2; celkem 16.0 s, z toho 5.8 s ve společných mezerách většiny DPS. Záznamů použití hlavních schopností: 153. To nejsou počty nezávislých stisků tlačítek.
 
-Delších mezer: 3; celkem 19.1 s, z toho 0.0 s ve společných mezerách většiny DPS. Záznamů použití hlavních schopností: 213. To nejsou počty nezávislých stisků tlačítek.
-
-WCL percentil 39; v item-level skupině 15; damage aktivita 99.6 %. Damage aktivita není vlastní castění. [WCL](https://www.warcraftlogs.com/reports/kTKBw7crFD4nydVY?fight=2&source=6&type=damage-done)
-
-- 84.456–93.408 s: Mutilate → Mutilate; jiné vlastní schopnosti: Cloak of Shadows, Mutilate, Shadowstep. Samotná mezera neprokazuje možnost útočit ani připravenou schopnost.
-- 145.425–151.407 s: Mutilate → Mutilate; jiné vlastní schopnosti: Mutilate, Sprint. Samotná mezera neprokazuje možnost útočit ani připravenou schopnost.
-- 192.614–196.773 s: Mutilate → Rupture; jiné vlastní schopnosti: žádné zaznamenané. Samotná mezera neprokazuje možnost útočit ani připravenou schopnost.
+- 136.580–144.283 s: Kill Command → Barbed Shot; jiné vlastní schopnosti: žádné zaznamenané. Samotná mezera neprokazuje možnost útočit ani připravenou schopnost.
+- 108.476–116.761 s: Barbed Shot → Kill Command; jiné vlastní schopnosti: žádné zaznamenané. Samotná mezera neprokazuje možnost útočit ani připravenou schopnost.
 Čekání na zdroje může být správná součást rotace; tento součet jej neprohlašuje za chybu.
 
-### Rhínö-Drak'thul-EU — Nek'zali the Soulcoiler
+### Iluneesama-Drak'thul-EU — Nek'zali the Soulcoiler
 
-Delších mezer: 1; celkem 4.6 s, z toho 0.0 s ve společných mezerách většiny DPS. Záznamů použití hlavních schopností: 250. To nejsou počty nezávislých stisků tlačítek.
+Delších mezer: 2; celkem 20.2 s, z toho 6.1 s ve společných mezerách většiny DPS. Záznamů použití hlavních schopností: 192. To nejsou počty nezávislých stisků tlačítek.
 
-WCL percentil 84; v item-level skupině 81; damage aktivita 99.9 %. Damage aktivita není vlastní castění. [WCL](https://www.warcraftlogs.com/reports/kTKBw7crFD4nydVY?fight=2&source=27&type=damage-done)
-
-- 110.253–114.849 s: Starfall → Sunfire; jiné vlastní schopnosti: Dash, Moonkin Form. Samotná mezera neprokazuje možnost útočit ani připravenou schopnost.
-
-### Luminos-BurningBlade-EU — Nek'zali the Soulcoiler
-
-Delších mezer: 4; celkem 40.2 s, z toho 0.0 s ve společných mezerách většiny DPS. Záznamů použití hlavních schopností: 157. To nejsou počty nezávislých stisků tlačítek.
-
-WCL percentil 15; v item-level skupině 16; damage aktivita 99.4 %. Damage aktivita není vlastní castění. [WCL](https://www.warcraftlogs.com/reports/kTKBw7crFD4nydVY?fight=2&source=13&type=damage-done)
-
-- 124.344–145.262 s: Void Volley → Tentacle Slam; jiné vlastní schopnosti: Angelic Feather, Dispersion, Shadowy Apparition. Samotná mezera neprokazuje možnost útočit ani připravenou schopnost.
-- 81.487–88.455 s: Shadow Word: Madness → Mind Blast; jiné vlastní schopnosti: Shadowy Apparition. Samotná mezera neprokazuje možnost útočit ani připravenou schopnost.
-- 191.896–198.484 s: Shadow Word: Death → Tentacle Slam; jiné vlastní schopnosti: žádné zaznamenané. Samotná mezera neprokazuje možnost útočit ani připravenou schopnost.
-
-### Omniblue-Drak'thul-EU — Nek'zali the Soulcoiler
-
-Delších mezer: 0; celkem 0.0 s, z toho 0.0 s ve společných mezerách většiny DPS. Záznamů použití hlavních schopností: 226. To nejsou počty nezávislých stisků tlačítek.
-
-WCL percentil 40; v item-level skupině 21; damage aktivita 99.8 %. Damage aktivita není vlastní castění. [WCL](https://www.warcraftlogs.com/reports/kTKBw7crFD4nydVY?fight=2&source=15&type=damage-done)
-
+- 17.374–31.509 s: Hammer of Wrath → Judgment; jiné vlastní schopnosti: Divine Shield, Eternal Flame. Samotná mezera neprokazuje možnost útočit ani připravenou schopnost.
+- 108.122–114.235 s: Divine Storm → Blade of Justice; jiné vlastní schopnosti: Divine Steed. Samotná mezera neprokazuje možnost útočit ani připravenou schopnost.
 
 ### Micaello-Drak'thul-EU — Nek'zali the Soulcoiler
 
-Delších mezer: 1; celkem 5.4 s, z toho 0.0 s ve společných mezerách většiny DPS. Záznamů použití hlavních schopností: 207. To nejsou počty nezávislých stisků tlačítek.
+Delších mezer: 3; celkem 19.3 s, z toho 6.1 s ve společných mezerách většiny DPS. Záznamů použití hlavních schopností: 163. To nejsou počty nezávislých stisků tlačítek.
 
-WCL percentil 44; v item-level skupině 50; damage aktivita 99.6 %. Damage aktivita není vlastní castění. [WCL](https://www.warcraftlogs.com/reports/kTKBw7crFD4nydVY?fight=2&source=18&type=damage-done)
-
-- 134.010–139.437 s: Kill Command → Kill Command; jiné vlastní schopnosti: Aspect of the Cheetah. Samotná mezera neprokazuje možnost útočit ani připravenou schopnost.
+- 107.750–118.695 s: Kill Command → Kill Command; jiné vlastní schopnosti: Hunter's Mark. Samotná mezera neprokazuje možnost útočit ani připravenou schopnost.
+- 21.014–25.300 s: Barbed Shot → Kill Command; jiné vlastní schopnosti: žádné zaznamenané. Samotná mezera neprokazuje možnost útočit ani připravenou schopnost.
+- 141.252–145.298 s: Kill Command → Cobra Shot; jiné vlastní schopnosti: žádné zaznamenané. Samotná mezera neprokazuje možnost útočit ani připravenou schopnost.
 Čekání na zdroje může být správná součást rotace; tento součet jej neprohlašuje za chybu.
 
 ### Theila-Drak'thul-EU — Nek'zali the Soulcoiler
 
-Delších mezer: 4; celkem 30.5 s, z toho 0.0 s ve společných mezerách většiny DPS. Záznamů použití hlavních schopností: 191. To nejsou počty nezávislých stisků tlačítek.
+Delších mezer: 2; celkem 12.8 s, z toho 6.1 s ve společných mezerách většiny DPS. Záznamů použití hlavních schopností: 142. To nejsou počty nezávislých stisků tlačítek.
 
-WCL percentil 35; v item-level skupině 7; damage aktivita 99.3 %. Damage aktivita není vlastní castění. [WCL](https://www.warcraftlogs.com/reports/kTKBw7crFD4nydVY?fight=2&source=2&type=damage-done)
-
-- 60.097–71.861 s: Boomstick → Kill Command; jiné vlastní schopnosti: žádné zaznamenané. Samotná mezera neprokazuje možnost útočit ani připravenou schopnost.
-- 253.548–262.275 s: Raptor Swipe → Wildfire Bomb; jiné vlastní schopnosti: žádné zaznamenané. Samotná mezera neprokazuje možnost útočit ani připravenou schopnost.
-- 109.409–114.445 s: Wildfire Bomb → Raptor Strike; jiné vlastní schopnosti: Harpoon, Voracious Heart of Ula'tek. Samotná mezera neprokazuje možnost útočit ani připravenou schopnost.
+- 56.684–61.708 s: Wildfire Bomb → Kill Command; jiné vlastní schopnosti: Disengage. Samotná mezera neprokazuje možnost útočit ani připravenou schopnost.
+- 107.321–115.130 s: Raptor Swipe → Kill Command; jiné vlastní schopnosti: Disengage, Hunter's Mark. Samotná mezera neprokazuje možnost útočit ani připravenou schopnost.
 Čekání na zdroje může být správná součást rotace; tento součet jej neprohlašuje za chybu.
 
-### Corneilia-Sylvanas-EU — Nek'zali the Soulcoiler
+### Këss-Drak'thul-EU — Nek'zali the Soulcoiler
 
-Delších mezer: 1; celkem 13.1 s, z toho 0.0 s ve společných mezerách většiny DPS. Záznamů použití hlavních schopností: 163. To nejsou počty nezávislých stisků tlačítek.
+Delších mezer: 0; celkem 0.0 s, z toho 0.0 s ve společných mezerách většiny DPS. Záznamů použití hlavních schopností: 168. To nejsou počty nezávislých stisků tlačítek.
 
-WCL percentil 13; v item-level skupině 37; damage aktivita 98.8 %. Damage aktivita není vlastní castění. [WCL](https://www.warcraftlogs.com/reports/kTKBw7crFD4nydVY?fight=2&source=9&type=damage-done)
-
-- 90.929–104.054 s: Arcane Barrage → Arcane Missiles; jiné vlastní schopnosti: Prismatic Barrier. Samotná mezera neprokazuje možnost útočit ani připravenou schopnost.
 
 ### Vejr-Drak'thul-EU — Nek'zali the Soulcoiler
 
-Delších mezer: 4; celkem 37.1 s, z toho 0.0 s ve společných mezerách většiny DPS. Záznamů použití hlavních schopností: 197. To nejsou počty nezávislých stisků tlačítek.
+Delších mezer: 4; celkem 23.8 s, z toho 6.1 s ve společných mezerách většiny DPS. Záznamů použití hlavních schopností: 149. To nejsou počty nezávislých stisků tlačítek.
 
-WCL percentil 22; v item-level skupině 38; damage aktivita 98.7 %. Damage aktivita není vlastní castění. [WCL](https://www.warcraftlogs.com/reports/kTKBw7crFD4nydVY?fight=2&source=34&type=damage-done)
+- 65.448–71.746 s: Festering Scythe → Outbreak; jiné vlastní schopnosti: Death Charge. Samotná mezera neprokazuje možnost útočit ani připravenou schopnost.
+- 81.096–87.257 s: Scourge Strike → Outbreak; jiné vlastní schopnosti: Wraith Walk. Samotná mezera neprokazuje možnost útočit ani připravenou schopnost.
+- 121.686–126.227 s: Necrotic Coil → Festering Strike; jiné vlastní schopnosti: žádné zaznamenané. Samotná mezera neprokazuje možnost útočit ani připravenou schopnost.
 
-- 60.514–75.667 s: Outbreak → Outbreak; jiné vlastní schopnosti: Anti-Magic Shell, Death Charge. Samotná mezera neprokazuje možnost útočit ani připravenou schopnost.
-- 256.139–266.628 s: Death Coil → Outbreak; jiné vlastní schopnosti: Anti-Magic Shell, Icebound Fortitude. Samotná mezera neprokazuje možnost útočit ani připravenou schopnost.
-- 192.007–198.683 s: Scourge Strike → Outbreak; jiné vlastní schopnosti: žádné zaznamenané. Samotná mezera neprokazuje možnost útočit ani připravenou schopnost.
+### Greenfire-Drak'thul-EU — Nek'zali the Soulcoiler
 
-### Johnyhoudini-BurningBlade-EU — Nek'zali the Soulcoiler
+Delších mezer: 2; celkem 14.5 s, z toho 6.1 s ve společných mezerách většiny DPS. Záznamů použití hlavních schopností: 170. To nejsou počty nezávislých stisků tlačítek.
 
-Delších mezer: 0; celkem 0.0 s, z toho 0.0 s ve společných mezerách většiny DPS. Záznamů použití hlavních schopností: 219. To nejsou počty nezávislých stisků tlačítek.
-
-WCL percentil 39; v item-level skupině 52; damage aktivita 99.7 %. Damage aktivita není vlastní castění. [WCL](https://www.warcraftlogs.com/reports/kTKBw7crFD4nydVY?fight=2&source=23&type=damage-done)
-
+- 22.378–27.178 s: Call Dreadstalkers → Shadow Bolt; jiné vlastní schopnosti: Singe Magic. Samotná mezera neprokazuje možnost útočit ani připravenou schopnost.
+- 106.091–115.777 s: Demonbolt → Demonbolt; jiné vlastní schopnosti: žádné zaznamenané. Samotná mezera neprokazuje možnost útočit ani připravenou schopnost.
 
 ### Kubéc-Drak'thul-EU — Nek'zali the Soulcoiler
 
-Delších mezer: 2; celkem 13.5 s, z toho 0.0 s ve společných mezerách většiny DPS. Záznamů použití hlavních schopností: 189. To nejsou počty nezávislých stisků tlačítek.
+Delších mezer: 1; celkem 8.1 s, z toho 0.0 s ve společných mezerách většiny DPS. Záznamů použití hlavních schopností: 142. To nejsou počty nezávislých stisků tlačítek.
 
-WCL percentil 33; v item-level skupině 51; damage aktivita 99.6 %. Damage aktivita není vlastní castění. [WCL](https://www.warcraftlogs.com/reports/kTKBw7crFD4nydVY?fight=2&source=21&type=damage-done)
-
-- 115.601–123.161 s: Fists of Fury → Tiger Palm; jiné vlastní schopnosti: žádné zaznamenané. Samotná mezera neprokazuje možnost útočit ani připravenou schopnost.
-- 158.115–164.081 s: Rising Sun Kick → Tiger Palm; jiné vlastní schopnosti: žádné zaznamenané. Samotná mezera neprokazuje možnost útočit ani připravenou schopnost.
+- 204.768–212.859 s: Fists of Fury → Tiger Palm; jiné vlastní schopnosti: Roll. Samotná mezera neprokazuje možnost útočit ani připravenou schopnost.
 Čekání na zdroje může být správná součást rotace; tento součet jej neprohlašuje za chybu.
+
+### Johnyhoudini-BurningBlade-EU — Nek'zali the Soulcoiler
+
+Delších mezer: 1; celkem 8.1 s, z toho 6.1 s ve společných mezerách většiny DPS. Záznamů použití hlavních schopností: 150. To nejsou počty nezávislých stisků tlačítek.
+
+- 107.866–116.015 s: Arcane Barrage → Arcane Missiles; jiné vlastní schopnosti: Prismatic Barrier, Shimmer. Samotná mezera neprokazuje možnost útočit ani připravenou schopnost.
 
 ### Galneryus-Drak'thul-EU — Nek'zali the Soulcoiler
 
-Delších mezer: 0; celkem 0.0 s, z toho 0.0 s ve společných mezerách většiny DPS. Záznamů použití hlavních schopností: 290. To nejsou počty nezávislých stisků tlačítek.
+Delších mezer: 1; celkem 6.5 s, z toho 6.1 s ve společných mezerách většiny DPS. Záznamů použití hlavních schopností: 202. To nejsou počty nezávislých stisků tlačítek.
 
-WCL percentil 87; v item-level skupině 63; damage aktivita 99.8 %. Damage aktivita není vlastní castění. [WCL](https://www.warcraftlogs.com/reports/kTKBw7crFD4nydVY?fight=2&source=8&type=damage-done)
-
+- 107.778–114.296 s: Final Verdict → Judgment; jiné vlastní schopnosti: Crusading Strikes, Divine Steed. Samotná mezera neprokazuje možnost útočit ani připravenou schopnost.
 
 ### Kirill-Drak'thul-EU — The Coiled Altar
 
-Delších mezer: 3; celkem 20.4 s, z toho 0.0 s ve společných mezerách většiny DPS. Záznamů použití hlavních schopností: 327. To nejsou počty nezávislých stisků tlačítek.
+Delších mezer: 1; celkem 7.6 s, z toho 5.7 s ve společných mezerách většiny DPS. Záznamů použití hlavních schopností: 225. To nejsou počty nezávislých stisků tlačítek.
 
-WCL percentil 55; v item-level skupině 38; damage aktivita 96.7 %. Damage aktivita není vlastní castění. [WCL](https://www.warcraftlogs.com/reports/kTKBw7crFD4nydVY?fight=11&source=112&type=damage-done)
-
-- 324.266–332.119 s: Soul Immolation → Consume; jiné vlastní schopnosti: Soul Fragment. Samotná mezera neprokazuje možnost útočit ani připravenou schopnost.
-- 109.573–116.842 s: Soul Immolation → Consume; jiné vlastní schopnosti: Soul Fragment. Samotná mezera neprokazuje možnost útočit ani připravenou schopnost.
-- 432.934–438.186 s: Consume → konec killu; jiné vlastní schopnosti: Blur, Soul Fragment. Samotná mezera neprokazuje možnost útočit ani připravenou schopnost.
+- 90.208–97.805 s: Soul Immolation → Void Ray; jiné vlastní schopnosti: Soul Fragment. Samotná mezera neprokazuje možnost útočit ani připravenou schopnost.
 
 ### Nahollou-Drak'thul-EU — The Coiled Altar
 
-Delších mezer: 7; celkem 50.1 s, z toho 0.0 s ve společných mezerách většiny DPS. Záznamů použití hlavních schopností: 281. To nejsou počty nezávislých stisků tlačítek.
+Delších mezer: 4; celkem 24.0 s, z toho 0.0 s ve společných mezerách většiny DPS. Záznamů použití hlavních schopností: 90. To nejsou počty nezávislých stisků tlačítek.
 
-WCL percentil 52; v item-level skupině 43; damage aktivita 99.7 %. Damage aktivita není vlastní castění. [WCL](https://www.warcraftlogs.com/reports/kTKBw7crFD4nydVY?fight=11&source=87&type=damage-done)
-
-- 356.239–367.321 s: Demonbolt → Shadow Bolt; jiné vlastní schopnosti: Burning Rush, Dark Pact, Unending Resolve. Samotná mezera neprokazuje možnost útočit ani připravenou schopnost.
-- 107.788–117.733 s: Demonbolt → Call Dreadstalkers; jiné vlastní schopnosti: žádné zaznamenané. Samotná mezera neprokazuje možnost útočit ani připravenou schopnost.
-- 186.619–194.512 s: Demonbolt → Shadow Bolt; jiné vlastní schopnosti: žádné zaznamenané. Samotná mezera neprokazuje možnost útočit ani připravenou schopnost.
+- 152.477–161.543 s: Demonbolt → Hand of Gul'dan; jiné vlastní schopnosti: Burning Rush, Dark Pact. Samotná mezera neprokazuje možnost útočit ani připravenou schopnost.
+- 109.809–115.048 s: Demonbolt → Demonbolt; jiné vlastní schopnosti: Burning Rush. Samotná mezera neprokazuje možnost útočit ani připravenou schopnost.
+- 141.395–146.516 s: Shadow Bolt → Ruination; jiné vlastní schopnosti: žádné zaznamenané. Samotná mezera neprokazuje možnost útočit ani připravenou schopnost.
+- Záznam smrti 164.263 s; do konce killu bez doloženého návratu k vlastním akcím. Přesný čas přijetí oživení z toho neznáme.
 
 ### Íácekpwn-Drak'thul-EU — The Coiled Altar
 
-Delších mezer: 1; celkem 4.1 s, z toho 0.0 s ve společných mezerách většiny DPS. Záznamů použití hlavních schopností: 353. To nejsou počty nezávislých stisků tlačítek.
+Delších mezer: 2; celkem 10.5 s, z toho 0.0 s ve společných mezerách většiny DPS. Záznamů použití hlavních schopností: 265. To nejsou počty nezávislých stisků tlačítek.
 
-WCL percentil 71; v item-level skupině 67; damage aktivita 99.8 %. Damage aktivita není vlastní castění. [WCL](https://www.warcraftlogs.com/reports/kTKBw7crFD4nydVY?fight=11&source=84&type=damage-done)
-
-- 202.150–206.204 s: Mind Flay → Tentacle Slam; jiné vlastní schopnosti: žádné zaznamenané. Samotná mezera neprokazuje možnost útočit ani připravenou schopnost.
+- 109.465–115.391 s: Shadow Word: Madness → Tentacle Slam; jiné vlastní schopnosti: Dispersion, Shadowy Apparition. Samotná mezera neprokazuje možnost útočit ani připravenou schopnost.
+- 179.856–184.417 s: Mind Flay → Tentacle Slam; jiné vlastní schopnosti: žádné zaznamenané. Samotná mezera neprokazuje možnost útočit ani připravenou schopnost.
 
 ### Odmin-Drak'thul-EU — The Coiled Altar
 
-Delších mezer: 3; celkem 18.9 s, z toho 0.0 s ve společných mezerách většiny DPS. Záznamů použití hlavních schopností: 355. To nejsou počty nezávislých stisků tlačítek.
+Delších mezer: 3; celkem 16.5 s, z toho 5.7 s ve společných mezerách většiny DPS. Záznamů použití hlavních schopností: 310. To nejsou počty nezávislých stisků tlačítek.
 
-WCL percentil 46; v item-level skupině 52; damage aktivita 97.5 %. Damage aktivita není vlastní castění. [WCL](https://www.warcraftlogs.com/reports/kTKBw7crFD4nydVY?fight=11&source=79&type=damage-done)
-
-- 109.097–118.712 s: Blade Dance → Felblade; jiné vlastní schopnosti: Darkness. Samotná mezera neprokazuje možnost útočit ani připravenou schopnost.
-- 405.974–410.941 s: Chaos Strike → Felblade; jiné vlastní schopnosti: Fel Rush, Felblade. Samotná mezera neprokazuje možnost útočit ani připravenou schopnost.
-- 433.820–438.186 s: Vengeful Retreat → konec killu; jiné vlastní schopnosti: Fel Rush. Samotná mezera neprokazuje možnost útočit ani připravenou schopnost.
-- Záznam smrti 291.761 s; další vlastní akce 300.261 s. Přesný čas přijetí oživení z toho neznáme.
+- 162.341–166.766 s: Chaos Strike → Blade Dance; jiné vlastní schopnosti: žádné zaznamenané. Samotná mezera neprokazuje možnost útočit ani připravenou schopnost.
+- 291.902–295.975 s: Vengeful Retreat → Felblade; jiné vlastní schopnosti: Felblade. Samotná mezera neprokazuje možnost útočit ani připravenou schopnost.
+- 88.784–96.766 s: Chaos Strike → Immolation Aura; jiné vlastní schopnosti: Shattered Souls. Samotná mezera neprokazuje možnost útočit ani připravenou schopnost.
 
 ### Fobina-Drak'thul-EU — The Coiled Altar
 
-Delších mezer: 5; celkem 32.5 s, z toho 0.0 s ve společných mezerách většiny DPS. Záznamů použití hlavních schopností: 261. To nejsou počty nezávislých stisků tlačítek.
+Delších mezer: 3; celkem 26.5 s, z toho 5.7 s ve společných mezerách většiny DPS. Záznamů použití hlavních schopností: 222. To nejsou počty nezávislých stisků tlačítek.
 
-WCL percentil 24; v item-level skupině 25; damage aktivita 97.6 %. Damage aktivita není vlastní castění. [WCL](https://www.warcraftlogs.com/reports/kTKBw7crFD4nydVY?fight=11&source=3&type=damage-done)
+- 159.743–170.549 s: Prescience → Prescience; jiné vlastní schopnosti: žádné zaznamenané. Samotná mezera neprokazuje možnost útočit ani připravenou schopnost.
+- 283.045–291.970 s: Eruption → Prescience; jiné vlastní schopnosti: Hover, Obsidian Scales. Samotná mezera neprokazuje možnost útočit ani připravenou schopnost.
+- 91.048–97.864 s: Prescience → Prescience; jiné vlastní schopnosti: žádné zaznamenané. Samotná mezera neprokazuje možnost útočit ani připravenou schopnost.
 
-- 259.689–270.415 s: Prescience → Ebon Might; jiné vlastní schopnosti: žádné zaznamenané. Samotná mezera neprokazuje možnost útočit ani připravenou schopnost.
-- 353.535–361.092 s: Eruption → Ebon Might; jiné vlastní schopnosti: Obsidian Scales, Zephyr. Samotná mezera neprokazuje možnost útočit ani připravenou schopnost.
-- 140.382–145.548 s: Upheaval → Eruption; jiné vlastní schopnosti: Quell. Samotná mezera neprokazuje možnost útočit ani připravenou schopnost.
+### Krokous-Drak'thul-EU — The Coiled Altar
 
-### Rhínö-Drak'thul-EU — The Coiled Altar
+Delších mezer: 3; celkem 19.0 s, z toho 5.7 s ve společných mezerách většiny DPS. Záznamů použití hlavních schopností: 238. To nejsou počty nezávislých stisků tlačítek.
 
-Delších mezer: 0; celkem 0.0 s, z toho 0.0 s ve společných mezerách většiny DPS. Záznamů použití hlavních schopností: 357. To nejsou počty nezávislých stisků tlačítek.
-
-WCL percentil 80; v item-level skupině 79; damage aktivita 100.0 %. Damage aktivita není vlastní castění. [WCL](https://www.warcraftlogs.com/reports/kTKBw7crFD4nydVY?fight=11&source=27&type=damage-done)
-
-
-### Slejhy-Drak'thul-EU — The Coiled Altar
-
-Delších mezer: 6; celkem 48.4 s, z toho 0.0 s ve společných mezerách většiny DPS. Záznamů použití hlavních schopností: 335. To nejsou počty nezávislých stisků tlačítek.
-
-WCL percentil 68; v item-level skupině 51; damage aktivita 97.2 %. Damage aktivita není vlastní castění. [WCL](https://www.warcraftlogs.com/reports/kTKBw7crFD4nydVY?fight=11&source=6&type=damage-done)
-
-- 257.136–272.134 s: Fan of Knives → Garrote; jiné vlastní schopnosti: Cloak of Shadows, Feint, Sprint. Samotná mezera neprokazuje možnost útočit ani připravenou schopnost.
-- 108.130–119.131 s: Mutilate → Rupture; jiné vlastní schopnosti: žádné zaznamenané. Samotná mezera neprokazuje možnost útočit ani připravenou schopnost.
-- 373.817–383.261 s: Fan of Knives → Envenom; jiné vlastní schopnosti: žádné zaznamenané. Samotná mezera neprokazuje možnost útočit ani připravenou schopnost.
+- 164.407–169.776 s: Kill Command → Barbed Shot; jiné vlastní schopnosti: žádné zaznamenané. Samotná mezera neprokazuje možnost útočit ani připravenou schopnost.
+- 160.247–164.407 s: Kill Command → Kill Command; jiné vlastní schopnosti: žádné zaznamenané. Samotná mezera neprokazuje možnost útočit ani připravenou schopnost.
+- 89.213–98.647 s: Barbed Shot → Kill Command; jiné vlastní schopnosti: Hunter's Mark. Samotná mezera neprokazuje možnost útočit ani připravenou schopnost.
 Čekání na zdroje může být správná součást rotace; tento součet jej neprohlašuje za chybu.
+- Záznam smrti 34.756 s; další vlastní akce 35.23 s. Přesný čas přijetí oživení z toho neznáme.
 
-### Omniblue-Drak'thul-EU — The Coiled Altar
+### Iluneesama-Drak'thul-EU — The Coiled Altar
 
-Delších mezer: 3; celkem 14.0 s, z toho 0.0 s ve společných mezerách většiny DPS. Záznamů použití hlavních schopností: 308. To nejsou počty nezávislých stisků tlačítek.
+Delších mezer: 5; celkem 28.2 s, z toho 5.7 s ve společných mezerách většiny DPS. Záznamů použití hlavních schopností: 316. To nejsou počty nezávislých stisků tlačítek.
 
-WCL percentil 49; v item-level skupině 37; damage aktivita 99.8 %. Damage aktivita není vlastní castění. [WCL](https://www.warcraftlogs.com/reports/kTKBw7crFD4nydVY?fight=11&source=15&type=damage-done)
-
-- 426.037–431.172 s: Void Volley → Mind Blast; jiné vlastní schopnosti: Power Word: Shield, Shadowy Apparition. Samotná mezera neprokazuje možnost útočit ani připravenou schopnost.
-- 201.619–206.321 s: Mind Blast → Tentacle Slam; jiné vlastní schopnosti: Power Word: Shield, Shadowy Apparition. Samotná mezera neprokazuje možnost útočit ani připravenou schopnost.
-- 134.113–138.263 s: Shadow Word: Madness → Mind Blast; jiné vlastní schopnosti: Angelic Feather, Shadowy Apparition. Samotná mezera neprokazuje možnost útočit ani připravenou schopnost.
-
-### Theila-Drak'thul-EU — The Coiled Altar
-
-Delších mezer: 2; celkem 16.5 s, z toho 0.0 s ve společných mezerách většiny DPS. Záznamů použití hlavních schopností: 296. To nejsou počty nezávislých stisků tlačítek.
-
-WCL percentil 56; v item-level skupině 20; damage aktivita 97.0 %. Damage aktivita není vlastní castění. [WCL](https://www.warcraftlogs.com/reports/kTKBw7crFD4nydVY?fight=11&source=2&type=damage-done)
-
-- 107.005–119.348 s: Raptor Strike → Kill Command; jiné vlastní schopnosti: Hunter's Mark. Samotná mezera neprokazuje možnost útočit ani připravenou schopnost.
-- 201.340–205.504 s: Wildfire Bomb → Kill Command; jiné vlastní schopnosti: žádné zaznamenané. Samotná mezera neprokazuje možnost útočit ani připravenou schopnost.
-Čekání na zdroje může být správná součást rotace; tento součet jej neprohlašuje za chybu.
+- 179.322–184.900 s: Final Verdict → Avenging Wrath; jiné vlastní schopnosti: Crusading Strikes, Divine Steed. Samotná mezera neprokazuje možnost útočit ani připravenou schopnost.
+- 163.048–168.240 s: Final Verdict → Hammer of Wrath; jiné vlastní schopnosti: Crusading Strikes. Samotná mezera neprokazuje možnost útočit ani připravenou schopnost.
+- 339.026–343.558 s: Judgment → Judgment; jiné vlastní schopnosti: Divine Protection. Samotná mezera neprokazuje možnost útočit ani připravenou schopnost.
 
 ### Micaello-Drak'thul-EU — The Coiled Altar
 
-Delších mezer: 5; celkem 49.8 s, z toho 0.0 s ve společných mezerách většiny DPS. Záznamů použití hlavních schopností: 293. To nejsou počty nezávislých stisků tlačítek.
+Delších mezer: 4; celkem 24.9 s, z toho 5.7 s ve společných mezerách většiny DPS. Záznamů použití hlavních schopností: 258. To nejsou počty nezávislých stisků tlačítek.
 
-WCL percentil 52; v item-level skupině 59; damage aktivita 95.1 %. Damage aktivita není vlastní castění. [WCL](https://www.warcraftlogs.com/reports/kTKBw7crFD4nydVY?fight=11&source=18&type=damage-done)
-
-- 107.789–124.569 s: Cobra Shot → Kill Command; jiné vlastní schopnosti: žádné zaznamenané. Samotná mezera neprokazuje možnost útočit ani připravenou schopnost.
-- 422.821–435.967 s: Cobra Shot → konec killu; jiné vlastní schopnosti: žádné zaznamenané. Samotná mezera neprokazuje možnost útočit ani připravenou schopnost.
-- 143.258–153.044 s: Kill Command → Kill Command; jiné vlastní schopnosti: žádné zaznamenané. Samotná mezera neprokazuje možnost útočit ani připravenou schopnost.
+- 240.965–247.203 s: Kill Command → Barbed Shot; jiné vlastní schopnosti: Exhilaration. Samotná mezera neprokazuje možnost útočit ani připravenou schopnost.
+- 147.341–152.000 s: Kill Command → Cobra Shot; jiné vlastní schopnosti: Disengage. Samotná mezera neprokazuje možnost útočit ani připravenou schopnost.
+- 88.499–98.438 s: Cobra Shot → Barbed Shot; jiné vlastní schopnosti: žádné zaznamenané. Samotná mezera neprokazuje možnost útočit ani připravenou schopnost.
 Čekání na zdroje může být správná součást rotace; tento součet jej neprohlašuje za chybu.
-- Záznam smrti 435.967 s; do konce killu bez doloženého návratu k vlastním akcím. Přesný čas přijetí oživení z toho neznáme.
+
+### Theila-Drak'thul-EU — The Coiled Altar
+
+Delších mezer: 4; celkem 27.1 s, z toho 5.7 s ve společných mezerách většiny DPS. Záznamů použití hlavních schopností: 226. To nejsou počty nezávislých stisků tlačítek.
+
+- 163.771–172.175 s: Kill Command → Wildfire Bomb; jiné vlastní schopnosti: žádné zaznamenané. Samotná mezera neprokazuje možnost útočit ani připravenou schopnost.
+- 88.521–98.727 s: Kill Command → Kill Command; jiné vlastní schopnosti: Hunter's Mark. Samotná mezera neprokazuje možnost útočit ani připravenou schopnost.
+- 181.076–185.395 s: Kill Command → Wildfire Bomb; jiné vlastní schopnosti: Harpoon. Samotná mezera neprokazuje možnost útočit ani připravenou schopnost.
+Čekání na zdroje může být správná součást rotace; tento součet jej neprohlašuje za chybu.
 
 ### Corneilia-Sylvanas-EU — The Coiled Altar
 
-Delších mezer: 1; celkem 4.0 s, z toho 0.0 s ve společných mezerách většiny DPS. Záznamů použití hlavních schopností: 251. To nejsou počty nezávislých stisků tlačítek.
+Delších mezer: 4; celkem 29.0 s, z toho 0.0 s ve společných mezerách většiny DPS. Záznamů použití hlavních schopností: 188. To nejsou počty nezávislých stisků tlačítek.
 
-WCL percentil 20; v item-level skupině 43; damage aktivita 97.0 %. Damage aktivita není vlastní castění. [WCL](https://www.warcraftlogs.com/reports/kTKBw7crFD4nydVY?fight=11&source=9&type=damage-done)
+- 155.502–169.407 s: Arcane Blast → Arcane Blast; jiné vlastní schopnosti: Shimmer. Samotná mezera neprokazuje možnost útočit ani připravenou schopnost.
+- 254.915–260.764 s: Arcane Barrage → Arcane Missiles; jiné vlastní schopnosti: žádné zaznamenané. Samotná mezera neprokazuje možnost útočit ani připravenou schopnost.
+- 120.845–125.857 s: Arcane Barrage → Arcane Missiles; jiné vlastní schopnosti: žádné zaznamenané. Samotná mezera neprokazuje možnost útočit ani připravenou schopnost.
 
-- 141.415–145.427 s: Arcane Barrage → Arcane Missiles; jiné vlastní schopnosti: žádné zaznamenané. Samotná mezera neprokazuje možnost útočit ani připravenou schopnost.
+### Këss-Drak'thul-EU — The Coiled Altar
+
+Delších mezer: 0; celkem 0.0 s, z toho 0.0 s ve společných mezerách většiny DPS. Záznamů použití hlavních schopností: 252. To nejsou počty nezávislých stisků tlačítek.
+
 
 ### Vejr-Drak'thul-EU — The Coiled Altar
 
-Delších mezer: 3; celkem 18.7 s, z toho 0.0 s ve společných mezerách většiny DPS. Záznamů použití hlavních schopností: 298. To nejsou počty nezávislých stisků tlačítek.
+Delších mezer: 7; celkem 48.9 s, z toho 5.7 s ve společných mezerách většiny DPS. Záznamů použití hlavních schopností: 223. To nejsou počty nezávislých stisků tlačítek.
 
-WCL percentil 35; v item-level skupině 49; damage aktivita 97.1 %. Damage aktivita není vlastní castění. [WCL](https://www.warcraftlogs.com/reports/kTKBw7crFD4nydVY?fight=11&source=34&type=damage-done)
+- 282.600–295.391 s: Death Coil → Outbreak; jiné vlastní schopnosti: Death Charge. Samotná mezera neprokazuje možnost útočit ani připravenou schopnost.
+- 148.577–156.406 s: Dark Transformation → Soul Reaper; jiné vlastní schopnosti: žádné zaznamenané. Samotná mezera neprokazuje možnost útočit ani připravenou schopnost.
+- 143.077–148.377 s: Scourge Strike → Outbreak; jiné vlastní schopnosti: žádné zaznamenané. Samotná mezera neprokazuje možnost útočit ani připravenou schopnost.
 
-- 107.735–117.126 s: Festering Strike → Outbreak; jiné vlastní schopnosti: žádné zaznamenané. Samotná mezera neprokazuje možnost útočit ani připravenou schopnost.
-- 421.962–426.850 s: Festering Strike → konec killu; jiné vlastní schopnosti: žádné zaznamenané. Samotná mezera neprokazuje možnost útočit ani připravenou schopnost.
-- 131.044–135.469 s: Scourge Strike → Scourge Strike; jiné vlastní schopnosti: žádné zaznamenané. Samotná mezera neprokazuje možnost útočit ani připravenou schopnost.
-- Záznam smrti 426.850 s; do konce killu bez doloženého návratu k vlastním akcím. Přesný čas přijetí oživení z toho neznáme.
+### Greenfire-Drak'thul-EU — The Coiled Altar
+
+Delších mezer: 2; celkem 14.1 s, z toho 0.0 s ve společných mezerách většiny DPS. Záznamů použití hlavních schopností: 260. To nejsou počty nezávislých stisků tlačítek.
+
+- 155.336–164.513 s: Demonbolt → Demonbolt; jiné vlastní schopnosti: žádné zaznamenané. Samotná mezera neprokazuje možnost útočit ani připravenou schopnost.
+- 114.368–119.296 s: Hand of Gul'dan → Demonbolt; jiné vlastní schopnosti: Burning Rush. Samotná mezera neprokazuje možnost útočit ani připravenou schopnost.
 
 ### Kubéc-Drak'thul-EU — The Coiled Altar
 
-Delších mezer: 4; celkem 36.7 s, z toho 0.0 s ve společných mezerách většiny DPS. Záznamů použití hlavních schopností: 266. To nejsou počty nezávislých stisků tlačítek.
+Delších mezer: 0; celkem 0.0 s, z toho 0.0 s ve společných mezerách většiny DPS. Záznamů použití hlavních schopností: 245. To nejsou počty nezávislých stisků tlačítek.
 
-WCL percentil 27; v item-level skupině 39; damage aktivita 93.3 %. Damage aktivita není vlastní castění. [WCL](https://www.warcraftlogs.com/reports/kTKBw7crFD4nydVY?fight=11&source=21&type=damage-done)
-
-- 354.156–367.901 s: Fists of Fury → Tiger Palm; jiné vlastní schopnosti: Concentrated Silvermoon Health Potion, Roll. Samotná mezera neprokazuje možnost útočit ani připravenou schopnost.
-- 141.705–153.492 s: Fists of Fury → Tiger Palm; jiné vlastní schopnosti: Fortifying Brew, Healthstone, Roll, Tiger's Lust. Samotná mezera neprokazuje možnost útočit ani připravenou schopnost.
-- 305.686–312.599 s: Whirling Dragon Punch → Spinning Crane Kick; jiné vlastní schopnosti: Tiger's Lust. Samotná mezera neprokazuje možnost útočit ani připravenou schopnost.
 Čekání na zdroje může být správná součást rotace; tento součet jej neprohlašuje za chybu.
-- Záznam smrti 434.697 s; do konce killu bez doloženého návratu k vlastním akcím. Přesný čas přijetí oživení z toho neznáme.
 
 ### Johnyhoudini-BurningBlade-EU — The Coiled Altar
 
-Delších mezer: 1; celkem 4.4 s, z toho 0.0 s ve společných mezerách většiny DPS. Záznamů použití hlavních schopností: 290. To nejsou počty nezávislých stisků tlačítek.
+Delších mezer: 1; celkem 9.1 s, z toho 5.7 s ve společných mezerách většiny DPS. Záznamů použití hlavních schopností: 228. To nejsou počty nezávislých stisků tlačítek.
 
-WCL percentil 62; v item-level skupině 78; damage aktivita 97.3 %. Damage aktivita není vlastní castění. [WCL](https://www.warcraftlogs.com/reports/kTKBw7crFD4nydVY?fight=11&source=23&type=damage-done)
-
-- 49.110–53.523 s: Arcane Orb → Arcane Missiles; jiné vlastní schopnosti: Prismatic Barrier, Shimmer. Samotná mezera neprokazuje možnost útočit ani připravenou schopnost.
+- 88.280–97.425 s: Arcane Barrage → Prismatic Bolt; jiné vlastní schopnosti: Mirror Image, Prismatic Barrier. Samotná mezera neprokazuje možnost útočit ani připravenou schopnost.
 
 ### Galneryus-Drak'thul-EU — The Coiled Altar
 
-Delších mezer: 3; celkem 17.9 s, z toho 0.0 s ve společných mezerách většiny DPS. Záznamů použití hlavních schopností: 413. To nejsou počty nezávislých stisků tlačítek.
+Delších mezer: 2; celkem 15.2 s, z toho 5.7 s ve společných mezerách většiny DPS. Záznamů použití hlavních schopností: 312. To nejsou počty nezávislých stisků tlačítek.
 
-WCL percentil 91; v item-level skupině 68; damage aktivita 99.9 %. Damage aktivita není vlastní castění. [WCL](https://www.warcraftlogs.com/reports/kTKBw7crFD4nydVY?fight=11&source=8&type=damage-done)
-
-- 108.502–116.772 s: Divine Storm → Judgment; jiné vlastní schopnosti: Divine Protection. Samotná mezera neprokazuje možnost útočit ani připravenou schopnost.
-- 261.547–267.146 s: Hammer of Wrath → Final Verdict; jiné vlastní schopnosti: Blessing of Sacrifice, Divine Protection, Divine Shield, Divine Steed. Samotná mezera neprokazuje možnost útočit ani připravenou schopnost.
-- 275.346–279.369 s: Final Verdict → Judgment; jiné vlastní schopnosti: Divine Steed. Samotná mezera neprokazuje možnost útočit ani připravenou schopnost.
+- 161.246–167.149 s: Divine Storm → Hammer of Wrath; jiné vlastní schopnosti: Crusading Strikes. Samotná mezera neprokazuje možnost útočit ani připravenou schopnost.
+- 88.026–97.370 s: Final Verdict → Judgment; jiné vlastní schopnosti: Crusading Strikes. Samotná mezera neprokazuje možnost útočit ani připravenou schopnost.
 
 ### Kirill-Drak'thul-EU — Ula'tek
 
-Delších mezer: 7; celkem 60.4 s, z toho 45.7 s ve společných mezerách většiny DPS. Záznamů použití hlavních schopností: 406. To nejsou počty nezávislých stisků tlačítek.
+Delších mezer: 6; celkem 50.0 s, z toho 27.7 s ve společných mezerách většiny DPS. Záznamů použití hlavních schopností: 270. To nejsou počty nezávislých stisků tlačítek.
 
-WCL percentil 71; v item-level skupině 60; damage aktivita 87.2 %. Damage aktivita není vlastní castění. [WCL](https://www.warcraftlogs.com/reports/kTKBw7crFD4nydVY?fight=12&source=112&type=damage-done)
+- 211.698–219.380 s: Void Ray → Soul Immolation; jiné vlastní schopnosti: Glide, Soul Fragment. Samotná mezera neprokazuje možnost útočit ani připravenou schopnost.
+- 270.736–275.708 s: Soul Immolation → Devour; jiné vlastní schopnosti: Soul Fragment. Samotná mezera neprokazuje možnost útočit ani připravenou schopnost.
+- 63.085–67.798 s: Void Ray → Void Ray; jiné vlastní schopnosti: Glide, Soul Fragment. Samotná mezera neprokazuje možnost útočit ani připravenou schopnost.
+- Záznam smrti 485.427 s; do konce killu bez doloženého návratu k vlastním akcím. Přesný čas přijetí oživení z toho neznáme.
 
-- 479.191–485.693 s: Devour → Soul Immolation; jiné vlastní schopnosti: Blur, Glide, Soul Fragment. Samotná mezera neprokazuje možnost útočit ani připravenou schopnost.
-- 539.678–545.051 s: Consume → Consume; jiné vlastní schopnosti: Blur, Glide, Soul Fragment. Samotná mezera neprokazuje možnost útočit ani připravenou schopnost.
-- 62.825–68.790 s: Void Ray → Consume; jiné vlastní schopnosti: Glide. Samotná mezera neprokazuje možnost útočit ani připravenou schopnost.
+### Íacek-Drak'thul-EU — Ula'tek
+
+Delších mezer: 6; celkem 45.5 s, z toho 24.2 s ve společných mezerách většiny DPS. Záznamů použití hlavních schopností: 274. To nejsou počty nezávislých stisků tlačítek.
+
+- 336.942–345.285 s: Chain Lightning → Lava Burst; jiné vlastní schopnosti: Cleanse Spirit, Earthquake, Ghost Wolf, Gust of Wind, Voltaic Blaze, Wind Rush Totem. Samotná mezera neprokazuje možnost útočit ani připravenou schopnost.
+- 101.133–105.586 s: Lava Burst → Elemental Blast; jiné vlastní schopnosti: Ghost Wolf, Gust of Wind. Samotná mezera neprokazuje možnost útočit ani připravenou schopnost.
+- 350.802–366.048 s: Chain Lightning → Ancestral Swiftness; jiné vlastní schopnosti: Earthquake, Ghost Wolf, Gust of Wind, Voltaic Blaze. Samotná mezera neprokazuje možnost útočit ani připravenou schopnost.
+- Záznam smrti 529.036 s; další vlastní akce 532.845 s. Přesný čas přijetí oživení z toho neznáme.
 
 ### Nahollou-Drak'thul-EU — Ula'tek
 
-Delších mezer: 13; celkem 126.4 s, z toho 39.6 s ve společných mezerách většiny DPS. Záznamů použití hlavních schopností: 207. To nejsou počty nezávislých stisků tlačítek.
+Delších mezer: 9; celkem 79.4 s, z toho 19.0 s ve společných mezerách většiny DPS. Záznamů použití hlavních schopností: 148. To nejsou počty nezávislých stisků tlačítek.
 
-WCL percentil 9; v item-level skupině 6; damage aktivita 68.7 %. Damage aktivita není vlastní castění. [WCL](https://www.warcraftlogs.com/reports/kTKBw7crFD4nydVY?fight=12&source=87&type=damage-done)
-
-- 209.758–236.390 s: Implosion → Call Dreadstalkers; jiné vlastní schopnosti: Burning Rush. Samotná mezera neprokazuje možnost útočit ani připravenou schopnost.
-- 250.388–258.796 s: Demonbolt → Hand of Gul'dan; jiné vlastní schopnosti: žádné zaznamenané. Samotná mezera neprokazuje možnost útočit ani připravenou schopnost.
-- 494.913–502.868 s: Shadow Bolt → Shadow Bolt; jiné vlastní schopnosti: Dark Pact. Samotná mezera neprokazuje možnost útočit ani připravenou schopnost.
-- Záznam smrti 420.908 s; další vlastní akce 492.327 s. Přesný čas přijetí oživení z toho neznáme.
-- Záznam smrti 574.252 s; do konce killu bez doloženého návratu k vlastním akcím. Přesný čas přijetí oživení z toho neznáme.
-
-### Íácekpwn-Drak'thul-EU — Ula'tek
-
-Delších mezer: 7; celkem 65.8 s, z toho 47.3 s ve společných mezerách většiny DPS. Záznamů použití hlavních schopností: 338. To nejsou počty nezávislých stisků tlačítek.
-
-WCL percentil 28; v item-level skupině 18; damage aktivita 71.6 %. Damage aktivita není vlastní castění. [WCL](https://www.warcraftlogs.com/reports/kTKBw7crFD4nydVY?fight=12&source=84&type=damage-done)
-
-- 257.982–264.637 s: Mind Blast → Tentacle Slam; jiné vlastní schopnosti: Angelic Feather, Power Word: Shield, Shadowy Apparition. Samotná mezera neprokazuje možnost útočit ani připravenou schopnost.
-- 155.507–176.438 s: Mind Flay → Shadow Word: Pain; jiné vlastní schopnosti: Angelic Feather, Power Word: Shield. Samotná mezera neprokazuje možnost útočit ani připravenou schopnost.
-- 339.243–343.639 s: Shadow Word: Pain → Tentacle Slam; jiné vlastní schopnosti: Angelic Feather. Samotná mezera neprokazuje možnost útočit ani připravenou schopnost.
-- Záznam smrti 482.411 s; do konce killu bez doloženého návratu k vlastním akcím. Přesný čas přijetí oživení z toho neznáme.
+- 375.685–390.619 s: Hand of Gul'dan → Shadow Bolt; jiné vlastní schopnosti: žádné zaznamenané. Samotná mezera neprokazuje možnost útočit ani připravenou schopnost.
+- 338.787–346.909 s: Implosion → Shadow Bolt; jiné vlastní schopnosti: Burning Rush, Dark Pact, Demonic Healthstone, Soulburn. Samotná mezera neprokazuje možnost útočit ani připravenou schopnost.
+- 416.813–423.948 s: Hand of Gul'dan → Infernal Bolt; jiné vlastní schopnosti: Demonic Healthstone, Soulburn. Samotná mezera neprokazuje možnost útočit ani připravenou schopnost.
+- Záznam smrti 109.396 s; další vlastní akce 287.299 s. Přesný čas přijetí oživení z toho neznáme.
 
 ### Odmin-Drak'thul-EU — Ula'tek
 
-Delších mezer: 12; celkem 103.5 s, z toho 46.2 s ve společných mezerách většiny DPS. Záznamů použití hlavních schopností: 420. To nejsou počty nezávislých stisků tlačítek.
+Delších mezer: 14; celkem 129.9 s, z toho 41.0 s ve společných mezerách většiny DPS. Záznamů použití hlavních schopností: 372. To nejsou počty nezávislých stisků tlačítek.
 
-WCL percentil 46; v item-level skupině 56; damage aktivita 84.5 %. Damage aktivita není vlastní castění. [WCL](https://www.warcraftlogs.com/reports/kTKBw7crFD4nydVY?fight=12&source=79&type=damage-done)
-
-- 155.662–182.049 s: Consuming Fire → Felblade; jiné vlastní schopnosti: Fel Rush, Felblade, Glide. Samotná mezera neprokazuje možnost útočit ani připravenou schopnost.
-- 254.827–263.770 s: Vengeful Retreat → Eye Beam; jiné vlastní schopnosti: Fel Rush, Glide. Samotná mezera neprokazuje možnost útočit ani připravenou schopnost.
-- 340.373–347.153 s: Blade Dance → Chaos Strike; jiné vlastní schopnosti: Fel Rush, Immolation Aura. Samotná mezera neprokazuje možnost útočit ani připravenou schopnost.
+- 212.935–228.257 s: Chaos Strike → Felblade; jiné vlastní schopnosti: Fel Rush, Glide, Shattered Souls. Samotná mezera neprokazuje možnost útočit ani připravenou schopnost.
+- 479.084–488.432 s: Chaos Strike → Felblade; jiné vlastní schopnosti: Blur, Darkness, Felblade, Glide, Healthstone. Samotná mezera neprokazuje možnost útočit ani připravenou schopnost.
+- 155.400–177.228 s: Annihilation → Felblade; jiné vlastní schopnosti: Fel Rush, Glide. Samotná mezera neprokazuje možnost útočit ani připravenou schopnost.
 
 ### Fobina-Drak'thul-EU — Ula'tek
 
-Delších mezer: 12; celkem 102.1 s, z toho 36.2 s ve společných mezerách většiny DPS. Záznamů použití hlavních schopností: 298. To nejsou počty nezávislých stisků tlačítek.
+Delších mezer: 11; celkem 81.4 s, z toho 24.1 s ve společných mezerách většiny DPS. Záznamů použití hlavních schopností: 225. To nejsou počty nezávislých stisků tlačítek.
 
-WCL percentil 21; v item-level skupině 27; damage aktivita 88.4 %. Damage aktivita není vlastní castění. [WCL](https://www.warcraftlogs.com/reports/kTKBw7crFD4nydVY?fight=12&source=3&type=damage-done)
+- 220.635–231.487 s: Prescience → Upheaval; jiné vlastní schopnosti: Verdant Embrace. Samotná mezera neprokazuje možnost útočit ani připravenou schopnost.
+- 211.264–220.635 s: Prescience → Prescience; jiné vlastní schopnosti: Hover. Samotná mezera neprokazuje možnost útočit ani připravenou schopnost.
+- 238.370–247.298 s: Prescience → Fire Breath; jiné vlastní schopnosti: Glide, Hover. Samotná mezera neprokazuje možnost útočit ani připravenou schopnost.
+- Záznam smrti 482.034 s; do konce killu bez doloženého návratu k vlastním akcím. Přesný čas přijetí oživení z toho neznáme.
 
-- 247.294–256.792 s: Prescience → Prescience; jiné vlastní schopnosti: Glide, Hover. Samotná mezera neprokazuje možnost útočit ani připravenou schopnost.
-- 214.202–223.565 s: Prescience → Prescience; jiné vlastní schopnosti: Cauterizing Flame, Expunge, Hover. Samotná mezera neprokazuje možnost útočit ani připravenou schopnost.
-- 334.815–343.141 s: Prescience → Prescience; jiné vlastní schopnosti: Cauterizing Flame, Expunge, Hover, Obsidian Scales, Time Spiral. Samotná mezera neprokazuje možnost útočit ani připravenou schopnost.
+### Krokous-Drak'thul-EU — Ula'tek
 
-### Rhínö-Drak'thul-EU — Ula'tek
+Delších mezer: 10; celkem 88.2 s, z toho 42.2 s ve společných mezerách většiny DPS. Záznamů použití hlavních schopností: 318. To nejsou počty nezávislých stisků tlačítek.
 
-Delších mezer: 9; celkem 80.9 s, z toho 49.5 s ve společných mezerách většiny DPS. Záznamů použití hlavních schopností: 407. To nejsou počty nezávislých stisků tlačítek.
-
-WCL percentil 60; v item-level skupině 54; damage aktivita 87.3 %. Damage aktivita není vlastní castění. [WCL](https://www.warcraftlogs.com/reports/kTKBw7crFD4nydVY?fight=12&source=27&type=damage-done)
-
-- 207.084–215.102 s: Starsurge → Sunfire; jiné vlastní schopnosti: žádné zaznamenané. Samotná mezera neprokazuje možnost útočit ani připravenou schopnost.
-- 216.233–222.978 s: Moonfire → Sunfire; jiné vlastní schopnosti: žádné zaznamenané. Samotná mezera neprokazuje možnost útočit ani připravenou schopnost.
-- 483.979–489.170 s: Starfall → Sunfire; jiné vlastní schopnosti: Wild Charge. Samotná mezera neprokazuje možnost útočit ani připravenou schopnost.
-- Záznam smrti 423.283 s; další vlastní akce 443.215 s. Přesný čas přijetí oživení z toho neznáme.
-- Záznam smrti 574.755 s; do konce killu bez doloženého návratu k vlastním akcím. Přesný čas přijetí oživení z toho neznáme.
-
-### Slejhy-Drak'thul-EU — Ula'tek
-
-Delších mezer: 13; celkem 127.7 s, z toho 48.4 s ve společných mezerách většiny DPS. Záznamů použití hlavních schopností: 411. To nejsou počty nezávislých stisků tlačítek.
-
-WCL percentil 61; v item-level skupině 44; damage aktivita 85.3 %. Damage aktivita není vlastní castění. [WCL](https://www.warcraftlogs.com/reports/kTKBw7crFD4nydVY?fight=12&source=6&type=damage-done)
-
-- 213.858–234.049 s: Crimson Tempest → Garrote; jiné vlastní schopnosti: Sprint. Samotná mezera neprokazuje možnost útočit ani připravenou schopnost.
-- 308.182–336.767 s: Envenom → Crimson Tempest; jiné vlastní schopnosti: Cloak of Shadows, Feint, Sprint. Samotná mezera neprokazuje možnost útočit ani připravenou schopnost.
-- 478.251–488.099 s: Fan of Knives → Mutilate; jiné vlastní schopnosti: Crimson Vial, Feint, Healthstone. Samotná mezera neprokazuje možnost útočit ani připravenou schopnost.
+- 269.232–277.022 s: Kill Command → Kill Command; jiné vlastní schopnosti: žádné zaznamenané. Samotná mezera neprokazuje možnost útočit ani připravenou schopnost.
+- 211.723–218.854 s: Cobra Shot → Kill Command; jiné vlastní schopnosti: žádné zaznamenané. Samotná mezera neprokazuje možnost útočit ani připravenou schopnost.
+- 482.077–488.286 s: Kill Command → Kill Command; jiné vlastní schopnosti: Dire Beast, Exhilaration, Survival of the Fittest. Samotná mezera neprokazuje možnost útočit ani připravenou schopnost.
 Čekání na zdroje může být správná součást rotace; tento součet jej neprohlašuje za chybu.
+- Záznam smrti 530.718 s; do konce killu bez doloženého návratu k vlastním akcím. Přesný čas přijetí oživení z toho neznáme.
 
-### Omniblue-Drak'thul-EU — Ula'tek
+### Iluneesama-Drak'thul-EU — Ula'tek
 
-Delších mezer: 10; celkem 88.3 s, z toho 50.7 s ve společných mezerách většiny DPS. Záznamů použití hlavních schopností: 279. To nejsou počty nezávislých stisků tlačítek.
+Delších mezer: 11; celkem 105.5 s, z toho 39.8 s ve společných mezerách většiny DPS. Záznamů použití hlavních schopností: 383. To nejsou počty nezávislých stisků tlačítek.
 
-WCL percentil 19; v item-level skupině 9; damage aktivita 71.9 %. Damage aktivita není vlastní castění. [WCL](https://www.warcraftlogs.com/reports/kTKBw7crFD4nydVY?fight=12&source=15&type=damage-done)
-
-- 428.145–436.160 s: Void Volley → Tentacle Slam; jiné vlastní schopnosti: Shadowy Apparition. Samotná mezera neprokazuje možnost útočit ani připravenou schopnost.
-- 203.370–209.885 s: Mind Blast → Tentacle Slam; jiné vlastní schopnosti: Power Word: Shield, Shadowy Apparition. Samotná mezera neprokazuje možnost útočit ani připravenou schopnost.
-- 217.089–222.662 s: Shadow Word: Death → Vampiric Touch; jiné vlastní schopnosti: Power Word: Shield. Samotná mezera neprokazuje možnost útočit ani připravenou schopnost.
-- Záznam smrti 483.733 s; do konce killu bez doloženého návratu k vlastním akcím. Přesný čas přijetí oživení z toho neznáme.
-
-### Theila-Drak'thul-EU — Ula'tek
-
-Delších mezer: 10; celkem 93.6 s, z toho 48.3 s ve společných mezerách většiny DPS. Záznamů použití hlavních schopností: 341. To nejsou počty nezávislých stisků tlačítek.
-
-WCL percentil 54; v item-level skupině 24; damage aktivita 87.1 %. Damage aktivita není vlastní castění. [WCL](https://www.warcraftlogs.com/reports/kTKBw7crFD4nydVY?fight=12&source=2&type=damage-done)
-
-- 240.409–247.920 s: Raptor Swipe → Kill Command; jiné vlastní schopnosti: Disengage. Samotná mezera neprokazuje možnost útočit ani připravenou schopnost.
-- 218.722–225.866 s: Kill Command → Boomstick; jiné vlastní schopnosti: Aspect of the Cheetah, Harpoon. Samotná mezera neprokazuje možnost útočit ani připravenou schopnost.
-- 422.878–429.476 s: Kill Command → Raptor Swipe; jiné vlastní schopnosti: Aspect of the Turtle, Disengage. Samotná mezera neprokazuje možnost útočit ani připravenou schopnost.
-Čekání na zdroje může být správná součást rotace; tento součet jej neprohlašuje za chybu.
-- Záznam smrti 214.580 s; další vlastní akce 215.033 s. Přesný čas přijetí oživení z toho neznáme.
-- Záznam smrti 463.882 s; další vlastní akce 464.803 s. Přesný čas přijetí oživení z toho neznáme.
-- Záznam smrti 521.070 s; další vlastní akce 523.653 s. Přesný čas přijetí oživení z toho neznáme.
+- 217.464–231.656 s: Flash of Light → Blade of Justice; jiné vlastní schopnosti: Crusading Strikes, Divine Steed. Samotná mezera neprokazuje možnost útočit ani připravenou schopnost.
+- 268.889–278.805 s: Final Verdict → Judgment; jiné vlastní schopnosti: Divine Steed. Samotná mezera neprokazuje možnost útočit ani připravenou schopnost.
+- 427.275–435.736 s: Blade of Justice → Avenging Wrath; jiné vlastní schopnosti: Crusading Strikes, Eternal Flame. Samotná mezera neprokazuje možnost útočit ani připravenou schopnost.
 
 ### Micaello-Drak'thul-EU — Ula'tek
 
-Delších mezer: 5; celkem 59.7 s, z toho 50.6 s ve společných mezerách většiny DPS. Záznamů použití hlavních schopností: 378. To nejsou počty nezávislých stisků tlačítek.
+Delších mezer: 10; celkem 103.1 s, z toho 42.2 s ve společných mezerách většiny DPS. Záznamů použití hlavních schopností: 333. To nejsou počty nezávislých stisků tlačítek.
 
-WCL percentil 51; v item-level skupině 56; damage aktivita 87.5 %. Damage aktivita není vlastní castění. [WCL](https://www.warcraftlogs.com/reports/kTKBw7crFD4nydVY?fight=12&source=18&type=damage-done)
-
-- 484.346–490.107 s: Barbed Shot → Kill Command; jiné vlastní schopnosti: Disengage, Exhilaration, Healthstone. Samotná mezera neprokazuje možnost útočit ani připravenou schopnost.
-- 155.323–173.809 s: Bestial Wrath → Cobra Shot; jiné vlastní schopnosti: Aspect of the Cheetah, Disengage. Samotná mezera neprokazuje možnost útočit ani připravenou schopnost.
-- 308.210–327.817 s: Cobra Shot → Kill Command; jiné vlastní schopnosti: žádné zaznamenané. Samotná mezera neprokazuje možnost útočit ani připravenou schopnost.
+- 211.384–228.490 s: Kill Command → Bestial Wrath; jiné vlastní schopnosti: Aspect of the Cheetah, Exhilaration. Samotná mezera neprokazuje možnost útočit ani připravenou schopnost.
+- 430.353–438.428 s: Kill Command → Bestial Wrath; jiné vlastní schopnosti: Regeneratin'. Samotná mezera neprokazuje možnost útočit ani připravenou schopnost.
+- 270.256–277.763 s: Barbed Shot → Cobra Shot; jiné vlastní schopnosti: žádné zaznamenané. Samotná mezera neprokazuje možnost útočit ani připravenou schopnost.
 Čekání na zdroje může být správná součást rotace; tento součet jej neprohlašuje za chybu.
-- Záznam smrti 577.726 s; do konce killu bez doloženého návratu k vlastním akcím. Přesný čas přijetí oživení z toho neznáme.
+- Záznam smrti 526.822 s; do konce killu bez doloženého návratu k vlastním akcím. Přesný čas přijetí oživení z toho neznáme.
+
+### Theila-Drak'thul-EU — Ula'tek
+
+Delších mezer: 10; celkem 100.2 s, z toho 41.7 s ve společných mezerách většiny DPS. Záznamů použití hlavních schopností: 290. To nejsou počty nezávislých stisků tlačítek.
+
+- 477.905–490.888 s: Kill Command → Wildfire Bomb; jiné vlastní schopnosti: Aspect of the Turtle, Survival of the Fittest. Samotná mezera neprokazuje možnost útočit ani připravenou schopnost.
+- 269.201–280.302 s: Wildfire Bomb → Kill Command; jiné vlastní schopnosti: žádné zaznamenané. Samotná mezera neprokazuje možnost útočit ani připravenou schopnost.
+- 214.583–225.106 s: Kill Command → Kill Command; jiné vlastní schopnosti: Disengage. Samotná mezera neprokazuje možnost útočit ani připravenou schopnost.
+Čekání na zdroje může být správná součást rotace; tento součet jej neprohlašuje za chybu.
+- Záznam smrti 389.018 s; další vlastní akce 389.245 s. Přesný čas přijetí oživení z toho neznáme.
+- Záznam smrti 457.878 s; další vlastní akce 458.701 s. Přesný čas přijetí oživení z toho neznáme.
+- Záznam smrti 530.067 s; do konce killu bez doloženého návratu k vlastním akcím. Přesný čas přijetí oživení z toho neznáme.
 
 ### Corneilia-Sylvanas-EU — Ula'tek
 
-Delších mezer: 5; celkem 56.0 s, z toho 43.0 s ve společných mezerách většiny DPS. Záznamů použití hlavních schopností: 301. To nejsou počty nezávislých stisků tlačítek.
+Delších mezer: 2; celkem 28.6 s, z toho 18.6 s ve společných mezerách většiny DPS. Záznamů použití hlavních schopností: 112. To nejsou počty nezávislých stisků tlačítek.
 
-WCL percentil 18; v item-level skupině 39; damage aktivita 83.7 %. Damage aktivita není vlastní castění. [WCL](https://www.warcraftlogs.com/reports/kTKBw7crFD4nydVY?fight=12&source=9&type=damage-done)
+- 51.596–56.659 s: Arcane Barrage → Arcane Blast; jiné vlastní schopnosti: žádné zaznamenané. Samotná mezera neprokazuje možnost útočit ani připravenou schopnost.
+- 308.075–331.587 s: Arcane Barrage → Arcane Orb; jiné vlastní schopnosti: Arcane Intellect, Healthstone, Prismatic Barrier, Shimmer. Samotná mezera neprokazuje možnost útočit ani připravenou schopnost.
+- Záznam smrti 56.659 s; další vlastní akce 281.81 s. Přesný čas přijetí oživení z toho neznáme.
+- Záznam smrti 479.841 s; do konce killu bez doloženého návratu k vlastním akcím. Přesný čas přijetí oživení z toho neznáme.
 
-- 339.795–344.889 s: Arcane Blast → Arcane Orb; jiné vlastní schopnosti: Prismatic Barrier, Shimmer. Samotná mezera neprokazuje možnost útočit ani připravenou schopnost.
-- 458.514–463.269 s: Arcane Barrage → Arcane Missiles; jiné vlastní schopnosti: žádné zaznamenané. Samotná mezera neprokazuje možnost útočit ani připravenou schopnost.
-- 352.307–365.324 s: Arcane Barrage → Arcane Blast; jiné vlastní schopnosti: žádné zaznamenané. Samotná mezera neprokazuje možnost útočit ani připravenou schopnost.
+### Këss-Drak'thul-EU — Ula'tek
+
+Delších mezer: 2; celkem 14.0 s, z toho 0.0 s ve společných mezerách většiny DPS. Záznamů použití hlavních schopností: 331. To nejsou počty nezávislých stisků tlačítek.
+
+- 215.767–224.764 s: Arcane Orb → Arcane Missiles; jiné vlastní schopnosti: Arcane Intellect, Prismatic Barrier, Shimmer. Samotná mezera neprokazuje možnost útočit ani připravenou schopnost.
+- 342.408–347.422 s: Arcane Barrage → Prismatic Bolt; jiné vlastní schopnosti: Prismatic Barrier. Samotná mezera neprokazuje možnost útočit ani připravenou schopnost.
+- Záznam smrti 519.833 s; do konce killu bez doloženého návratu k vlastním akcím. Přesný čas přijetí oživení z toho neznáme.
 
 ### Vejr-Drak'thul-EU — Ula'tek
 
-Delších mezer: 8; celkem 82.3 s, z toho 48.5 s ve společných mezerách většiny DPS. Záznamů použití hlavních schopností: 345. To nejsou počty nezávislých stisků tlačítek.
+Delších mezer: 10; celkem 94.5 s, z toho 40.2 s ve společných mezerách většiny DPS. Záznamů použití hlavních schopností: 276. To nejsou počty nezávislých stisků tlačítek.
 
-WCL percentil 34; v item-level skupině 35; damage aktivita 85.5 %. Damage aktivita není vlastní castění. [WCL](https://www.warcraftlogs.com/reports/kTKBw7crFD4nydVY?fight=12&source=34&type=damage-done)
+- 387.731–397.283 s: Necrotic Coil → Outbreak; jiné vlastní schopnosti: Anti-Magic Shell, Icebound Fortitude. Samotná mezera neprokazuje možnost útočit ani připravenou schopnost.
+- 269.142–277.698 s: Scourge Strike → Outbreak; jiné vlastní schopnosti: žádné zaznamenané. Samotná mezera neprokazuje možnost útočit ani připravenou schopnost.
+- 215.450–223.913 s: Necrotic Coil → Outbreak; jiné vlastní schopnosti: žádné zaznamenané. Samotná mezera neprokazuje možnost útočit ani připravenou schopnost.
+- Záznam smrti 481.988 s; do konce killu bez doloženého návratu k vlastním akcím. Přesný čas přijetí oživení z toho neznáme.
 
-- 477.018–487.895 s: Putrefy → Outbreak; jiné vlastní schopnosti: Anti-Magic Shell, Death Charge. Samotná mezera neprokazuje možnost útočit ani připravenou schopnost.
-- 255.520–262.152 s: Festering Scythe → Outbreak; jiné vlastní schopnosti: žádné zaznamenané. Samotná mezera neprokazuje možnost útočit ani připravenou schopnost.
-- 245.537–250.021 s: Death Coil → Scourge Strike; jiné vlastní schopnosti: žádné zaznamenané. Samotná mezera neprokazuje možnost útočit ani připravenou schopnost.
-- Záznam smrti 574.756 s; do konce killu bez doloženého návratu k vlastním akcím. Přesný čas přijetí oživení z toho neznáme.
+### Greenfire-Drak'thul-EU — Ula'tek
+
+Delších mezer: 8; celkem 71.7 s, z toho 41.8 s ve společných mezerách většiny DPS. Záznamů použití hlavních schopností: 342. To nejsou počty nezávislých stisků tlačítek.
+
+- 269.287–276.769 s: Call Dreadstalkers → Hand of Gul'dan; jiné vlastní schopnosti: žádné zaznamenané. Samotná mezera neprokazuje možnost útočit ani připravenou schopnost.
+- 335.465–341.255 s: Shadow Bolt → Demonbolt; jiné vlastní schopnosti: Burning Rush. Samotná mezera neprokazuje možnost útočit ani připravenou schopnost.
+- 205.691–210.599 s: Demonbolt → Hand of Gul'dan; jiné vlastní schopnosti: Mortal Coil, Unending Resolve. Samotná mezera neprokazuje možnost útočit ani připravenou schopnost.
+- Záznam smrti 530.777 s; do konce killu bez doloženého návratu k vlastním akcím. Přesný čas přijetí oživení z toho neznáme.
 
 ### Kubéc-Drak'thul-EU — Ula'tek
 
-Delších mezer: 1; celkem 4.8 s, z toho 0.0 s ve společných mezerách většiny DPS. Záznamů použití hlavních schopností: 284. To nejsou počty nezávislých stisků tlačítek.
+Delších mezer: 6; celkem 57.4 s, z toho 42.0 s ve společných mezerách většiny DPS. Záznamů použití hlavních schopností: 327. To nejsou počty nezávislých stisků tlačítek.
 
-WCL percentil 21; v item-level skupině 25; damage aktivita 67.9 %. Damage aktivita není vlastní castění. [WCL](https://www.warcraftlogs.com/reports/kTKBw7crFD4nydVY?fight=12&source=21&type=damage-done)
-
-- 476.985–481.804 s: Whirling Dragon Punch → konec killu; jiné vlastní schopnosti: Roll. Samotná mezera neprokazuje možnost útočit ani připravenou schopnost.
+- 540.044–545.392 s: Fists of Fury → Vivify; jiné vlastní schopnosti: Roll. Samotná mezera neprokazuje možnost útočit ani připravenou schopnost.
+- 257.064–261.216 s: Tiger Palm → Fists of Fury; jiné vlastní schopnosti: žádné zaznamenané. Samotná mezera neprokazuje možnost útočit ani připravenou schopnost.
+- 168.299–172.614 s: Tiger Palm → Fists of Fury; jiné vlastní schopnosti: žádné zaznamenané. Samotná mezera neprokazuje možnost útočit ani připravenou schopnost.
 Čekání na zdroje může být správná součást rotace; tento součet jej neprohlašuje za chybu.
-- Záznam smrti 481.804 s; do konce killu bez doloženého návratu k vlastním akcím. Přesný čas přijetí oživení z toho neznáme.
 
 ### Johnyhoudini-BurningBlade-EU — Ula'tek
 
-Delších mezer: 2; celkem 28.7 s, z toho 26.8 s ve společných mezerách většiny DPS. Záznamů použití hlavních schopností: 340. To nejsou počty nezávislých stisků tlačítek.
+Delších mezer: 3; celkem 31.0 s, z toho 23.6 s ve společných mezerách většiny DPS. Záznamů použití hlavních schopností: 309. To nejsou počty nezávislých stisků tlačítek.
 
-WCL percentil 62; v item-level skupině 77; damage aktivita 80.3 %. Damage aktivita není vlastní castění. [WCL](https://www.warcraftlogs.com/reports/kTKBw7crFD4nydVY?fight=12&source=23&type=damage-done)
-
-- 351.355–363.798 s: Arcane Barrage → Arcane Missiles; jiné vlastní schopnosti: Arcane Explosion, Shimmer. Samotná mezera neprokazuje možnost útočit ani připravenou schopnost.
-- 155.446–171.734 s: Arcane Barrage → Prismatic Bolt; jiné vlastní schopnosti: Arcane Intellect, Prismatic Barrier, Shimmer. Samotná mezera neprokazuje možnost útočit ani připravenou schopnost.
+- 430.563–435.400 s: Prismatic Bolt → Touch of the Magi; jiné vlastní schopnosti: žádné zaznamenané. Samotná mezera neprokazuje možnost útočit ani připravenou schopnost.
+- 154.869–170.035 s: Arcane Barrage → Arcane Missiles; jiné vlastní schopnosti: Arcane Intellect, Prismatic Barrier, Shimmer. Samotná mezera neprokazuje možnost útočit ani připravenou schopnost.
+- 352.615–363.569 s: Arcane Barrage → Prismatic Bolt; jiné vlastní schopnosti: Arcane Explosion, Prismatic Barrier, Shimmer. Samotná mezera neprokazuje možnost útočit ani připravenou schopnost.
 
 ### Galneryus-Drak'thul-EU — Ula'tek
 
-Delších mezer: 7; celkem 74.2 s, z toho 49.6 s ve společných mezerách většiny DPS. Záznamů použití hlavních schopností: 490. To nejsou počty nezávislých stisků tlačítek.
+Delších mezer: 9; celkem 85.5 s, z toho 41.9 s ve společných mezerách většiny DPS. Záznamů použití hlavních schopností: 359. To nejsou počty nezávislých stisků tlačítek.
 
-WCL percentil 99; v item-level skupině 96; damage aktivita 87.9 %. Damage aktivita není vlastní castění. [WCL](https://www.warcraftlogs.com/reports/kTKBw7crFD4nydVY?fight=12&source=8&type=damage-done)
+- 209.760–220.464 s: Divine Storm → Avenging Wrath; jiné vlastní schopnosti: Concentrated Silvermoon Health Potion, Crusading Strikes, Divine Steed, Healthstone. Samotná mezera neprokazuje možnost útočit ani připravenou schopnost.
+- 268.753–276.264 s: Divine Storm → Blade of Justice; jiné vlastní schopnosti: Crusading Strikes, Divine Steed. Samotná mezera neprokazuje možnost útočit ani připravenou schopnost.
+- 429.637–435.420 s: Judgment → Blade of Justice; jiné vlastní schopnosti: žádné zaznamenané. Samotná mezera neprokazuje možnost útočit ani připravenou schopnost.
+- Záznam smrti 481.986 s; do konce killu bez doloženého návratu k vlastním akcím. Přesný čas přijetí oživení z toho neznáme.
 
-- 478.313–487.361 s: Hammer of Wrath → Final Verdict; jiné vlastní schopnosti: Divine Shield, Divine Steed. Samotná mezera neprokazuje možnost útočit ani připravenou schopnost.
-- 213.122–221.891 s: Final Verdict → Blade of Justice; jiné vlastní schopnosti: Crusading Strikes, Divine Protection. Samotná mezera neprokazuje možnost útočit ani připravenou schopnost.
-- 119.627–124.153 s: Final Verdict → Blade of Justice; jiné vlastní schopnosti: žádné zaznamenané. Samotná mezera neprokazuje možnost útočit ani připravenou schopnost.
+### Kirill-Drak'thul-EU — The Lost Explorers
+
+Delších mezer: 0; celkem 0.0 s, z toho 0.0 s ve společných mezerách většiny DPS. Záznamů použití hlavních schopností: 128. To nejsou počty nezávislých stisků tlačítek.
+
+
+### Nahollou-Drak'thul-EU — The Lost Explorers
+
+Delších mezer: 2; celkem 8.3 s, z toho 0.0 s ve společných mezerách většiny DPS. Záznamů použití hlavních schopností: 127. To nejsou počty nezávislých stisků tlačítek.
+
+- 156.048–160.349 s: Hand of Gul'dan → Demonbolt; jiné vlastní schopnosti: žádné zaznamenané. Samotná mezera neprokazuje možnost útočit ani připravenou schopnost.
+- 173.068–177.117 s: Call Dreadstalkers → Demonbolt; jiné vlastní schopnosti: žádné zaznamenané. Samotná mezera neprokazuje možnost útočit ani připravenou schopnost.
+
+### Hrbaty-Drak'thul-EU — The Lost Explorers
+
+Delších mezer: 4; celkem 23.2 s, z toho 0.0 s ve společných mezerách většiny DPS. Záznamů použití hlavních schopností: 108. To nejsou počty nezávislých stisků tlačítek.
+
+- 87.255–97.226 s: Lava Burst → Lava Burst; jiné vlastní schopnosti: Earth Elemental, Ghost Wolf. Samotná mezera neprokazuje možnost útočit ani připravenou schopnost.
+- 38.072–42.727 s: Lava Burst → Flame Shock; jiné vlastní schopnosti: žádné zaznamenané. Samotná mezera neprokazuje možnost útočit ani připravenou schopnost.
+- 54.067–58.560 s: Flame Shock → Lava Burst; jiné vlastní schopnosti: žádné zaznamenané. Samotná mezera neprokazuje možnost útočit ani připravenou schopnost.
+
+### Íácekpwn-Drak'thul-EU — The Lost Explorers
+
+Delších mezer: 0; celkem 0.0 s, z toho 0.0 s ve společných mezerách většiny DPS. Záznamů použití hlavních schopností: 177. To nejsou počty nezávislých stisků tlačítek.
+
+
+### Odmin-Drak'thul-EU — The Lost Explorers
+
+Delších mezer: 5; celkem 35.0 s, z toho 0.0 s ve společných mezerách většiny DPS. Záznamů použití hlavních schopností: 153. To nejsou počty nezávislých stisků tlačítek.
+
+- 49.974–63.123 s: Death Sweep → Blade Dance; jiné vlastní schopnosti: Blur, Healthstone. Samotná mezera neprokazuje možnost útočit ani připravenou schopnost.
+- 167.829–174.995 s: Annihilation → Consuming Fire; jiné vlastní schopnosti: žádné zaznamenané. Samotná mezera neprokazuje možnost útočit ani připravenou schopnost.
+- 181.303–186.987 s: Annihilation → Blade Dance; jiné vlastní schopnosti: žádné zaznamenané. Samotná mezera neprokazuje možnost útočit ani připravenou schopnost.
+
+### Fobina-Drak'thul-EU — The Lost Explorers
+
+Delších mezer: 1; celkem 5.0 s, z toho 0.0 s ve společných mezerách většiny DPS. Záznamů použití hlavních schopností: 114. To nejsou počty nezávislých stisků tlačítek.
+
+- 181.303–186.275 s: Prescience → Eruption; jiné vlastní schopnosti: Hover. Samotná mezera neprokazuje možnost útočit ani připravenou schopnost.
+
+### Krokous-Drak'thul-EU — The Lost Explorers
+
+Delších mezer: 1; celkem 4.7 s, z toho 0.0 s ve společných mezerách většiny DPS. Záznamů použití hlavních schopností: 147. To nejsou počty nezávislých stisků tlačítek.
+
+- 49.487–54.175 s: Kill Command → Cobra Shot; jiné vlastní schopnosti: žádné zaznamenané. Samotná mezera neprokazuje možnost útočit ani připravenou schopnost.
+Čekání na zdroje může být správná součást rotace; tento součet jej neprohlašuje za chybu.
+
+### Iluneesama-Drak'thul-EU — The Lost Explorers
+
+Delších mezer: 2; celkem 12.4 s, z toho 0.0 s ve společných mezerách většiny DPS. Záznamů použití hlavních schopností: 159. To nejsou počty nezávislých stisků tlačítek.
+
+- 48.404–55.841 s: Judgment → Blade of Justice; jiné vlastní schopnosti: Crusading Strikes, Divine Steed. Samotná mezera neprokazuje možnost útočit ani připravenou schopnost.
+- 103.828–108.813 s: Final Verdict → Blade of Justice; jiné vlastní schopnosti: Crusading Strikes, Lay on Hands. Samotná mezera neprokazuje možnost útočit ani připravenou schopnost.
+- Záznam smrti 198.932 s; do konce killu bez doloženého návratu k vlastním akcím. Přesný čas přijetí oživení z toho neznáme.
+
+### Micaello-Drak'thul-EU — The Lost Explorers
+
+Delších mezer: 0; celkem 0.0 s, z toho 0.0 s ve společných mezerách většiny DPS. Záznamů použití hlavních schopností: 112. To nejsou počty nezávislých stisků tlačítek.
+
+Čekání na zdroje může být správná součást rotace; tento součet jej neprohlašuje za chybu.
+- Záznam smrti 71.344 s; další vlastní akce 139.713 s. Přesný čas přijetí oživení z toho neznáme.
+
+### Theila-Drak'thul-EU — The Lost Explorers
+
+Delších mezer: 5; celkem 42.9 s, z toho 0.0 s ve společných mezerách většiny DPS. Záznamů použití hlavních schopností: 109. To nejsou počty nezávislých stisků tlačítek.
+
+- 154.636–168.298 s: Wildfire Bomb → Kill Command; jiné vlastní schopnosti: Disgusting Fish, Harpoon. Samotná mezera neprokazuje možnost útočit ani připravenou schopnost.
+- 48.824–61.536 s: Kill Command → Wildfire Bomb; jiné vlastní schopnosti: Disgusting Fish, Survival of the Fittest. Samotná mezera neprokazuje možnost útočit ani připravenou schopnost.
+- 137.652–144.050 s: Kill Command → Kill Command; jiné vlastní schopnosti: žádné zaznamenané. Samotná mezera neprokazuje možnost útočit ani připravenou schopnost.
+Čekání na zdroje může být správná součást rotace; tento součet jej neprohlašuje za chybu.
+
+### Corneilia-Sylvanas-EU — The Lost Explorers
+
+Delších mezer: 1; celkem 4.5 s, z toho 0.0 s ve společných mezerách většiny DPS. Záznamů použití hlavních schopností: 134. To nejsou počty nezávislých stisků tlačítek.
+
+- 50.486–54.966 s: Arcane Barrage → Touch of the Magi; jiné vlastní schopnosti: žádné zaznamenané. Samotná mezera neprokazuje možnost útočit ani připravenou schopnost.
+
+### Këss-Drak'thul-EU — The Lost Explorers
+
+Delších mezer: 0; celkem 0.0 s, z toho 0.0 s ve společných mezerách většiny DPS. Záznamů použití hlavních schopností: 163. To nejsou počty nezávislých stisků tlačítek.
+
+
+### Vejr-Drak'thul-EU — The Lost Explorers
+
+Delších mezer: 3; celkem 16.5 s, z toho 0.0 s ve společných mezerách většiny DPS. Záznamů použití hlavních schopností: 132. To nejsou počty nezávislých stisků tlačítek.
+
+- 69.606–76.689 s: Death Coil → Scourge Strike; jiné vlastní schopnosti: žádné zaznamenané. Samotná mezera neprokazuje možnost útočit ani připravenou schopnost.
+- 15.625–20.421 s: Necrotic Coil → Festering Strike; jiné vlastní schopnosti: žádné zaznamenané. Samotná mezera neprokazuje možnost útočit ani připravenou schopnost.
+- 49.283–53.897 s: Dark Transformation → Outbreak; jiné vlastní schopnosti: žádné zaznamenané. Samotná mezera neprokazuje možnost útočit ani připravenou schopnost.
+
+### Greenfire-Drak'thul-EU — The Lost Explorers
+
+Delších mezer: 0; celkem 0.0 s, z toho 0.0 s ve společných mezerách většiny DPS. Záznamů použití hlavních schopností: 161. To nejsou počty nezávislých stisků tlačítek.
+
+
+### Kubéc-Drak'thul-EU — The Lost Explorers
+
+Delších mezer: 1; celkem 4.4 s, z toho 0.0 s ve společných mezerách většiny DPS. Záznamů použití hlavních schopností: 104. To nejsou počty nezávislých stisků tlačítek.
+
+- 0.000–4.358 s: začátek fightu → Tiger Palm; jiné vlastní schopnosti: Roll. Samotná mezera neprokazuje možnost útočit ani připravenou schopnost.
+Čekání na zdroje může být správná součást rotace; tento součet jej neprohlašuje za chybu.
+
+### Johnyhoudini-BurningBlade-EU — The Lost Explorers
+
+Delších mezer: 0; celkem 0.0 s, z toho 0.0 s ve společných mezerách většiny DPS. Záznamů použití hlavních schopností: 156. To nejsou počty nezávislých stisků tlačítek.
+
+
+### Galneryus-Drak'thul-EU — The Lost Explorers
+
+Delších mezer: 2; celkem 9.3 s, z toho 0.0 s ve společných mezerách většiny DPS. Záznamů použití hlavních schopností: 172. To nejsou počty nezávislých stisků tlačítek.
+
+- 190.701–195.427 s: Divine Storm → Avenging Wrath; jiné vlastní schopnosti: žádné zaznamenané. Samotná mezera neprokazuje možnost útočit ani připravenou schopnost.
+- 161.137–165.728 s: Divine Storm → Blade of Justice; jiné vlastní schopnosti: Crusading Strikes. Samotná mezera neprokazuje možnost útočit ani připravenou schopnost.
+
+### Kirill-Drak'thul-EU — Sszorak
+
+Delších mezer: 0; celkem 0.0 s, z toho 0.0 s ve společných mezerách většiny DPS. Záznamů použití hlavních schopností: 103. To nejsou počty nezávislých stisků tlačítek.
+
+- Záznam smrti 150.740 s; do konce killu bez doloženého návratu k vlastním akcím. Přesný čas přijetí oživení z toho neznáme.
+
+### Nahollou-Drak'thul-EU — Sszorak
+
+Delších mezer: 6; celkem 31.8 s, z toho 0.0 s ve společných mezerách většiny DPS. Záznamů použití hlavních schopností: 126. To nejsou počty nezávislých stisků tlačítek.
+
+- 97.363–107.023 s: Demonbolt → Shadow Bolt; jiné vlastní schopnosti: Dark Pact. Samotná mezera neprokazuje možnost útočit ani připravenou schopnost.
+- 211.406–216.050 s: Summon Demonic Tyrant → Shadow Bolt; jiné vlastní schopnosti: žádné zaznamenané. Samotná mezera neprokazuje možnost útočit ani připravenou schopnost.
+- 148.441–153.055 s: Demonbolt → Call Dreadstalkers; jiné vlastní schopnosti: žádné zaznamenané. Samotná mezera neprokazuje možnost útočit ani připravenou schopnost.
+
+### Íácekpwn-Drak'thul-EU — Sszorak
+
+Delších mezer: 3; celkem 25.6 s, z toho 0.0 s ve společných mezerách většiny DPS. Záznamů použití hlavních schopností: 173. To nejsou počty nezávislých stisků tlačítek.
+
+- 111.238–125.018 s: Mind Flay → Tentacle Slam; jiné vlastní schopnosti: Desperate Prayer, Shadowy Apparition. Samotná mezera neprokazuje možnost útočit ani připravenou schopnost.
+- 44.969–52.029 s: Mind Blast → Mind Flay; jiné vlastní schopnosti: Power Word: Shield. Samotná mezera neprokazuje možnost útočit ani připravenou schopnost.
+- 182.353–187.064 s: Shadow Word: Pain → Mind Flay; jiné vlastní schopnosti: Power Word: Shield. Samotná mezera neprokazuje možnost útočit ani připravenou schopnost.
+
+### Odmin-Drak'thul-EU — Sszorak
+
+Delších mezer: 0; celkem 0.0 s, z toho 0.0 s ve společných mezerách většiny DPS. Záznamů použití hlavních schopností: 211. To nejsou počty nezávislých stisků tlačítek.
+
+
+### Fobina-Drak'thul-EU — Sszorak
+
+Delších mezer: 3; celkem 20.0 s, z toho 0.0 s ve společných mezerách většiny DPS. Záznamů použití hlavních schopností: 121. To nejsou počty nezávislých stisků tlačítek.
+
+- 134.451–142.833 s: Prescience → Chrono Flames; jiné vlastní schopnosti: Hover. Samotná mezera neprokazuje možnost útočit ani připravenou schopnost.
+- 127.209–134.451 s: Prescience → Prescience; jiné vlastní schopnosti: žádné zaznamenané. Samotná mezera neprokazuje možnost útočit ani připravenou schopnost.
+- 113.979–118.315 s: Ebon Might → Prescience; jiné vlastní schopnosti: žádné zaznamenané. Samotná mezera neprokazuje možnost útočit ani připravenou schopnost.
+
+### Krokous-Drak'thul-EU — Sszorak
+
+Delších mezer: 0; celkem 0.0 s, z toho 0.0 s ve společných mezerách většiny DPS. Záznamů použití hlavních schopností: 169. To nejsou počty nezávislých stisků tlačítek.
+
+Čekání na zdroje může být správná součást rotace; tento součet jej neprohlašuje za chybu.
+
+### Iluneesama-Drak'thul-EU — Sszorak
+
+Delších mezer: 3; celkem 15.2 s, z toho 0.0 s ve společných mezerách většiny DPS. Záznamů použití hlavních schopností: 209. To nejsou počty nezávislých stisků tlačítek.
+
+- 110.213–116.260 s: Judgment → Judgment; jiné vlastní schopnosti: Cleanse Toxins, Crusading Strikes, Eternal Flame. Samotná mezera neprokazuje možnost útočit ani připravenou schopnost.
+- 51.340–56.126 s: Final Verdict → Final Verdict; jiné vlastní schopnosti: Crusading Strikes, Divine Shield, Divine Steed. Samotná mezera neprokazuje možnost útočit ani připravenou schopnost.
+- 184.476–188.861 s: Final Verdict → Judgment; jiné vlastní schopnosti: Crusading Strikes, Divine Protection, Healthstone, Silvermoon Health Potion. Samotná mezera neprokazuje možnost útočit ani připravenou schopnost.
+
+### Micaello-Drak'thul-EU — Sszorak
+
+Delších mezer: 2; celkem 10.4 s, z toho 0.0 s ve společných mezerách většiny DPS. Záznamů použití hlavních schopností: 178. To nejsou počty nezávislých stisků tlačítek.
+
+- 179.529–185.879 s: Kill Command → Kill Command; jiné vlastní schopnosti: Concentrated Silvermoon Health Potion, Dire Beast. Samotná mezera neprokazuje možnost útočit ani připravenou schopnost.
+- 97.159–101.198 s: Kill Command → Kill Command; jiné vlastní schopnosti: žádné zaznamenané. Samotná mezera neprokazuje možnost útočit ani připravenou schopnost.
+Čekání na zdroje může být správná součást rotace; tento součet jej neprohlašuje za chybu.
+
+### Theila-Drak'thul-EU — Sszorak
+
+Delších mezer: 1; celkem 4.5 s, z toho 0.0 s ve společných mezerách většiny DPS. Záznamů použití hlavních schopností: 155. To nejsou počty nezávislých stisků tlačítek.
+
+- 184.015–188.490 s: Kill Command → Wildfire Bomb; jiné vlastní schopnosti: žádné zaznamenané. Samotná mezera neprokazuje možnost útočit ani připravenou schopnost.
+Čekání na zdroje může být správná součást rotace; tento součet jej neprohlašuje za chybu.
+- Záznam smrti 111.058 s; další vlastní akce 111.938 s. Přesný čas přijetí oživení z toho neznáme.
+- Záznam smrti 205.412 s; další vlastní akce 205.692 s. Přesný čas přijetí oživení z toho neznáme.
+
+### Corneilia-Sylvanas-EU — Sszorak
+
+Delších mezer: 1; celkem 6.9 s, z toho 0.0 s ve společných mezerách většiny DPS. Záznamů použití hlavních schopností: 137. To nejsou počty nezávislých stisků tlačítek.
+
+- 190.871–197.801 s: Arcane Orb → Arcane Barrage; jiné vlastní schopnosti: Prismatic Barrier. Samotná mezera neprokazuje možnost útočit ani připravenou schopnost.
+
+### Këss-Drak'thul-EU — Sszorak
+
+Delších mezer: 0; celkem 0.0 s, z toho 0.0 s ve společných mezerách většiny DPS. Záznamů použití hlavních schopností: 178. To nejsou počty nezávislých stisků tlačítek.
+
+
+### Vejr-Drak'thul-EU — Sszorak
+
+Delších mezer: 0; celkem 0.0 s, z toho 0.0 s ve společných mezerách většiny DPS. Záznamů použití hlavních schopností: 166. To nejsou počty nezávislých stisků tlačítek.
+
+
+### Greenfire-Drak'thul-EU — Sszorak
+
+Delších mezer: 1; celkem 4.5 s, z toho 0.0 s ve společných mezerách většiny DPS. Záznamů použití hlavních schopností: 178. To nejsou počty nezávislých stisků tlačítek.
+
+- 229.304–233.790 s: Call Dreadstalkers → Demonbolt; jiné vlastní schopnosti: Burning Rush. Samotná mezera neprokazuje možnost útočit ani připravenou schopnost.
+
+### Kubéc-Drak'thul-EU — Sszorak
+
+Delších mezer: 0; celkem 0.0 s, z toho 0.0 s ve společných mezerách většiny DPS. Záznamů použití hlavních schopností: 160. To nejsou počty nezávislých stisků tlačítek.
+
+Čekání na zdroje může být správná součást rotace; tento součet jej neprohlašuje za chybu.
+
+### Johnyhoudini-BurningBlade-EU — Sszorak
+
+Delších mezer: 0; celkem 0.0 s, z toho 0.0 s ve společných mezerách většiny DPS. Záznamů použití hlavních schopností: 165. To nejsou počty nezávislých stisků tlačítek.
+
+
+### Galneryus-Drak'thul-EU — Sszorak
+
+Delších mezer: 0; celkem 0.0 s, z toho 0.0 s ve společných mezerách většiny DPS. Záznamů použití hlavních schopností: 221. To nejsou počty nezávislých stisků tlačítek.
+
 
 ### Kirill-Drak'thul-EU — Kith'ix
 
-Delších mezer: 2; celkem 10.2 s, z toho 0.0 s ve společných mezerách většiny DPS. Záznamů použití hlavních schopností: 165. To nejsou počty nezávislých stisků tlačítek.
+Delších mezer: 2; celkem 11.5 s, z toho 0.0 s ve společných mezerách většiny DPS. Záznamů použití hlavních schopností: 157. To nejsou počty nezávislých stisků tlačítek.
 
-WCL percentil 71; v item-level skupině 64; damage aktivita 99.2 %. Damage aktivita není vlastní castění. [WCL](https://www.warcraftlogs.com/reports/kTKBw7crFD4nydVY?fight=23&source=112&type=damage-done)
-
-- 139.519–145.079 s: Collapsing Star → Consume; jiné vlastní schopnosti: Soul Fragment. Samotná mezera neprokazuje možnost útočit ani připravenou schopnost.
-- 245.648–250.259 s: Soul Immolation → Consume; jiné vlastní schopnosti: Soul Fragment. Samotná mezera neprokazuje možnost útočit ani připravenou schopnost.
+- 150.407–157.693 s: Soul Immolation → Consume; jiné vlastní schopnosti: Soul Fragment. Samotná mezera neprokazuje možnost útočit ani připravenou schopnost.
+- 146.186–150.407 s: Reap → Soul Immolation; jiné vlastní schopnosti: Soul Fragment. Samotná mezera neprokazuje možnost útočit ani připravenou schopnost.
 
 ### Nahollou-Drak'thul-EU — Kith'ix
 
-Delších mezer: 4; celkem 30.9 s, z toho 8.1 s ve společných mezerách většiny DPS. Záznamů použití hlavních schopností: 155. To nejsou počty nezávislých stisků tlačítek.
+Delších mezer: 4; celkem 27.8 s, z toho 7.1 s ve společných mezerách většiny DPS. Záznamů použití hlavních schopností: 125. To nejsou počty nezávislých stisků tlačítek.
 
-WCL percentil 20; v item-level skupině 16; damage aktivita 96.9 %. Damage aktivita není vlastní castění. [WCL](https://www.warcraftlogs.com/reports/kTKBw7crFD4nydVY?fight=23&source=87&type=damage-done)
+- 31.646–40.272 s: Demonbolt → Call Dreadstalkers; jiné vlastní schopnosti: Burning Rush. Samotná mezera neprokazuje možnost útočit ani připravenou schopnost.
+- 127.799–133.278 s: Demonbolt → Shadow Bolt; jiné vlastní schopnosti: Blight of Tongues, Empowering Venom. Samotná mezera neprokazuje možnost útočit ani připravenou schopnost.
+- 244.853–249.217 s: Implosion → Hand of Gul'dan; jiné vlastní schopnosti: Dark Pact, Unending Resolve. Samotná mezera neprokazuje možnost útočit ani připravenou schopnost.
 
-- 229.436–237.270 s: Call Dreadstalkers → Demonbolt; jiné vlastní schopnosti: Light's Potential. Samotná mezera neprokazuje možnost útočit ani připravenou schopnost.
-- 143.548–150.265 s: Demonbolt → Ruination; jiné vlastní schopnosti: Burning Rush, Dark Pact. Samotná mezera neprokazuje možnost útočit ani připravenou schopnost.
-- 30.953–37.149 s: Implosion → Shadow Bolt; jiné vlastní schopnosti: Burning Rush. Samotná mezera neprokazuje možnost útočit ani připravenou schopnost.
-- Záznam smrti 262.454 s; do konce killu bez doloženého návratu k vlastním akcím. Přesný čas přijetí oživení z toho neznáme.
+### Íácekpwn-Drak'thul-EU — Kith'ix
+
+Delších mezer: 2; celkem 11.2 s, z toho 0.0 s ve společných mezerách většiny DPS. Záznamů použití hlavních schopností: 188. To nejsou počty nezávislých stisků tlačítek.
+
+- 143.623–149.231 s: Shadow Word: Madness → Void Volley; jiné vlastní schopnosti: Dispersion, Shadowy Apparition. Samotná mezera neprokazuje možnost útočit ani připravenou schopnost.
+- 30.629–36.203 s: Shadow Word: Madness → Tentacle Slam; jiné vlastní schopnosti: Angelic Feather, Power Word: Shield, Shadowy Apparition. Samotná mezera neprokazuje možnost útočit ani připravenou schopnost.
 
 ### Odmin-Drak'thul-EU — Kith'ix
 
-Delších mezer: 2; celkem 16.2 s, z toho 8.1 s ve společných mezerách většiny DPS. Záznamů použití hlavních schopností: 218. To nejsou počty nezávislých stisků tlačítek.
+Delších mezer: 3; celkem 19.5 s, z toho 7.1 s ve společných mezerách většiny DPS. Záznamů použití hlavních schopností: 198. To nejsou počty nezávislých stisků tlačítek.
 
-WCL percentil 47; v item-level skupině 37; damage aktivita 99.7 %. Damage aktivita není vlastní castění. [WCL](https://www.warcraftlogs.com/reports/kTKBw7crFD4nydVY?fight=23&source=79&type=damage-done)
-
-- 264.218–268.411 s: Felblade → konec killu; jiné vlastní schopnosti: Fel Rush. Samotná mezera neprokazuje možnost útočit ani připravenou schopnost.
-- 220.202–232.162 s: Chaos Strike → Eye Beam; jiné vlastní schopnosti: Immolation Aura. Samotná mezera neprokazuje možnost útočit ani připravenou schopnost.
+- 143.971–150.084 s: Blade Dance → Felblade; jiné vlastní schopnosti: Fel Rush, Felblade, Shattered Souls. Samotná mezera neprokazuje možnost útočit ani připravenou schopnost.
+- 139.142–143.971 s: Immolation Aura → Blade Dance; jiné vlastní schopnosti: žádné zaznamenané. Samotná mezera neprokazuje možnost útočit ani připravenou schopnost.
+- 208.217–216.767 s: Annihilation → Immolation Aura; jiné vlastní schopnosti: žádné zaznamenané. Samotná mezera neprokazuje možnost útočit ani připravenou schopnost.
+- Záznam smrti 247.822 s; do konce killu bez doloženého návratu k vlastním akcím. Přesný čas přijetí oživení z toho neznáme.
 
 ### Fobina-Drak'thul-EU — Kith'ix
 
-Delších mezer: 1; celkem 5.4 s, z toho 0.0 s ve společných mezerách většiny DPS. Záznamů použití hlavních schopností: 148. To nejsou počty nezávislých stisků tlačítek.
+Delších mezer: 1; celkem 9.3 s, z toho 7.1 s ve společných mezerách většiny DPS. Záznamů použití hlavních schopností: 147. To nejsou počty nezávislých stisků tlačítek.
 
-WCL percentil 24; v item-level skupině 30; damage aktivita 99.7 %. Damage aktivita není vlastní castění. [WCL](https://www.warcraftlogs.com/reports/kTKBw7crFD4nydVY?fight=23&source=3&type=damage-done)
+- 207.798–217.061 s: Prescience → Prescience; jiné vlastní schopnosti: žádné zaznamenané. Samotná mezera neprokazuje možnost útočit ani připravenou schopnost.
 
-- 89.316–94.697 s: Chrono Flames → Chrono Flames; jiné vlastní schopnosti: Obsidian Scales. Samotná mezera neprokazuje možnost útočit ani připravenou schopnost.
+### Krokous-Drak'thul-EU — Kith'ix
 
-### Rhínö-Drak'thul-EU — Kith'ix
+Delších mezer: 2; celkem 14.3 s, z toho 7.1 s ve společných mezerách většiny DPS. Záznamů použití hlavních schopností: 179. To nejsou počty nezávislých stisků tlačítek.
 
-Delších mezer: 1; celkem 8.7 s, z toho 8.1 s ve společných mezerách většiny DPS. Záznamů použití hlavních schopností: 234. To nejsou počty nezávislých stisků tlačítek.
-
-WCL percentil 90; v item-level skupině 93; damage aktivita 99.8 %. Damage aktivita není vlastní castění. [WCL](https://www.warcraftlogs.com/reports/kTKBw7crFD4nydVY?fight=23&source=27&type=damage-done)
-
-- 220.036–228.693 s: Starsurge → Sunfire; jiné vlastní schopnosti: žádné zaznamenané. Samotná mezera neprokazuje možnost útočit ani připravenou schopnost.
-
-### Slejhy-Drak'thul-EU — Kith'ix
-
-Delších mezer: 9; celkem 58.5 s, z toho 8.1 s ve společných mezerách většiny DPS. Záznamů použití hlavních schopností: 194. To nejsou počty nezávislých stisků tlačítek.
-
-WCL percentil 56; v item-level skupině 43; damage aktivita 99.9 %. Damage aktivita není vlastní castění. [WCL](https://www.warcraftlogs.com/reports/kTKBw7crFD4nydVY?fight=23&source=6&type=damage-done)
-
-- 71.101–79.135 s: Envenom → Mutilate; jiné vlastní schopnosti: Cloak of Shadows, Sprint. Samotná mezera neprokazuje možnost útočit ani připravenou schopnost.
-- 150.744–158.464 s: Crimson Tempest → Mutilate; jiné vlastní schopnosti: žádné zaznamenané. Samotná mezera neprokazuje možnost útočit ani připravenou schopnost.
-- 140.231–147.540 s: Crimson Tempest → Garrote; jiné vlastní schopnosti: Feint, Sprint. Samotná mezera neprokazuje možnost útočit ani připravenou schopnost.
+- 139.782–145.484 s: Kill Command → Kill Command; jiné vlastní schopnosti: Dire Beast, Disengage. Samotná mezera neprokazuje možnost útočit ani připravenou schopnost.
+- 207.762–216.363 s: Barbed Shot → Kill Command; jiné vlastní schopnosti: žádné zaznamenané. Samotná mezera neprokazuje možnost útočit ani připravenou schopnost.
 Čekání na zdroje může být správná součást rotace; tento součet jej neprohlašuje za chybu.
+- Záznam smrti 255.752 s; do konce killu bez doloženého návratu k vlastním akcím. Přesný čas přijetí oživení z toho neznáme.
 
-### Iacek-Drak'thul-EU — Kith'ix
+### Iluneesama-Drak'thul-EU — Kith'ix
 
-Delších mezer: 1; celkem 7.4 s, z toho 7.4 s ve společných mezerách většiny DPS. Záznamů použití hlavních schopností: 174. To nejsou počty nezávislých stisků tlačítek.
+Delších mezer: 1; celkem 9.8 s, z toho 7.1 s ve společných mezerách většiny DPS. Záznamů použití hlavních schopností: 212. To nejsou počty nezávislých stisků tlačítek.
 
-WCL percentil 29; v item-level skupině 45; damage aktivita 99.7 %. Damage aktivita není vlastní castění. [WCL](https://www.warcraftlogs.com/reports/kTKBw7crFD4nydVY?fight=23&source=158&type=damage-done)
-
-- 220.431–227.865 s: Arcane Barrage → Arcane Missiles; jiné vlastní schopnosti: žádné zaznamenané. Samotná mezera neprokazuje možnost útočit ani připravenou schopnost.
-
-### Omniblue-Drak'thul-EU — Kith'ix
-
-Delších mezer: 3; celkem 19.7 s, z toho 7.6 s ve společných mezerách většiny DPS. Záznamů použití hlavních schopností: 180. To nejsou počty nezávislých stisků tlačítek.
-
-WCL percentil 51; v item-level skupině 46; damage aktivita 99.3 %. Damage aktivita není vlastní castění. [WCL](https://www.warcraftlogs.com/reports/kTKBw7crFD4nydVY?fight=23&source=15&type=damage-done)
-
-- 205.579–212.162 s: Void Torrent → Void Blast; jiné vlastní schopnosti: Dispersion, Shadowy Apparition. Samotná mezera neprokazuje možnost útočit ani připravenou schopnost.
-- 139.238–144.179 s: Void Blast → Mind Flay; jiné vlastní schopnosti: Power Word: Shield, Shadowy Apparition. Samotná mezera neprokazuje možnost útočit ani připravenou schopnost.
-- 220.735–228.912 s: Mind Flay → Tentacle Slam; jiné vlastní schopnosti: Fade, Shadowy Apparition. Samotná mezera neprokazuje možnost útočit ani připravenou schopnost.
-
-### Theila-Drak'thul-EU — Kith'ix
-
-Delších mezer: 4; celkem 29.3 s, z toho 8.1 s ve společných mezerách většiny DPS. Záznamů použití hlavních schopností: 170. To nejsou počty nezávislých stisků tlačítek.
-
-WCL percentil 54; v item-level skupině 27; damage aktivita 99.7 %. Damage aktivita není vlastní castění. [WCL](https://www.warcraftlogs.com/reports/kTKBw7crFD4nydVY?fight=23&source=2&type=damage-done)
-
-- 28.640–36.193 s: Kill Command → Wildfire Bomb; jiné vlastní schopnosti: Aspect of the Cheetah, Disengage. Samotná mezera neprokazuje možnost útočit ani připravenou schopnost.
-- 140.155–147.398 s: Raptor Swipe → Raptor Strike; jiné vlastní schopnosti: Disengage, Harpoon. Samotná mezera neprokazuje možnost útočit ani připravenou schopnost.
-- 150.070–156.168 s: Raptor Swipe → Kill Command; jiné vlastní schopnosti: žádné zaznamenané. Samotná mezera neprokazuje možnost útočit ani připravenou schopnost.
-Čekání na zdroje může být správná součást rotace; tento součet jej neprohlašuje za chybu.
+- 206.409–216.202 s: Judgment → Avenging Wrath; jiné vlastní schopnosti: Crusading Strikes, Eternal Flame. Samotná mezera neprokazuje možnost útočit ani připravenou schopnost.
+- Záznam smrti 258.493 s; do konce killu bez doloženého návratu k vlastním akcím. Přesný čas přijetí oživení z toho neznáme.
 
 ### Micaello-Drak'thul-EU — Kith'ix
 
-Delších mezer: 4; celkem 22.8 s, z toho 7.6 s ve společných mezerách většiny DPS. Záznamů použití hlavních schopností: 183. To nejsou počty nezávislých stisků tlačítek.
+Delších mezer: 0; celkem 0.0 s, z toho 0.0 s ve společných mezerách většiny DPS. Záznamů použití hlavních schopností: 78. To nejsou počty nezávislých stisků tlačítek.
 
-WCL percentil 50; v item-level skupině 63; damage aktivita 99.6 %. Damage aktivita není vlastní castění. [WCL](https://www.warcraftlogs.com/reports/kTKBw7crFD4nydVY?fight=23&source=18&type=damage-done)
+Čekání na zdroje může být správná součást rotace; tento součet jej neprohlašuje za chybu.
+- Záznam smrti 94.069 s; do konce killu bez doloženého návratu k vlastním akcím. Přesný čas přijetí oživení z toho neznáme.
 
-- 138.754–144.633 s: Barbed Shot → Kill Command; jiné vlastní schopnosti: Disengage. Samotná mezera neprokazuje možnost útočit ani připravenou schopnost.
-- 33.611–38.806 s: Bestial Wrath → Cobra Shot; jiné vlastní schopnosti: žádné zaznamenané. Samotná mezera neprokazuje možnost útočit ani připravenou schopnost.
-- 69.786–73.890 s: Kill Command → Kill Command; jiné vlastní schopnosti: žádné zaznamenané. Samotná mezera neprokazuje možnost útočit ani připravenou schopnost.
+### Theila-Drak'thul-EU — Kith'ix
+
+Delších mezer: 2; celkem 12.7 s, z toho 7.1 s ve společných mezerách většiny DPS. Záznamů použití hlavních schopností: 160. To nejsou počty nezávislých stisků tlačítek.
+
+- 30.540–35.787 s: Kill Command → Kill Command; jiné vlastní schopnosti: Aspect of the Cheetah. Samotná mezera neprokazuje možnost útočit ani připravenou schopnost.
+- 208.424–215.855 s: Raptor Strike → Kill Command; jiné vlastní schopnosti: žádné zaznamenané. Samotná mezera neprokazuje možnost útočit ani připravenou schopnost.
 Čekání na zdroje může být správná součást rotace; tento součet jej neprohlašuje za chybu.
 
 ### Corneilia-Sylvanas-EU — Kith'ix
 
-Delších mezer: 4; celkem 23.8 s, z toho 8.1 s ve společných mezerách většiny DPS. Záznamů použití hlavních schopností: 157. To nejsou počty nezávislých stisků tlačítek.
+Delších mezer: 1; celkem 6.4 s, z toho 0.0 s ve společných mezerách většiny DPS. Záznamů použití hlavních schopností: 146. To nejsou počty nezávislých stisků tlačítek.
 
-WCL percentil 16; v item-level skupině 44; damage aktivita 99.5 %. Damage aktivita není vlastní castění. [WCL](https://www.warcraftlogs.com/reports/kTKBw7crFD4nydVY?fight=23&source=9&type=damage-done)
+- 127.060–133.463 s: Arcane Barrage → Arcane Missiles; jiné vlastní schopnosti: Frost Nova. Samotná mezera neprokazuje možnost útočit ani připravenou schopnost.
+- Záznam smrti 257.203 s; do konce killu bez doloženého návratu k vlastním akcím. Přesný čas přijetí oživení z toho neznáme.
 
-- 31.509–37.171 s: Arcane Barrage → Arcane Barrage; jiné vlastní schopnosti: žádné zaznamenané. Samotná mezera neprokazuje možnost útočit ani připravenou schopnost.
-- 118.603–123.980 s: Arcane Barrage → Arcane Missiles; jiné vlastní schopnosti: Shimmer. Samotná mezera neprokazuje možnost útočit ani připravenou schopnost.
-- 139.917–144.504 s: Arcane Barrage → Prismatic Bolt; jiné vlastní schopnosti: žádné zaznamenané. Samotná mezera neprokazuje možnost útočit ani připravenou schopnost.
+### Këss-Drak'thul-EU — Kith'ix
+
+Delších mezer: 1; celkem 6.9 s, z toho 0.0 s ve společných mezerách většiny DPS. Záznamů použití hlavních schopností: 169. To nejsou počty nezávislých stisků tlačítek.
+
+- 42.323–49.245 s: Arcane Barrage → Prismatic Bolt; jiné vlastní schopnosti: žádné zaznamenané. Samotná mezera neprokazuje možnost útočit ani připravenou schopnost.
+- Záznam smrti 249.071 s; do konce killu bez doloženého návratu k vlastním akcím. Přesný čas přijetí oživení z toho neznáme.
 
 ### Vejr-Drak'thul-EU — Kith'ix
 
-Delších mezer: 5; celkem 35.9 s, z toho 8.1 s ve společných mezerách většiny DPS. Záznamů použití hlavních schopností: 163. To nejsou počty nezávislých stisků tlačítek.
+Delších mezer: 3; celkem 17.7 s, z toho 7.1 s ve společných mezerách většiny DPS. Záznamů použití hlavních schopností: 169. To nejsou počty nezávislých stisků tlačítek.
 
-WCL percentil 18; v item-level skupině 20; damage aktivita 99.0 %. Damage aktivita není vlastní castění. [WCL](https://www.warcraftlogs.com/reports/kTKBw7crFD4nydVY?fight=23&source=34&type=damage-done)
-
-- 181.791–190.422 s: Scourge Strike → Army of the Dead; jiné vlastní schopnosti: žádné zaznamenané. Samotná mezera neprokazuje možnost útočit ani připravenou schopnost.
-- 139.490–147.352 s: Soul Reaper → Outbreak; jiné vlastní schopnosti: Death Charge. Samotná mezera neprokazuje možnost útočit ani připravenou schopnost.
-- 55.292–59.934 s: Death Coil → Soul Reaper; jiné vlastní schopnosti: žádné zaznamenané. Samotná mezera neprokazuje možnost útočit ani připravenou schopnost.
+- 134.396–139.647 s: Outbreak → Outbreak; jiné vlastní schopnosti: Blood Fury, Death Charge. Samotná mezera neprokazuje možnost útočit ani připravenou schopnost.
+- 248.271–252.341 s: Death Coil → Death Coil; jiné vlastní schopnosti: žádné zaznamenané. Samotná mezera neprokazuje možnost útočit ani připravenou schopnost.
+- 207.451–215.810 s: Scourge Strike → Scourge Strike; jiné vlastní schopnosti: žádné zaznamenané. Samotná mezera neprokazuje možnost útočit ani připravenou schopnost.
+- Záznam smrti 258.208 s; do konce killu bez doloženého návratu k vlastním akcím. Přesný čas přijetí oživení z toho neznáme.
 
 ### Johnyhoudini-BurningBlade-EU — Kith'ix
 
-Delších mezer: 0; celkem 0.0 s, z toho 0.0 s ve společných mezerách většiny DPS. Záznamů použití hlavních schopností: 188. To nejsou počty nezávislých stisků tlačítek.
+Delších mezer: 0; celkem 0.0 s, z toho 0.0 s ve společných mezerách většiny DPS. Záznamů použití hlavních schopností: 72. To nejsou počty nezávislých stisků tlačítek.
 
-WCL percentil 59; v item-level skupině 80; damage aktivita 99.6 %. Damage aktivita není vlastní castění. [WCL](https://www.warcraftlogs.com/reports/kTKBw7crFD4nydVY?fight=23&source=23&type=damage-done)
-
+- Záznam smrti 99.459 s; do konce killu bez doloženého návratu k vlastním akcím. Přesný čas přijetí oživení z toho neznáme.
 
 ### Kubéc-Drak'thul-EU — Kith'ix
 
-Delších mezer: 3; celkem 21.8 s, z toho 8.1 s ve společných mezerách většiny DPS. Záznamů použití hlavních schopností: 163. To nejsou počty nezávislých stisků tlačítek.
+Delších mezer: 4; celkem 21.9 s, z toho 7.1 s ve společných mezerách většiny DPS. Záznamů použití hlavních schopností: 167. To nejsou počty nezávislých stisků tlačítek.
 
-WCL percentil 24; v item-level skupině 43; damage aktivita 99.4 %. Damage aktivita není vlastní castění. [WCL](https://www.warcraftlogs.com/reports/kTKBw7crFD4nydVY?fight=23&source=21&type=damage-done)
-
-- 28.173–34.948 s: Touch of Death → Spinning Crane Kick; jiné vlastní schopnosti: Flying Serpent Kick. Samotná mezera neprokazuje možnost útočit ani připravenou schopnost.
-- 243.577–250.036 s: Fists of Fury → Tiger Palm; jiné vlastní schopnosti: Fortifying Brew. Samotná mezera neprokazuje možnost útočit ani připravenou schopnost.
-- 220.164–228.717 s: Rushing Wind Kick → Tiger Palm; jiné vlastní schopnosti: žádné zaznamenané. Samotná mezera neprokazuje možnost útočit ani připravenou schopnost.
+- 148.591–154.923 s: Touch of Death → Tiger Palm; jiné vlastní schopnosti: žádné zaznamenané. Samotná mezera neprokazuje možnost útočit ani připravenou schopnost.
+- 30.103–34.407 s: Blackout Kick → Spinning Crane Kick; jiné vlastní schopnosti: žádné zaznamenané. Samotná mezera neprokazuje možnost útočit ani připravenou schopnost.
+- 140.614–144.803 s: Blackout Kick → Spinning Crane Kick; jiné vlastní schopnosti: Roll. Samotná mezera neprokazuje možnost útočit ani připravenou schopnost.
 Čekání na zdroje může být správná součást rotace; tento součet jej neprohlašuje za chybu.
+- Záznam smrti 256.000 s; do konce killu bez doloženého návratu k vlastním akcím. Přesný čas přijetí oživení z toho neznáme.
 
 ### Galneryus-Drak'thul-EU — Kith'ix
 
-Delších mezer: 2; celkem 13.6 s, z toho 8.0 s ve společných mezerách většiny DPS. Záznamů použití hlavních schopností: 240. To nejsou počty nezávislých stisků tlačítek.
+Delších mezer: 2; celkem 17.2 s, z toho 7.1 s ve společných mezerách většiny DPS. Záznamů použití hlavních schopností: 221. To nejsou počty nezávislých stisků tlačítek.
 
-WCL percentil 93; v item-level skupině 82; damage aktivita 99.8 %. Damage aktivita není vlastní castění. [WCL](https://www.warcraftlogs.com/reports/kTKBw7crFD4nydVY?fight=23&source=8&type=damage-done)
-
-- 140.539–145.627 s: Divine Storm → Blade of Justice; jiné vlastní schopnosti: Divine Shield, Divine Steed. Samotná mezera neprokazuje možnost útočit ani připravenou schopnost.
-- 219.730–228.199 s: Final Verdict → Final Verdict; jiné vlastní schopnosti: Crusading Strikes. Samotná mezera neprokazuje možnost útočit ani připravenou schopnost.
-
-### Kirill-Drak'thul-EU — Entombed Sentinels
-
-Delších mezer: 2; celkem 16.3 s, z toho 0.0 s ve společných mezerách většiny DPS. Záznamů použití hlavních schopností: 187. To nejsou počty nezávislých stisků tlačítek.
-
-WCL percentil 58; v item-level skupině 34; damage aktivita 99.7 %. Damage aktivita není vlastní castění. [WCL](https://www.warcraftlogs.com/reports/kTKBw7crFD4nydVY?fight=30&source=112&type=damage-done)
-
-- 167.032–177.535 s: Vengeful Retreat → Soul Immolation; jiné vlastní schopnosti: Blur, Darkness, Soul Fragment. Samotná mezera neprokazuje možnost útočit ani připravenou schopnost.
-- 177.535–183.283 s: Soul Immolation → Consume; jiné vlastní schopnosti: Soul Fragment. Samotná mezera neprokazuje možnost útočit ani připravenou schopnost.
-
-### Nahollou-Drak'thul-EU — Entombed Sentinels
-
-Delších mezer: 1; celkem 4.3 s, z toho 0.0 s ve společných mezerách většiny DPS. Záznamů použití hlavních schopností: 189. To nejsou počty nezávislých stisků tlačítek.
-
-WCL percentil 49; v item-level skupině 27; damage aktivita 99.7 %. Damage aktivita není vlastní castění. [WCL](https://www.warcraftlogs.com/reports/kTKBw7crFD4nydVY?fight=30&source=87&type=damage-done)
-
-- 47.576–51.922 s: Implosion → Shadow Bolt; jiné vlastní schopnosti: žádné zaznamenané. Samotná mezera neprokazuje možnost útočit ani připravenou schopnost.
-
-### Íácekpwn-Drak'thul-EU — Entombed Sentinels
-
-Delších mezer: 2; celkem 9.6 s, z toho 0.0 s ve společných mezerách většiny DPS. Záznamů použití hlavních schopností: 236. To nejsou počty nezávislých stisků tlačítek.
-
-WCL percentil 86; v item-level skupině 82; damage aktivita 99.9 %. Damage aktivita není vlastní castění. [WCL](https://www.warcraftlogs.com/reports/kTKBw7crFD4nydVY?fight=30&source=84&type=damage-done)
-
-- 262.982–267.841 s: Halo → Tentacle Slam; jiné vlastní schopnosti: Angelic Feather. Samotná mezera neprokazuje možnost útočit ani připravenou schopnost.
-- 159.494–164.265 s: Tentacle Slam → Shadow Word: Madness; jiné vlastní schopnosti: Shadowy Apparition. Samotná mezera neprokazuje možnost útočit ani připravenou schopnost.
-
-### Hrbaty-Drak'thul-EU — Entombed Sentinels
-
-Delších mezer: 1; celkem 13.4 s, z toho 0.0 s ve společných mezerách většiny DPS. Záznamů použití hlavních schopností: 191. To nejsou počty nezávislých stisků tlačítek.
-
-WCL percentil 62; v item-level skupině 85; damage aktivita 99.2 %. Damage aktivita není vlastní castění. [WCL](https://www.warcraftlogs.com/reports/kTKBw7crFD4nydVY?fight=30&source=33&type=damage-done)
-
-- 150.823–164.176 s: Lava Burst → Flame Shock; jiné vlastní schopnosti: Ghost Wolf. Samotná mezera neprokazuje možnost útočit ani připravenou schopnost.
-
-### Odmin-Drak'thul-EU — Entombed Sentinels
-
-Delších mezer: 4; celkem 32.5 s, z toho 0.0 s ve společných mezerách většiny DPS. Záznamů použití hlavních schopností: 234. To nejsou počty nezávislých stisků tlačítek.
-
-WCL percentil 59; v item-level skupině 39; damage aktivita 98.7 %. Damage aktivita není vlastní castění. [WCL](https://www.warcraftlogs.com/reports/kTKBw7crFD4nydVY?fight=30&source=79&type=damage-done)
-
-- 149.273–160.641 s: Vengeful Retreat → Felblade; jiné vlastní schopnosti: žádné zaznamenané. Samotná mezera neprokazuje možnost útočit ani připravenou schopnost.
-- 254.777–262.460 s: Immolation Aura → Blade Dance; jiné vlastní schopnosti: žádné zaznamenané. Samotná mezera neprokazuje možnost útočit ani připravenou schopnost.
-- 45.041–52.192 s: Blade Dance → Chaos Strike; jiné vlastní schopnosti: žádné zaznamenané. Samotná mezera neprokazuje možnost útočit ani připravenou schopnost.
-
-### Fobina-Drak'thul-EU — Entombed Sentinels
-
-Delších mezer: 1; celkem 5.5 s, z toho 0.0 s ve společných mezerách většiny DPS. Záznamů použití hlavních schopností: 181. To nejsou počty nezávislých stisků tlačítek.
-
-WCL percentil 62; v item-level skupině 64; damage aktivita 99.4 %. Damage aktivita není vlastní castění. [WCL](https://www.warcraftlogs.com/reports/kTKBw7crFD4nydVY?fight=30&source=3&type=damage-done)
-
-- 54.345–59.800 s: Prescience → Eruption; jiné vlastní schopnosti: žádné zaznamenané. Samotná mezera neprokazuje možnost útočit ani připravenou schopnost.
-
-### Rhínö-Drak'thul-EU — Entombed Sentinels
-
-Delších mezer: 2; celkem 8.9 s, z toho 0.0 s ve společných mezerách většiny DPS. Záznamů použití hlavních schopností: 241. To nejsou počty nezávislých stisků tlačítek.
-
-WCL percentil 93; v item-level skupině 93; damage aktivita 99.9 %. Damage aktivita není vlastní castění. [WCL](https://www.warcraftlogs.com/reports/kTKBw7crFD4nydVY?fight=30&source=27&type=damage-done)
-
-- 48.643–53.384 s: Sunfire → Starfall; jiné vlastní schopnosti: žádné zaznamenané. Samotná mezera neprokazuje možnost útočit ani připravenou schopnost.
-- 265.886–269.999 s: Sunfire → Lunar Eclipse; jiné vlastní schopnosti: Barkskin. Samotná mezera neprokazuje možnost útočit ani připravenou schopnost.
-
-### Slejhy-Drak'thul-EU — Entombed Sentinels
-
-Delších mezer: 5; celkem 41.2 s, z toho 0.0 s ve společných mezerách většiny DPS. Záznamů použití hlavních schopností: 222. To nejsou počty nezávislých stisků tlačítek.
-
-WCL percentil 80; v item-level skupině 62; damage aktivita 99.9 %. Damage aktivita není vlastní castění. [WCL](https://www.warcraftlogs.com/reports/kTKBw7crFD4nydVY?fight=30&source=6&type=damage-done)
-
-- 253.258–266.916 s: Envenom → Garrote; jiné vlastní schopnosti: žádné zaznamenané. Samotná mezera neprokazuje možnost útočit ani připravenou schopnost.
-- 44.649–55.187 s: Envenom → Mutilate; jiné vlastní schopnosti: Fatebound Coin (Tails), Sprint, Tricks of the Trade. Samotná mezera neprokazuje možnost útočit ani připravenou schopnost.
-- 149.373–156.461 s: Mutilate → Mutilate; jiné vlastní schopnosti: Mutilate. Samotná mezera neprokazuje možnost útočit ani připravenou schopnost.
-Čekání na zdroje může být správná součást rotace; tento součet jej neprohlašuje za chybu.
-
-### Omniblue-Drak'thul-EU — Entombed Sentinels
-
-Delších mezer: 6; celkem 43.3 s, z toho 0.0 s ve společných mezerách většiny DPS. Záznamů použití hlavních schopností: 198. To nejsou počty nezávislých stisků tlačítek.
-
-WCL percentil 58; v item-level skupině 16; damage aktivita 99.6 %. Damage aktivita není vlastní castění. [WCL](https://www.warcraftlogs.com/reports/kTKBw7crFD4nydVY?fight=30&source=15&type=damage-done)
-
-- 255.193–265.842 s: Mind Flay → Mind Blast; jiné vlastní schopnosti: Power Word: Shield, Shadowy Apparition. Samotná mezera neprokazuje možnost útočit ani připravenou schopnost.
-- 149.609–159.566 s: Mind Blast → Tentacle Slam; jiné vlastní schopnosti: Power Word: Shield, Shadowy Apparition. Samotná mezera neprokazuje možnost útočit ani připravenou schopnost.
-- 189.634–196.937 s: Void Volley → Mind Blast; jiné vlastní schopnosti: Dispersion, Shadowy Apparition. Samotná mezera neprokazuje možnost útočit ani připravenou schopnost.
-
-### Theila-Drak'thul-EU — Entombed Sentinels
-
-Delších mezer: 1; celkem 7.3 s, z toho 0.0 s ve společných mezerách většiny DPS. Záznamů použití hlavních schopností: 203. To nejsou počty nezávislých stisků tlačítek.
-
-WCL percentil 72; v item-level skupině 26; damage aktivita 99.3 %. Damage aktivita není vlastní castění. [WCL](https://www.warcraftlogs.com/reports/kTKBw7crFD4nydVY?fight=30&source=2&type=damage-done)
-
-- 155.625–162.974 s: Kill Command → Wildfire Bomb; jiné vlastní schopnosti: žádné zaznamenané. Samotná mezera neprokazuje možnost útočit ani připravenou schopnost.
-Čekání na zdroje může být správná součást rotace; tento součet jej neprohlašuje za chybu.
-
-### Micaello-Drak'thul-EU — Entombed Sentinels
-
-Delších mezer: 0; celkem 0.0 s, z toho 0.0 s ve společných mezerách většiny DPS. Záznamů použití hlavních schopností: 218. To nejsou počty nezávislých stisků tlačítek.
-
-WCL percentil 38; v item-level skupině 40; damage aktivita 99.6 %. Damage aktivita není vlastní castění. [WCL](https://www.warcraftlogs.com/reports/kTKBw7crFD4nydVY?fight=30&source=18&type=damage-done)
-
-Čekání na zdroje může být správná součást rotace; tento součet jej neprohlašuje za chybu.
-
-### Corneilia-Sylvanas-EU — Entombed Sentinels
-
-Delších mezer: 2; celkem 17.3 s, z toho 0.0 s ve společných mezerách většiny DPS. Záznamů použití hlavních schopností: 169. To nejsou počty nezávislých stisků tlačítek.
-
-WCL percentil 47; v item-level skupině 85; damage aktivita 91.8 %. Damage aktivita není vlastní castění. [WCL](https://www.warcraftlogs.com/reports/kTKBw7crFD4nydVY?fight=30&source=9&type=damage-done)
-
-- 149.227–161.588 s: Arcane Barrage → Prismatic Bolt; jiné vlastní schopnosti: žádné zaznamenané. Samotná mezera neprokazuje možnost útočit ani připravenou schopnost.
-- 79.326–84.307 s: Arcane Barrage → Prismatic Bolt; jiné vlastní schopnosti: Ice Cold, Prismatic Barrier. Samotná mezera neprokazuje možnost útočit ani připravenou schopnost.
-
-### Vejr-Drak'thul-EU — Entombed Sentinels
-
-Delších mezer: 5; celkem 45.9 s, z toho 0.0 s ve společných mezerách většiny DPS. Záznamů použití hlavních schopností: 186. To nejsou počty nezávislých stisků tlačítek.
-
-WCL percentil 39; v item-level skupině 44; damage aktivita 98.9 %. Damage aktivita není vlastní castění. [WCL](https://www.warcraftlogs.com/reports/kTKBw7crFD4nydVY?fight=30&source=34&type=damage-done)
-
-- 46.011–60.456 s: Scourge Strike → Outbreak; jiné vlastní schopnosti: žádné zaznamenané. Samotná mezera neprokazuje možnost útočit ani připravenou schopnost.
-- 156.912–167.501 s: Outbreak → Outbreak; jiné vlastní schopnosti: žádné zaznamenané. Samotná mezera neprokazuje možnost útočit ani připravenou schopnost.
-- 253.285–262.611 s: Death Coil → Outbreak; jiné vlastní schopnosti: žádné zaznamenané. Samotná mezera neprokazuje možnost útočit ani připravenou schopnost.
-
-### Kubéc-Drak'thul-EU — Entombed Sentinels
-
-Delších mezer: 2; celkem 10.2 s, z toho 0.0 s ve společných mezerách většiny DPS. Záznamů použití hlavních schopností: 184. To nejsou počty nezávislých stisků tlačítek.
-
-WCL percentil 28; v item-level skupině 32; damage aktivita 99.4 %. Damage aktivita není vlastní castění. [WCL](https://www.warcraftlogs.com/reports/kTKBw7crFD4nydVY?fight=30&source=21&type=damage-done)
-
-- 162.871–168.965 s: Tiger Palm → Tiger Palm; jiné vlastní schopnosti: žádné zaznamenané. Samotná mezera neprokazuje možnost útočit ani připravenou schopnost.
-- 111.411–115.560 s: Rising Sun Kick → Tiger Palm; jiné vlastní schopnosti: Concentrated Silvermoon Health Potion, Healthstone, Tiger's Lust. Samotná mezera neprokazuje možnost útočit ani připravenou schopnost.
-Čekání na zdroje může být správná součást rotace; tento součet jej neprohlašuje za chybu.
-
-### Johnyhoudini-BurningBlade-EU — Entombed Sentinels
-
-Delších mezer: 1; celkem 4.7 s, z toho 0.0 s ve společných mezerách většiny DPS. Záznamů použití hlavních schopností: 212. To nejsou počty nezávislých stisků tlačítek.
-
-WCL percentil 61; v item-level skupině 76; damage aktivita 99.7 %. Damage aktivita není vlastní castění. [WCL](https://www.warcraftlogs.com/reports/kTKBw7crFD4nydVY?fight=30&source=23&type=damage-done)
-
-- 261.182–265.908 s: Arcane Barrage → Arcane Blast; jiné vlastní schopnosti: žádné zaznamenané. Samotná mezera neprokazuje možnost útočit ani připravenou schopnost.
-
-### Galneryus-Drak'thul-EU — Entombed Sentinels
-
-Delších mezer: 4; celkem 26.4 s, z toho 0.0 s ve společných mezerách většiny DPS. Záznamů použití hlavních schopností: 261. To nejsou počty nezávislých stisků tlačítek.
-
-WCL percentil 99; v item-level skupině 96; damage aktivita 99.8 %. Damage aktivita není vlastní castění. [WCL](https://www.warcraftlogs.com/reports/kTKBw7crFD4nydVY?fight=30&source=8&type=damage-done)
-
-- 43.380–54.345 s: Final Verdict → Judgment; jiné vlastní schopnosti: Crusading Strikes. Samotná mezera neprokazuje možnost útočit ani připravenou schopnost.
-- 155.626–162.064 s: Final Verdict → Judgment; jiné vlastní schopnosti: Divine Steed. Samotná mezera neprokazuje možnost útočit ani připravenou schopnost.
-- 253.896–258.771 s: Judgment → Judgment; jiné vlastní schopnosti: Divine Steed. Samotná mezera neprokazuje možnost útočit ani připravenou schopnost.
-
-### Kirill-Drak'thul-EU — Vashnik the Malignant
-
-Delších mezer: 0; celkem 0.0 s, z toho 0.0 s ve společných mezerách většiny DPS. Záznamů použití hlavních schopností: 170. To nejsou počty nezávislých stisků tlačítek.
-
-WCL percentil 81; v item-level skupině 71; damage aktivita 99.5 %. Damage aktivita není vlastní castění. [WCL](https://www.warcraftlogs.com/reports/kTKBw7crFD4nydVY?fight=35&source=112&type=damage-done)
-
-
-### Nahollou-Drak'thul-EU — Vashnik the Malignant
-
-Delších mezer: 1; celkem 4.6 s, z toho 0.0 s ve společných mezerách většiny DPS. Záznamů použití hlavních schopností: 170. To nejsou počty nezávislých stisků tlačítek.
-
-WCL percentil 56; v item-level skupině 38; damage aktivita 99.5 %. Damage aktivita není vlastní castění. [WCL](https://www.warcraftlogs.com/reports/kTKBw7crFD4nydVY?fight=35&source=87&type=damage-done)
-
-- 140.193–144.824 s: Implosion → Shadow Bolt; jiné vlastní schopnosti: žádné zaznamenané. Samotná mezera neprokazuje možnost útočit ani připravenou schopnost.
-
-### Íácekpwn-Drak'thul-EU — Vashnik the Malignant
-
-Delších mezer: 0; celkem 0.0 s, z toho 0.0 s ve společných mezerách většiny DPS. Záznamů použití hlavních schopností: 199. To nejsou počty nezávislých stisků tlačítek.
-
-WCL percentil 90; v item-level skupině 87; damage aktivita 99.9 %. Damage aktivita není vlastní castění. [WCL](https://www.warcraftlogs.com/reports/kTKBw7crFD4nydVY?fight=35&source=84&type=damage-done)
-
-
-### Hrbaty-Drak'thul-EU — Vashnik the Malignant
-
-Delších mezer: 4; celkem 23.5 s, z toho 0.0 s ve společných mezerách většiny DPS. Záznamů použití hlavních schopností: 152. To nejsou počty nezávislých stisků tlačítek.
-
-WCL percentil 26; v item-level skupině 40; damage aktivita 99.4 %. Damage aktivita není vlastní castění. [WCL](https://www.warcraftlogs.com/reports/kTKBw7crFD4nydVY?fight=35&source=33&type=damage-done)
-
-- 135.920–143.891 s: Stormkeeper → Flame Shock; jiné vlastní schopnosti: žádné zaznamenané. Samotná mezera neprokazuje možnost útočit ani připravenou schopnost.
-- 230.207–235.896 s: Flame Shock → Lava Burst; jiné vlastní schopnosti: žádné zaznamenané. Samotná mezera neprokazuje možnost útočit ani připravenou schopnost.
-- 219.016–224.028 s: Elemental Blast → Lava Burst; jiné vlastní schopnosti: žádné zaznamenané. Samotná mezera neprokazuje možnost útočit ani připravenou schopnost.
-
-### Odmin-Drak'thul-EU — Vashnik the Malignant
-
-Delších mezer: 1; celkem 5.3 s, z toho 0.0 s ve společných mezerách většiny DPS. Záznamů použití hlavních schopností: 214. To nejsou počty nezávislých stisků tlačítek.
-
-WCL percentil 58; v item-level skupině 39; damage aktivita 99.3 %. Damage aktivita není vlastní castění. [WCL](https://www.warcraftlogs.com/reports/kTKBw7crFD4nydVY?fight=35&source=79&type=damage-done)
-
-- 141.811–147.065 s: Chaos Strike → Vengeful Retreat; jiné vlastní schopnosti: žádné zaznamenané. Samotná mezera neprokazuje možnost útočit ani připravenou schopnost.
-
-### Fobina-Drak'thul-EU — Vashnik the Malignant
-
-Delších mezer: 0; celkem 0.0 s, z toho 0.0 s ve společných mezerách většiny DPS. Záznamů použití hlavních schopností: 172. To nejsou počty nezávislých stisků tlačítek.
-
-WCL percentil 59; v item-level skupině 59; damage aktivita 100.0 %. Damage aktivita není vlastní castění. [WCL](https://www.warcraftlogs.com/reports/kTKBw7crFD4nydVY?fight=35&source=3&type=damage-done)
-
-
-### Rhínö-Drak'thul-EU — Vashnik the Malignant
-
-Delších mezer: 0; celkem 0.0 s, z toho 0.0 s ve společných mezerách většiny DPS. Záznamů použití hlavních schopností: 204. To nejsou počty nezávislých stisků tlačítek.
-
-WCL percentil 83; v item-level skupině 77; damage aktivita 99.9 %. Damage aktivita není vlastní castění. [WCL](https://www.warcraftlogs.com/reports/kTKBw7crFD4nydVY?fight=35&source=27&type=damage-done)
-
-
-### Slejhy-Drak'thul-EU — Vashnik the Malignant
-
-Delších mezer: 1; celkem 5.1 s, z toho 0.0 s ve společných mezerách většiny DPS. Záznamů použití hlavních schopností: 204. To nejsou počty nezávislých stisků tlačítek.
-
-WCL percentil 79; v item-level skupině 61; damage aktivita 99.5 %. Damage aktivita není vlastní castění. [WCL](https://www.warcraftlogs.com/reports/kTKBw7crFD4nydVY?fight=35&source=6&type=damage-done)
-
-- 103.170–108.236 s: Rupture → Mutilate; jiné vlastní schopnosti: žádné zaznamenané. Samotná mezera neprokazuje možnost útočit ani připravenou schopnost.
-Čekání na zdroje může být správná součást rotace; tento součet jej neprohlašuje za chybu.
-
-### Omniblue-Drak'thul-EU — Vashnik the Malignant
-
-Delších mezer: 1; celkem 4.1 s, z toho 0.0 s ve společných mezerách většiny DPS. Záznamů použití hlavních schopností: 180. To nejsou počty nezávislých stisků tlačítek.
-
-WCL percentil 36; v item-level skupině 5; damage aktivita 99.5 %. Damage aktivita není vlastní castění. [WCL](https://www.warcraftlogs.com/reports/kTKBw7crFD4nydVY?fight=35&source=15&type=damage-done)
-
-- 224.230–228.306 s: Mind Blast → Mind Flay; jiné vlastní schopnosti: Shadowy Apparition. Samotná mezera neprokazuje možnost útočit ani připravenou schopnost.
-
-### Theila-Drak'thul-EU — Vashnik the Malignant
-
-Delších mezer: 0; celkem 0.0 s, z toho 0.0 s ve společných mezerách většiny DPS. Záznamů použití hlavních schopností: 171. To nejsou počty nezávislých stisků tlačítek.
-
-WCL percentil 75; v item-level skupině 34; damage aktivita 99.3 %. Damage aktivita není vlastní castění. [WCL](https://www.warcraftlogs.com/reports/kTKBw7crFD4nydVY?fight=35&source=2&type=damage-done)
-
-Čekání na zdroje může být správná součást rotace; tento součet jej neprohlašuje za chybu.
-
-### Micaello-Drak'thul-EU — Vashnik the Malignant
-
-Delších mezer: 0; celkem 0.0 s, z toho 0.0 s ve společných mezerách většiny DPS. Záznamů použití hlavních schopností: 183. To nejsou počty nezávislých stisků tlačítek.
-
-WCL percentil 55; v item-level skupině 64; damage aktivita 99.5 %. Damage aktivita není vlastní castění. [WCL](https://www.warcraftlogs.com/reports/kTKBw7crFD4nydVY?fight=35&source=18&type=damage-done)
-
-Čekání na zdroje může být správná součást rotace; tento součet jej neprohlašuje za chybu.
-
-### Corneilia-Sylvanas-EU — Vashnik the Malignant
-
-Delších mezer: 0; celkem 0.0 s, z toho 0.0 s ve společných mezerách většiny DPS. Záznamů použití hlavních schopností: 164. To nejsou počty nezávislých stisků tlačítek.
-
-WCL percentil 65; v item-level skupině 93; damage aktivita 99.7 %. Damage aktivita není vlastní castění. [WCL](https://www.warcraftlogs.com/reports/kTKBw7crFD4nydVY?fight=35&source=9&type=damage-done)
-
-
-### Vejr-Drak'thul-EU — Vashnik the Malignant
-
-Delších mezer: 4; celkem 28.1 s, z toho 0.0 s ve společných mezerách většiny DPS. Záznamů použití hlavních schopností: 159. To nejsou počty nezávislých stisků tlačítek.
-
-WCL percentil 47; v item-level skupině 57; damage aktivita 99.1 %. Damage aktivita není vlastní castění. [WCL](https://www.warcraftlogs.com/reports/kTKBw7crFD4nydVY?fight=35&source=34&type=damage-done)
-
-- 30.892–39.158 s: Necrotic Coil → Outbreak; jiné vlastní schopnosti: Death Grip. Samotná mezera neprokazuje možnost útočit ani připravenou schopnost.
-- 117.339–125.486 s: Necrotic Coil → Outbreak; jiné vlastní schopnosti: Death Grip. Samotná mezera neprokazuje možnost útočit ani připravenou schopnost.
-- 204.444–211.077 s: Necrotic Coil → Outbreak; jiné vlastní schopnosti: Death Charge, Death Grip. Samotná mezera neprokazuje možnost útočit ani připravenou schopnost.
-
-### Kubéc-Drak'thul-EU — Vashnik the Malignant
-
-Delších mezer: 0; celkem 0.0 s, z toho 0.0 s ve společných mezerách většiny DPS. Záznamů použití hlavních schopností: 167. To nejsou počty nezávislých stisků tlačítek.
-
-WCL percentil 24; v item-level skupině 28; damage aktivita 99.7 %. Damage aktivita není vlastní castění. [WCL](https://www.warcraftlogs.com/reports/kTKBw7crFD4nydVY?fight=35&source=21&type=damage-done)
-
-Čekání na zdroje může být správná součást rotace; tento součet jej neprohlašuje za chybu.
-
-### Johnyhoudini-BurningBlade-EU — Vashnik the Malignant
-
-Delších mezer: 0; celkem 0.0 s, z toho 0.0 s ve společných mezerách většiny DPS. Záznamů použití hlavních schopností: 175. To nejsou počty nezávislých stisků tlačítek.
-
-WCL percentil 75; v item-level skupině 88; damage aktivita 99.5 %. Damage aktivita není vlastní castění. [WCL](https://www.warcraftlogs.com/reports/kTKBw7crFD4nydVY?fight=35&source=23&type=damage-done)
-
-
-### Galneryus-Drak'thul-EU — Vashnik the Malignant
-
-Delších mezer: 0; celkem 0.0 s, z toho 0.0 s ve společných mezerách většiny DPS. Záznamů použití hlavních schopností: 236. To nejsou počty nezávislých stisků tlačítek.
-
-WCL percentil 91; v item-level skupině 73; damage aktivita 99.7 %. Damage aktivita není vlastní castění. [WCL](https://www.warcraftlogs.com/reports/kTKBw7crFD4nydVY?fight=35&source=8&type=damage-done)
-
+- 96.266–105.297 s: Final Verdict → Final Verdict; jiné vlastní schopnosti: Crusading Strikes, Divine Shield, Divine Steed. Samotná mezera neprokazuje možnost útočit ani připravenou schopnost.
+- 208.137–216.285 s: Final Verdict → Blade of Justice; jiné vlastní schopnosti: Crusading Strikes. Samotná mezera neprokazuje možnost útočit ani připravenou schopnost.
 
 
 ## DPS potiony — doplňkový přehled
@@ -4076,407 +3837,434 @@ Na farmě volitelné; doporučení má nízkou prioritu. Nezaznamenané použit�
 
 | Hráč | Boss | Casty v boji | Casty před pullem (30 s) | Podklad |
 |---|---|---:|---:|---|
+| Kirill-Drak'thul-EU | Nek'zali the Soulcoiler | 1 | 0 | Použití nebo buff doložený |
 | Hrbaty-Drak'thul-EU | Nek'zali the Soulcoiler | 0 | 0 | Použití sledovaných potionů nezaznamenáno |
-| Fobina-Drak'thul-EU | Nek'zali the Soulcoiler | 0 | 0 | Použití sledovaných potionů nezaznamenáno |
-| Slejhy-Drak'thul-EU | Nek'zali the Soulcoiler | 0 | 0 | Použití sledovaných potionů nezaznamenáno |
-| Rhínö-Drak'thul-EU | Nek'zali the Soulcoiler | 0 | 0 | Použití sledovaných potionů nezaznamenáno |
-| Luminos-BurningBlade-EU | Nek'zali the Soulcoiler | 0 | 0 | Použití sledovaných potionů nezaznamenáno |
-| Omniblue-Drak'thul-EU | Nek'zali the Soulcoiler | 1 | 0 | Použití nebo buff doložený |
-| Micaello-Drak'thul-EU | Nek'zali the Soulcoiler | 0 | 0 | Použití sledovaných potionů nezaznamenáno |
+| Íácekpwn-Drak'thul-EU | Nek'zali the Soulcoiler | 0 | 0 | Použití sledovaných potionů nezaznamenáno |
+| Odmin-Drak'thul-EU | Nek'zali the Soulcoiler | 0 | 0 | Použití sledovaných potionů nezaznamenáno |
+| Fobina-Drak'thul-EU | Nek'zali the Soulcoiler | 1 | 0 | Použití nebo buff doložený |
+| Krokous-Drak'thul-EU | Nek'zali the Soulcoiler | 1 | 0 | Použití nebo buff doložený |
+| Shalo-Drak'thul-EU | Nek'zali the Soulcoiler | 0 | 0 | Použití sledovaných potionů nezaznamenáno |
+| Iluneesama-Drak'thul-EU | Nek'zali the Soulcoiler | 0 | 0 | Použití sledovaných potionů nezaznamenáno |
+| Micaello-Drak'thul-EU | Nek'zali the Soulcoiler | 1 | 0 | Použití nebo buff doložený |
 | Theila-Drak'thul-EU | Nek'zali the Soulcoiler | 0 | 0 | Použití sledovaných potionů nezaznamenáno |
-| Corneilia-Sylvanas-EU | Nek'zali the Soulcoiler | 0 | 0 | Použití sledovaných potionů nezaznamenáno |
+| Këss-Drak'thul-EU | Nek'zali the Soulcoiler | 0 | 0 | Použití sledovaných potionů nezaznamenáno |
 | Vejr-Drak'thul-EU | Nek'zali the Soulcoiler | 1 | 0 | Použití nebo buff doložený |
+| Greenfire-Drak'thul-EU | Nek'zali the Soulcoiler | 1 | 0 | Použití nebo buff doložený |
+| Kubéc-Drak'thul-EU | Nek'zali the Soulcoiler | 1 | 0 | Použití nebo buff doložený |
 | Johnyhoudini-BurningBlade-EU | Nek'zali the Soulcoiler | 0 | 0 | Použití sledovaných potionů nezaznamenáno |
-| Kubéc-Drak'thul-EU | Nek'zali the Soulcoiler | 0 | 0 | Použití sledovaných potionů nezaznamenáno |
 | Galneryus-Drak'thul-EU | Nek'zali the Soulcoiler | 1 | 0 | Použití nebo buff doložený |
 | Kirill-Drak'thul-EU | The Coiled Altar | 1 | 0 | Použití nebo buff doložený |
 | Nahollou-Drak'thul-EU | The Coiled Altar | 0 | 0 | Použití sledovaných potionů nezaznamenáno |
 | Íácekpwn-Drak'thul-EU | The Coiled Altar | 0 | 0 | Použití sledovaných potionů nezaznamenáno |
 | Odmin-Drak'thul-EU | The Coiled Altar | 1 | 0 | Použití nebo buff doložený |
-| Fobina-Drak'thul-EU | The Coiled Altar | 0 | 0 | Použití sledovaných potionů nezaznamenáno |
-| Rhínö-Drak'thul-EU | The Coiled Altar | 0 | 0 | Použití sledovaných potionů nezaznamenáno |
-| Slejhy-Drak'thul-EU | The Coiled Altar | 0 | 0 | Použití sledovaných potionů nezaznamenáno |
-| Omniblue-Drak'thul-EU | The Coiled Altar | 1 | 0 | Použití nebo buff doložený |
+| Fobina-Drak'thul-EU | The Coiled Altar | 1 | 1 | Použití nebo buff doložený |
+| Krokous-Drak'thul-EU | The Coiled Altar | 2 | 0 | Použití nebo buff doložený |
+| Shalo-Drak'thul-EU | The Coiled Altar | 0 | 0 | Použití sledovaných potionů nezaznamenáno |
+| Iluneesama-Drak'thul-EU | The Coiled Altar | 0 | 0 | Použití sledovaných potionů nezaznamenáno |
+| Micaello-Drak'thul-EU | The Coiled Altar | 1 | 0 | Použití nebo buff doložený |
 | Theila-Drak'thul-EU | The Coiled Altar | 0 | 0 | Použití sledovaných potionů nezaznamenáno |
-| Micaello-Drak'thul-EU | The Coiled Altar | 0 | 0 | Použití sledovaných potionů nezaznamenáno |
 | Corneilia-Sylvanas-EU | The Coiled Altar | 0 | 0 | Použití sledovaných potionů nezaznamenáno |
+| Këss-Drak'thul-EU | The Coiled Altar | 0 | 0 | Použití sledovaných potionů nezaznamenáno |
 | Vejr-Drak'thul-EU | The Coiled Altar | 1 | 0 | Použití nebo buff doložený |
+| Greenfire-Drak'thul-EU | The Coiled Altar | 1 | 0 | Použití nebo buff doložený |
 | Kubéc-Drak'thul-EU | The Coiled Altar | 1 | 0 | Použití nebo buff doložený |
 | Johnyhoudini-BurningBlade-EU | The Coiled Altar | 0 | 0 | Použití sledovaných potionů nezaznamenáno |
 | Galneryus-Drak'thul-EU | The Coiled Altar | 1 | 0 | Použití nebo buff doložený |
-| Kirill-Drak'thul-EU | Ula'tek | 1 | 0 | Použití nebo buff doložený |
+| Kirill-Drak'thul-EU | Ula'tek | 2 | 0 | Použití nebo buff doložený |
+| Íacek-Drak'thul-EU | Ula'tek | 0 | 0 | Použití sledovaných potionů nezaznamenáno |
 | Nahollou-Drak'thul-EU | Ula'tek | 0 | 0 | Použití sledovaných potionů nezaznamenáno |
-| Íácekpwn-Drak'thul-EU | Ula'tek | 0 | 0 | Použití sledovaných potionů nezaznamenáno |
 | Odmin-Drak'thul-EU | Ula'tek | 1 | 0 | Použití nebo buff doložený |
-| Fobina-Drak'thul-EU | Ula'tek | 2 | 0 | Použití nebo buff doložený |
-| Rhínö-Drak'thul-EU | Ula'tek | 0 | 0 | Použití sledovaných potionů nezaznamenáno |
-| Slejhy-Drak'thul-EU | Ula'tek | 0 | 0 | Použití sledovaných potionů nezaznamenáno |
-| Omniblue-Drak'thul-EU | Ula'tek | 1 | 0 | Použití nebo buff doložený |
+| Fobina-Drak'thul-EU | Ula'tek | 1 | 1 | Použití nebo buff doložený |
+| Krokous-Drak'thul-EU | Ula'tek | 1 | 1 | Použití nebo buff doložený |
+| Shalo-Drak'thul-EU | Ula'tek | 0 | 0 | Jiný potion: posoudit |
+| Iluneesama-Drak'thul-EU | Ula'tek | 0 | 0 | Použití sledovaných potionů nezaznamenáno |
+| Micaello-Drak'thul-EU | Ula'tek | 1 | 0 | Použití nebo buff doložený |
 | Theila-Drak'thul-EU | Ula'tek | 0 | 0 | Použití sledovaných potionů nezaznamenáno |
-| Micaello-Drak'thul-EU | Ula'tek | 0 | 0 | Použití sledovaných potionů nezaznamenáno |
 | Corneilia-Sylvanas-EU | Ula'tek | 0 | 0 | Použití sledovaných potionů nezaznamenáno |
+| Këss-Drak'thul-EU | Ula'tek | 0 | 0 | Jiný potion: posoudit |
 | Vejr-Drak'thul-EU | Ula'tek | 1 | 0 | Použití nebo buff doložený |
-| Kubéc-Drak'thul-EU | Ula'tek | 1 | 0 | Použití nebo buff doložený |
+| Greenfire-Drak'thul-EU | Ula'tek | 1 | 0 | Použití nebo buff doložený |
+| Kubéc-Drak'thul-EU | Ula'tek | 2 | 0 | Použití nebo buff doložený |
 | Johnyhoudini-BurningBlade-EU | Ula'tek | 0 | 0 | Použití sledovaných potionů nezaznamenáno |
-| Galneryus-Drak'thul-EU | Ula'tek | 2 | 0 | Použití nebo buff doložený |
+| Galneryus-Drak'thul-EU | Ula'tek | 1 | 0 | Použití nebo buff doložený |
+| Kirill-Drak'thul-EU | The Lost Explorers | 1 | 0 | Použití nebo buff doložený |
+| Nahollou-Drak'thul-EU | The Lost Explorers | 0 | 0 | Použití sledovaných potionů nezaznamenáno |
+| Hrbaty-Drak'thul-EU | The Lost Explorers | 0 | 0 | Použití sledovaných potionů nezaznamenáno |
+| Íácekpwn-Drak'thul-EU | The Lost Explorers | 0 | 0 | Použití sledovaných potionů nezaznamenáno |
+| Odmin-Drak'thul-EU | The Lost Explorers | 1 | 0 | Použití nebo buff doložený |
+| Fobina-Drak'thul-EU | The Lost Explorers | 0 | 1 | Použití nebo buff doložený |
+| Krokous-Drak'thul-EU | The Lost Explorers | 0 | 0 | Použití sledovaných potionů nezaznamenáno |
+| Shalo-Drak'thul-EU | The Lost Explorers | 0 | 0 | Použití sledovaných potionů nezaznamenáno |
+| Iluneesama-Drak'thul-EU | The Lost Explorers | 0 | 0 | Použití sledovaných potionů nezaznamenáno |
+| Micaello-Drak'thul-EU | The Lost Explorers | 0 | 0 | Použití sledovaných potionů nezaznamenáno |
+| Theila-Drak'thul-EU | The Lost Explorers | 0 | 0 | Použití sledovaných potionů nezaznamenáno |
+| Corneilia-Sylvanas-EU | The Lost Explorers | 0 | 0 | Použití sledovaných potionů nezaznamenáno |
+| Këss-Drak'thul-EU | The Lost Explorers | 0 | 0 | Použití sledovaných potionů nezaznamenáno |
+| Vejr-Drak'thul-EU | The Lost Explorers | 1 | 0 | Použití nebo buff doložený |
+| Greenfire-Drak'thul-EU | The Lost Explorers | 1 | 0 | Použití nebo buff doložený |
+| Kubéc-Drak'thul-EU | The Lost Explorers | 1 | 0 | Použití nebo buff doložený |
+| Johnyhoudini-BurningBlade-EU | The Lost Explorers | 0 | 0 | Použití sledovaných potionů nezaznamenáno |
+| Galneryus-Drak'thul-EU | The Lost Explorers | 1 | 0 | Použití nebo buff doložený |
+| Kirill-Drak'thul-EU | Sszorak | 1 | 0 | Použití nebo buff doložený |
+| Nahollou-Drak'thul-EU | Sszorak | 0 | 0 | Použití sledovaných potionů nezaznamenáno |
+| Íácekpwn-Drak'thul-EU | Sszorak | 0 | 0 | Použití sledovaných potionů nezaznamenáno |
+| Odmin-Drak'thul-EU | Sszorak | 1 | 0 | Použití nebo buff doložený |
+| Fobina-Drak'thul-EU | Sszorak | 0 | 1 | Použití nebo buff doložený |
+| Krokous-Drak'thul-EU | Sszorak | 0 | 1 | Použití nebo buff doložený |
+| Shalo-Drak'thul-EU | Sszorak | 0 | 0 | Použití sledovaných potionů nezaznamenáno |
+| Iluneesama-Drak'thul-EU | Sszorak | 0 | 0 | Použití sledovaných potionů nezaznamenáno |
+| Micaello-Drak'thul-EU | Sszorak | 0 | 0 | Použití sledovaných potionů nezaznamenáno |
+| Theila-Drak'thul-EU | Sszorak | 0 | 0 | Použití sledovaných potionů nezaznamenáno |
+| Corneilia-Sylvanas-EU | Sszorak | 0 | 0 | Použití sledovaných potionů nezaznamenáno |
+| Këss-Drak'thul-EU | Sszorak | 0 | 0 | Jiný potion: posoudit |
+| Vejr-Drak'thul-EU | Sszorak | 1 | 0 | Použití nebo buff doložený |
+| Greenfire-Drak'thul-EU | Sszorak | 1 | 0 | Použití nebo buff doložený |
+| Kubéc-Drak'thul-EU | Sszorak | 1 | 0 | Použití nebo buff doložený |
+| Johnyhoudini-BurningBlade-EU | Sszorak | 0 | 0 | Použití sledovaných potionů nezaznamenáno |
+| Galneryus-Drak'thul-EU | Sszorak | 1 | 0 | Použití nebo buff doložený |
 | Kirill-Drak'thul-EU | Kith'ix | 1 | 0 | Použití nebo buff doložený |
 | Nahollou-Drak'thul-EU | Kith'ix | 0 | 0 | Použití sledovaných potionů nezaznamenáno |
-| Odmin-Drak'thul-EU | Kith'ix | 1 | 0 | Použití nebo buff doložený |
+| Íácekpwn-Drak'thul-EU | Kith'ix | 0 | 0 | Použití sledovaných potionů nezaznamenáno |
+| Odmin-Drak'thul-EU | Kith'ix | 0 | 0 | Použití sledovaných potionů nezaznamenáno |
 | Fobina-Drak'thul-EU | Kith'ix | 0 | 1 | Použití nebo buff doložený |
-| Rhínö-Drak'thul-EU | Kith'ix | 0 | 0 | Použití sledovaných potionů nezaznamenáno |
-| Slejhy-Drak'thul-EU | Kith'ix | 0 | 0 | Použití sledovaných potionů nezaznamenáno |
-| Iacek-Drak'thul-EU | Kith'ix | 0 | 0 | Použití sledovaných potionů nezaznamenáno |
-| Omniblue-Drak'thul-EU | Kith'ix | 1 | 0 | Použití nebo buff doložený |
-| Theila-Drak'thul-EU | Kith'ix | 0 | 0 | Použití sledovaných potionů nezaznamenáno |
+| Krokous-Drak'thul-EU | Kith'ix | 1 | 0 | Použití nebo buff doložený |
+| Shalo-Drak'thul-EU | Kith'ix | 0 | 0 | Použití sledovaných potionů nezaznamenáno |
+| Iluneesama-Drak'thul-EU | Kith'ix | 0 | 0 | Použití sledovaných potionů nezaznamenáno |
 | Micaello-Drak'thul-EU | Kith'ix | 0 | 0 | Použití sledovaných potionů nezaznamenáno |
+| Theila-Drak'thul-EU | Kith'ix | 0 | 0 | Použití sledovaných potionů nezaznamenáno |
 | Corneilia-Sylvanas-EU | Kith'ix | 0 | 0 | Použití sledovaných potionů nezaznamenáno |
+| Këss-Drak'thul-EU | Kith'ix | 0 | 0 | Použití sledovaných potionů nezaznamenáno |
 | Vejr-Drak'thul-EU | Kith'ix | 1 | 0 | Použití nebo buff doložený |
 | Johnyhoudini-BurningBlade-EU | Kith'ix | 0 | 0 | Použití sledovaných potionů nezaznamenáno |
-| Kubéc-Drak'thul-EU | Kith'ix | 0 | 0 | Použití sledovaných potionů nezaznamenáno |
+| Kubéc-Drak'thul-EU | Kith'ix | 1 | 0 | Použití nebo buff doložený |
 | Galneryus-Drak'thul-EU | Kith'ix | 1 | 0 | Použití nebo buff doložený |
-| Kirill-Drak'thul-EU | Entombed Sentinels | 1 | 0 | Použití nebo buff doložený |
-| Nahollou-Drak'thul-EU | Entombed Sentinels | 0 | 0 | Použití sledovaných potionů nezaznamenáno |
-| Íácekpwn-Drak'thul-EU | Entombed Sentinels | 0 | 0 | Použití sledovaných potionů nezaznamenáno |
-| Hrbaty-Drak'thul-EU | Entombed Sentinels | 0 | 0 | Použití sledovaných potionů nezaznamenáno |
-| Odmin-Drak'thul-EU | Entombed Sentinels | 1 | 0 | Použití nebo buff doložený |
-| Fobina-Drak'thul-EU | Entombed Sentinels | 0 | 1 | Použití nebo buff doložený |
-| Rhínö-Drak'thul-EU | Entombed Sentinels | 0 | 0 | Použití sledovaných potionů nezaznamenáno |
-| Slejhy-Drak'thul-EU | Entombed Sentinels | 0 | 0 | Použití sledovaných potionů nezaznamenáno |
-| Omniblue-Drak'thul-EU | Entombed Sentinels | 1 | 0 | Použití nebo buff doložený |
-| Theila-Drak'thul-EU | Entombed Sentinels | 0 | 0 | Použití sledovaných potionů nezaznamenáno |
-| Micaello-Drak'thul-EU | Entombed Sentinels | 0 | 0 | Použití sledovaných potionů nezaznamenáno |
-| Corneilia-Sylvanas-EU | Entombed Sentinels | 0 | 0 | Použití sledovaných potionů nezaznamenáno |
-| Vejr-Drak'thul-EU | Entombed Sentinels | 1 | 0 | Použití nebo buff doložený |
-| Kubéc-Drak'thul-EU | Entombed Sentinels | 1 | 0 | Použití nebo buff doložený |
-| Johnyhoudini-BurningBlade-EU | Entombed Sentinels | 0 | 0 | Použití sledovaných potionů nezaznamenáno |
-| Galneryus-Drak'thul-EU | Entombed Sentinels | 1 | 0 | Použití nebo buff doložený |
-| Kirill-Drak'thul-EU | Vashnik the Malignant | 1 | 0 | Použití nebo buff doložený |
-| Nahollou-Drak'thul-EU | Vashnik the Malignant | 0 | 0 | Použití sledovaných potionů nezaznamenáno |
-| Íácekpwn-Drak'thul-EU | Vashnik the Malignant | 0 | 0 | Použití sledovaných potionů nezaznamenáno |
-| Hrbaty-Drak'thul-EU | Vashnik the Malignant | 0 | 0 | Použití sledovaných potionů nezaznamenáno |
-| Odmin-Drak'thul-EU | Vashnik the Malignant | 1 | 0 | Použití nebo buff doložený |
-| Fobina-Drak'thul-EU | Vashnik the Malignant | 0 | 1 | Použití nebo buff doložený |
-| Rhínö-Drak'thul-EU | Vashnik the Malignant | 0 | 0 | Použití sledovaných potionů nezaznamenáno |
-| Slejhy-Drak'thul-EU | Vashnik the Malignant | 0 | 0 | Použití sledovaných potionů nezaznamenáno |
-| Omniblue-Drak'thul-EU | Vashnik the Malignant | 1 | 0 | Použití nebo buff doložený |
-| Theila-Drak'thul-EU | Vashnik the Malignant | 0 | 0 | Použití sledovaných potionů nezaznamenáno |
-| Micaello-Drak'thul-EU | Vashnik the Malignant | 0 | 0 | Použití sledovaných potionů nezaznamenáno |
-| Corneilia-Sylvanas-EU | Vashnik the Malignant | 0 | 0 | Použití sledovaných potionů nezaznamenáno |
-| Vejr-Drak'thul-EU | Vashnik the Malignant | 1 | 0 | Použití nebo buff doložený |
-| Kubéc-Drak'thul-EU | Vashnik the Malignant | 1 | 0 | Použití nebo buff doložený |
-| Johnyhoudini-BurningBlade-EU | Vashnik the Malignant | 0 | 0 | Použití sledovaných potionů nezaznamenáno |
-| Galneryus-Drak'thul-EU | Vashnik the Malignant | 1 | 0 | Použití nebo buff doložený |
 
 ## Arcane a Augmentation: doplněná kontrola killů
 
-- Fobina-Drak'thul-EU / Nek'zali the Soulcoiler: 4 dokončených Eruption se startem po doloženém odstranění vlastního Ebon Might; 3 delších mezer s alespoň třemi vlastními hlavními casty. Zkontroluj pořadí Ebon Might a Eruption, nikoli automaticky dostupný cooldown. Podpora jednotlivých spoluhráčů je oddělená od vlastního buffu.
-- Corneilia-Sylvanas-EU / Nek'zali the Soulcoiler: 174 rotačních záznamů; Arcane Soul oken 3, Blast startů uvnitř 0. Úplné sekvence jsou v HTML; nulový nález není certifikace celé rotace.
-- Johnyhoudini-BurningBlade-EU / Nek'zali the Soulcoiler: 231 rotačních záznamů; Arcane Soul oken 3, Blast startů uvnitř 1. Úplné sekvence jsou v HTML; nulový nález není certifikace celé rotace.
-- Fobina-Drak'thul-EU / The Coiled Altar: 11 dokončených Eruption se startem po doloženém odstranění vlastního Ebon Might; 3 delších mezer s alespoň třemi vlastními hlavními casty. Zkontroluj pořadí Ebon Might a Eruption, nikoli automaticky dostupný cooldown. Podpora jednotlivých spoluhráčů je oddělená od vlastního buffu.
-- Corneilia-Sylvanas-EU / The Coiled Altar: 260 rotačních záznamů; Arcane Soul oken 4, Blast startů uvnitř 1. Úplné sekvence jsou v HTML; nulový nález není certifikace celé rotace.
-- Johnyhoudini-BurningBlade-EU / The Coiled Altar: 303 rotačních záznamů; Arcane Soul oken 5, Blast startů uvnitř 1. Úplné sekvence jsou v HTML; nulový nález není certifikace celé rotace.
-- Fobina-Drak'thul-EU / Ula'tek: 23 dokončených Eruption se startem po doloženém odstranění vlastního Ebon Might; 9 delších mezer s alespoň třemi vlastními hlavními casty. Zkontroluj pořadí Ebon Might a Eruption, nikoli automaticky dostupný cooldown. Podpora jednotlivých spoluhráčů je oddělená od vlastního buffu.
-- Corneilia-Sylvanas-EU / Ula'tek: 323 rotačních záznamů; Arcane Soul oken 5, Blast startů uvnitř 2. Úplné sekvence jsou v HTML; nulový nález není certifikace celé rotace.
-- Johnyhoudini-BurningBlade-EU / Ula'tek: 358 rotačních záznamů; Arcane Soul oken 5, Blast startů uvnitř 1. Úplné sekvence jsou v HTML; nulový nález není certifikace celé rotace.
-- Fobina-Drak'thul-EU / Kith'ix: 8 dokončených Eruption se startem po doloženém odstranění vlastního Ebon Might; 1 delších mezer s alespoň třemi vlastními hlavními casty. Zkontroluj pořadí Ebon Might a Eruption, nikoli automaticky dostupný cooldown. Podpora jednotlivých spoluhráčů je oddělená od vlastního buffu.
-- Iacek-Drak'thul-EU / Kith'ix: 180 rotačních záznamů; Arcane Soul oken 3, Blast startů uvnitř 0. Úplné sekvence jsou v HTML; nulový nález není certifikace celé rotace.
-- Corneilia-Sylvanas-EU / Kith'ix: 165 rotačních záznamů; Arcane Soul oken 3, Blast startů uvnitř 1. Úplné sekvence jsou v HTML; nulový nález není certifikace celé rotace.
-- Johnyhoudini-BurningBlade-EU / Kith'ix: 193 rotačních záznamů; Arcane Soul oken 3, Blast startů uvnitř 2. Úplné sekvence jsou v HTML; nulový nález není certifikace celé rotace.
-- Fobina-Drak'thul-EU / Entombed Sentinels: 10 dokončených Eruption se startem po doloženém odstranění vlastního Ebon Might; 4 delších mezer s alespoň třemi vlastními hlavními casty. Zkontroluj pořadí Ebon Might a Eruption, nikoli automaticky dostupný cooldown. Podpora jednotlivých spoluhráčů je oddělená od vlastního buffu.
-- Corneilia-Sylvanas-EU / Entombed Sentinels: 174 rotačních záznamů; Arcane Soul oken 3, Blast startů uvnitř 0. Úplné sekvence jsou v HTML; nulový nález není certifikace celé rotace.
-- Johnyhoudini-BurningBlade-EU / Entombed Sentinels: 221 rotačních záznamů; Arcane Soul oken 3, Blast startů uvnitř 1. Úplné sekvence jsou v HTML; nulový nález není certifikace celé rotace.
-- Fobina-Drak'thul-EU / Vashnik the Malignant: 9 dokončených Eruption se startem po doloženém odstranění vlastního Ebon Might; 1 delších mezer s alespoň třemi vlastními hlavními casty. Zkontroluj pořadí Ebon Might a Eruption, nikoli automaticky dostupný cooldown. Podpora jednotlivých spoluhráčů je oddělená od vlastního buffu.
-- Corneilia-Sylvanas-EU / Vashnik the Malignant: 166 rotačních záznamů; Arcane Soul oken 3, Blast startů uvnitř 0. Úplné sekvence jsou v HTML; nulový nález není certifikace celé rotace.
-- Johnyhoudini-BurningBlade-EU / Vashnik the Malignant: 178 rotačních záznamů; Arcane Soul oken 3, Blast startů uvnitř 0. Úplné sekvence jsou v HTML; nulový nález není certifikace celé rotace.
+- Fobina-Drak'thul-EU / Nek'zali the Soulcoiler: 1 dokončených Eruption se startem po doloženém odstranění vlastního Ebon Might; 0 delších mezer s alespoň třemi vlastními hlavními casty. Zkontroluj pořadí Ebon Might a Eruption, nikoli automaticky dostupný cooldown. Podpora jednotlivých spoluhráčů je oddělená od vlastního buffu.
+- Këss-Drak'thul-EU / Nek'zali the Soulcoiler: 174 rotačních záznamů; Arcane Soul oken 3, Blast startů uvnitř 1. Úplné sekvence jsou v HTML; nulový nález není certifikace celé rotace.
+- Johnyhoudini-BurningBlade-EU / Nek'zali the Soulcoiler: 157 rotačních záznamů; Arcane Soul oken 2, Blast startů uvnitř 1. Úplné sekvence jsou v HTML; nulový nález není certifikace celé rotace.
+- Fobina-Drak'thul-EU / The Coiled Altar: 5 dokončených Eruption se startem po doloženém odstranění vlastního Ebon Might; 1 delších mezer s alespoň třemi vlastními hlavními casty. Zkontroluj pořadí Ebon Might a Eruption, nikoli automaticky dostupný cooldown. Podpora jednotlivých spoluhráčů je oddělená od vlastního buffu.
+- Corneilia-Sylvanas-EU / The Coiled Altar: 198 rotačních záznamů; Arcane Soul oken 4, Blast startů uvnitř 0. Úplné sekvence jsou v HTML; nulový nález není certifikace celé rotace.
+- Këss-Drak'thul-EU / The Coiled Altar: 263 rotačních záznamů; Arcane Soul oken 4, Blast startů uvnitř 2. Úplné sekvence jsou v HTML; nulový nález není certifikace celé rotace.
+- Johnyhoudini-BurningBlade-EU / The Coiled Altar: 235 rotačních záznamů; Arcane Soul oken 4, Blast startů uvnitř 0. Úplné sekvence jsou v HTML; nulový nález není certifikace celé rotace.
+- Fobina-Drak'thul-EU / Ula'tek: 13 dokončených Eruption se startem po doloženém odstranění vlastního Ebon Might; 4 delších mezer s alespoň třemi vlastními hlavními casty. Zkontroluj pořadí Ebon Might a Eruption, nikoli automaticky dostupný cooldown. Podpora jednotlivých spoluhráčů je oddělená od vlastního buffu.
+- Corneilia-Sylvanas-EU / Ula'tek: 124 rotačních záznamů; Arcane Soul oken 3, Blast startů uvnitř 0. Úplné sekvence jsou v HTML; nulový nález není certifikace celé rotace.
+- Këss-Drak'thul-EU / Ula'tek: 349 rotačních záznamů; Arcane Soul oken 5, Blast startů uvnitř 0. Úplné sekvence jsou v HTML; nulový nález není certifikace celé rotace.
+- Johnyhoudini-BurningBlade-EU / Ula'tek: 334 rotačních záznamů; Arcane Soul oken 5, Blast startů uvnitř 1. Úplné sekvence jsou v HTML; nulový nález není certifikace celé rotace.
+- Fobina-Drak'thul-EU / The Lost Explorers: 2 dokončených Eruption se startem po doloženém odstranění vlastního Ebon Might; 1 delších mezer s alespoň třemi vlastními hlavními casty. Zkontroluj pořadí Ebon Might a Eruption, nikoli automaticky dostupný cooldown. Podpora jednotlivých spoluhráčů je oddělená od vlastního buffu.
+- Corneilia-Sylvanas-EU / The Lost Explorers: 142 rotačních záznamů; Arcane Soul oken 2, Blast startů uvnitř 0. Úplné sekvence jsou v HTML; nulový nález není certifikace celé rotace.
+- Këss-Drak'thul-EU / The Lost Explorers: 172 rotačních záznamů; Arcane Soul oken 3, Blast startů uvnitř 1. Úplné sekvence jsou v HTML; nulový nález není certifikace celé rotace.
+- Johnyhoudini-BurningBlade-EU / The Lost Explorers: 161 rotačních záznamů; Arcane Soul oken 2, Blast startů uvnitř 0. Úplné sekvence jsou v HTML; nulový nález není certifikace celé rotace.
+- Fobina-Drak'thul-EU / Sszorak: 2 dokončených Eruption se startem po doloženém odstranění vlastního Ebon Might; 1 delších mezer s alespoň třemi vlastními hlavními casty. Zkontroluj pořadí Ebon Might a Eruption, nikoli automaticky dostupný cooldown. Podpora jednotlivých spoluhráčů je oddělená od vlastního buffu.
+- Corneilia-Sylvanas-EU / Sszorak: 144 rotačních záznamů; Arcane Soul oken 2, Blast startů uvnitř 0. Úplné sekvence jsou v HTML; nulový nález není certifikace celé rotace.
+- Këss-Drak'thul-EU / Sszorak: 185 rotačních záznamů; Arcane Soul oken 3, Blast startů uvnitř 0. Úplné sekvence jsou v HTML; nulový nález není certifikace celé rotace.
+- Johnyhoudini-BurningBlade-EU / Sszorak: 171 rotačních záznamů; Arcane Soul oken 3, Blast startů uvnitř 0. Úplné sekvence jsou v HTML; nulový nález není certifikace celé rotace.
+- Fobina-Drak'thul-EU / Kith'ix: 5 dokončených Eruption se startem po doloženém odstranění vlastního Ebon Might; 1 delších mezer s alespoň třemi vlastními hlavními casty. Zkontroluj pořadí Ebon Might a Eruption, nikoli automaticky dostupný cooldown. Podpora jednotlivých spoluhráčů je oddělená od vlastního buffu.
+- Corneilia-Sylvanas-EU / Kith'ix: 155 rotačních záznamů; Arcane Soul oken 3, Blast startů uvnitř 0. Úplné sekvence jsou v HTML; nulový nález není certifikace celé rotace.
+- Këss-Drak'thul-EU / Kith'ix: 179 rotačních záznamů; Arcane Soul oken 3, Blast startů uvnitř 1. Úplné sekvence jsou v HTML; nulový nález není certifikace celé rotace.
+- Johnyhoudini-BurningBlade-EU / Kith'ix: 74 rotačních záznamů; Arcane Soul oken 1, Blast startů uvnitř 0. Úplné sekvence jsou v HTML; nulový nález není certifikace celé rotace.
 
 ## Unholy: Reaping a HP podmínka Soul Reaper
 
 Reaping v připnuté implementaci obchází jednu HP odmítací podmínku Soul Reaper. Neprokazuje celé priority, DT cooldown pod 38 s ani dostupný spender. Stejnočasové odstranění je oddělené od posledního předchozího stavu.
 
-- Vejr-Drak'thul-EU / Nek'zali the Soulcoiler: 3 Soul Reaper cap případů; z 1 s předchozím HP alespoň 35 % má 1 doložený Reaping a 0 změnu buffu ve stejném timestampu. Dřívější HP snapshot není HP při stisku.
-- Vejr-Drak'thul-EU / The Coiled Altar: 7 Soul Reaper cap případů; z 2 s předchozím HP alespoň 35 % má 2 doložený Reaping a 0 změnu buffu ve stejném timestampu. Dřívější HP snapshot není HP při stisku.
-- Vejr-Drak'thul-EU / Ula'tek: 3 Soul Reaper cap případů; z 1 s předchozím HP alespoň 35 % má 1 doložený Reaping a 0 změnu buffu ve stejném timestampu. Dřívější HP snapshot není HP při stisku.
-- Vejr-Drak'thul-EU / Kith'ix: 1 Soul Reaper cap případů; z 0 s předchozím HP alespoň 35 % má 0 doložený Reaping a 0 změnu buffu ve stejném timestampu. Dřívější HP snapshot není HP při stisku.
-- Vejr-Drak'thul-EU / Entombed Sentinels: 5 Soul Reaper cap případů; z 1 s předchozím HP alespoň 35 % má 1 doložený Reaping a 0 změnu buffu ve stejném timestampu. Dřívější HP snapshot není HP při stisku.
-- Vejr-Drak'thul-EU / Vashnik the Malignant: 2 Soul Reaper cap případů; z 1 s předchozím HP alespoň 35 % má 0 doložený Reaping a 1 změnu buffu ve stejném timestampu. Dřívější HP snapshot není HP při stisku.
+- Vejr-Drak'thul-EU / Nek'zali the Soulcoiler: 0 Soul Reaper cap případů; z 0 s předchozím HP alespoň 35 % má 0 doložený Reaping a 0 změnu buffu ve stejném timestampu. Dřívější HP snapshot není HP při stisku.
+- Vejr-Drak'thul-EU / The Coiled Altar: 3 Soul Reaper cap případů; z 0 s předchozím HP alespoň 35 % má 0 doložený Reaping a 0 změnu buffu ve stejném timestampu. Dřívější HP snapshot není HP při stisku.
+- Vejr-Drak'thul-EU / Ula'tek: 2 Soul Reaper cap případů; z 1 s předchozím HP alespoň 35 % má 1 doložený Reaping a 0 změnu buffu ve stejném timestampu. Dřívější HP snapshot není HP při stisku.
+- Vejr-Drak'thul-EU / The Lost Explorers: 3 Soul Reaper cap případů; z 1 s předchozím HP alespoň 35 % má 1 doložený Reaping a 0 změnu buffu ve stejném timestampu. Dřívější HP snapshot není HP při stisku.
+- Vejr-Drak'thul-EU / Sszorak: 1 Soul Reaper cap případů; z 1 s předchozím HP alespoň 35 % má 1 doložený Reaping a 0 změnu buffu ve stejném timestampu. Dřívější HP snapshot není HP při stisku.
+- Vejr-Drak'thul-EU / Kith'ix: 0 Soul Reaper cap případů; z 0 s předchozím HP alespoň 35 % má 0 doložený Reaping a 0 změnu buffu ve stejném timestampu. Dřívější HP snapshot není HP při stisku.
 
 ## Tyrant: kontrola všech burstů
-Ověřeno 27 Tyrantů na 5 killech; 8 se váže na původní nález. Další casty jsou rozšíření rozsahu, nikoli nové chyby. Sedm uložených Diabolist class řádků před Tyrantem není celé globální pořadí ani skutečná dostupnost.
+Ověřeno 44 Tyrantů na 10 killech; 15 se váže na původní nález. Další casty jsou rozšíření rozsahu, nikoli nové chyby. Sedm uložených Diabolist class řádků před Tyrantem není celé globální pořadí ani skutečná dostupnost.
 | Boss | Tyrant start / success | Původní nález | Raw start / success |
 |---|---|---|---|
-| The Coiled Altar | 3.233 / 4.431 s | ne | 838229 / 839154 |
-| The Coiled Altar | 67.548 / 68.787 s | ne | 893608 / 894472 |
-| The Coiled Altar | 130.012 / 131.229 s | ano | 940274 / 941393 |
-| The Coiled Altar | 208.033 / 208.971 s | ne | 1001415 / 1002198 |
-| The Coiled Altar | 270.416 / 271.635 s | ano | 1059760 / 1060666 |
-| The Coiled Altar | 333.112 / 334.314 s | ne | 1127319 / 1128579 |
-| The Coiled Altar | 395.311 / 396.517 s | ano | 1202037 / 1203478 |
-| Ula'tek | 2.440 / 3.675 s | ne | 1256832 / 1257402 |
-| Ula'tek | 71.330 / 72.562 s | ne | 1311931 / 1312681 |
-| Ula'tek | 141.507 / 142.447 s | ne | 1373446 / 1374646 |
-| Ula'tek | 285.998 / 287.169 s | ne | 1470519 / 1471543 |
-| Ula'tek | 375.412 / 376.635 s | ne | 1531531 / 1532378 |
-| Ula'tek | 505.477 / 506.687 s | ne | 1632942 / 1633821 |
-| Kith'ix | 2.764 / 3.713 s | ne | 2289668 / 2290232 |
-| Kith'ix | 66.765 / 67.989 s | ne | 2339051 / 2340050 |
-| Kith'ix | 130.878 / 132.106 s | ne | 2387847 / 2388771 |
-| Kith'ix | 193.274 / 194.516 s | ne | 2426984 / 2428012 |
-| Kith'ix | 259.072 / 260.285 s | ne | 2467126 / 2468025 |
-| Entombed Sentinels | 2.610 / 3.548 s | ne | 2522187 / 2522602 |
-| Entombed Sentinels | 68.422 / 69.641 s | ano | 2580465 / 2581451 |
-| Entombed Sentinels | 130.992 / 132.207 s | ano | 2630186 / 2631003 |
-| Entombed Sentinels | 195.183 / 196.415 s | ne | 2677346 / 2678570 |
-| Entombed Sentinels | 269.667 / 270.878 s | ne | 2732273 / 2733310 |
-| Vashnik the Malignant | 1.402 / 2.348 s | ne | 2846355 / 2846711 |
-| Vashnik the Malignant | 66.832 / 68.009 s | ano | 2906694 / 2907525 |
-| Vashnik the Malignant | 129.028 / 130.247 s | ano | 2962299 / 2963583 |
-| Vashnik the Malignant | 191.198 / 192.436 s | ano | 3011789 / 3012942 |
+| Nek'zali the Soulcoiler | 9.267 / 9.999 s | ne | 35728 / 36513 |
+| Nek'zali the Soulcoiler | 77.991 / 79.169 s | ne | 93742 / 94906 |
+| Nek'zali the Soulcoiler | 145.277 / 146.425 s | ano | 135889 / 136563 |
+| The Coiled Altar | 1.578 / 2.764 s | ne | 781774 / 782446 |
+| The Coiled Altar | 62.707 / 63.900 s | ne | 841908 / 842890 |
+| The Coiled Altar | 3.470 / 4.419 s | ne | 782953 / 783762 |
+| The Coiled Altar | 68.242 / 69.407 s | ano | 847218 / 848349 |
+| The Coiled Altar | 131.388 / 132.538 s | ne | 904390 / 905265 |
+| The Coiled Altar | 193.420 / 194.323 s | ano | 951140 / 952212 |
+| The Coiled Altar | 257.507 / 258.687 s | ano | 1017657 / 1018630 |
+| The Coiled Altar | 319.606 / 320.565 s | ne | 1083770 / 1084882 |
+| Ula'tek | 1.198 / 2.371 s | ne | 1226363 / 1226881 |
+| Ula'tek | 71.288 / 72.485 s | ne | 1285457 / 1286379 |
+| Ula'tek | 288.576 / 289.781 s | ne | 1440962 / 1442384 |
+| Ula'tek | 405.256 / 406.454 s | ano | 1527809 / 1528887 |
+| Ula'tek | 469.850 / 471.065 s | ne | 1580717 / 1582013 |
+| Ula'tek | 1.834 / 2.997 s | ne | 1226546 / 1227189 |
+| Ula'tek | 69.688 / 70.865 s | ano | 1284309 / 1285066 |
+| Ula'tek | 134.990 / 135.745 s | ne | 1341253 / 1341853 |
+| Ula'tek | 226.135 / 227.276 s | ne | 1402839 / 1403649 |
+| Ula'tek | 287.327 / 288.304 s | ano | 1439508 / 1440576 |
+| Ula'tek | 373.113 / 374.285 s | ano | 1499098 / 1500003 |
+| Ula'tek | 440.605 / 441.773 s | ne | 1554589 / 1555461 |
+| Ula'tek | 517.576 / 518.750 s | ne | 1610756 / 1611494 |
+| The Lost Explorers | 1.667 / 2.861 s | ne | 1701197 / 1701759 |
+| The Lost Explorers | 63.476 / 64.658 s | ne | 1770376 / 1771444 |
+| The Lost Explorers | 124.974 / 126.198 s | ano | 1826779 / 1827839 |
+| The Lost Explorers | 190.146 / 191.333 s | ano | 1884078 / 1884964 |
+| The Lost Explorers | 2.782 / 3.708 s | ne | 1701733 / 1702199 |
+| The Lost Explorers | 69.457 / 70.612 s | ano | 1776083 / 1777240 |
+| The Lost Explorers | 131.837 / 132.820 s | ano | 1832622 / 1833535 |
+| The Lost Explorers | 195.109 / 196.264 s | ano | 1888036 / 1889258 |
+| Sszorak | 1.481 / 2.665 s | ne | 2177115 / 2177661 |
+| Sszorak | 64.173 / 65.360 s | ano | 2239408 / 2240289 |
+| Sszorak | 146.653 / 147.830 s | ne | 2304136 / 2305000 |
+| Sszorak | 210.229 / 211.406 s | ano | 2354146 / 2355100 |
+| Sszorak | 1.048 / 2.408 s | ne | 2176957 / 2177429 |
+| Sszorak | 66.416 / 67.578 s | ne | 2241339 / 2242502 |
+| Sszorak | 129.669 / 130.857 s | ne | 2292501 / 2293257 |
+| Sszorak | 191.166 / 192.327 s | ne | 2338828 / 2339752 |
+| Kith'ix | 3.082 / 3.990 s | ne | 2491012 / 2491660 |
+| Kith'ix | 70.554 / 71.739 s | ne | 2546723 / 2547613 |
+| Kith'ix | 152.681 / 153.855 s | ne | 2604958 / 2605593 |
+| Kith'ix | 218.626 / 219.821 s | ne | 2648673 / 2649233 |
 
 ## Warlock: vyšší přípravné větve před Tyrantem
 
-8 vybraných Tyrantů, sedm předchozích class APL řádků na každý. Grimoire: Imp Lord modelový timer doběhl u 1; u 1 pozorovaný Imp Lord success striktně po Tyrant success v původním třísekundovém okně. Podmínka APL, build a timer jsou oddělené od dostupné akce; celý globální průchod včetně itemů/racials není certifikovaný. Zkontroluj konkrétní pořadí přípravy v HTML, nikoli automaticky odklad Tyranta.
+15 vybraných Tyrantů, sedm předchozích class APL řádků na každý. Grimoire: Imp Lord modelový timer doběhl u 2; u 2 pozorovaný Imp Lord success striktně po Tyrant success v původním třísekundovém okně. Podmínka APL, build a timer jsou oddělené od dostupné akce; celý globální průchod včetně itemů/racials není certifikovaný. Zkontroluj konkrétní pořadí přípravy v HTML, nikoli automaticky odklad Tyranta.
 
 ## Warlock: již uložená Dreadstalkers CD komponenta
 
-U 6 z 8 Tyrant startů modelový timer ještě dobíhal, u 2 doběhl. Je to projekce původních runtime vstupů z report.json; GCD, cíl, celá dostupnost ani lepší alternativa tím nejsou potvrzené.
+U 15 z 15 Tyrant startů modelový timer ještě dobíhal, u 0 doběhl. Je to projekce původních runtime vstupů z report.json; GCD, cíl, celá dostupnost ani lepší alternativa tím nejsou potvrzené.
 
 ## Tyrant: skutečný průběh Demonic Power
 
 Připnutý zdroj započítává nové Wild Imps a Dreadstalkery i do už aktivního Tyranta. Pozdější pet není sám důkaz promarněného přínosu. Není to certifikace celé priority, bezpečného odkladu nebo DPS loss.
 
-- Nahollou-Drak'thul-EU / The Coiled Altar / Tyrant success 131.229 s: pozdějších zvýšení stacků 25, nejvyšší DOSE svědectví [21]; vazba same_timestamp. Úvodní timestamp není přesný stav při rozhodnutí; raw průběh je v HTML.
-- Nahollou-Drak'thul-EU / The Coiled Altar / Tyrant success 271.635 s: pozdějších zvýšení stacků 34, nejvyšší DOSE svědectví [18]; vazba unique_chronological_summon_within_1ms. Úvodní timestamp není přesný stav při rozhodnutí; raw průběh je v HTML.
-- Nahollou-Drak'thul-EU / The Coiled Altar / Tyrant success 396.517 s: pozdějších zvýšení stacků 22, nejvyšší DOSE svědectví [15]; vazba same_timestamp. Úvodní timestamp není přesný stav při rozhodnutí; raw průběh je v HTML.
-- Nahollou-Drak'thul-EU / Entombed Sentinels / Tyrant success 69.641 s: pozdějších zvýšení stacků 29, nejvyšší DOSE svědectví [18]; vazba same_timestamp. Úvodní timestamp není přesný stav při rozhodnutí; raw průběh je v HTML.
-- Nahollou-Drak'thul-EU / Entombed Sentinels / Tyrant success 132.207 s: pozdějších zvýšení stacků 21, nejvyšší DOSE svědectví [20]; vazba same_timestamp. Úvodní timestamp není přesný stav při rozhodnutí; raw průběh je v HTML.
-- Nahollou-Drak'thul-EU / Vashnik the Malignant / Tyrant success 68.009 s: pozdějších zvýšení stacků 22, nejvyšší DOSE svědectví [24]; vazba same_timestamp. Úvodní timestamp není přesný stav při rozhodnutí; raw průběh je v HTML.
-- Nahollou-Drak'thul-EU / Vashnik the Malignant / Tyrant success 130.247 s: pozdějších zvýšení stacků 21, nejvyšší DOSE svědectví [18]; vazba same_timestamp. Úvodní timestamp není přesný stav při rozhodnutí; raw průběh je v HTML.
-- Nahollou-Drak'thul-EU / Vashnik the Malignant / Tyrant success 192.436 s: pozdějších zvýšení stacků 27, nejvyšší DOSE svědectví [19]; vazba same_timestamp. Úvodní timestamp není přesný stav při rozhodnutí; raw průběh je v HTML.
+- Greenfire-Drak'thul-EU / Nek'zali the Soulcoiler / Tyrant success 146.425 s: pozdějších zvýšení stacků 25, nejvyšší DOSE svědectví [19]; vazba same_timestamp. Úvodní timestamp není přesný stav při rozhodnutí; raw průběh je v HTML.
+- Greenfire-Drak'thul-EU / The Coiled Altar / Tyrant success 69.407 s: pozdějších zvýšení stacků 25, nejvyšší DOSE svědectví [19]; vazba unique_chronological_summon_within_1ms. Úvodní timestamp není přesný stav při rozhodnutí; raw průběh je v HTML.
+- Greenfire-Drak'thul-EU / The Coiled Altar / Tyrant success 194.323 s: pozdějších zvýšení stacků 31, nejvyšší DOSE svědectví [19]; vazba same_timestamp. Úvodní timestamp není přesný stav při rozhodnutí; raw průběh je v HTML.
+- Greenfire-Drak'thul-EU / The Coiled Altar / Tyrant success 258.687 s: pozdějších zvýšení stacků 18, nejvyšší DOSE svědectví [16]; vazba same_timestamp. Úvodní timestamp není přesný stav při rozhodnutí; raw průběh je v HTML.
+- Nahollou-Drak'thul-EU / Ula'tek / Tyrant success 406.454 s: pozdějších zvýšení stacků 5, nejvyšší DOSE svědectví [8]; vazba unique_chronological_summon_within_1ms. Úvodní timestamp není přesný stav při rozhodnutí; raw průběh je v HTML.
+- Greenfire-Drak'thul-EU / Ula'tek / Tyrant success 70.865 s: pozdějších zvýšení stacků 33, nejvyšší DOSE svědectví [27]; vazba same_timestamp. Úvodní timestamp není přesný stav při rozhodnutí; raw průběh je v HTML.
+- Greenfire-Drak'thul-EU / Ula'tek / Tyrant success 288.304 s: pozdějších zvýšení stacků 34, nejvyšší DOSE svědectví [24]; vazba same_timestamp. Úvodní timestamp není přesný stav při rozhodnutí; raw průběh je v HTML.
+- Greenfire-Drak'thul-EU / Ula'tek / Tyrant success 374.285 s: pozdějších zvýšení stacků 22, nejvyšší DOSE svědectví [15]; vazba same_timestamp. Úvodní timestamp není přesný stav při rozhodnutí; raw průběh je v HTML.
+- Nahollou-Drak'thul-EU / The Lost Explorers / Tyrant success 126.198 s: pozdějších zvýšení stacků 15, nejvyšší DOSE svědectví [16]; vazba same_timestamp. Úvodní timestamp není přesný stav při rozhodnutí; raw průběh je v HTML.
+- Nahollou-Drak'thul-EU / The Lost Explorers / Tyrant success 191.333 s: pozdějších zvýšení stacků 12, nejvyšší DOSE svědectví [16]; vazba same_timestamp. Úvodní timestamp není přesný stav při rozhodnutí; raw průběh je v HTML.
+- Greenfire-Drak'thul-EU / The Lost Explorers / Tyrant success 70.612 s: pozdějších zvýšení stacků 24, nejvyšší DOSE svědectví [22]; vazba same_timestamp. Úvodní timestamp není přesný stav při rozhodnutí; raw průběh je v HTML.
+- Greenfire-Drak'thul-EU / The Lost Explorers / Tyrant success 132.820 s: pozdějších zvýšení stacků 22, nejvyšší DOSE svědectví [19]; vazba same_timestamp. Úvodní timestamp není přesný stav při rozhodnutí; raw průběh je v HTML.
+- Greenfire-Drak'thul-EU / The Lost Explorers / Tyrant success 196.264 s: pozdějších zvýšení stacků 9, nejvyšší DOSE svědectví [11]; vazba same_timestamp. Úvodní timestamp není přesný stav při rozhodnutí; raw průběh je v HTML.
+- Nahollou-Drak'thul-EU / Sszorak / Tyrant success 65.360 s: pozdějších zvýšení stacků 21, nejvyšší DOSE svědectví [20]; vazba same_timestamp. Úvodní timestamp není přesný stav při rozhodnutí; raw průběh je v HTML.
+- Nahollou-Drak'thul-EU / Sszorak / Tyrant success 211.406 s: pozdějších zvýšení stacků 23, nejvyšší DOSE svědectví [14]; vazba same_timestamp. Úvodní timestamp není přesný stav při rozhodnutí; raw průběh je v HTML.
 
 ## Wild Imp Energy a Fel Firebolt
 
-58 původních Wild Imp kontextů, 341 Fel Firebolt castů a 66 izolovaných pozorovaných změn Energy. Reference: základ 20 Energy a matching pasivní snížení 20 % dává 16; bezplatný twin má zvláštní větev. Nejde o certifikovanou cenu každého castu, remaining-cast budget nebo bezpečný Tyrant odklad. Celé Energy timestamp batche a raw řádky jsou v HTML u jednotlivých petů.
+117 původních Wild Imp kontextů, 666 Fel Firebolt castů a 26 izolovaných pozorovaných změn Energy. Reference: základ 20 Energy a matching pasivní snížení 20 % dává 16; bezplatný twin má zvláštní větev. Nejde o certifikovanou cenu každého castu, remaining-cast budget nebo bezpečný Tyrant odklad. Celé Energy timestamp batche a raw řádky jsou v HTML u jednotlivých petů.
 
 ## Warlock: pet akce a celé sledované Tyrant sekvence
 
-- Nahollou-Drak'thul-EU / The Coiled Altar: 3 původních HoG/Tyrant případů; u 1 další Call Dreadstalkers do 3 s po Tyrant success. Reign of Tyranny vybraný: ano. Předešlé použití a pet akce jsou v HTML; třísekundové okno není readiness hranice ani počet chyb. Bezpečný odklad a zbývající životnosti nejsou potvrzené.
-- Nahollou-Drak'thul-EU / Ula'tek: 0 původních HoG/Tyrant případů; u 0 další Call Dreadstalkers do 3 s po Tyrant success. Reign of Tyranny vybraný: ano. Předešlé použití a pet akce jsou v HTML; třísekundové okno není readiness hranice ani počet chyb. Bezpečný odklad a zbývající životnosti nejsou potvrzené.
+- Greenfire-Drak'thul-EU / Nek'zali the Soulcoiler: 1 původních HoG/Tyrant případů; u 0 další Call Dreadstalkers do 3 s po Tyrant success. Reign of Tyranny vybraný: ano. Předešlé použití a pet akce jsou v HTML; třísekundové okno není readiness hranice ani počet chyb. Bezpečný odklad a zbývající životnosti nejsou potvrzené.
+- Nahollou-Drak'thul-EU / The Coiled Altar: 0 původních HoG/Tyrant případů; u 0 další Call Dreadstalkers do 3 s po Tyrant success. Reign of Tyranny vybraný: ano. Předešlé použití a pet akce jsou v HTML; třísekundové okno není readiness hranice ani počet chyb. Bezpečný odklad a zbývající životnosti nejsou potvrzené.
+- Greenfire-Drak'thul-EU / The Coiled Altar: 3 původních HoG/Tyrant případů; u 0 další Call Dreadstalkers do 3 s po Tyrant success. Reign of Tyranny vybraný: ano. Předešlé použití a pet akce jsou v HTML; třísekundové okno není readiness hranice ani počet chyb. Bezpečný odklad a zbývající životnosti nejsou potvrzené.
+- Nahollou-Drak'thul-EU / Ula'tek: 1 původních HoG/Tyrant případů; u 0 další Call Dreadstalkers do 3 s po Tyrant success. Reign of Tyranny vybraný: ano. Předešlé použití a pet akce jsou v HTML; třísekundové okno není readiness hranice ani počet chyb. Bezpečný odklad a zbývající životnosti nejsou potvrzené.
+- Greenfire-Drak'thul-EU / Ula'tek: 3 původních HoG/Tyrant případů; u 1 další Call Dreadstalkers do 3 s po Tyrant success. Reign of Tyranny vybraný: ano. Předešlé použití a pet akce jsou v HTML; třísekundové okno není readiness hranice ani počet chyb. Bezpečný odklad a zbývající životnosti nejsou potvrzené.
+- Nahollou-Drak'thul-EU / The Lost Explorers: 2 původních HoG/Tyrant případů; u 0 další Call Dreadstalkers do 3 s po Tyrant success. Reign of Tyranny vybraný: ano. Předešlé použití a pet akce jsou v HTML; třísekundové okno není readiness hranice ani počet chyb. Bezpečný odklad a zbývající životnosti nejsou potvrzené.
+- Greenfire-Drak'thul-EU / The Lost Explorers: 3 původních HoG/Tyrant případů; u 1 další Call Dreadstalkers do 3 s po Tyrant success. Reign of Tyranny vybraný: ano. Předešlé použití a pet akce jsou v HTML; třísekundové okno není readiness hranice ani počet chyb. Bezpečný odklad a zbývající životnosti nejsou potvrzené.
+- Nahollou-Drak'thul-EU / Sszorak: 2 původních HoG/Tyrant případů; u 0 další Call Dreadstalkers do 3 s po Tyrant success. Reign of Tyranny vybraný: ano. Předešlé použití a pet akce jsou v HTML; třísekundové okno není readiness hranice ani počet chyb. Bezpečný odklad a zbývající životnosti nejsou potvrzené.
+- Greenfire-Drak'thul-EU / Sszorak: 0 původních HoG/Tyrant případů; u 0 další Call Dreadstalkers do 3 s po Tyrant success. Reign of Tyranny vybraný: ano. Předešlé použití a pet akce jsou v HTML; třísekundové okno není readiness hranice ani počet chyb. Bezpečný odklad a zbývající životnosti nejsou potvrzené.
 - Nahollou-Drak'thul-EU / Kith'ix: 0 původních HoG/Tyrant případů; u 0 další Call Dreadstalkers do 3 s po Tyrant success. Reign of Tyranny vybraný: ano. Předešlé použití a pet akce jsou v HTML; třísekundové okno není readiness hranice ani počet chyb. Bezpečný odklad a zbývající životnosti nejsou potvrzené.
-- Nahollou-Drak'thul-EU / Entombed Sentinels: 2 původních HoG/Tyrant případů; u 0 další Call Dreadstalkers do 3 s po Tyrant success. Reign of Tyranny vybraný: ano. Předešlé použití a pet akce jsou v HTML; třísekundové okno není readiness hranice ani počet chyb. Bezpečný odklad a zbývající životnosti nejsou potvrzené.
-- Nahollou-Drak'thul-EU / Vashnik the Malignant: 3 původních HoG/Tyrant případů; u 2 další Call Dreadstalkers do 3 s po Tyrant success. Reign of Tyranny vybraný: ano. Předešlé použití a pet akce jsou v HTML; třísekundové okno není readiness hranice ani počet chyb. Bezpečný odklad a zbývající životnosti nejsou potvrzené.
 
 ## Unholy: pozorované RP změny a Soul Reaper kontext
 
-- Vejr-Drak'thul-EU / Nek'zali the Soulcoiler: 61 Coil/Epidemic castů, 36 dvojic bez zaznamenané souběžné mutace. Soul Reaper capy 3, z toho 2 s předchozím target HP pod 35 %. Rozdíl RP není sám certifikovaná zaplacená cena; target HP při stisku a celá priorita nejsou doložené.
-- Vejr-Drak'thul-EU / The Coiled Altar: 95 Coil/Epidemic castů, 60 dvojic bez zaznamenané souběžné mutace. Soul Reaper capy 7, z toho 5 s předchozím target HP pod 35 %. Rozdíl RP není sám certifikovaná zaplacená cena; target HP při stisku a celá priorita nejsou doložené.
-- Vejr-Drak'thul-EU / Ula'tek: 93 Coil/Epidemic castů, 82 dvojic bez zaznamenané souběžné mutace. Soul Reaper capy 3, z toho 2 s předchozím target HP pod 35 %. Rozdíl RP není sám certifikovaná zaplacená cena; target HP při stisku a celá priorita nejsou doložené.
-- Vejr-Drak'thul-EU / Kith'ix: 51 Coil/Epidemic castů, 20 dvojic bez zaznamenané souběžné mutace. Soul Reaper capy 1, z toho 1 s předchozím target HP pod 35 %. Rozdíl RP není sám certifikovaná zaplacená cena; target HP při stisku a celá priorita nejsou doložené.
-- Vejr-Drak'thul-EU / Entombed Sentinels: 55 Coil/Epidemic castů, 22 dvojic bez zaznamenané souběžné mutace. Soul Reaper capy 5, z toho 4 s předchozím target HP pod 35 %. Rozdíl RP není sám certifikovaná zaplacená cena; target HP při stisku a celá priorita nejsou doložené.
-- Vejr-Drak'thul-EU / Vashnik the Malignant: 48 Coil/Epidemic castů, 29 dvojic bez zaznamenané souběžné mutace. Soul Reaper capy 2, z toho 1 s předchozím target HP pod 35 %. Rozdíl RP není sám certifikovaná zaplacená cena; target HP při stisku a celá priorita nejsou doložené.
-
-## Assassination: Envenom a konkrétní cíle
-
-- Slejhy-Drak'thul-EU / Nek'zali the Soulcoiler: 5 Mutilate; Envenom doloženě chyběl u 5, přítomen u 0, neznámý u 0. Vybraná absence okna: 3. Bleedy a Deathmark patří konkrétnímu cíli a vlastnímu hráči. Dostupný Envenom, remaining při rozhodnutí a celé priority nejsou potvrzené.
-- Slejhy-Drak'thul-EU / The Coiled Altar: 2 Mutilate; Envenom doloženě chyběl u 0, přítomen u 2, neznámý u 0. Vybraná absence okna: 0. Bleedy a Deathmark patří konkrétnímu cíli a vlastnímu hráči. Dostupný Envenom, remaining při rozhodnutí a celé priority nejsou potvrzené.
-- Slejhy-Drak'thul-EU / Ula'tek: 8 Mutilate; Envenom doloženě chyběl u 5, přítomen u 3, neznámý u 0. Vybraná absence okna: 3. Bleedy a Deathmark patří konkrétnímu cíli a vlastnímu hráči. Dostupný Envenom, remaining při rozhodnutí a celé priority nejsou potvrzené.
-- Slejhy-Drak'thul-EU / Kith'ix: 4 Mutilate; Envenom doloženě chyběl u 2, přítomen u 2, neznámý u 0. Vybraná absence okna: 1. Bleedy a Deathmark patří konkrétnímu cíli a vlastnímu hráči. Dostupný Envenom, remaining při rozhodnutí a celé priority nejsou potvrzené.
-- Slejhy-Drak'thul-EU / Entombed Sentinels: 5 Mutilate; Envenom doloženě chyběl u 1, přítomen u 4, neznámý u 0. Vybraná absence okna: 1. Bleedy a Deathmark patří konkrétnímu cíli a vlastnímu hráči. Dostupný Envenom, remaining při rozhodnutí a celé priority nejsou potvrzené.
-
-## Assassination: Envenom zásahy a odhad délky buffu
-
-- Slejhy-Drak'thul-EU / Nek'zali the Soulcoiler: 56 Envenom cast success, 1 bez CP snapshotu, 1 s přesně přiřazeným PARRY. Forward source odhad zbývajícího buffu u 0 původních Mutilate. Model není přesný serverový čas nebo dostupný spender; pozdější odstranění pouze validuje, neřídí odhad. PARRY samo neprokazuje špatnou pozici.
-- Slejhy-Drak'thul-EU / The Coiled Altar: 91 Envenom cast success, 0 bez CP snapshotu, 0 s přesně přiřazeným PARRY. Forward source odhad zbývajícího buffu u 2 původních Mutilate. Model není přesný serverový čas nebo dostupný spender; pozdější odstranění pouze validuje, neřídí odhad. PARRY samo neprokazuje špatnou pozici.
-- Slejhy-Drak'thul-EU / Ula'tek: 109 Envenom cast success, 0 bez CP snapshotu, 0 s přesně přiřazeným PARRY. Forward source odhad zbývajícího buffu u 3 původních Mutilate. Model není přesný serverový čas nebo dostupný spender; pozdější odstranění pouze validuje, neřídí odhad. PARRY samo neprokazuje špatnou pozici.
-- Slejhy-Drak'thul-EU / Kith'ix: 49 Envenom cast success, 1 bez CP snapshotu, 1 s přesně přiřazeným PARRY. Forward source odhad zbývajícího buffu u 2 původních Mutilate. Model není přesný serverový čas nebo dostupný spender; pozdější odstranění pouze validuje, neřídí odhad. PARRY samo neprokazuje špatnou pozici.
-- Slejhy-Drak'thul-EU / Entombed Sentinels: 61 Envenom cast success, 1 bez CP snapshotu, 1 s přesně přiřazeným PARRY. Forward source odhad zbývajícího buffu u 4 původních Mutilate. Model není přesný serverový čas nebo dostupný spender; pozdější odstranění pouze validuje, neřídí odhad. PARRY samo neprokazuje špatnou pozici.
-- Slejhy-Drak'thul-EU / Vashnik the Malignant: 60 Envenom cast success, 1 bez CP snapshotu, 1 s přesně přiřazeným PARRY. Forward source odhad zbývajícího buffu u 0 původních Mutilate. Model není přesný serverový čas nebo dostupný spender; pozdější odstranění pouze validuje, neřídí odhad. PARRY samo neprokazuje špatnou pozici.
+- Vejr-Drak'thul-EU / Nek'zali the Soulcoiler: 54 Coil/Epidemic castů, 34 dvojic bez zaznamenané souběžné mutace. Soul Reaper capy 0, z toho 0 s předchozím target HP pod 35 %. Rozdíl RP není sám certifikovaná zaplacená cena; target HP při stisku a celá priorita nejsou doložené.
+- Vejr-Drak'thul-EU / The Coiled Altar: 78 Coil/Epidemic castů, 55 dvojic bez zaznamenané souběžné mutace. Soul Reaper capy 3, z toho 3 s předchozím target HP pod 35 %. Rozdíl RP není sám certifikovaná zaplacená cena; target HP při stisku a celá priorita nejsou doložené.
+- Vejr-Drak'thul-EU / Ula'tek: 91 Coil/Epidemic castů, 68 dvojic bez zaznamenané souběžné mutace. Soul Reaper capy 2, z toho 1 s předchozím target HP pod 35 %. Rozdíl RP není sám certifikovaná zaplacená cena; target HP při stisku a celá priorita nejsou doložené.
+- Vejr-Drak'thul-EU / The Lost Explorers: 44 Coil/Epidemic castů, 28 dvojic bez zaznamenané souběžné mutace. Soul Reaper capy 3, z toho 2 s předchozím target HP pod 35 %. Rozdíl RP není sám certifikovaná zaplacená cena; target HP při stisku a celá priorita nejsou doložené.
+- Vejr-Drak'thul-EU / Sszorak: 55 Coil/Epidemic castů, 33 dvojic bez zaznamenané souběžné mutace. Soul Reaper capy 1, z toho 0 s předchozím target HP pod 35 %. Rozdíl RP není sám certifikovaná zaplacená cena; target HP při stisku a celá priorita nejsou doložené.
+- Vejr-Drak'thul-EU / Kith'ix: 54 Coil/Epidemic castů, 28 dvojic bez zaznamenané souběžné mutace. Soul Reaper capy 0, z toho 0 s předchozím target HP pod 35 %. Rozdíl RP není sám certifikovaná zaplacená cena; target HP při stisku a celá priorita nejsou doložené.
 
 ## Elemental: procy při startu a během Lava Burst
 
 Proc získaný během castu není proc před startem. Stejnočasové změny a poslední předchozí stav jsou oddělené; nelze je převést na jisté pořadí při stisku.
 
-- Hrbaty-Drak'thul-EU / Nek'zali the Soulcoiler: 2 původních cap případů; Lava Surge získaný striktně během castu u 0. Úplný Maelstrom stav, charges a dostupný spender nejsou potvrzené.
-- Hrbaty-Drak'thul-EU / Entombed Sentinels: 0 původních cap případů; Lava Surge získaný striktně během castu u 0. Úplný Maelstrom stav, charges a dostupný spender nejsou potvrzené.
-- Hrbaty-Drak'thul-EU / Vashnik the Malignant: 1 původních cap případů; Lava Surge získaný striktně během castu u 1. Úplný Maelstrom stav, charges a dostupný spender nejsou potvrzené.
+- Hrbaty-Drak'thul-EU / Nek'zali the Soulcoiler: 5 původních cap případů; Lava Surge získaný striktně během castu u 0. Úplný Maelstrom stav, charges a dostupný spender nejsou potvrzené.
+- Íacek-Drak'thul-EU / Ula'tek: 7 původních cap případů; Lava Surge získaný striktně během castu u 0. Úplný Maelstrom stav, charges a dostupný spender nejsou potvrzené.
+- Hrbaty-Drak'thul-EU / The Lost Explorers: 0 původních cap případů; Lava Surge získaný striktně během castu u 0. Úplný Maelstrom stav, charges a dostupný spender nejsou potvrzené.
 
 ## Elemental: Maelstrom a nulová reportovaná cena spenderů
 
 Maelstrom snapshot není Mana; reportovaná cena není zaplacená cena. Nulová cena sama nerozlišuje free proc a automatický Fusion of Elements.
 
-- Hrbaty-Drak'thul-EU / Nek'zali the Soulcoiler: 2 původních Lava Burst případů, 392 Maelstrom snapshotů; 11 z 27 spender cast success s nulovou reportovanou Maelstrom cenou. Starší částka se nepřenáší jako aktuální balance. Podrobné fáze gainů jsou v HTML; plná priorita a dostupný spender nejsou potvrzené.
-- Hrbaty-Drak'thul-EU / Entombed Sentinels: 0 původních Lava Burst případů, 370 Maelstrom snapshotů; 9 z 24 spender cast success s nulovou reportovanou Maelstrom cenou. Starší částka se nepřenáší jako aktuální balance. Podrobné fáze gainů jsou v HTML; plná priorita a dostupný spender nejsou potvrzené.
-- Hrbaty-Drak'thul-EU / Vashnik the Malignant: 1 původních Lava Burst případů, 286 Maelstrom snapshotů; 11 z 24 spender cast success s nulovou reportovanou Maelstrom cenou. Starší částka se nepřenáší jako aktuální balance. Podrobné fáze gainů jsou v HTML; plná priorita a dostupný spender nejsou potvrzené.
-
-## Balance: AP v odpovídajících jednotkách
-
-Snapshot amount/max/cost a energize maximum se převádějí z native jednotek dělením 10. Gain/waste se automaticky deseti nedělí; jejich vztah kontrolují raw kalibrační dvojice. Completion není keypress stav.
-
-- Rhínö-Drak'thul-EU / Nek'zali the Soulcoiler: 2 cap případů, 267 odpovídajících kalibračních dvojic, 0 rozporů; stav consistent. Přesný resource ledger ani lepší alternativa nejsou potvrzené.
-- Rhínö-Drak'thul-EU / The Coiled Altar: 6 cap případů, 431 odpovídajících kalibračních dvojic, 0 rozporů; stav consistent. Přesný resource ledger ani lepší alternativa nejsou potvrzené.
-- Rhínö-Drak'thul-EU / Ula'tek: 2 cap případů, 472 odpovídajících kalibračních dvojic, 0 rozporů; stav consistent. Přesný resource ledger ani lepší alternativa nejsou potvrzené.
-- Rhínö-Drak'thul-EU / Kith'ix: 0 cap případů, 232 odpovídajících kalibračních dvojic, 0 rozporů; stav consistent. Přesný resource ledger ani lepší alternativa nejsou potvrzené.
-- Rhínö-Drak'thul-EU / Entombed Sentinels: 4 cap případů, 325 odpovídajících kalibračních dvojic, 0 rozporů; stav consistent. Přesný resource ledger ani lepší alternativa nejsou potvrzené.
-- Rhínö-Drak'thul-EU / Vashnik the Malignant: 7 cap případů, 230 odpovídajících kalibračních dvojic, 0 rozporů; stav consistent. Přesný resource ledger ani lepší alternativa nejsou potvrzené.
+- Hrbaty-Drak'thul-EU / Nek'zali the Soulcoiler: 5 původních Lava Burst případů, 276 Maelstrom snapshotů; 10 z 20 spender cast success s nulovou reportovanou Maelstrom cenou. Starší částka se nepřenáší jako aktuální balance. Podrobné fáze gainů jsou v HTML; plná priorita a dostupný spender nejsou potvrzené.
+- Íacek-Drak'thul-EU / Ula'tek: 7 původních Lava Burst případů, 811 Maelstrom snapshotů; 18 z 53 spender cast success s nulovou reportovanou Maelstrom cenou. Starší částka se nepřenáší jako aktuální balance. Podrobné fáze gainů jsou v HTML; plná priorita a dostupný spender nejsou potvrzené.
+- Hrbaty-Drak'thul-EU / The Lost Explorers: 0 původních Lava Burst případů, 202 Maelstrom snapshotů; 9 z 17 spender cast success s nulovou reportovanou Maelstrom cenou. Starší částka se nepřenáší jako aktuální balance. Podrobné fáze gainů jsou v HTML; plná priorita a dostupný spender nejsou potvrzené.
 
 ## Shadow: aktivity během Mind Flay: Insanity procu
 
 Počet cast success není počet ručních vstupů. Utility akce a debuffy jsou kontext, nikoli potvrzení nuceného pohybu nebo bezpečného channelu; vyšší APL větve jsou podmíněné.
 
-- Íácekpwn-Drak'thul-EU / Ula'tek: Shadow Word: Pain 6, Flash Heal 1, Angelic Feather 3, Shadowy Apparition 8, Tentacle Slam 2, Void Volley 1; Shadow Word: Pain na 5 NPC cílech, 4 utility success záznamů. Konkrétní časy a debuffy jsou v HTML; dostupný channel ani chyba hráče nejsou potvrzené.
 
 ## Arcane Soul: buff stav a rotační větve
 
 Přítomný Soul splňuje vlastní Barrage podmínku. Výslovně nepřítomný Clearcasting vylučuje první Missiles podmínku; nejde o prokázanou dostupnost Barrage nebo stav při stisku.
 
-- Corneilia-Sylvanas-EU / The Coiled Altar: 1 původních Blast případů; Clearcasting výslovně nepřítomný u 1. Konkrétní buff přechody a následující Barrage jsou v HTML, bez certifikace historické náhrady.
-- Corneilia-Sylvanas-EU / Kith'ix: 1 původních Blast případů; Clearcasting výslovně nepřítomný u 1. Konkrétní buff přechody a následující Barrage jsou v HTML, bez certifikace historické náhrady.
-- Johnyhoudini-BurningBlade-EU / Kith'ix: 1 původních Blast případů; Clearcasting výslovně nepřítomný u 1. Konkrétní buff přechody a následující Barrage jsou v HTML, bez certifikace historické náhrady.
+- Johnyhoudini-BurningBlade-EU / Ula'tek: 1 původních Blast případů; Clearcasting výslovně nepřítomný u 0. Konkrétní buff přechody a následující Barrage jsou v HTML, bez certifikace historické náhrady.
+- Këss-Drak'thul-EU / The Lost Explorers: 1 původních Blast případů; Clearcasting výslovně nepřítomný u 1. Konkrétní buff přechody a následující Barrage jsou v HTML, bez certifikace historické náhrady.
 
 ## Ret: Wake / Hammer of Light před capem
 
 Celá pozorovaná sekvence; cast success není přesný čas spotřeby free procu. Skrytý ready stav a případný opětovný grant se nepřevádějí na dostupný finisher.
 
-- Galneryus-Drak'thul-EU / Nek'zali the Soulcoiler / raw Blade 85416: po posledním předchozím Wake 2 Hammer of Light success; 1 explicitních free removal záznamů po posledním Hammeru. Skrytý ready, příčina removal a Wake remaining nejsou potvrzené.
-- Galneryus-Drak'thul-EU / Nek'zali the Soulcoiler / raw Blade 136874: po posledním předchozím Wake 2 Hammer of Light success; 1 explicitních free removal záznamů po posledním Hammeru. Skrytý ready, příčina removal a Wake remaining nejsou potvrzené.
-- Galneryus-Drak'thul-EU / Nek'zali the Soulcoiler / raw Blade 144175: po posledním předchozím Wake 2 Hammer of Light success; 1 explicitních free removal záznamů po posledním Hammeru. Skrytý ready, příčina removal a Wake remaining nejsou potvrzené.
-- Galneryus-Drak'thul-EU / Nek'zali the Soulcoiler / raw Blade 147506: po posledním předchozím Wake 2 Hammer of Light success; 1 explicitních free removal záznamů po posledním Hammeru. Skrytý ready, příčina removal a Wake remaining nejsou potvrzené.
-- Galneryus-Drak'thul-EU / Nek'zali the Soulcoiler / raw Blade 166413: po posledním předchozím Wake 2 Hammer of Light success; 1 explicitních free removal záznamů po posledním Hammeru. Skrytý ready, příčina removal a Wake remaining nejsou potvrzené.
-- Galneryus-Drak'thul-EU / Nek'zali the Soulcoiler / raw Blade 173731: po posledním předchozím Wake 2 Hammer of Light success; 1 explicitních free removal záznamů po posledním Hammeru. Skrytý ready, příčina removal a Wake remaining nejsou potvrzené.
 
 ## Ret: cena finisherů a procy při capu
 
 Základní cena v připnuté power tabulce je 3 Holy Power, včetně Hammer of Light. 5 HP v APL není cena; free větve a refundy jsou oddělené. Mana snapshot ani reportovaná cena nejsou skutečně zaplacená cena.
 
-- Galneryus-Drak'thul-EU / Nek'zali the Soulcoiler: 6 původních Blade of Justice capů, Divine Purpose přítomen u 0; 164 zaznamenaných finisher cast success. Počet událostí není počet hráčových rozhodnutí; Empyrean Legacy může vytvořit automatický Divine Storm. Dostupný finisher ani celá priorita nejsou potvrzené.
-- Galneryus-Drak'thul-EU / The Coiled Altar: 1 původních Blade of Justice capů, Divine Purpose přítomen u 0; 238 zaznamenaných finisher cast success. Počet událostí není počet hráčových rozhodnutí; Empyrean Legacy může vytvořit automatický Divine Storm. Dostupný finisher ani celá priorita nejsou potvrzené.
-- Galneryus-Drak'thul-EU / Ula'tek: 5 původních Blade of Justice capů, Divine Purpose přítomen u 0; 278 zaznamenaných finisher cast success. Počet událostí není počet hráčových rozhodnutí; Empyrean Legacy může vytvořit automatický Divine Storm. Dostupný finisher ani celá priorita nejsou potvrzené.
-- Galneryus-Drak'thul-EU / Kith'ix: 2 původních Blade of Justice capů, Divine Purpose přítomen u 1; 136 zaznamenaných finisher cast success. Počet událostí není počet hráčových rozhodnutí; Empyrean Legacy může vytvořit automatický Divine Storm. Dostupný finisher ani celá priorita nejsou potvrzené.
-- Galneryus-Drak'thul-EU / Entombed Sentinels: 2 původních Blade of Justice capů, Divine Purpose přítomen u 0; 151 zaznamenaných finisher cast success. Počet událostí není počet hráčových rozhodnutí; Empyrean Legacy může vytvořit automatický Divine Storm. Dostupný finisher ani celá priorita nejsou potvrzené.
-- Galneryus-Drak'thul-EU / Vashnik the Malignant: 0 původních Blade of Justice capů, Divine Purpose přítomen u 0; 136 zaznamenaných finisher cast success. Počet událostí není počet hráčových rozhodnutí; Empyrean Legacy může vytvořit automatický Divine Storm. Dostupný finisher ani celá priorita nejsou potvrzené.
+- Iluneesama-Drak'thul-EU / Nek'zali the Soulcoiler: 5 původních Blade of Justice capů, Divine Purpose přítomen u 1; 95 zaznamenaných finisher cast success. Počet událostí není počet hráčových rozhodnutí; Empyrean Legacy může vytvořit automatický Divine Storm. Dostupný finisher ani celá priorita nejsou potvrzené.
+- Galneryus-Drak'thul-EU / Nek'zali the Soulcoiler: 0 původních Blade of Justice capů, Divine Purpose přítomen u 0; 116 zaznamenaných finisher cast success. Počet událostí není počet hráčových rozhodnutí; Empyrean Legacy může vytvořit automatický Divine Storm. Dostupný finisher ani celá priorita nejsou potvrzené.
+- Iluneesama-Drak'thul-EU / The Coiled Altar: 11 původních Blade of Justice capů, Divine Purpose přítomen u 3; 163 zaznamenaných finisher cast success. Počet událostí není počet hráčových rozhodnutí; Empyrean Legacy může vytvořit automatický Divine Storm. Dostupný finisher ani celá priorita nejsou potvrzené.
+- Galneryus-Drak'thul-EU / The Coiled Altar: 1 původních Blade of Justice capů, Divine Purpose přítomen u 0; 182 zaznamenaných finisher cast success. Počet událostí není počet hráčových rozhodnutí; Empyrean Legacy může vytvořit automatický Divine Storm. Dostupný finisher ani celá priorita nejsou potvrzené.
+- Iluneesama-Drak'thul-EU / Ula'tek: 4 původních Blade of Justice capů, Divine Purpose přítomen u 0; 192 zaznamenaných finisher cast success. Počet událostí není počet hráčových rozhodnutí; Empyrean Legacy může vytvořit automatický Divine Storm. Dostupný finisher ani celá priorita nejsou potvrzené.
+- Galneryus-Drak'thul-EU / Ula'tek: 0 původních Blade of Justice capů, Divine Purpose přítomen u 0; 205 zaznamenaných finisher cast success. Počet událostí není počet hráčových rozhodnutí; Empyrean Legacy může vytvořit automatický Divine Storm. Dostupný finisher ani celá priorita nejsou potvrzené.
+- Iluneesama-Drak'thul-EU / The Lost Explorers: 6 původních Blade of Justice capů, Divine Purpose přítomen u 1; 77 zaznamenaných finisher cast success. Počet událostí není počet hráčových rozhodnutí; Empyrean Legacy může vytvořit automatický Divine Storm. Dostupný finisher ani celá priorita nejsou potvrzené.
+- Galneryus-Drak'thul-EU / The Lost Explorers: 2 původních Blade of Justice capů, Divine Purpose přítomen u 0; 97 zaznamenaných finisher cast success. Počet událostí není počet hráčových rozhodnutí; Empyrean Legacy může vytvořit automatický Divine Storm. Dostupný finisher ani celá priorita nejsou potvrzené.
+- Iluneesama-Drak'thul-EU / Sszorak: 9 původních Blade of Justice capů, Divine Purpose přítomen u 1; 106 zaznamenaných finisher cast success. Počet událostí není počet hráčových rozhodnutí; Empyrean Legacy může vytvořit automatický Divine Storm. Dostupný finisher ani celá priorita nejsou potvrzené.
+- Galneryus-Drak'thul-EU / Sszorak: 2 původních Blade of Justice capů, Divine Purpose přítomen u 0; 123 zaznamenaných finisher cast success. Počet událostí není počet hráčových rozhodnutí; Empyrean Legacy může vytvořit automatický Divine Storm. Dostupný finisher ani celá priorita nejsou potvrzené.
+- Iluneesama-Drak'thul-EU / Kith'ix: 5 původních Blade of Justice capů, Divine Purpose přítomen u 1; 109 zaznamenaných finisher cast success. Počet událostí není počet hráčových rozhodnutí; Empyrean Legacy může vytvořit automatický Divine Storm. Dostupný finisher ani celá priorita nejsou potvrzené.
+- Galneryus-Drak'thul-EU / Kith'ix: 1 původních Blade of Justice capů, Divine Purpose přítomen u 0; 127 zaznamenaných finisher cast success. Počet událostí není počet hráčových rozhodnutí; Empyrean Legacy může vytvořit automatický Divine Storm. Dostupný finisher ani celá priorita nejsou potvrzené.
 
 ## Resource a procy před sledovanými generátory
 
-- Vejr-Drak'thul-EU / Nek'zali the Soulcoiler: 27 případů; u 17 předchozí snapshot na maximu s nulovou reportovanou cenou. Snapshot s nenulovou cenou nepřenášíme jako stav po spenderu; dostupnost alternativ ani stav při stisku nejsou potvrzené.
-- Galneryus-Drak'thul-EU / Nek'zali the Soulcoiler: 6 případů; u 0 předchozí snapshot na maximu s nulovou reportovanou cenou. Snapshot s nenulovou cenou nepřenášíme jako stav po spenderu; dostupnost alternativ ani stav při stisku nejsou potvrzené.
-- Vejr-Drak'thul-EU / The Coiled Altar: 39 případů; u 21 předchozí snapshot na maximu s nulovou reportovanou cenou. Snapshot s nenulovou cenou nepřenášíme jako stav po spenderu; dostupnost alternativ ani stav při stisku nejsou potvrzené.
+- Iluneesama-Drak'thul-EU / Nek'zali the Soulcoiler: 5 případů; u 0 předchozí snapshot na maximu s nulovou reportovanou cenou. Snapshot s nenulovou cenou nepřenášíme jako stav po spenderu; dostupnost alternativ ani stav při stisku nejsou potvrzené.
+- Vejr-Drak'thul-EU / Nek'zali the Soulcoiler: 4 případů; u 1 předchozí snapshot na maximu s nulovou reportovanou cenou. Snapshot s nenulovou cenou nepřenášíme jako stav po spenderu; dostupnost alternativ ani stav při stisku nejsou potvrzené.
+- Galneryus-Drak'thul-EU / Nek'zali the Soulcoiler: 0 případů; u 0 předchozí snapshot na maximu s nulovou reportovanou cenou. Snapshot s nenulovou cenou nepřenášíme jako stav po spenderu; dostupnost alternativ ani stav při stisku nejsou potvrzené.
+- Iluneesama-Drak'thul-EU / The Coiled Altar: 11 případů; u 0 předchozí snapshot na maximu s nulovou reportovanou cenou. Snapshot s nenulovou cenou nepřenášíme jako stav po spenderu; dostupnost alternativ ani stav při stisku nejsou potvrzené.
+- Vejr-Drak'thul-EU / The Coiled Altar: 11 případů; u 6 předchozí snapshot na maximu s nulovou reportovanou cenou. Snapshot s nenulovou cenou nepřenášíme jako stav po spenderu; dostupnost alternativ ani stav při stisku nejsou potvrzené.
 - Galneryus-Drak'thul-EU / The Coiled Altar: 1 případů; u 0 předchozí snapshot na maximu s nulovou reportovanou cenou. Snapshot s nenulovou cenou nepřenášíme jako stav po spenderu; dostupnost alternativ ani stav při stisku nejsou potvrzené.
-- Vejr-Drak'thul-EU / Ula'tek: 53 případů; u 34 předchozí snapshot na maximu s nulovou reportovanou cenou. Snapshot s nenulovou cenou nepřenášíme jako stav po spenderu; dostupnost alternativ ani stav při stisku nejsou potvrzené.
-- Galneryus-Drak'thul-EU / Ula'tek: 5 případů; u 0 předchozí snapshot na maximu s nulovou reportovanou cenou. Snapshot s nenulovou cenou nepřenášíme jako stav po spenderu; dostupnost alternativ ani stav při stisku nejsou potvrzené.
-- Vejr-Drak'thul-EU / Kith'ix: 11 případů; u 7 předchozí snapshot na maximu s nulovou reportovanou cenou. Snapshot s nenulovou cenou nepřenášíme jako stav po spenderu; dostupnost alternativ ani stav při stisku nejsou potvrzené.
-- Galneryus-Drak'thul-EU / Kith'ix: 2 případů; u 0 předchozí snapshot na maximu s nulovou reportovanou cenou. Snapshot s nenulovou cenou nepřenášíme jako stav po spenderu; dostupnost alternativ ani stav při stisku nejsou potvrzené.
-- Vejr-Drak'thul-EU / Entombed Sentinels: 33 případů; u 28 předchozí snapshot na maximu s nulovou reportovanou cenou. Snapshot s nenulovou cenou nepřenášíme jako stav po spenderu; dostupnost alternativ ani stav při stisku nejsou potvrzené.
-- Galneryus-Drak'thul-EU / Entombed Sentinels: 2 případů; u 0 předchozí snapshot na maximu s nulovou reportovanou cenou. Snapshot s nenulovou cenou nepřenášíme jako stav po spenderu; dostupnost alternativ ani stav při stisku nejsou potvrzené.
-- Vejr-Drak'thul-EU / Vashnik the Malignant: 13 případů; u 7 předchozí snapshot na maximu s nulovou reportovanou cenou. Snapshot s nenulovou cenou nepřenášíme jako stav po spenderu; dostupnost alternativ ani stav při stisku nejsou potvrzené.
-- Galneryus-Drak'thul-EU / Vashnik the Malignant: 0 případů; u 0 předchozí snapshot na maximu s nulovou reportovanou cenou. Snapshot s nenulovou cenou nepřenášíme jako stav po spenderu; dostupnost alternativ ani stav při stisku nejsou potvrzené.
+- Iluneesama-Drak'thul-EU / Ula'tek: 4 případů; u 0 předchozí snapshot na maximu s nulovou reportovanou cenou. Snapshot s nenulovou cenou nepřenášíme jako stav po spenderu; dostupnost alternativ ani stav při stisku nejsou potvrzené.
+- Vejr-Drak'thul-EU / Ula'tek: 16 případů; u 9 předchozí snapshot na maximu s nulovou reportovanou cenou. Snapshot s nenulovou cenou nepřenášíme jako stav po spenderu; dostupnost alternativ ani stav při stisku nejsou potvrzené.
+- Galneryus-Drak'thul-EU / Ula'tek: 0 případů; u 0 předchozí snapshot na maximu s nulovou reportovanou cenou. Snapshot s nenulovou cenou nepřenášíme jako stav po spenderu; dostupnost alternativ ani stav při stisku nejsou potvrzené.
+- Iluneesama-Drak'thul-EU / The Lost Explorers: 6 případů; u 0 předchozí snapshot na maximu s nulovou reportovanou cenou. Snapshot s nenulovou cenou nepřenášíme jako stav po spenderu; dostupnost alternativ ani stav při stisku nejsou potvrzené.
+- Vejr-Drak'thul-EU / The Lost Explorers: 9 případů; u 6 předchozí snapshot na maximu s nulovou reportovanou cenou. Snapshot s nenulovou cenou nepřenášíme jako stav po spenderu; dostupnost alternativ ani stav při stisku nejsou potvrzené.
+- Galneryus-Drak'thul-EU / The Lost Explorers: 2 případů; u 0 předchozí snapshot na maximu s nulovou reportovanou cenou. Snapshot s nenulovou cenou nepřenášíme jako stav po spenderu; dostupnost alternativ ani stav při stisku nejsou potvrzené.
+- Iluneesama-Drak'thul-EU / Sszorak: 9 případů; u 0 předchozí snapshot na maximu s nulovou reportovanou cenou. Snapshot s nenulovou cenou nepřenášíme jako stav po spenderu; dostupnost alternativ ani stav při stisku nejsou potvrzené.
+- Vejr-Drak'thul-EU / Sszorak: 6 případů; u 4 předchozí snapshot na maximu s nulovou reportovanou cenou. Snapshot s nenulovou cenou nepřenášíme jako stav po spenderu; dostupnost alternativ ani stav při stisku nejsou potvrzené.
+- Galneryus-Drak'thul-EU / Sszorak: 2 případů; u 0 předchozí snapshot na maximu s nulovou reportovanou cenou. Snapshot s nenulovou cenou nepřenášíme jako stav po spenderu; dostupnost alternativ ani stav při stisku nejsou potvrzené.
+- Iluneesama-Drak'thul-EU / Kith'ix: 5 případů; u 0 předchozí snapshot na maximu s nulovou reportovanou cenou. Snapshot s nenulovou cenou nepřenášíme jako stav po spenderu; dostupnost alternativ ani stav při stisku nejsou potvrzené.
+- Vejr-Drak'thul-EU / Kith'ix: 10 případů; u 6 předchozí snapshot na maximu s nulovou reportovanou cenou. Snapshot s nenulovou cenou nepřenášíme jako stav po spenderu; dostupnost alternativ ani stav při stisku nejsou potvrzené.
+- Galneryus-Drak'thul-EU / Kith'ix: 1 případů; u 0 předchozí snapshot na maximu s nulovou reportovanou cenou. Snapshot s nenulovou cenou nepřenášíme jako stav po spenderu; dostupnost alternativ ani stav při stisku nejsou potvrzené.
 
 ## Afterimage: výjimka pro Eruption bez Ebon Might
 
 Vyšší referenční větev při maximu Essence Burst nevyžaduje Ebon Might. Splněná stack podmínka není potvrzení celé priority; nesplněná není důkaz chyby.
 
-- Fobina-Drak'thul-EU / Nek'zali the Soulcoiler: 1 splněných stack podmínek, 2 nesplněných, 1 neurčených. Build referenční maximum: 2; jednotlivé stacky a důkazy v HTML.
-- Fobina-Drak'thul-EU / The Coiled Altar: 0 splněných stack podmínek, 8 nesplněných, 3 neurčených. Build referenční maximum: 2; jednotlivé stacky a důkazy v HTML.
-- Fobina-Drak'thul-EU / Ula'tek: 1 splněných stack podmínek, 18 nesplněných, 4 neurčených. Build referenční maximum: 2; jednotlivé stacky a důkazy v HTML.
-- Fobina-Drak'thul-EU / Kith'ix: 1 splněných stack podmínek, 7 nesplněných, 0 neurčených. Build referenční maximum: 2; jednotlivé stacky a důkazy v HTML.
-- Fobina-Drak'thul-EU / Entombed Sentinels: 0 splněných stack podmínek, 8 nesplněných, 2 neurčených. Build referenční maximum: 2; jednotlivé stacky a důkazy v HTML.
-- Fobina-Drak'thul-EU / Vashnik the Malignant: 2 splněných stack podmínek, 6 nesplněných, 1 neurčených. Build referenční maximum: 2; jednotlivé stacky a důkazy v HTML.
+- Fobina-Drak'thul-EU / Nek'zali the Soulcoiler: 1 splněných stack podmínek, 0 nesplněných, 0 neurčených. Build referenční maximum: 2; jednotlivé stacky a důkazy v HTML.
+- Fobina-Drak'thul-EU / The Coiled Altar: 0 splněných stack podmínek, 3 nesplněných, 2 neurčených. Build referenční maximum: 2; jednotlivé stacky a důkazy v HTML.
+- Fobina-Drak'thul-EU / Ula'tek: 1 splněných stack podmínek, 10 nesplněných, 2 neurčených. Build referenční maximum: 2; jednotlivé stacky a důkazy v HTML.
+- Fobina-Drak'thul-EU / The Lost Explorers: 0 splněných stack podmínek, 2 nesplněných, 0 neurčených. Build referenční maximum: 2; jednotlivé stacky a důkazy v HTML.
+- Fobina-Drak'thul-EU / Sszorak: 0 splněných stack podmínek, 2 nesplněných, 0 neurčených. Build referenční maximum: 2; jednotlivé stacky a důkazy v HTML.
+- Fobina-Drak'thul-EU / Kith'ix: 1 splněných stack podmínek, 2 nesplněných, 2 neurčených. Build referenční maximum: 2; jednotlivé stacky a důkazy v HTML.
 
 ## Eruption: ověřený stav buffů a skutečné pořadí
 
-- Fobina-Drak'thul-EU / Nek'zali the Soulcoiler: 4 dokončených Eruption bez vlastního Ebon Might při startu; u 4 chyběl při startu i všem ostatním DPS. Essence Burst přítomen u 4. Předchozí a následující Ebon Might a okolní casty v HTML; časová návaznost neprokazuje připravený cooldown ani lepší náhradu.
-- Fobina-Drak'thul-EU / The Coiled Altar: 11 dokončených Eruption bez vlastního Ebon Might při startu; u 9 chyběl při startu i všem ostatním DPS. Essence Burst přítomen u 2. Předchozí a následující Ebon Might a okolní casty v HTML; časová návaznost neprokazuje připravený cooldown ani lepší náhradu.
-- Fobina-Drak'thul-EU / Ula'tek: 23 dokončených Eruption bez vlastního Ebon Might při startu; u 12 chyběl při startu i všem ostatním DPS. Essence Burst přítomen u 11. Předchozí a následující Ebon Might a okolní casty v HTML; časová návaznost neprokazuje připravený cooldown ani lepší náhradu.
-- Fobina-Drak'thul-EU / Kith'ix: 8 dokončených Eruption bez vlastního Ebon Might při startu; u 8 chyběl při startu i všem ostatním DPS. Essence Burst přítomen u 6. Předchozí a následující Ebon Might a okolní casty v HTML; časová návaznost neprokazuje připravený cooldown ani lepší náhradu.
-- Fobina-Drak'thul-EU / Entombed Sentinels: 10 dokončených Eruption bez vlastního Ebon Might při startu; u 10 chyběl při startu i všem ostatním DPS. Essence Burst přítomen u 3. Předchozí a následující Ebon Might a okolní casty v HTML; časová návaznost neprokazuje připravený cooldown ani lepší náhradu.
-- Fobina-Drak'thul-EU / Vashnik the Malignant: 9 dokončených Eruption bez vlastního Ebon Might při startu; u 9 chyběl při startu i všem ostatním DPS. Essence Burst přítomen u 5. Předchozí a následující Ebon Might a okolní casty v HTML; časová návaznost neprokazuje připravený cooldown ani lepší náhradu.
+- Fobina-Drak'thul-EU / Nek'zali the Soulcoiler: 1 dokončených Eruption bez vlastního Ebon Might při startu; u 1 chyběl při startu i všem ostatním DPS. Essence Burst přítomen u 1. Předchozí a následující Ebon Might a okolní casty v HTML; časová návaznost neprokazuje připravený cooldown ani lepší náhradu.
+- Fobina-Drak'thul-EU / The Coiled Altar: 5 dokončených Eruption bez vlastního Ebon Might při startu; u 1 chyběl při startu i všem ostatním DPS. Essence Burst přítomen u 2. Předchozí a následující Ebon Might a okolní casty v HTML; časová návaznost neprokazuje připravený cooldown ani lepší náhradu.
+- Fobina-Drak'thul-EU / Ula'tek: 13 dokončených Eruption bez vlastního Ebon Might při startu; u 2 chyběl při startu i všem ostatním DPS. Essence Burst přítomen u 8. Předchozí a následující Ebon Might a okolní casty v HTML; časová návaznost neprokazuje připravený cooldown ani lepší náhradu.
+- Fobina-Drak'thul-EU / The Lost Explorers: 2 dokončených Eruption bez vlastního Ebon Might při startu; u 0 chyběl při startu i všem ostatním DPS. Essence Burst přítomen u 1. Předchozí a následující Ebon Might a okolní casty v HTML; časová návaznost neprokazuje připravený cooldown ani lepší náhradu.
+- Fobina-Drak'thul-EU / Sszorak: 2 dokončených Eruption bez vlastního Ebon Might při startu; u 2 chyběl při startu i všem ostatním DPS. Essence Burst přítomen u 0. Předchozí a následující Ebon Might a okolní casty v HTML; časová návaznost neprokazuje připravený cooldown ani lepší náhradu.
+- Fobina-Drak'thul-EU / Kith'ix: 5 dokončených Eruption bez vlastního Ebon Might při startu; u 3 chyběl při startu i všem ostatním DPS. Essence Burst přítomen u 2. Předchozí a následující Ebon Might a okolní casty v HTML; časová návaznost neprokazuje připravený cooldown ani lepší náhradu.
 
 ## Doplněná kontrola Runic Power, Meta, PI příjemců a podpory
 
-- Fobina-Drak'thul-EU / Nek'zali the Soulcoiler: 37 celých pozorovaných burst buffů spoluhráčů; Eons zahrnuje i dříve spuštěné buffy. Úplné časy a pokrytí v HTML, optimální příjemce Prescience se neurčuje.
-- Luminos-BurningBlade-EU / Nek'zali the Soulcoiler: PI na Hrbaty-Drak'thul-EU; vlastní kopie přes Twins doložená: True. Absence vlastní Voidform sama neurčuje špatné PI načasování.
-- Luminos-BurningBlade-EU / Nek'zali the Soulcoiler: PI na Hrbaty-Drak'thul-EU; vlastní kopie přes Twins doložená: True. Absence vlastní Voidform sama neurčuje špatné PI načasování.
-- Omniblue-Drak'thul-EU / Nek'zali the Soulcoiler: PI na Omniblue-Drak'thul-EU; vlastní kopie přes Twins doložená: False. Absence vlastní Voidform sama neurčuje špatné PI načasování.
-- Omniblue-Drak'thul-EU / Nek'zali the Soulcoiler: PI na Omniblue-Drak'thul-EU; vlastní kopie přes Twins doložená: False. Absence vlastní Voidform sama neurčuje špatné PI načasování.
-- Vejr-Drak'thul-EU / Nek'zali the Soulcoiler: 27 přímých Runic Power cap událostí (Scourge Strike 24, Soul Reaper 3); Soul Reaper a Festering Strike mají vlastní vyšší/přípravné větve. Dostupný spender a DPS ztráta nejsou potvrzené.
+- Kirill-Drak'thul-EU / Nek'zali the Soulcoiler: 3 pozorovaných Meta oken, 0 delších aktivních oken bez Void Ray. Haste a channel délka se nehodnotí.
+- Íácekpwn-Drak'thul-EU / Nek'zali the Soulcoiler: PI na Iluneesama-Drak'thul-EU; vlastní kopie přes Twins doložená: True. Absence vlastní Voidform sama neurčuje špatné PI načasování.
+- Íácekpwn-Drak'thul-EU / Nek'zali the Soulcoiler: PI na Iluneesama-Drak'thul-EU; vlastní kopie přes Twins doložená: True. Absence vlastní Voidform sama neurčuje špatné PI načasování.
+- Fobina-Drak'thul-EU / Nek'zali the Soulcoiler: 46 celých pozorovaných burst buffů spoluhráčů; Eons zahrnuje i dříve spuštěné buffy. Úplné časy a pokrytí v HTML, optimální příjemce Prescience se neurčuje.
+- Vejr-Drak'thul-EU / Nek'zali the Soulcoiler: 4 přímých Runic Power cap událostí (Scourge Strike 4); Soul Reaper a Festering Strike mají vlastní vyšší/přípravné větve. Dostupný spender a DPS ztráta nejsou potvrzené.
 - Kirill-Drak'thul-EU / The Coiled Altar: 5 pozorovaných Meta oken, 0 delších aktivních oken bez Void Ray. Haste a channel délka se nehodnotí.
-- Íácekpwn-Drak'thul-EU / The Coiled Altar: PI na Slejhy-Drak'thul-EU; vlastní kopie přes Twins doložená: True. Absence vlastní Voidform sama neurčuje špatné PI načasování.
-- Íácekpwn-Drak'thul-EU / The Coiled Altar: PI na Slejhy-Drak'thul-EU; vlastní kopie přes Twins doložená: True. Absence vlastní Voidform sama neurčuje špatné PI načasování.
-- Íácekpwn-Drak'thul-EU / The Coiled Altar: PI na Slejhy-Drak'thul-EU; vlastní kopie přes Twins doložená: True. Absence vlastní Voidform sama neurčuje špatné PI načasování.
-- Íácekpwn-Drak'thul-EU / The Coiled Altar: PI na Slejhy-Drak'thul-EU; vlastní kopie přes Twins doložená: True. Absence vlastní Voidform sama neurčuje špatné PI načasování.
+- Íácekpwn-Drak'thul-EU / The Coiled Altar: PI na Iluneesama-Drak'thul-EU; vlastní kopie přes Twins doložená: True. Absence vlastní Voidform sama neurčuje špatné PI načasování.
+- Íácekpwn-Drak'thul-EU / The Coiled Altar: PI na Iluneesama-Drak'thul-EU; vlastní kopie přes Twins doložená: True. Absence vlastní Voidform sama neurčuje špatné PI načasování.
+- Íácekpwn-Drak'thul-EU / The Coiled Altar: PI na Iluneesama-Drak'thul-EU; vlastní kopie přes Twins doložená: True. Absence vlastní Voidform sama neurčuje špatné PI načasování.
 - Fobina-Drak'thul-EU / The Coiled Altar: 77 celých pozorovaných burst buffů spoluhráčů; Eons zahrnuje i dříve spuštěné buffy. Úplné časy a pokrytí v HTML, optimální příjemce Prescience se neurčuje.
-- Omniblue-Drak'thul-EU / The Coiled Altar: PI na Omniblue-Drak'thul-EU; vlastní kopie přes Twins doložená: False. Absence vlastní Voidform sama neurčuje špatné PI načasování.
-- Omniblue-Drak'thul-EU / The Coiled Altar: PI na Omniblue-Drak'thul-EU; vlastní kopie přes Twins doložená: False. Absence vlastní Voidform sama neurčuje špatné PI načasování.
-- Omniblue-Drak'thul-EU / The Coiled Altar: PI na Omniblue-Drak'thul-EU; vlastní kopie přes Twins doložená: False. Absence vlastní Voidform sama neurčuje špatné PI načasování.
-- Omniblue-Drak'thul-EU / The Coiled Altar: PI na Omniblue-Drak'thul-EU; vlastní kopie přes Twins doložená: False. Absence vlastní Voidform sama neurčuje špatné PI načasování.
-- Vejr-Drak'thul-EU / The Coiled Altar: 39 přímých Runic Power cap událostí (Scourge Strike 29, Soul Reaper 7, Festering Strike 3); Soul Reaper a Festering Strike mají vlastní vyšší/přípravné větve. Dostupný spender a DPS ztráta nejsou potvrzené.
-- Kirill-Drak'thul-EU / Ula'tek: 7 pozorovaných Meta oken, 0 delších aktivních oken bez Void Ray. Haste a channel délka se nehodnotí.
-- Íácekpwn-Drak'thul-EU / Ula'tek: PI na Slejhy-Drak'thul-EU; vlastní kopie přes Twins doložená: True. Absence vlastní Voidform sama neurčuje špatné PI načasování.
-- Íácekpwn-Drak'thul-EU / Ula'tek: PI na Slejhy-Drak'thul-EU; vlastní kopie přes Twins doložená: True. Absence vlastní Voidform sama neurčuje špatné PI načasování.
-- Íácekpwn-Drak'thul-EU / Ula'tek: PI na Slejhy-Drak'thul-EU; vlastní kopie přes Twins doložená: True. Absence vlastní Voidform sama neurčuje špatné PI načasování.
-- Íácekpwn-Drak'thul-EU / Ula'tek: PI na Slejhy-Drak'thul-EU; vlastní kopie přes Twins doložená: True. Absence vlastní Voidform sama neurčuje špatné PI načasování.
-- Fobina-Drak'thul-EU / Ula'tek: 99 celých pozorovaných burst buffů spoluhráčů; Eons zahrnuje i dříve spuštěné buffy. Úplné časy a pokrytí v HTML, optimální příjemce Prescience se neurčuje.
-- Omniblue-Drak'thul-EU / Ula'tek: PI na Omniblue-Drak'thul-EU; vlastní kopie přes Twins doložená: False. Absence vlastní Voidform sama neurčuje špatné PI načasování.
-- Omniblue-Drak'thul-EU / Ula'tek: PI na Omniblue-Drak'thul-EU; vlastní kopie přes Twins doložená: False. Absence vlastní Voidform sama neurčuje špatné PI načasování.
-- Omniblue-Drak'thul-EU / Ula'tek: PI na Omniblue-Drak'thul-EU; vlastní kopie přes Twins doložená: False. Absence vlastní Voidform sama neurčuje špatné PI načasování.
-- Omniblue-Drak'thul-EU / Ula'tek: PI na Omniblue-Drak'thul-EU; vlastní kopie přes Twins doložená: False. Absence vlastní Voidform sama neurčuje špatné PI načasování.
-- Vejr-Drak'thul-EU / Ula'tek: 53 přímých Runic Power cap událostí (Scourge Strike 49, Soul Reaper 3, Festering Strike 1); Soul Reaper a Festering Strike mají vlastní vyšší/přípravné větve. Dostupný spender a DPS ztráta nejsou potvrzené.
-- Kirill-Drak'thul-EU / Kith'ix: 4 pozorovaných Meta oken, 0 delších aktivních oken bez Void Ray. Haste a channel délka se nehodnotí.
+- Vejr-Drak'thul-EU / The Coiled Altar: 11 přímých Runic Power cap událostí (Scourge Strike 8, Soul Reaper 3); Soul Reaper a Festering Strike mají vlastní vyšší/přípravné větve. Dostupný spender a DPS ztráta nejsou potvrzené.
+- Kirill-Drak'thul-EU / Ula'tek: 5 pozorovaných Meta oken, 0 delších aktivních oken bez Void Ray. Haste a channel délka se nehodnotí.
+- Fobina-Drak'thul-EU / Ula'tek: 96 celých pozorovaných burst buffů spoluhráčů; Eons zahrnuje i dříve spuštěné buffy. Úplné časy a pokrytí v HTML, optimální příjemce Prescience se neurčuje.
+- Vejr-Drak'thul-EU / Ula'tek: 16 přímých Runic Power cap událostí (Scourge Strike 11, Festering Strike 3, Soul Reaper 2); Soul Reaper a Festering Strike mají vlastní vyšší/přípravné větve. Dostupný spender a DPS ztráta nejsou potvrzené.
+- Kirill-Drak'thul-EU / The Lost Explorers: 3 pozorovaných Meta oken, 0 delších aktivních oken bez Void Ray. Haste a channel délka se nehodnotí.
+- Íácekpwn-Drak'thul-EU / The Lost Explorers: PI na Slejhy-Drak'thul-EU; vlastní kopie přes Twins doložená: True. Absence vlastní Voidform sama neurčuje špatné PI načasování.
+- Íácekpwn-Drak'thul-EU / The Lost Explorers: PI na Slejhy-Drak'thul-EU; vlastní kopie přes Twins doložená: True. Absence vlastní Voidform sama neurčuje špatné PI načasování.
+- Fobina-Drak'thul-EU / The Lost Explorers: 46 celých pozorovaných burst buffů spoluhráčů; Eons zahrnuje i dříve spuštěné buffy. Úplné časy a pokrytí v HTML, optimální příjemce Prescience se neurčuje.
+- Vejr-Drak'thul-EU / The Lost Explorers: 9 přímých Runic Power cap událostí (Scourge Strike 6, Soul Reaper 3); Soul Reaper a Festering Strike mají vlastní vyšší/přípravné větve. Dostupný spender a DPS ztráta nejsou potvrzené.
+- Kirill-Drak'thul-EU / Sszorak: 2 pozorovaných Meta oken, 0 delších aktivních oken bez Void Ray. Haste a channel délka se nehodnotí.
+- Íácekpwn-Drak'thul-EU / Sszorak: PI na Slejhy-Drak'thul-EU; vlastní kopie přes Twins doložená: True. Absence vlastní Voidform sama neurčuje špatné PI načasování.
+- Íácekpwn-Drak'thul-EU / Sszorak: PI na Slejhy-Drak'thul-EU; vlastní kopie přes Twins doložená: True. Absence vlastní Voidform sama neurčuje špatné PI načasování.
+- Fobina-Drak'thul-EU / Sszorak: 54 celých pozorovaných burst buffů spoluhráčů; Eons zahrnuje i dříve spuštěné buffy. Úplné časy a pokrytí v HTML, optimální příjemce Prescience se neurčuje.
+- Vejr-Drak'thul-EU / Sszorak: 6 přímých Runic Power cap událostí (Scourge Strike 5, Soul Reaper 1); Soul Reaper a Festering Strike mají vlastní vyšší/přípravné větve. Dostupný spender a DPS ztráta nejsou potvrzené.
+- Kirill-Drak'thul-EU / Kith'ix: 3 pozorovaných Meta oken, 0 delších aktivních oken bez Void Ray. Haste a channel délka se nehodnotí.
+- Íácekpwn-Drak'thul-EU / Kith'ix: PI na Slejhy-Drak'thul-EU; vlastní kopie přes Twins doložená: True. Absence vlastní Voidform sama neurčuje špatné PI načasování.
+- Íácekpwn-Drak'thul-EU / Kith'ix: PI na Slejhy-Drak'thul-EU; vlastní kopie přes Twins doložená: True. Absence vlastní Voidform sama neurčuje špatné PI načasování.
 - Fobina-Drak'thul-EU / Kith'ix: 52 celých pozorovaných burst buffů spoluhráčů; Eons zahrnuje i dříve spuštěné buffy. Úplné časy a pokrytí v HTML, optimální příjemce Prescience se neurčuje.
-- Omniblue-Drak'thul-EU / Kith'ix: PI na Omniblue-Drak'thul-EU; vlastní kopie přes Twins doložená: False. Absence vlastní Voidform sama neurčuje špatné PI načasování.
-- Omniblue-Drak'thul-EU / Kith'ix: PI na Omniblue-Drak'thul-EU; vlastní kopie přes Twins doložená: False. Absence vlastní Voidform sama neurčuje špatné PI načasování.
-- Vejr-Drak'thul-EU / Kith'ix: 11 přímých Runic Power cap událostí (Scourge Strike 9, Festering Strike 1, Soul Reaper 1); Soul Reaper a Festering Strike mají vlastní vyšší/přípravné větve. Dostupný spender a DPS ztráta nejsou potvrzené.
-- Kirill-Drak'thul-EU / Entombed Sentinels: 4 pozorovaných Meta oken, 0 delších aktivních oken bez Void Ray. Haste a channel délka se nehodnotí.
-- Íácekpwn-Drak'thul-EU / Entombed Sentinels: PI na Slejhy-Drak'thul-EU; vlastní kopie přes Twins doložená: True. Absence vlastní Voidform sama neurčuje špatné PI načasování.
-- Íácekpwn-Drak'thul-EU / Entombed Sentinels: PI na Slejhy-Drak'thul-EU; vlastní kopie přes Twins doložená: True. Absence vlastní Voidform sama neurčuje špatné PI načasování.
-- Íácekpwn-Drak'thul-EU / Entombed Sentinels: PI na Slejhy-Drak'thul-EU; vlastní kopie přes Twins doložená: True. Absence vlastní Voidform sama neurčuje špatné PI načasování.
-- Fobina-Drak'thul-EU / Entombed Sentinels: 52 celých pozorovaných burst buffů spoluhráčů; Eons zahrnuje i dříve spuštěné buffy. Úplné časy a pokrytí v HTML, optimální příjemce Prescience se neurčuje.
-- Omniblue-Drak'thul-EU / Entombed Sentinels: PI na Omniblue-Drak'thul-EU; vlastní kopie přes Twins doložená: False. Absence vlastní Voidform sama neurčuje špatné PI načasování.
-- Omniblue-Drak'thul-EU / Entombed Sentinels: PI na Omniblue-Drak'thul-EU; vlastní kopie přes Twins doložená: False. Absence vlastní Voidform sama neurčuje špatné PI načasování.
-- Vejr-Drak'thul-EU / Entombed Sentinels: 33 přímých Runic Power cap událostí (Scourge Strike 27, Soul Reaper 5, Festering Strike 1); Soul Reaper a Festering Strike mají vlastní vyšší/přípravné větve. Dostupný spender a DPS ztráta nejsou potvrzené.
-- Kirill-Drak'thul-EU / Vashnik the Malignant: 3 pozorovaných Meta oken, 0 delších aktivních oken bez Void Ray. Haste a channel délka se nehodnotí.
-- Íácekpwn-Drak'thul-EU / Vashnik the Malignant: PI na Slejhy-Drak'thul-EU; vlastní kopie přes Twins doložená: True. Absence vlastní Voidform sama neurčuje špatné PI načasování.
-- Íácekpwn-Drak'thul-EU / Vashnik the Malignant: PI na Slejhy-Drak'thul-EU; vlastní kopie přes Twins doložená: True. Absence vlastní Voidform sama neurčuje špatné PI načasování.
-- Fobina-Drak'thul-EU / Vashnik the Malignant: 45 celých pozorovaných burst buffů spoluhráčů; Eons zahrnuje i dříve spuštěné buffy. Úplné časy a pokrytí v HTML, optimální příjemce Prescience se neurčuje.
-- Omniblue-Drak'thul-EU / Vashnik the Malignant: PI na Omniblue-Drak'thul-EU; vlastní kopie přes Twins doložená: False. Absence vlastní Voidform sama neurčuje špatné PI načasování.
-- Omniblue-Drak'thul-EU / Vashnik the Malignant: PI na Omniblue-Drak'thul-EU; vlastní kopie přes Twins doložená: False. Absence vlastní Voidform sama neurčuje špatné PI načasování.
-- Vejr-Drak'thul-EU / Vashnik the Malignant: 13 přímých Runic Power cap událostí (Scourge Strike 10, Soul Reaper 2, Festering Strike 1); Soul Reaper a Festering Strike mají vlastní vyšší/přípravné větve. Dostupný spender a DPS ztráta nejsou potvrzené.
+- Vejr-Drak'thul-EU / Kith'ix: 10 přímých Runic Power cap událostí (Scourge Strike 10); Soul Reaper a Festering Strike mají vlastní vyšší/přípravné větve. Dostupný spender a DPS ztráta nejsou potvrzené.
 
 ## Kith’ix: osobní defensivy a přežití
 
-Pozorované aury a použití u 60 hráč–Extinguish vln a 1 úmrtí DPS. Přítomnost aury není ověřený účinek proti zásahu; absence není potvrzení dostupného, nepoužitého defensivu.
+Pozorované aury a použití u 59 hráč–Extinguish vln a 10 úmrtí DPS. Přítomnost aury není ověřený účinek proti zásahu; absence není potvrzení dostupného, nepoužitého defensivu.
 
-- Vejr-Drak'thul-EU: Light’s Embrace doloženě chyběl u 1 vln; před Extinguish zajisti buff nebo domluvený vhodný způsob přežití. Konkrétní vlastní/externí aury a časy jsou v HTML.
+- Micaello-Drak'thul-EU: Light’s Embrace doloženě chyběl u 1 vln; před Extinguish zajisti buff nebo domluvený vhodný způsob přežití. Konkrétní vlastní/externí aury a časy jsou v HTML.
+- Këss-Drak'thul-EU: Light’s Embrace doloženě chyběl u 1 vln; před Extinguish zajisti buff nebo domluvený vhodný způsob přežití. Konkrétní vlastní/externí aury a časy jsou v HTML.
+- Shalo-Drak'thul-EU: Light’s Embrace doloženě chyběl u 1 vln; před Extinguish zajisti buff nebo domluvený vhodný způsob přežití. Konkrétní vlastní/externí aury a časy jsou v HTML.
 - Nahollou-Drak'thul-EU: Light’s Embrace doloženě chyběl u 1 vln; před Extinguish zajisti buff nebo domluvený vhodný způsob přežití. Konkrétní vlastní/externí aury a časy jsou v HTML.
-- Slejhy-Drak'thul-EU: Light’s Embrace doloženě chyběl u 1 vln; před Extinguish zajisti buff nebo domluvený vhodný způsob přežití. Konkrétní vlastní/externí aury a časy jsou v HTML.
 
 Healthstone/defensive cast dokládá použití, nikoli vyčíslené healing či mitigation. Death kontext rozlišuje další úmrtí v okolí; z konce wipe se automaticky neurčuje osobní zavinění.
 
 ## Kith’ix: cíle, peti a burst
 
-- Pokus 9 (kill): 36057 primárních přiřazených damage událostí; 8 úseků s alespoň třemi záznamy cast success do bosse před prvním vlastním/pet zásahem do živého adda. Záznamy mohou zahrnovat automatické efekty; nejsou počtem stisků ani důkazem vybraného focusu. Assignment není potvrzený; konkrétní časy a pet damage jsou v HTML.
+- Pokus 10 (kill): 36274 primárních přiřazených damage událostí; 12 úseků s alespoň třemi záznamy cast success do bosse před prvním vlastním/pet zásahem do živého adda. Záznamy mohou zahrnovat automatické efekty; nejsou počtem stisků ani důkazem vybraného focusu. Assignment není potvrzený; konkrétní časy a pet damage jsou v HTML.
 
-Cooldown coaching: 29 výrazných sekvencí; společné burst partnery počítáme jednou. Výběr znamená odstup alespoň o 20 s a 25 % delší než reference, nikoli potvrzené držení nebo missed use. Putrefy a Soul Immolation jsou z výběru vynechané.
+Cooldown coaching: 44 výrazných sekvencí; společné burst partnery počítáme jednou. Výběr znamená odstup alespoň o 20 s a 25 % delší než reference, nikoli potvrzené držení nebo missed use. Putrefy a Soul Immolation jsou z výběru vynechané.
+
+## Krokous-Drak'thul-EU — Beast Mastery
+
+U doložených cleave sekvencí porovnej přípravu a návaznost Wild Thrash s ostatními prioritami. Více zasažených cílů není samo o sobě důkaz použitelného Wild Thrash při daném rozhodnutí. U uvedených Barbed Shot jsou doložené 4 stacky Cobra Fang. Build bez Beast Cleave sám nepotvrzuje single-target situaci; při 3 a více cílech může reference použít cleave větev i bez tohoto talentu. Před záměnou za Cobra Shot ověř cíle, charges, přípravu Bestial Wrath, Focus a vyšší priority; bez nich záměnu nepředepisujeme.
+
+- Nek'zali the Soulcoiler: Bestial Wrath 7; cleave burst příklady 0; Barbed Shot při 4 Cobra Fang stackách 4.
+  Focus snapshoty u těchto Barbed Shot: 86–100; referenční základní cena Cobra Shot 35. To není stav při stisku ani potvrzená použitelnost alternativy.
+  Cíle ve 3 s před castem: u 0 z 4 případů vlastní/pet přímý damage do více cílů; u 0 alespoň do tří. Periodické a stejnočasové zásahy oddělené. Počet zasažených cílů neurčuje dostupné APL cíle, ST/cleave větev ani charges.
+- The Coiled Altar: Bestial Wrath 11; cleave burst příklady 0; Barbed Shot při 4 Cobra Fang stackách 2.
+  Focus snapshoty u těchto Barbed Shot: 75–81; referenční základní cena Cobra Shot 35. To není stav při stisku ani potvrzená použitelnost alternativy.
+  Cíle ve 3 s před castem: u 0 z 2 případů vlastní/pet přímý damage do více cílů; u 0 alespoň do tří. Periodické a stejnočasové zásahy oddělené. Počet zasažených cílů neurčuje dostupné APL cíle, ST/cleave větev ani charges.
+- Ula'tek: Bestial Wrath 14; cleave burst příklady 9; Barbed Shot při 4 Cobra Fang stackách 11.
+  Focus snapshoty u těchto Barbed Shot: 71–100; referenční základní cena Cobra Shot 35. To není stav při stisku ani potvrzená použitelnost alternativy.
+  Cíle ve 3 s před castem: u 6 z 11 případů vlastní/pet přímý damage do více cílů; u 2 alespoň do tří. Periodické a stejnočasové zásahy oddělené. Počet zasažených cílů neurčuje dostupné APL cíle, ST/cleave větev ani charges.
+- The Lost Explorers: Bestial Wrath 7; cleave burst příklady 5; Barbed Shot při 4 Cobra Fang stackách 3.
+  Focus snapshoty u těchto Barbed Shot: 54–100; referenční základní cena Cobra Shot 35. To není stav při stisku ani potvrzená použitelnost alternativy.
+  Cíle ve 3 s před castem: u 2 z 3 případů vlastní/pet přímý damage do více cílů; u 0 alespoň do tří. Periodické a stejnočasové zásahy oddělené. Počet zasažených cílů neurčuje dostupné APL cíle, ST/cleave větev ani charges.
+- Sszorak: Bestial Wrath 7; cleave burst příklady 0; Barbed Shot při 4 Cobra Fang stackách 6.
+  Focus snapshoty u těchto Barbed Shot: 67–100; referenční základní cena Cobra Shot 35. To není stav při stisku ani potvrzená použitelnost alternativy.
+  Cíle ve 3 s před castem: u 0 z 6 případů vlastní/pet přímý damage do více cílů; u 0 alespoň do tří. Periodické a stejnočasové zásahy oddělené. Počet zasažených cílů neurčuje dostupné APL cíle, ST/cleave větev ani charges.
+- Kith'ix: Bestial Wrath 9; cleave burst příklady 0; Barbed Shot při 4 Cobra Fang stackách 5.
+  Focus snapshoty u těchto Barbed Shot: 71–100; referenční základní cena Cobra Shot 35. To není stav při stisku ani potvrzená použitelnost alternativy.
+  Cíle ve 3 s před castem: u 0 z 5 případů vlastní/pet přímý damage do více cílů; u 0 alespoň do tří. Periodické a stejnočasové zásahy oddělené. Počet zasažených cílů neurčuje dostupné APL cíle, ST/cleave větev ani charges.
+
+Cílené kontroly, nikoli plný replay APL. Podrobné časy a raw řádky jsou v HTML; dostupnost alternativ a DPS loss nejsou certifikované.
 
 ## Micaello-Drak'thul-EU — Beast Mastery
 
 U doložených cleave sekvencí porovnej přípravu a návaznost Wild Thrash s ostatními prioritami. Více zasažených cílů není samo o sobě důkaz použitelného Wild Thrash při daném rozhodnutí. U uvedených Barbed Shot jsou doložené 4 stacky Cobra Fang. Build bez Beast Cleave sám nepotvrzuje single-target situaci; při 3 a více cílech může reference použít cleave větev i bez tohoto talentu. Před záměnou za Cobra Shot ověř cíle, charges, přípravu Bestial Wrath, Focus a vyšší priority; bez nich záměnu nepředepisujeme.
 
-- Nek'zali the Soulcoiler: Bestial Wrath 10; cleave burst příklady 3; Barbed Shot při 4 Cobra Fang stackách 4.
-  Focus snapshoty u těchto Barbed Shot: 56–85; referenční základní cena Cobra Shot 35. To není stav při stisku ani potvrzená použitelnost alternativy.
-  Cíle ve 3 s před castem: u 1 z 4 případů vlastní/pet přímý damage do více cílů; u 0 alespoň do tří. Periodické a stejnočasové zásahy oddělené. Počet zasažených cílů neurčuje dostupné APL cíle, ST/cleave větev ani charges.
-- The Coiled Altar: Bestial Wrath 13; cleave burst příklady 0; Barbed Shot při 4 Cobra Fang stackách 9.
+- Nek'zali the Soulcoiler: Bestial Wrath 7; cleave burst příklady 0; Barbed Shot při 4 Cobra Fang stackách 3.
+  Focus snapshoty u těchto Barbed Shot: 93–100; referenční základní cena Cobra Shot 35. To není stav při stisku ani potvrzená použitelnost alternativy.
+  Cíle ve 3 s před castem: u 0 z 3 případů vlastní/pet přímý damage do více cílů; u 0 alespoň do tří. Periodické a stejnočasové zásahy oddělené. Počet zasažených cílů neurčuje dostupné APL cíle, ST/cleave větev ani charges.
+- The Coiled Altar: Bestial Wrath 11; cleave burst příklady 0; Barbed Shot při 4 Cobra Fang stackách 4.
   Focus snapshoty u těchto Barbed Shot: 79–100; referenční základní cena Cobra Shot 35. To není stav při stisku ani potvrzená použitelnost alternativy.
-  Cíle ve 3 s před castem: u 5 z 9 případů vlastní/pet přímý damage do více cílů; u 1 alespoň do tří. Periodické a stejnočasové zásahy oddělené. Počet zasažených cílů neurčuje dostupné APL cíle, ST/cleave větev ani charges.
-- Ula'tek: Bestial Wrath 18; cleave burst příklady 0; Barbed Shot při 4 Cobra Fang stackách 18.
-  Focus snapshoty u těchto Barbed Shot: 60–100; referenční základní cena Cobra Shot 35. To není stav při stisku ani potvrzená použitelnost alternativy.
-  Cíle ve 3 s před castem: u 7 z 18 případů vlastní/pet přímý damage do více cílů; u 3 alespoň do tří. Periodické a stejnočasové zásahy oddělené. Počet zasažených cílů neurčuje dostupné APL cíle, ST/cleave větev ani charges.
-- Kith'ix: Bestial Wrath 9; cleave burst příklady 2; Barbed Shot při 4 Cobra Fang stackách 5.
-  Focus snapshoty u těchto Barbed Shot: 53–100; referenční základní cena Cobra Shot 35. To není stav při stisku ani potvrzená použitelnost alternativy.
-  Cíle ve 3 s před castem: u 1 z 5 případů vlastní/pet přímý damage do více cílů; u 1 alespoň do tří. Periodické a stejnočasové zásahy oddělené. Počet zasažených cílů neurčuje dostupné APL cíle, ST/cleave větev ani charges.
-- Entombed Sentinels: Bestial Wrath 9; cleave burst příklady 3; Barbed Shot při 4 Cobra Fang stackách 6.
-  Focus snapshoty u těchto Barbed Shot: 69–100; referenční základní cena Cobra Shot 35. To není stav při stisku ani potvrzená použitelnost alternativy.
-  Cíle ve 3 s před castem: u 1 z 6 případů vlastní/pet přímý damage do více cílů; u 0 alespoň do tří. Periodické a stejnočasové zásahy oddělené. Počet zasažených cílů neurčuje dostupné APL cíle, ST/cleave větev ani charges.
-- Vashnik the Malignant: Bestial Wrath 8; cleave burst příklady 0; Barbed Shot při 4 Cobra Fang stackách 4.
-  Focus snapshoty u těchto Barbed Shot: 96–100; referenční základní cena Cobra Shot 35. To není stav při stisku ani potvrzená použitelnost alternativy.
-  Cíle ve 3 s před castem: u 1 z 4 případů vlastní/pet přímý damage do více cílů; u 1 alespoň do tří. Periodické a stejnočasové zásahy oddělené. Počet zasažených cílů neurčuje dostupné APL cíle, ST/cleave větev ani charges.
+  Cíle ve 3 s před castem: u 1 z 4 případů vlastní/pet přímý damage do více cílů; u 0 alespoň do tří. Periodické a stejnočasové zásahy oddělené. Počet zasažených cílů neurčuje dostupné APL cíle, ST/cleave větev ani charges.
+- Ula'tek: Bestial Wrath 16; cleave burst příklady 0; Barbed Shot při 4 Cobra Fang stackách 11.
+  Focus snapshoty u těchto Barbed Shot: 63–100; referenční základní cena Cobra Shot 35. To není stav při stisku ani potvrzená použitelnost alternativy.
+  Cíle ve 3 s před castem: u 4 z 11 případů vlastní/pet přímý damage do více cílů; u 2 alespoň do tří. Periodické a stejnočasové zásahy oddělené. Počet zasažených cílů neurčuje dostupné APL cíle, ST/cleave větev ani charges.
+- The Lost Explorers: Bestial Wrath 4; cleave burst příklady 0; Barbed Shot při 4 Cobra Fang stackách 1.
+  Focus snapshoty u těchto Barbed Shot: 79–79; referenční základní cena Cobra Shot 35. To není stav při stisku ani potvrzená použitelnost alternativy.
+  Cíle ve 3 s před castem: u 1 z 1 případů vlastní/pet přímý damage do více cílů; u 0 alespoň do tří. Periodické a stejnočasové zásahy oddělené. Počet zasažených cílů neurčuje dostupné APL cíle, ST/cleave větev ani charges.
+- Sszorak: Bestial Wrath 8; cleave burst příklady 0; Barbed Shot při 4 Cobra Fang stackách 4.
+  Focus snapshoty u těchto Barbed Shot: 51–87; referenční základní cena Cobra Shot 35. To není stav při stisku ani potvrzená použitelnost alternativy.
+  Cíle ve 3 s před castem: u 0 z 4 případů vlastní/pet přímý damage do více cílů; u 0 alespoň do tří. Periodické a stejnočasové zásahy oddělené. Počet zasažených cílů neurčuje dostupné APL cíle, ST/cleave větev ani charges.
+- Kith'ix: Bestial Wrath 3; cleave burst příklady 0; Barbed Shot při 4 Cobra Fang stackách 1.
+  Focus snapshoty u těchto Barbed Shot: 100–100; referenční základní cena Cobra Shot 35. To není stav při stisku ani potvrzená použitelnost alternativy.
+  Cíle ve 3 s před castem: u 0 z 1 případů vlastní/pet přímý damage do více cílů; u 0 alespoň do tří. Periodické a stejnočasové zásahy oddělené. Počet zasažených cílů neurčuje dostupné APL cíle, ST/cleave větev ani charges.
 
 Cílené kontroly, nikoli plný replay APL. Podrobné časy a raw řádky jsou v HTML; dostupnost alternativ a DPS loss nejsou certifikované.

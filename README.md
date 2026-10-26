@@ -2,7 +2,7 @@
 
 [Otevřít interaktivní report](https://prokmi.github.io/vlci-skolka/)
 
-Raid **15. 10. 2026**, patch **12.1.5**. Report zahrnuje 18 DPS hráčů a šest úspěšných soubojů.
+Raid **22. 10. 2026**, patch **12.1.5**. Report vyhodnocuje 19 DPS hráčů na šesti úspěšných soubojích. Dvacátá DPS postava, Slejhy / Subtlety, zatím nemá podporovaný rotační model.
 
 Vyber svou postavu na úvodu. Nejdřív uvidíš nejvýš dvě obecné rady na příští raid: co zkusit, proč a konkrétní příklad přímo v textu. Začni jedním návykem; další rady jsou níže. U každé najdeš i důležité výjimky.
 
@@ -16,4 +16,4 @@ Tento repozitář obsahuje hotový statický report; raw combat logy a pracovní
 
 U Ula’teka najdeš pozorovaná okna Venomous Heart, poslední použití cooldownů před oknem a použití uvnitř. Konkrétní delší mezery mají kontext srdce a přechodových mechanik. Překryv neznamená automaticky správné držení ani zapomenutý cooldown; přesnou dobu osobního běhu a optimální burst plán report zatím neurčuje.
 
-Všech šest killů má rozbor pozorovaných fází, osobních mechanik a skutečně zasažených cílů. Konkrétní rotační příklady a cooldown mezery jsou propojené s tímto průběhem. U cooldownu rozlišuj cíl castu od dalších zasažených cílů. Mechanika se může s mezerou překrývat; samotná shoda nepotvrzuje hráčovu chybu ani správný odklad. Celý debuff není automaticky čas bez možnosti útočit.
+Čtyři killy mají rozbor pozorovaných fází, osobních mechanik a skutečně zasažených cílů. Lost Explorers a Sszorak zatím nemají podrobný model mechanik; rotační a cooldown kontroly běží i u nich. Arms má rotační analýzu, ale zatím nemá samostatný rozbor openeru a aktivity. Tento raw report nemá importované WCL parsy. Konkrétní rotační příklady a cooldown mezery jsou propojené s tímto průběhem. U cooldownu rozlišuj cíl castu od dalších zasažených cílů. Mechanika se může s mezerou překrývat; samotná shoda nepotvrzuje hráčovu chybu ani správný odklad. Celý debuff není automaticky čas bez možnosti útočit.
